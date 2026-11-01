@@ -335,11 +335,14 @@ def fetch_calendar_month(page, base_url: str, template: str, year: int, month: i
                     pass
             else:
                 print("  (tournament list never rendered)")
-    try:
-        page.wait_for_selector("tr.whatson-table__tournament", timeout=20000)
-        page.wait_for_timeout(4000)  # let the full list finish filling in
-    except Exception:
-        pass
+    if "/results/" in url:
+        page.wait_for_timeout(5000)
+    else:
+        try:
+            page.wait_for_selector("tr.whatson-table__tournament", timeout=20000)
+            page.wait_for_timeout(4000)  # let the full list finish filling in
+        except Exception:
+            pass
     page.wait_for_timeout(1500)
     expand_list(page)
 

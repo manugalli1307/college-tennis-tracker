@@ -289,11 +289,15 @@ def main():
         cal = base + "/en/tournament-calendar/mens-world-tennis-tour-calendar/?categories=All"
         a1, b1 = (today + timedelta(days=1)).isoformat(), (today + timedelta(days=args.ahead_days)).isoformat()
         a2, b2 = (today - timedelta(days=args.back_days)).isoformat(), (today - timedelta(days=1)).isoformat()
+        # The calendar page can't look backwards (it always starts at today),
+        # but the results page shows a week at a time, so past weeks come from there.
+        results = base + "/en/tournament-calendar/results/?startdate="
         windows = [
             ("today", cal),
             ("ahead", f"{cal}&startdate={a1}&enddate={b1}"),
-            ("past", f"{cal}&startdate={a2}&enddate={b2}"),
         ]
+        for k in range(7, args.back_days + 7, 7):
+            windows.append((f"past-{k}d", results + (today - timedelta(days=k)).isoformat()))
         found = {}
         for label, url in windows:
             for t in itf.fetch_calendar_month(page, base, url, today.year, today.month, args.debug, label):
@@ -324,6 +328,7 @@ def main():
         for i, t in enumerate(todo, 1):
             tid = tournament_id(t.url)
             name = re.sub(r"\s*\n.*$", "", t.name).strip()
+            name = re.sub(r"\s*\([A-Z]{3}\)\s*$", "", name)  # results page adds "(GBR)"
             rec = {
                 "id": tid,
                 "name": name,
