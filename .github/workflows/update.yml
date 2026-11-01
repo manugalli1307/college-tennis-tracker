@@ -24,6 +24,8 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -42,6 +44,7 @@ jobs:
         run: python build_data.py
 
       - name: Save the new data
+        continue-on-error: true   # even if saving fails, the site below is still published with the fresh data
         run: |
           git config user.name "tennis-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -50,8 +53,15 @@ jobs:
             echo "No data changes."
           else
             git commit -m "Update data $(date -u +%Y-%m-%d)"
-            git pull --rebase origin main
-            git push
+            for i in 1 2 3; do
+              git fetch origin main
+              # if two runs overlap, the newer data from this run wins
+              if git rebase -X theirs origin/main && git push origin HEAD:main; then
+                break
+              fi
+              git rebase --abort || true
+              sleep 5
+            done
           fi
 
       - name: Assemble the site
