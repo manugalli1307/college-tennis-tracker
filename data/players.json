@@ -1,0 +1,2210 @@
+[
+ {
+  "id": "university-of-virginia-stiles-brockett",
+  "name": "Stiles Brockett",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "3rd Year",
+  "hometown": "Fairfax, Va."
+ },
+ {
+  "id": "university-of-virginia-dylan-dietrich",
+  "name": "Dylan Dietrich",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "4th Year",
+  "hometown": "Zurich, Switzerland"
+ },
+ {
+  "id": "university-of-virginia-roy-horovitz",
+  "name": "Roy Horovitz",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "3rd Year",
+  "hometown": "Orlando, Fla."
+ },
+ {
+  "id": "university-of-virginia-jack-kennedy",
+  "name": "Jack Kennedy",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "1st Year",
+  "hometown": "Huntington, N.Y."
+ },
+ {
+  "id": "university-of-virginia-jangjun-kim",
+  "name": "Jangjun Kim",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "3rd Year",
+  "hometown": "Seoul, South Korea"
+ },
+ {
+  "id": "university-of-virginia-luca-preda",
+  "name": "Luca Preda",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "1st Year",
+  "hometown": "Constanta, Romania"
+ },
+ {
+  "id": "university-of-virginia-stefan-regalia",
+  "name": "Stefan Regalia",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "4th Year",
+  "hometown": "Arlington, Va."
+ },
+ {
+  "id": "university-of-virginia-keegan-rice",
+  "name": "Keegan Rice",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "3rd Year",
+  "hometown": "Regina, Canada"
+ },
+ {
+  "id": "university-of-virginia-andres-santamarta-roig",
+  "name": "Andres Santamarta Roig",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "2nd Year",
+  "hometown": "Valencia, Spain"
+ },
+ {
+  "id": "university-of-virginia-ty-switzer",
+  "name": "Ty Switzer",
+  "school": "University of Virginia",
+  "team_rank": "1",
+  "class": "5th Year",
+  "hometown": "New York, N.Y."
+ },
+ {
+  "id": "university-of-texas-at-austin-tomasz-berkieta",
+  "name": "Tomasz Berkieta",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "Fr.",
+  "hometown": "Warsaw, Poland"
+ },
+ {
+  "id": "university-of-texas-at-austin-jeremiah-braswell",
+  "name": "Jeremiah Braswell",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "So.",
+  "hometown": "Sarasota, Fla."
+ },
+ {
+  "id": "university-of-texas-at-austin-lucas-brown",
+  "name": "Lucas Brown",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "Sr.",
+  "hometown": "Plano, Texas"
+ },
+ {
+  "id": "university-of-texas-at-austin-gabriel-debru",
+  "name": "Gabriel Debru",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "So.",
+  "hometown": "Grenoble, France"
+ },
+ {
+  "id": "university-of-texas-at-austin-mariano-dedura-palomero",
+  "name": "Mariano Dedura-Palomero",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "So.",
+  "hometown": "Berlin, Germany"
+ },
+ {
+  "id": "university-of-texas-at-austin-sebastian-eriksson",
+  "name": "Sebastian Eriksson",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "Jr.",
+  "hometown": "Stockholm, Sweden"
+ },
+ {
+  "id": "university-of-texas-at-austin-abel-forger",
+  "name": "Abel Forger",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "So.",
+  "hometown": "Soest, The Netherlands"
+ },
+ {
+  "id": "university-of-texas-at-austin-lucas-marionneau",
+  "name": "Lucas Marionneau",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "So.",
+  "hometown": "La Roche-sur-Yon, France"
+ },
+ {
+  "id": "university-of-texas-at-austin-oliver-ojakaar",
+  "name": "Oliver Ojakaar",
+  "school": "University of Texas at Austin",
+  "team_rank": "2",
+  "class": "Jr.",
+  "hometown": "Tartu, Estonia"
+ },
+ {
+  "id": "wake-forest-joaquin-guilleme",
+  "name": "Joaquin Guilleme",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "Jr.",
+  "hometown": "Nicaragua"
+ },
+ {
+  "id": "wake-forest-emanuel-ivanisevic",
+  "name": "Emanuel Ivanisevic",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "Fr.",
+  "hometown": "Croatia"
+ },
+ {
+  "id": "wake-forest-dominick-mosejczuk",
+  "name": "Dominick Mosejczuk",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "So.",
+  "hometown": "Queens, N.Y."
+ },
+ {
+  "id": "wake-forest-luca-pow",
+  "name": "Luca Pow",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "Sr.",
+  "hometown": "Solihull, England"
+ },
+ {
+  "id": "wake-forest-mees-rottgering",
+  "name": "Mees Rottgering",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "So.",
+  "hometown": "Wanssum, Netherlands"
+ },
+ {
+  "id": "wake-forest-aryan-shah",
+  "name": "Aryan Shah",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "So.",
+  "hometown": "Bhuj, India"
+ },
+ {
+  "id": "wake-forest-cornelius-shalmi",
+  "name": "Cornelius Shalmi",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "Jr.",
+  "hometown": "Princeton, N.J."
+ },
+ {
+  "id": "wake-forest-kacper-szymkowiak",
+  "name": "Kacper Szymkowiak",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "Jr.",
+  "hometown": "Wroclaw, Poland"
+ },
+ {
+  "id": "wake-forest-aditya-vyas",
+  "name": "Aditya Vyas",
+  "school": "Wake Forest",
+  "team_rank": "3",
+  "class": "Jr.",
+  "hometown": "Bronxville, N.Y."
+ },
+ {
+  "id": "tcu-oliver-bonding",
+  "name": "Oliver Bonding",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "So.",
+  "hometown": "London, England"
+ },
+ {
+  "id": "tcu-matthieu-chambonniere",
+  "name": "Matthieu Chambonniere",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "Jr.",
+  "hometown": "Paris, France"
+ },
+ {
+  "id": "tcu-duncan-chan",
+  "name": "Duncan Chan",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "Sr.",
+  "hometown": "Markham, Ontario"
+ },
+ {
+  "id": "tcu-maximus-dussault",
+  "name": "Maximus Dussault",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "So.",
+  "hometown": "Stuart, Fla."
+ },
+ {
+  "id": "tcu-jamie-mackenzie",
+  "name": "Jamie Mackenzie",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "Fr.",
+  "hometown": "Dusseldorf, Germany"
+ },
+ {
+  "id": "tcu-roger-pascual",
+  "name": "Roger Pascual",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "Jr.",
+  "hometown": "Vinaros, Spain"
+ },
+ {
+  "id": "tcu-albert-pedrico",
+  "name": "Albert Pedrico",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "Jr.",
+  "hometown": "Lleida, Spain"
+ },
+ {
+  "id": "tcu-kaj-quirijns",
+  "name": "Kaj Quirijns",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "Sr.",
+  "hometown": "Unteraegeri, Switzerland"
+ },
+ {
+  "id": "tcu-cooper-woestendick",
+  "name": "Cooper Woestendick",
+  "school": "TCU",
+  "team_rank": "4",
+  "class": "Jr.",
+  "hometown": "Olathe, Kan."
+ },
+ {
+  "id": "ohio-state-brandon-carpico",
+  "name": "Brandon Carpico",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Sr.",
+  "hometown": "Gahanna, Ohio"
+ },
+ {
+  "id": "ohio-state-nikita-filin",
+  "name": "Nikita Filin",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Jr.",
+  "hometown": "Glenview, Illinois"
+ },
+ {
+  "id": "ohio-state-matthew-forbes",
+  "name": "Matthew Forbes",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Jr.",
+  "hometown": "Raleigh, N.C."
+ },
+ {
+  "id": "ohio-state-alex-fuchs",
+  "name": "Alex Fuchs",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Sr.",
+  "hometown": "Los Altos, California"
+ },
+ {
+  "id": "ohio-state-aidan-kim",
+  "name": "Aidan Kim",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Sr.",
+  "hometown": "Milford, Michigan"
+ },
+ {
+  "id": "ohio-state-victor-lilov",
+  "name": "Victor Lilov",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "So.",
+  "hometown": "Miramar, Florida"
+ },
+ {
+  "id": "ohio-state-bryce-nakashima",
+  "name": "Bryce Nakashima",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Sr.",
+  "hometown": "San Diego, California"
+ },
+ {
+  "id": "ohio-state-alex-okonkwo",
+  "name": "Alex Okonkwo",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Sr.",
+  "hometown": "Maidenhead, England"
+ },
+ {
+  "id": "ohio-state-ilija-palavestra",
+  "name": "Ilija Palavestra",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "So.",
+  "hometown": "Lake Worth, Florida"
+ },
+ {
+  "id": "ohio-state-denis-petak",
+  "name": "Denis Petak",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Fr.",
+  "hometown": "Brno, Czech Republic"
+ },
+ {
+  "id": "ohio-state-preston-stearns",
+  "name": "Preston Stearns",
+  "school": "Ohio State",
+  "team_rank": "5",
+  "class": "Sr.",
+  "hometown": "Cincinnati, Ohio"
+ },
+ {
+  "id": "mississippi-state-pepijn-bastiaansen",
+  "name": "Pepijn Bastiaansen",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "Jr.",
+  "hometown": "Riel, Netherlands"
+ },
+ {
+  "id": "mississippi-state-jacopo-borsoi",
+  "name": "Jacopo Borsoi",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "Fr.",
+  "hometown": "Pontinia, Italy"
+ },
+ {
+  "id": "mississippi-state-diego-duran",
+  "name": "Diego Duran",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "Sr.",
+  "hometown": "San Salvador, El Salvador"
+ },
+ {
+  "id": "mississippi-state-roberto-ferrer-guimaraes",
+  "name": "Roberto Ferrer Guimaraes",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "Sr.",
+  "hometown": "Lakeland, Tenn."
+ },
+ {
+  "id": "mississippi-state-segundo-goity-zapico",
+  "name": "Segundo Goity Zapico",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "Jr.",
+  "hometown": "Intendente Alvear, Argentina"
+ },
+ {
+  "id": "mississippi-state-bryan-hernandez-cortes",
+  "name": "Bryan Hernandez Cortes",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "Jr.",
+  "hometown": "Mallorca, Spain"
+ },
+ {
+  "id": "mississippi-state-marshall-landry",
+  "name": "Marshall Landry",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "Sr.",
+  "hometown": "Pinehurst, N.C."
+ },
+ {
+  "id": "mississippi-state-raphael-vaksmann",
+  "name": "Raphael Vaksmann",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "So.",
+  "hometown": "Paris, France"
+ },
+ {
+  "id": "mississippi-state-luigi-valletta",
+  "name": "Luigi Valletta",
+  "school": "Mississippi State",
+  "team_rank": "6",
+  "class": "Fr.",
+  "hometown": "Ravenna, Italy"
+ },
+ {
+  "id": "university-of-arizona-alejandro-arcila",
+  "name": "Alejandro Arcila",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "So.",
+  "hometown": "Medellin, Colombia"
+ },
+ {
+  "id": "university-of-arizona-tristan-berard",
+  "name": "Tristan Berard",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Jr.",
+  "hometown": "Noisy-Le-Roi, France"
+ },
+ {
+  "id": "university-of-arizona-filip-gustafsson",
+  "name": "Filip Gustafsson",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Jr.",
+  "hometown": "Gothenburg, Sweden"
+ },
+ {
+  "id": "university-of-arizona-oskar-jansson",
+  "name": "Oskar Jansson",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Jr.",
+  "hometown": "Gothenburg, Sweden"
+ },
+ {
+  "id": "university-of-arizona-sander-juuhl-sivertsen",
+  "name": "Sander Juuhl-Sivertsen",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Fr.",
+  "hometown": "Oslo, Norway"
+ },
+ {
+  "id": "university-of-arizona-zoran-ludoski",
+  "name": "Zoran Ludoski",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Jr.",
+  "hometown": "Zrenjanin, Serbia"
+ },
+ {
+  "id": "university-of-arizona-alexander-rozin",
+  "name": "Alexander Rozin",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Sr.",
+  "hometown": "Toronto, Canada"
+ },
+ {
+  "id": "university-of-arizona-glib-sekachov",
+  "name": "Glib Sekachov",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Jr.",
+  "hometown": "Odessa, Ukraine"
+ },
+ {
+  "id": "university-of-arizona-cole-stelse",
+  "name": "Cole Stelse",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Sr.",
+  "hometown": "Scottsdale, Ariz."
+ },
+ {
+  "id": "university-of-arizona-matthias-uwe-kask",
+  "name": "Matthias Uwe Kask",
+  "school": "University of Arizona",
+  "team_rank": "7",
+  "class": "Jr.",
+  "hometown": "Toronto, Canada"
+ },
+ {
+  "id": "lsu-erik-arutiunian",
+  "name": "Erik Arutiunian",
+  "school": "LSU",
+  "team_rank": "8",
+  "class": "Sophomore",
+  "hometown": ""
+ },
+ {
+  "id": "lsu-michael-bassem-sobhy",
+  "name": "Michael Bassem Sobhy",
+  "school": "LSU",
+  "team_rank": "8",
+  "class": "5th-year Senior",
+  "hometown": ""
+ },
+ {
+  "id": "lsu-enzo-kohlmann-de-freitas",
+  "name": "Enzo Kohlmann De Freitas",
+  "school": "LSU",
+  "team_rank": "8",
+  "class": "Junior",
+  "hometown": ""
+ },
+ {
+  "id": "lsu-charles-hobbs",
+  "name": "Charles Hobbs",
+  "school": "LSU",
+  "team_rank": "8",
+  "class": "Senior",
+  "hometown": ""
+ },
+ {
+  "id": "lsu-andrej-loncarevic",
+  "name": "Andrej Loncarevic",
+  "school": "LSU",
+  "team_rank": "8",
+  "class": "Junior",
+  "hometown": ""
+ },
+ {
+  "id": "lsu-daniil-ostapenkov",
+  "name": "Daniil Ostapenkov",
+  "school": "LSU",
+  "team_rank": "8",
+  "class": "Freshman",
+  "hometown": ""
+ },
+ {
+  "id": "lsu-olaf-pieczkowski",
+  "name": "Olaf Pieczkowski",
+  "school": "LSU",
+  "team_rank": "8",
+  "class": "Sophomore",
+  "hometown": ""
+ },
+ {
+  "id": "lsu-nikolas-stoot",
+  "name": "Nikolas Stoot",
+  "school": "LSU",
+  "team_rank": "8",
+  "class": "Freshman",
+  "hometown": ""
+ },
+ {
+  "id": "university-of-oklahoma-luciano-ambrogi",
+  "name": "Luciano Ambrogi",
+  "school": "University of Oklahoma",
+  "team_rank": "9",
+  "class": "Jr.",
+  "hometown": "Rosario, Argentina"
+ },
+ {
+  "id": "university-of-oklahoma-dragos-cazacu",
+  "name": "Dragos Cazacu",
+  "school": "University of Oklahoma",
+  "team_rank": "9",
+  "class": "Sr.",
+  "hometown": "Constanta, Romania"
+ },
+ {
+  "id": "university-of-oklahoma-tito-chavez",
+  "name": "Tito Chavez",
+  "school": "University of Oklahoma",
+  "team_rank": "9",
+  "class": "Fr.",
+  "hometown": "Quito, Ecuador"
+ },
+ {
+  "id": "university-of-oklahoma-asahi-harazaki",
+  "name": "Asahi Harazaki",
+  "school": "University of Oklahoma",
+  "team_rank": "9",
+  "class": "Sr.",
+  "hometown": "Osaka, Japan"
+ },
+ {
+  "id": "university-of-oklahoma-alejandro-melero",
+  "name": "Alejandro Melero",
+  "school": "University of Oklahoma",
+  "team_rank": "9",
+  "class": "Jr.",
+  "hometown": "Mallorca, Spain"
+ },
+ {
+  "id": "university-of-oklahoma-johan-rodriguez",
+  "name": "Johan Rodriguez",
+  "school": "University of Oklahoma",
+  "team_rank": "9",
+  "class": "So.",
+  "hometown": "Melgar, Colombia"
+ },
+ {
+  "id": "university-of-oklahoma-daniel-uta",
+  "name": "Daniel Uta",
+  "school": "University of Oklahoma",
+  "team_rank": "9",
+  "class": "Fr.",
+  "hometown": "Iasi, Romania"
+ },
+ {
+  "id": "baylor-university-devin-badenhorst",
+  "name": "Devin Badenhorst",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "Sr.",
+  "hometown": "Pretoria, South Africa"
+ },
+ {
+  "id": "baylor-university-calvin-baierl",
+  "name": "Calvin Baierl",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "So.",
+  "hometown": "Naples, Fla."
+ },
+ {
+  "id": "baylor-university-louis-bowden",
+  "name": "Louis Bowden",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "Sr.",
+  "hometown": "Portsmouth, England"
+ },
+ {
+  "id": "baylor-university-august-brostrom-poulsen",
+  "name": "August Brostrom Poulsen",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "Fr.",
+  "hometown": "Copenhagen, Denmark"
+ },
+ {
+  "id": "baylor-university-radek-chodora",
+  "name": "Radek Chodora",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "Fr.",
+  "hometown": "Prague, Czechia"
+ },
+ {
+  "id": "baylor-university-connor-doig",
+  "name": "Connor Doig",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "Fr.",
+  "hometown": "Durban, South Africa"
+ },
+ {
+  "id": "baylor-university-gordon-gallagher",
+  "name": "Gordon Gallagher",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "Fr.",
+  "hometown": "New Canaan, Conn."
+ },
+ {
+  "id": "baylor-university-drew-hedgecoe",
+  "name": "Drew Hedgecoe",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "So.",
+  "hometown": "Fayetteville, N.C."
+ },
+ {
+  "id": "baylor-university-erik-schiessl",
+  "name": "Erik Schiessl",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "Sr.",
+  "hometown": "Nuremberg, Germany"
+ },
+ {
+  "id": "baylor-university-connor-van-schalkwyk",
+  "name": "Connor Van Schalkwyk",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "Sr.",
+  "hometown": "Windhoek, Namibia"
+ },
+ {
+  "id": "texas-a-m-university-egor-gorin",
+  "name": "Egor Gorin",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Freshman",
+  "hometown": "Moscow, Russia"
+ },
+ {
+  "id": "texas-a-m-university-alex-frusina",
+  "name": "Alex Frusina",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Sophomore",
+  "hometown": "Conroe, Texas"
+ },
+ {
+  "id": "texas-a-m-university-kholo-montsi",
+  "name": "Kholo Montsi",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Junior",
+  "hometown": "East London, South Africa"
+ },
+ {
+  "id": "texas-a-m-university-theo-papamalamis",
+  "name": "Theo Papamalamis",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Sophomore",
+  "hometown": "Lessy, France"
+ },
+ {
+  "id": "texas-a-m-university-ritesh-patil",
+  "name": "Ritesh Patil",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Redshirt Sophomore",
+  "hometown": "Houston, Texas"
+ },
+ {
+  "id": "texas-a-m-university-togan-tokac",
+  "name": "Togan Tokac",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Senior",
+  "hometown": "Istanbul, Turkey"
+ },
+ {
+  "id": "texas-a-m-university-ethan-silva",
+  "name": "Ethan Silva",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Senior",
+  "hometown": "Harlingen, Texas"
+ },
+ {
+  "id": "texas-a-m-university-kriish-tyagi",
+  "name": "Kriish Tyagi",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Freshman",
+  "hometown": "Bengaluru, India"
+ },
+ {
+  "id": "texas-a-m-university-markus-molder",
+  "name": "Markus Molder",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Freshman",
+  "hometown": "Tartu, Estonia"
+ },
+ {
+  "id": "texas-a-m-university-tiago-pires",
+  "name": "Tiago Pires",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Junior",
+  "hometown": "France"
+ },
+ {
+  "id": "texas-a-m-university-lathan-skrobarcek",
+  "name": "Lathan Skrobarcek",
+  "school": "Texas A&M University",
+  "team_rank": "11",
+  "class": "Junior",
+  "hometown": "Helotes, Texas"
+ },
+ {
+  "id": "university-of-georgia-julian-alonso",
+  "name": "Julian Alonso",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "Sr.",
+  "hometown": "Bradenton, Fla."
+ },
+ {
+  "id": "university-of-georgia-andrew-delgado",
+  "name": "Andrew Delgado",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "Jr.",
+  "hometown": "High Point, S.C."
+ },
+ {
+  "id": "university-of-georgia-maxime-dubouch",
+  "name": "Maxime Dubouch",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "Sr.",
+  "hometown": "Reims, France"
+ },
+ {
+  "id": "university-of-georgia-eudald-gonzalez-ollich",
+  "name": "Eudald Gonzalez Ollich",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "Fr.",
+  "hometown": "La Garriga, Catalonia, Spain"
+ },
+ {
+  "id": "university-of-georgia-cooper-johnson",
+  "name": "Cooper Johnson",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "So.",
+  "hometown": "Cumming, Ga."
+ },
+ {
+  "id": "university-of-georgia-noah-johnston",
+  "name": "Noah Johnston",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "So.",
+  "hometown": "Anderson, S.C."
+ },
+ {
+  "id": "university-of-georgia-noble-renfrow",
+  "name": "Noble Renfrow",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "Fr.",
+  "hometown": "Winter Park, Florida"
+ },
+ {
+  "id": "university-of-georgia-oliver-sanders",
+  "name": "Oliver Sanders",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "Fr.",
+  "hometown": "Prague, Czech Republic"
+ },
+ {
+  "id": "university-of-georgia-gabriele-vulpitta",
+  "name": "Gabriele Vulpitta",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "Jr.",
+  "hometown": "Rome, Italy"
+ },
+ {
+  "id": "university-of-georgia-james-weber",
+  "name": "James Weber",
+  "school": "University of Georgia",
+  "team_rank": "12",
+  "class": "Fr.",
+  "hometown": "Marietta, Ga."
+ },
+ {
+  "id": "ucf-wissam-abderrahman",
+  "name": "Wissam Abderrahman",
+  "school": "UCF",
+  "team_rank": "13",
+  "class": "Senior",
+  "hometown": "Paris, France"
+ },
+ {
+  "id": "ucf-mohammad-alkotop",
+  "name": "Mohammad Alkotop",
+  "school": "UCF",
+  "team_rank": "13",
+  "class": "Senior",
+  "hometown": "Amman, Jordan"
+ },
+ {
+  "id": "ucf-kai-luca-ampaw",
+  "name": "Kai-Luca Ampaw",
+  "school": "UCF",
+  "team_rank": "13",
+  "class": "Junior",
+  "hometown": "London, England"
+ },
+ {
+  "id": "ucf-fadi-bidan",
+  "name": "Fadi Bidan",
+  "school": "UCF",
+  "team_rank": "13",
+  "class": "Sophomore",
+  "hometown": "Beirut, Lebanon"
+ },
+ {
+  "id": "ucf-clement-lemire",
+  "name": "Clement Lemire",
+  "school": "UCF",
+  "team_rank": "13",
+  "class": "Junior",
+  "hometown": "Marseille, France"
+ },
+ {
+  "id": "ucf-fanming-meng",
+  "name": "Fanming Meng",
+  "school": "UCF",
+  "team_rank": "13",
+  "class": "Freshman",
+  "hometown": "Tianjin, China"
+ },
+ {
+  "id": "ucf-nicolas-oliveira",
+  "name": "Nicolas Oliveira",
+  "school": "UCF",
+  "team_rank": "13",
+  "class": "Junior",
+  "hometown": "Rio De Janeiro, Brazil"
+ },
+ {
+  "id": "ucf-pedro-rodrigues",
+  "name": "Pedro Rodrigues",
+  "school": "UCF",
+  "team_rank": "13",
+  "class": "Sophomore",
+  "hometown": "Belo Horizonte, Brazil"
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign-david-bakonyi",
+  "name": "David Bakonyi",
+  "school": "University of Illinois at Urbana-Champaign",
+  "team_rank": "14",
+  "class": "So.",
+  "hometown": "Telki, Pest, Hungary"
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign-sasha-colleu",
+  "name": "Sasha Colleu",
+  "school": "University of Illinois at Urbana-Champaign",
+  "team_rank": "14",
+  "class": "So.",
+  "hometown": "Miami, Fla."
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign-jon-gamble",
+  "name": "Jon Gamble",
+  "school": "University of Illinois at Urbana-Champaign",
+  "team_rank": "14",
+  "class": "Fr.",
+  "hometown": "Las Vegas, Nev."
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign-adam-jilly",
+  "name": "Adam Jilly",
+  "school": "University of Illinois at Urbana-Champaign",
+  "team_rank": "14",
+  "class": "So.",
+  "hometown": "Budapest, Hungary"
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign-nicholas-mekhael",
+  "name": "Nicholas Mekhael",
+  "school": "University of Illinois at Urbana-Champaign",
+  "team_rank": "14",
+  "class": "Fr.",
+  "hometown": "Bordentown, N.J."
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign-zach-viiala",
+  "name": "Zach Viiala",
+  "school": "University of Illinois at Urbana-Champaign",
+  "team_rank": "14",
+  "class": "Sr.",
+  "hometown": "Perth, Australia"
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign-colson-wells",
+  "name": "Colson Wells",
+  "school": "University of Illinois at Urbana-Champaign",
+  "team_rank": "14",
+  "class": "Sr.",
+  "hometown": "Okemos, Mich."
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign-jeremy-zhang",
+  "name": "Jeremy Zhang",
+  "school": "University of Illinois at Urbana-Champaign",
+  "team_rank": "14",
+  "class": "Sr.",
+  "hometown": "Sydney, Australia"
+ },
+ {
+  "id": "university-of-south-carolina-gabe-avram",
+  "name": "Gabe Avram",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Junior",
+  "hometown": "Charlotte, NC"
+ },
+ {
+  "id": "university-of-south-carolina-paul-barbier-gazeu",
+  "name": "Paul Barbier Gazeu",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Redshirt Sophomore",
+  "hometown": "Montpellier, France"
+ },
+ {
+  "id": "university-of-south-carolina-sean-daryabeigi",
+  "name": "Sean Daryabeigi",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Senior",
+  "hometown": "Delray Beach, Florida"
+ },
+ {
+  "id": "university-of-south-carolina-cole-henceroth",
+  "name": "Cole Henceroth",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Junior",
+  "hometown": "Midlothian, VA"
+ },
+ {
+  "id": "university-of-south-carolina-atakan-karahan",
+  "name": "Atakan Karahan",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Junior",
+  "hometown": "Gebze, Turkey"
+ },
+ {
+  "id": "university-of-south-carolina-billy-moxon",
+  "name": "Billy Moxon",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Freshman",
+  "hometown": ""
+ },
+ {
+  "id": "university-of-south-carolina-charlie-robertson",
+  "name": "Charlie Robertson",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Junior",
+  "hometown": ""
+ },
+ {
+  "id": "university-of-south-carolina-max-stenzer",
+  "name": "Max Stenzer",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Junior",
+  "hometown": "Monchengladbach, Germany"
+ },
+ {
+  "id": "university-of-south-carolina-charlie-swaine",
+  "name": "Charlie Swaine",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Sophomore",
+  "hometown": "Bristol, United Kingdom"
+ },
+ {
+  "id": "university-of-south-carolina-antonin-witz",
+  "name": "Antonin Witz",
+  "school": "University of South Carolina",
+  "team_rank": "15",
+  "class": "Freshman",
+  "hometown": ""
+ },
+ {
+  "id": "stanford-nathan-barki",
+  "name": "Nathan Barki",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Senior",
+  "hometown": "Jakarta, Indonesia"
+ },
+ {
+  "id": "stanford-nico-godsick",
+  "name": "Nico Godsick",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Senior",
+  "hometown": "Hunting Valley, Ohio"
+ },
+ {
+  "id": "stanford-gus-grumet",
+  "name": "Gus Grumet",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Freshman",
+  "hometown": "Mill Valley, Calif."
+ },
+ {
+  "id": "stanford-kyle-kang",
+  "name": "Kyle Kang",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Senior",
+  "hometown": "Fullerton, Calif."
+ },
+ {
+  "id": "stanford-ronit-karki",
+  "name": "Ronit Karki",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Freshman",
+  "hometown": "East Brunswick, N.J."
+ },
+ {
+  "id": "stanford-mark-krupkin",
+  "name": "Mark Krupkin",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Sophomore",
+  "hometown": "Short Hills, N.J."
+ },
+ {
+  "id": "stanford-jagger-leach",
+  "name": "Jagger Leach",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Sophomore",
+  "hometown": "Laguna Beach, Calif."
+ },
+ {
+  "id": "stanford-alex-razeghi",
+  "name": "Alex Razeghi",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Junior",
+  "hometown": "Humble, Texas"
+ },
+ {
+  "id": "stanford-hudson-rivera",
+  "name": "Hudson Rivera",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Senior",
+  "hometown": "Rancho Santa Fe, Calif."
+ },
+ {
+  "id": "stanford-luke-tusher",
+  "name": "Luke Tusher",
+  "school": "Stanford",
+  "team_rank": "16",
+  "class": "Senior",
+  "hometown": "Belvedere, Calif."
+ },
+ {
+  "id": "university-of-san-diego-manvydas-balciunas",
+  "name": "Manvydas Balciunas",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Freshman",
+  "hometown": "Almere, Netherlands"
+ },
+ {
+  "id": "university-of-san-diego-timo-barthes",
+  "name": "Timo Barthes",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Freshman",
+  "hometown": "Paris, France"
+ },
+ {
+  "id": "university-of-san-diego-adrien-berrut",
+  "name": "Adrien Berrut",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Sophomore",
+  "hometown": "Val-d'Illiez, Switzerland"
+ },
+ {
+  "id": "university-of-san-diego-stian-klaassen",
+  "name": "Stian Klaassen",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Redshirt Senior",
+  "hometown": "Zeist, Netherlands"
+ },
+ {
+  "id": "university-of-san-diego-vincent-marysko",
+  "name": "Vincent Marysko",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Freshman",
+  "hometown": "Frankfurt, Germany"
+ },
+ {
+  "id": "university-of-san-diego-neo-niedner",
+  "name": "Neo Niedner",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Senior",
+  "hometown": "Frankfurt, Germany"
+ },
+ {
+  "id": "university-of-san-diego-lambert-ruland",
+  "name": "Lambert Ruland",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Redshirt Junior",
+  "hometown": "Arnsberg, Germany"
+ },
+ {
+  "id": "university-of-san-diego-oliver-tarvet",
+  "name": "Oliver Tarvet",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Senior",
+  "hometown": "St. Albans, England"
+ },
+ {
+  "id": "university-of-san-diego-luc-wieland",
+  "name": "Luc Wieland",
+  "school": "University of San Diego",
+  "team_rank": "17",
+  "class": "Freshman",
+  "hometown": "Zurich, Switzerland"
+ },
+ {
+  "id": "michigan-state-taym-alazmeh",
+  "name": "Taym Alazmeh",
+  "school": "Michigan State",
+  "team_rank": "18",
+  "class": "Sr.",
+  "hometown": "Damascus, Syria"
+ },
+ {
+  "id": "michigan-state-danial-rakhmatullayev",
+  "name": "Danial Rakhmatullayev",
+  "school": "Michigan State",
+  "team_rank": "18",
+  "class": "Jr.",
+  "hometown": "Aktau, Kazakhstan"
+ },
+ {
+  "id": "michigan-state-mitchell-sheldon",
+  "name": "Mitchell Sheldon",
+  "school": "Michigan State",
+  "team_rank": "18",
+  "class": "Jr.",
+  "hometown": "Arlington Heights, Ill."
+ },
+ {
+  "id": "michigan-state-nolan-w",
+  "name": "Nolan W.",
+  "school": "Michigan State",
+  "team_rank": "18",
+  "class": "So.",
+  "hometown": "Lansing, Mich."
+ },
+ {
+  "id": "ucla-cassius-chinlund",
+  "name": "Cassius Chinlund",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Redshirt Freshman",
+  "hometown": "Los Angeles, Calif."
+ },
+ {
+  "id": "ucla-andrei-crabel",
+  "name": "Andrei Crabel",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Sophomore",
+  "hometown": "Beverly Hills, Calif."
+ },
+ {
+  "id": "ucla-andy-nguyen",
+  "name": "Andy Nguyen",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Junior",
+  "hometown": "Long Beach, Calif."
+ },
+ {
+  "id": "ucla-rudy-quan",
+  "name": "Rudy Quan",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Sophomore",
+  "hometown": "Thousand Oaks, Calif."
+ },
+ {
+  "id": "ucla-leo-von-bismarck",
+  "name": "Leo von Bismarck",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Sophomore",
+  "hometown": "Hamburg, Germany"
+ },
+ {
+  "id": "ucla-bengt-reinhard",
+  "name": "Bengt Reinhard",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Freshman",
+  "hometown": "Fulda, Germany"
+ },
+ {
+  "id": "ucla-will-steinberg",
+  "name": "Will Steinberg",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Senior",
+  "hometown": "Santa Barbara, Calif."
+ },
+ {
+  "id": "ucla-emon-van-loben-sels",
+  "name": "Emon van Loben Sels",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Redshirt Junior",
+  "hometown": "Sacramento, Calif."
+ },
+ {
+  "id": "ucla-gianluca-ballotta",
+  "name": "Gianluca Ballotta",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Senior",
+  "hometown": "Lima, Peru"
+ },
+ {
+  "id": "ucla-spencer-johnson",
+  "name": "Spencer Johnson",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Junior",
+  "hometown": "Ladera Ranch, Calif."
+ },
+ {
+  "id": "ucla-aadarsh-tripathi",
+  "name": "Aadarsh Tripathi",
+  "school": "UCLA",
+  "team_rank": "19",
+  "class": "Senior",
+  "hometown": "Pleasanton, Calif."
+ },
+ {
+  "id": "usc-andrin-casanova",
+  "name": "Andrin Casanova",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "Jr.",
+  "hometown": "Lucerne, Switzerland"
+ },
+ {
+  "id": "usc-connor-church",
+  "name": "Connor Church",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "Jr.",
+  "hometown": "Vancouver, British Columbia, Canada"
+ },
+ {
+  "id": "usc-branko-djuric",
+  "name": "Branko Djuric",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "So.",
+  "hometown": "Budva, Montenegro"
+ },
+ {
+  "id": "usc-max-exsted",
+  "name": "Max Exsted",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "So.",
+  "hometown": "Savage, Minnesota"
+ },
+ {
+  "id": "usc-niels-hoffmann",
+  "name": "Niels Hoffmann",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "Jr.",
+  "hometown": "Newport Beach, Calif."
+ },
+ {
+  "id": "usc-aleksa-krivokapic",
+  "name": "Aleksa Krivokapic",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "Gr.",
+  "hometown": "Podgorica, Montenegro"
+ },
+ {
+  "id": "usc-matteo-morazzi",
+  "name": "Matteo Morazzi",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "Jr.",
+  "hometown": "Barcelona, Spain"
+ },
+ {
+  "id": "usc-sklar-phillips",
+  "name": "Sklar Phillips",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "So.",
+  "hometown": "Naples, Florida"
+ },
+ {
+  "id": "usc-pablo-robledo-hoyos",
+  "name": "Pablo Robledo Hoyos",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "So.",
+  "hometown": "Bogota, Colombia"
+ },
+ {
+  "id": "usc-nathan-trouve",
+  "name": "Nathan Trouve",
+  "school": "USC",
+  "team_rank": "20",
+  "class": "Jr.",
+  "hometown": "Grenoble, France"
+ },
+ {
+  "id": "pepperdine-david-fix",
+  "name": "David Fix",
+  "school": "Pepperdine",
+  "team_rank": "21",
+  "class": "Jr.",
+  "hometown": "Birkenfeld, Germany"
+ },
+ {
+  "id": "pepperdine-photos-photiades",
+  "name": "Photos Photiades",
+  "school": "Pepperdine",
+  "team_rank": "21",
+  "class": "Redshirt Jr.",
+  "hometown": "Dali, Cyprus"
+ },
+ {
+  "id": "pepperdine-aleksa-pisaric",
+  "name": "Aleksa Pisaric",
+  "school": "Pepperdine",
+  "team_rank": "21",
+  "class": "Jr.",
+  "hometown": "Novi Sad, Serbia"
+ },
+ {
+  "id": "pepperdine-lasse-poertner",
+  "name": "Lasse Poertner",
+  "school": "Pepperdine",
+  "team_rank": "21",
+  "class": "Jr.",
+  "hometown": "Kirchheim unter Teck, Germany"
+ },
+ {
+  "id": "pepperdine-gustavo-ribeiro-de-almeida",
+  "name": "Gustavo Ribeiro de Almeida",
+  "school": "Pepperdine",
+  "team_rank": "21",
+  "class": "So.",
+  "hometown": "Guarapuava, Brazil"
+ },
+ {
+  "id": "pepperdine-will-steinberg",
+  "name": "Will Steinberg",
+  "school": "Pepperdine",
+  "team_rank": "21",
+  "class": "Gr.",
+  "hometown": "Santa Barbara, Calif."
+ },
+ {
+  "id": "pepperdine-edward-winter",
+  "name": "Edward Winter",
+  "school": "Pepperdine",
+  "team_rank": "21",
+  "class": "Sr.",
+  "hometown": "Adelaide, Australia"
+ },
+ {
+  "id": "pepperdine-hugh-winter",
+  "name": "Hugh Winter",
+  "school": "Pepperdine",
+  "team_rank": "21",
+  "class": "Jr.",
+  "hometown": "Adelaide, Australia"
+ },
+ {
+  "id": "university-of-florida-francesco-cordova",
+  "name": "Francesco Cordova",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "Jr.",
+  "hometown": "Katy, Texas"
+ },
+ {
+  "id": "university-of-florida-kevin-edengren",
+  "name": "Kevin Edengren",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "Sr.",
+  "hometown": "Stockholm, Sweden"
+ },
+ {
+  "id": "university-of-florida-ty-host",
+  "name": "Ty Host",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "Fr.",
+  "hometown": "Brisbane, Australia"
+ },
+ {
+  "id": "university-of-florida-henry-jefferson",
+  "name": "Henry Jefferson",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "Sr.",
+  "hometown": "London, England"
+ },
+ {
+  "id": "university-of-florida-jeremy-jin",
+  "name": "Jeremy Jin",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "Sr.",
+  "hometown": "Sydney, Australia"
+ },
+ {
+  "id": "university-of-florida-roman-sancilio",
+  "name": "Roman Sancilio",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "Redshirt Fr.",
+  "hometown": "Richmond, Va."
+ },
+ {
+  "id": "university-of-florida-andreas-timini",
+  "name": "Andreas Timini",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "So.",
+  "hometown": "Cyprus"
+ },
+ {
+  "id": "university-of-florida-alaa-trifi",
+  "name": "Alaa Trifi",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "Fr.",
+  "hometown": "Tunisia"
+ },
+ {
+  "id": "university-of-florida-chen-ye",
+  "name": "Chen Ye",
+  "school": "University of Florida",
+  "team_rank": "22",
+  "class": "Fr.",
+  "hometown": "China"
+ },
+ {
+  "id": "vanderbilt-hugo-coquelin",
+  "name": "Hugo Coquelin",
+  "school": "Vanderbilt",
+  "team_rank": "23",
+  "class": "Senior",
+  "hometown": ""
+ },
+ {
+  "id": "vanderbilt-hwang-donghyun",
+  "name": "Hwang Donghyun",
+  "school": "Vanderbilt",
+  "team_rank": "23",
+  "class": "Sophomore",
+  "hometown": ""
+ },
+ {
+  "id": "vanderbilt-pablo-martinez-gomez",
+  "name": "Pablo Martinez Gomez",
+  "school": "Vanderbilt",
+  "team_rank": "23",
+  "class": "Junior",
+  "hometown": ""
+ },
+ {
+  "id": "vanderbilt-leonardo-ljubicic",
+  "name": "Leonardo Ljubicic",
+  "school": "Vanderbilt",
+  "team_rank": "23",
+  "class": "Freshman",
+  "hometown": ""
+ },
+ {
+  "id": "vanderbilt-danil-panarin",
+  "name": "Danil Panarin",
+  "school": "Vanderbilt",
+  "team_rank": "23",
+  "class": "Senior",
+  "hometown": ""
+ },
+ {
+  "id": "vanderbilt-hoyoung-roh",
+  "name": "Hoyoung Roh",
+  "school": "Vanderbilt",
+  "team_rank": "23",
+  "class": "Sophomore",
+  "hometown": ""
+ },
+ {
+  "id": "vanderbilt-roshan-santhosh",
+  "name": "Roshan Santhosh",
+  "school": "Vanderbilt",
+  "team_rank": "23",
+  "class": "Freshman",
+  "hometown": ""
+ },
+ {
+  "id": "vanderbilt-jack-satterfield",
+  "name": "Jack Satterfield",
+  "school": "Vanderbilt",
+  "team_rank": "23",
+  "class": "Sophomore",
+  "hometown": ""
+ },
+ {
+  "id": "university-of-notre-dame-jonas-kucera",
+  "name": "Jonas Kucera",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Freshman",
+  "hometown": "Liberec, Czech Republic"
+ },
+ {
+  "id": "university-of-notre-dame-alex-suhanitski",
+  "name": "Alex Suhanitski",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Freshman",
+  "hometown": "New Rochelle, NY"
+ },
+ {
+  "id": "university-of-notre-dame-nolan-balthazor",
+  "name": "Nolan Balthazor",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Sophomore",
+  "hometown": "De Pere, WI"
+ },
+ {
+  "id": "university-of-notre-dame-nicholas-patrick",
+  "name": "Nicholas Patrick",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Sophomore",
+  "hometown": "Coal Valley, IL"
+ },
+ {
+  "id": "university-of-notre-dame-giuseppe-cerasuolo",
+  "name": "Giuseppe Cerasuolo",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Junior",
+  "hometown": "Bayside, NY"
+ },
+ {
+  "id": "university-of-notre-dame-peter-nad",
+  "name": "Peter Nad",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Junior",
+  "hometown": "Kosice, Slovakia"
+ },
+ {
+  "id": "university-of-notre-dame-luis-llorens-saracho",
+  "name": "Luis Llorens Saracho",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Junior",
+  "hometown": "Madrid, Spain"
+ },
+ {
+  "id": "university-of-notre-dame-kyran-magimay",
+  "name": "Kyran Magimay",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Senior",
+  "hometown": "Hersham, England"
+ },
+ {
+  "id": "university-of-notre-dame-chase-thompson",
+  "name": "Chase Thompson",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Senior",
+  "hometown": "Mission Viejo, CA"
+ },
+ {
+  "id": "university-of-notre-dame-evan-lee",
+  "name": "Evan Lee",
+  "school": "University of Notre Dame",
+  "team_rank": "24",
+  "class": "Senior",
+  "hometown": "Cos Cob, CT"
+ },
+ {
+  "id": "auburn-freddy-blaydes",
+  "name": "Freddy Blaydes",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Senior",
+  "hometown": "Windermere, England"
+ },
+ {
+  "id": "auburn-tyler-bowers",
+  "name": "Tyler Bowers",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Redshirt Senior",
+  "hometown": "Alpharetta, Ga."
+ },
+ {
+  "id": "auburn-alvaro-jimenez",
+  "name": "Alvaro Jimenez",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Freshman",
+  "hometown": "Sabadell, Spain"
+ },
+ {
+  "id": "auburn-jake-kennedy",
+  "name": "Jake Kennedy",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Redshirt Junior",
+  "hometown": "Atlanta, Ga."
+ },
+ {
+  "id": "auburn-manel-lazaro",
+  "name": "Manel Lazaro",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Sophomore",
+  "hometown": "Badalona, Spain"
+ },
+ {
+  "id": "auburn-duje-markovina",
+  "name": "Duje Markovina",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Freshman",
+  "hometown": "Brisbane, Australia"
+ },
+ {
+  "id": "auburn-patrik-munkhammar",
+  "name": "Patrik Munkhammar",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Freshman",
+  "hometown": "Stockholm, Sweden"
+ },
+ {
+  "id": "auburn-joey-phillips",
+  "name": "Joey Phillips",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Junior",
+  "hometown": "Atlanta, Ga."
+ },
+ {
+  "id": "auburn-iker-urribarrens",
+  "name": "Iker Urribarrens",
+  "school": "Auburn",
+  "team_rank": "25",
+  "class": "Redshirt Freshman",
+  "hometown": "Segur de Calafell, Spain"
+ },
+ {
+  "id": "cornell-greg-bernadsky",
+  "name": "Greg Bernadsky",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "Fr.",
+  "hometown": "Mason, Ohio"
+ },
+ {
+  "id": "cornell-tudor-braicu",
+  "name": "Tudor Braicu",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "Sr.",
+  "hometown": "Menlo Park, Calif."
+ },
+ {
+  "id": "cornell-david-cristian-carteputreda",
+  "name": "David Cristian Carteputreda",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "Fr.",
+  "hometown": "Galati, Romania"
+ },
+ {
+  "id": "cornell-jack-casciato",
+  "name": "Jack Casciato",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "So.",
+  "hometown": "New York, N.Y."
+ },
+ {
+  "id": "cornell-rodrigo-fernandes",
+  "name": "Rodrigo Fernandes",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "Jr.",
+  "hometown": "Braga, Portugal"
+ },
+ {
+  "id": "cornell-nathan-gold",
+  "name": "Nathan Gold",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "So.",
+  "hometown": "Denver, Colo."
+ },
+ {
+  "id": "cornell-rushil-khosla",
+  "name": "Rushil Khosla",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "Jr.",
+  "hometown": "Noida, India"
+ },
+ {
+  "id": "cornell-cezar-papoe",
+  "name": "Cezar Papoe",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "Fr.",
+  "hometown": "Targoviste, Romania"
+ },
+ {
+  "id": "cornell-felipe-pinzon",
+  "name": "Felipe Pinzon",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "Sr.",
+  "hometown": "Sunrise, Fla."
+ },
+ {
+  "id": "cornell-rethin-pranav-senthil-kumar",
+  "name": "Rethin Pranav Senthil Kumar",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "So.",
+  "hometown": "Tamil Nadu, India"
+ },
+ {
+  "id": "cornell-eric-verdes",
+  "name": "Eric Verdes",
+  "school": "Cornell",
+  "team_rank": "26",
+  "class": "Sr.",
+  "hometown": "Zalau, Romania"
+ },
+ {
+  "id": "columbia-thanaphat-boosarawongse",
+  "name": "Thanaphat Boosarawongse",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "Jr.",
+  "hometown": "Bangkok, Thailand"
+ },
+ {
+  "id": "columbia-jordan-chang",
+  "name": "Jordan Chang",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "Jr.",
+  "hometown": "Oakland Gardens, N.Y."
+ },
+ {
+  "id": "columbia-andrew-ena",
+  "name": "Andrew Ena",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "So.",
+  "hometown": "Rego Park, N.Y."
+ },
+ {
+  "id": "columbia-aditya-govila",
+  "name": "Aditya Govila",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "So.",
+  "hometown": "Singapore"
+ },
+ {
+  "id": "columbia-jakub-katuch",
+  "name": "Jakub Katuch",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "Jr.",
+  "hometown": "Kosice, Slovakia"
+ },
+ {
+  "id": "columbia-andrew-kotzen",
+  "name": "Andrew Kotzen",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "Jr.",
+  "hometown": "Short Hills, N.J."
+ },
+ {
+  "id": "columbia-tristan-lee",
+  "name": "Tristan Lee",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "Sr.",
+  "hometown": "Hong Kong"
+ },
+ {
+  "id": "columbia-abhishek-thorat",
+  "name": "Abhishek Thorat",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "So.",
+  "hometown": "Wesley Chapel, Fla."
+ },
+ {
+  "id": "columbia-jung-hee-you",
+  "name": "Jung Hee You",
+  "school": "Columbia",
+  "team_rank": "27",
+  "class": "Jr.",
+  "hometown": "Montreal, Canada"
+ },
+ {
+  "id": "nc-state-cody-benton",
+  "name": "Cody Benton",
+  "school": "NC State",
+  "team_rank": "28",
+  "class": "Jr.",
+  "hometown": "Chapel Hill, N.C."
+ },
+ {
+  "id": "nc-state-charlie-camus",
+  "name": "Charlie Camus",
+  "school": "NC State",
+  "team_rank": "28",
+  "class": "So.",
+  "hometown": "Canberra, Australia"
+ },
+ {
+  "id": "nc-state-toby-kodat",
+  "name": "Toby Kodat",
+  "school": "NC State",
+  "team_rank": "28",
+  "class": "Sr.",
+  "hometown": "Bradenton, FL"
+ },
+ {
+  "id": "nc-state-jules-leroux",
+  "name": "Jules Leroux",
+  "school": "NC State",
+  "team_rank": "28",
+  "class": "Sr.",
+  "hometown": "Cannes, France"
+ },
+ {
+  "id": "nc-state-william-manning",
+  "name": "William Manning",
+  "school": "NC State",
+  "team_rank": "28",
+  "class": "Sr.",
+  "hometown": "Raleigh, N.C."
+ },
+ {
+  "id": "nc-state-lachlan-mcfadzean",
+  "name": "Lachlan Mcfadzean",
+  "school": "NC State",
+  "team_rank": "28",
+  "class": "Fr.",
+  "hometown": "Sydney, Australia"
+ },
+ {
+  "id": "nc-state-darius-pop",
+  "name": "Darius Pop",
+  "school": "NC State",
+  "team_rank": "28",
+  "class": "So.",
+  "hometown": "Timisoara, Romania"
+ },
+ {
+  "id": "nc-state-ainius-sabaliauskas",
+  "name": "Ainius Sabaliauskas",
+  "school": "NC State",
+  "team_rank": "28",
+  "class": "So.",
+  "hometown": "Panevezys, Lithuania"
+ },
+ {
+  "id": "smu-krish-arora",
+  "name": "Krish Arora",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "SR",
+  "hometown": "Irvine, Calif."
+ },
+ {
+  "id": "smu-meethre-barot",
+  "name": "Meethre Barot",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "SR",
+  "hometown": "Frisco, Texas"
+ },
+ {
+  "id": "smu-vikas-deo",
+  "name": "Vikas Deo",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "GR",
+  "hometown": "Carrollton, Texas"
+ },
+ {
+  "id": "smu-matthew-faraci",
+  "name": "Matthew Faraci",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "SO",
+  "hometown": "Manakin, Va."
+ },
+ {
+  "id": "smu-luis-flores",
+  "name": "Luis Flores",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "FR",
+  "hometown": "Torreon, Mexico"
+ },
+ {
+  "id": "smu-georgi-georgiev",
+  "name": "Georgi Georgiev",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "JR",
+  "hometown": "Svilengrad, Bulgaria"
+ },
+ {
+  "id": "smu-jacob-hewitt",
+  "name": "Jacob Hewitt",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "FR",
+  "hometown": "San Antonio, Texas"
+ },
+ {
+  "id": "smu-sasa-markovic",
+  "name": "Sasa Markovic",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "JR",
+  "hometown": "Loznica, Serbia"
+ },
+ {
+  "id": "smu-noah-mcdonald",
+  "name": "Noah McDonald",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "JR",
+  "hometown": "Charlotte, N.C."
+ },
+ {
+  "id": "smu-petar-teodorovic",
+  "name": "Petar Teodorovic",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "GR",
+  "hometown": "Belgrade, Serbia"
+ },
+ {
+  "id": "smu-avner-wong",
+  "name": "Avner Wong",
+  "school": "SMU",
+  "team_rank": "29",
+  "class": "FR",
+  "hometown": "Indianapolis, Indiana"
+ },
+ {
+  "id": "clemson-henrik-bladelius",
+  "name": "Henrik Bladelius",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "Fr.",
+  "hometown": "Alingsas, Sweden"
+ },
+ {
+  "id": "clemson-noah-cherubino",
+  "name": "Noah Cherubino",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "Fr.",
+  "hometown": "Spain"
+ },
+ {
+  "id": "clemson-matisse-farzam",
+  "name": "Matisse Farzam",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "Fr.",
+  "hometown": "Norwalk, Conn."
+ },
+ {
+  "id": "clemson-romain-gales",
+  "name": "Romain Gales",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "Junior",
+  "hometown": "Quimper, France"
+ },
+ {
+  "id": "clemson-bruno-kuzuhara",
+  "name": "Bruno Kuzuhara",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "",
+  "hometown": "Coconut Creek, Fla."
+ },
+ {
+  "id": "clemson-viktor-markov",
+  "name": "Viktor Markov",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "Freshman",
+  "hometown": "Sofia, Bulgaria"
+ },
+ {
+  "id": "clemson-marko-mesarovic",
+  "name": "Marko Mesarovic",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "Freshman",
+  "hometown": "Austin, Texas"
+ },
+ {
+  "id": "clemson-tiago-pires",
+  "name": "Tiago Pires",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "",
+  "hometown": "France"
+ },
+ {
+  "id": "clemson-noa-vukadin",
+  "name": "Noa Vukadin",
+  "school": "Clemson",
+  "team_rank": "30",
+  "class": "Freshman",
+  "hometown": "Zagreb, Croatia"
+ },
+ {
+  "id": "baylor-university-zsombor-velcz",
+  "name": "Zsombor Velcz",
+  "school": "Baylor University",
+  "team_rank": "10",
+  "class": "",
+  "hometown": "Hungary"
+ }
+]
