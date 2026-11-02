@@ -1,137 +1,5 @@
 [
  {
-  "id": "m-itf-cro-2026-008",
-  "name": "M15 Bol",
-  "category": "M15",
-  "tour": "ITF",
-  "country": "CRO",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m15-bol/cro/2026/m-itf-cro-2026-008/"
- },
- {
-  "id": "m-itf-gre-2026-012",
-  "name": "M15 Heraklion",
-  "category": "M15",
-  "tour": "ITF",
-  "country": "GRE",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m15-heraklion/gre/2026/m-itf-gre-2026-012/"
- },
- {
-  "id": "m-itf-usa-2026-042",
-  "name": "M15 Lexington, KY",
-  "category": "M15",
-  "tour": "ITF",
-  "country": "USA",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m15-lexington-ky/usa/2026/m-itf-usa-2026-042/"
- },
- {
-  "id": "m-itf-bra-2026-004",
-  "name": "M15 Maringa",
-  "category": "M15",
-  "tour": "ITF",
-  "country": "BRA",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m15-maringa/bra/2026/m-itf-bra-2026-004/"
- },
- {
-  "id": "m-itf-tun-2026-041",
-  "name": "M15 Monastir",
-  "category": "M15",
-  "tour": "ITF",
-  "country": "TUN",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m15-monastir/tun/2026/m-itf-tun-2026-041/"
- },
- {
-  "id": "m-itf-ecu-2026-008",
-  "name": "M15 Quito",
-  "category": "M15",
-  "tour": "ITF",
-  "country": "ECU",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m15-quito/ecu/2026/m-itf-ecu-2026-008/"
- },
- {
-  "id": "m-itf-egy-2026-017",
-  "name": "M15 Sharm ElSheikh",
-  "category": "M15",
-  "tour": "ITF",
-  "country": "EGY",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m15-sharm-elsheikh/egy/2026/m-itf-egy-2026-017/"
- },
- {
-  "id": "m-itf-hun-2026-006",
-  "name": "M15 Szabolcsveresmart",
-  "category": "M15",
-  "tour": "ITF",
-  "country": "HUN",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m15-szabolcsveresmart/hun/2026/m-itf-hun-2026-006/"
- },
- {
-  "id": "m-itf-usa-2026-045",
-  "name": "M25 Austin, TX",
-  "category": "M25",
-  "tour": "ITF",
-  "country": "USA",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m25-austin-tx/usa/2026/m-itf-usa-2026-045/"
- },
- {
-  "id": "m-itf-ang-2026-002",
-  "name": "M25 Luanda",
-  "category": "M25",
-  "tour": "ITF",
-  "country": "ANG",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m25-luanda/ang/2026/m-itf-ang-2026-002/"
- },
- {
-  "id": "m-itf-chn-2026-022",
-  "name": "M25 Qian Daohu",
-  "category": "M25",
-  "tour": "ITF",
-  "country": "CHN",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m25-qian-daohu/chn/2026/m-itf-chn-2026-022/"
- },
- {
-  "id": "m-itf-ind-2026-010",
-  "name": "M25 Solapur",
-  "category": "M25",
-  "tour": "ITF",
-  "country": "IND",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
-  "status": "past",
-  "url": "https://www.itftennis.com/en/tournament/m25-solapur/ind/2026/m-itf-ind-2026-010/"
- },
- {
   "id": "m-itf-cro-2026-009",
   "name": "M15 Bol",
   "category": "M15",
@@ -304,7 +172,7 @@
   "country": "UZB",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-fergana/uzb/2026/m-itf-uzb-2026-001/"
  },
  {
@@ -315,7 +183,7 @@
   "country": "GRE",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-heraklion/gre/2026/m-itf-gre-2026-014/"
  },
  {
@@ -326,7 +194,7 @@
   "country": "BRA",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-joao-pessoa/bra/2026/m-itf-bra-2026-019/"
  },
  {
@@ -348,7 +216,7 @@
   "country": "TUN",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-monastir/tun/2026/m-itf-tun-2026-043/"
  },
  {
@@ -359,7 +227,7 @@
   "country": "BER",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-pembroke/ber/2026/m-itf-ber-2026-001/"
  },
  {
@@ -370,7 +238,7 @@
   "country": "ITA",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-selva-gardena/ita/2026/m-itf-ita-2026-038/"
  },
  {
@@ -381,7 +249,7 @@
   "country": "EGY",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-sharm-elsheikh/egy/2026/m-itf-egy-2026-030/"
  },
  {
@@ -392,7 +260,7 @@
   "country": "SGP",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-singapore/sgp/2026/m-itf-sgp-2026-003/"
  },
  {
@@ -403,7 +271,7 @@
   "country": "JPN",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-yanagawa-city/jpn/2026/m-itf-jpn-2026-014/"
  },
  {
@@ -414,7 +282,7 @@
   "country": "USA",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m25-las-vegas-nv/usa/2026/m-itf-usa-2026-040/"
  },
  {
@@ -425,7 +293,7 @@
   "country": "MLT",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m25-malta/mlt/2026/m-itf-mlt-2026-001/"
  },
  {
@@ -436,7 +304,7 @@
   "country": "USA",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m25-norman-ok/usa/2026/m-itf-usa-2026-044/"
  },
  {
@@ -447,7 +315,7 @@
   "country": "GBR",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m25-sheffield/gbr/2026/m-itf-gbr-2026-008/"
  },
  {
@@ -458,7 +326,7 @@
   "country": "AUS",
   "start": "2026-10-26",
   "end": "2026-11-01",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m25-tamworth/aus/2026/m-itf-aus-2026-012/"
  },
  {
@@ -469,7 +337,7 @@
   "country": "TUR",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-antalya/tur/2026/m-itf-tur-2026-027/"
  },
  {
@@ -480,7 +348,7 @@
   "country": "UZB",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-fergana/uzb/2026/m-itf-uzb-2026-002/"
  },
  {
@@ -491,7 +359,7 @@
   "country": "USA",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-hilton-head-island-sc/usa/2026/m-itf-usa-2026-048/"
  },
  {
@@ -502,7 +370,7 @@
   "country": "CHN",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-maanshan/chn/2026/m-itf-chn-2026-034/"
  },
  {
@@ -513,7 +381,7 @@
   "country": "TUN",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-monastir/tun/2026/m-itf-tun-2026-044/"
  },
  {
@@ -524,7 +392,7 @@
   "country": "BER",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-pembroke/ber/2026/m-itf-ber-2026-002/"
  },
  {
@@ -535,7 +403,7 @@
   "country": "BRA",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-salvador/bra/2026/m-itf-bra-2026-015/"
  },
  {
@@ -546,7 +414,7 @@
   "country": "ITA",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-san-gregorio-di-catania/ita/2026/m-itf-ita-2026-031/"
  },
  {
@@ -557,7 +425,7 @@
   "country": "EGY",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-sharm-elsheikh/egy/2026/m-itf-egy-2026-031/"
  },
  {
@@ -568,7 +436,7 @@
   "country": "CAN",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m15-trois-rivieres/can/2026/m-itf-can-2026-004/"
  },
  {
@@ -579,7 +447,7 @@
   "country": "MEX",
   "start": "2026-11-02",
   "end": "2026-11-07",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m25-guadalajara/mex/2026/m-itf-mex-2026-010/"
  },
  {
@@ -590,7 +458,7 @@
   "country": "USA",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m25-harlingen-tx/usa/2026/m-itf-usa-2026-047/"
  },
  {
@@ -601,7 +469,7 @@
   "country": "GRE",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m25-heraklion/gre/2026/m-itf-gre-2026-015/"
  },
  {
@@ -612,7 +480,7 @@
   "country": "ESP",
   "start": "2026-11-02",
   "end": "2026-11-08",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m25-valencia/esp/2026/m-itf-esp-2026-050/"
  },
  {
@@ -966,5 +834,93 @@
   "end": "2026-11-22",
   "status": "upcoming",
   "url": "https://www.itftennis.com/en/tournament/m25-vale-do-lobo/por/2026/m-itf-por-2026-016/"
+ },
+ {
+  "id": "m-itf-tur-2026-030",
+  "name": "M15 Antalya",
+  "category": "M15",
+  "tour": "ITF",
+  "country": "TUR",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.itftennis.com/en/tournament/m15-antalya/tur/2026/m-itf-tur-2026-030/"
+ },
+ {
+  "id": "m-itf-gre-2026-018",
+  "name": "M15 Heraklion",
+  "category": "M15",
+  "tour": "ITF",
+  "country": "GRE",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.itftennis.com/en/tournament/m15-heraklion/gre/2026/m-itf-gre-2026-018/"
+ },
+ {
+  "id": "m-itf-esp-2026-046",
+  "name": "M15 Madrid",
+  "category": "M15",
+  "tour": "ITF",
+  "country": "ESP",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.itftennis.com/en/tournament/m15-madrid/esp/2026/m-itf-esp-2026-046/"
+ },
+ {
+  "id": "m-itf-tun-2026-048",
+  "name": "M15 Monastir",
+  "category": "M15",
+  "tour": "ITF",
+  "country": "TUN",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.itftennis.com/en/tournament/m15-monastir/tun/2026/m-itf-tun-2026-048/"
+ },
+ {
+  "id": "m-itf-bol-2026-003",
+  "name": "M15 Santa Cruz",
+  "category": "M15",
+  "tour": "ITF",
+  "country": "BOL",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.itftennis.com/en/tournament/m15-santa-cruz/bol/2026/m-itf-bol-2026-003/"
+ },
+ {
+  "id": "m-itf-egy-2026-034",
+  "name": "M15 Sharm ElSheikh",
+  "category": "M15",
+  "tour": "ITF",
+  "country": "EGY",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.itftennis.com/en/tournament/m15-sharm-elsheikh/egy/2026/m-itf-egy-2026-034/"
+ },
+ {
+  "id": "m-itf-ind-2026-008",
+  "name": "M25 Bhopal",
+  "category": "M25",
+  "tour": "ITF",
+  "country": "IND",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.itftennis.com/en/tournament/m25-bhopal/ind/2026/m-itf-ind-2026-008/"
+ },
+ {
+  "id": "m-itf-cze-2026-005",
+  "name": "M25 Hradec Kralove",
+  "category": "M25",
+  "tour": "ITF",
+  "country": "CZE",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.itftennis.com/en/tournament/m25-hradec-kralove/cze/2026/m-itf-cze-2026-005/"
  }
 ]

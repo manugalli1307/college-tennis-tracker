@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-01T22:51:17+00:00",
+ "updated": "2026-11-02T03:58:19+00:00",
  "window": {
   "back_days": 14,
   "ahead_days": 21
  },
  "counts": {
   "players": 276,
-  "tournaments": 88,
-  "entries": 152,
-  "matches": 104
+  "tournaments": 84,
+  "entries": 128,
+  "matches": 78
  }
 }
