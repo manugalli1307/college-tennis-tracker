@@ -26,6 +26,7 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
+import atp_data
 import itf_scraper as itf
 import tennis_tracker as tt
 
@@ -306,8 +307,7 @@ def main():
                     found[t.url] = t
 
         if not found:
-            browser.close()
-            raise SystemExit("The ITF calendar returned no tournaments (site down or blocking us). Keeping the existing data.")
+            print("[!] The ITF calendar returned no tournaments (site down or blocking us). Keeping the existing ITF data.")
 
         todo = []
         for t in found.values():
@@ -358,7 +358,23 @@ def main():
                         read_ok[tid] = True
             except Exception as e:
                 print(f"    [!] problem: {e}")
+
+        # ATP Challengers and ATP Tour (atptour.com). A failure here never affects the ITF data.
+        print("\n" + "=" * 50 + "\nATP Challenger and ATP Tour\n" + "=" * 50)
+        try:
+            recs, ok, ents, ms = atp_data.collect(
+                page, today, args.back_days, args.ahead_days, itf.classify, roster_ids_for, prepared, id_by_key,
+                only=args.only, limit=args.max_tournaments)
+            new_t.update(recs)
+            read_ok.update(ok)
+            entries_by_t.update(ents)
+            matches_by_t.update(ms)
+        except Exception as e:
+            print(f"[!] ATP section failed: {e}")
         browser.close()
+
+    if not read_ok:
+        raise SystemExit("Nothing could be read from either site. Keeping the existing data.")
 
     # Merge with previous data: re-read tournaments replace their old records,
     # tournaments that weren't (or couldn't be) re-read keep what we had.

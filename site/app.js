@@ -177,7 +177,7 @@
     var live = cur.reduce(function (n, t) { return n + (DATA.entriesByT[t.id] || []).length; }, 0);
     var upc = nxt.reduce(function (n, t) { return n + (DATA.entriesByT[t.id] || []).length; }, 0);
     var html = '<section class="hero"><h1>Top college players,<br>pro tournaments</h1>' +
-      '<p class="lede">Men from the top 30 Division I teams at ITF M15 and M25 events: who is playing now, who is entered next, and how they did.</p>' +
+      '<p class="lede">Men from the top 30 Division I teams at ITF M15 and M25 events, ATP Challengers and the ATP Tour: who is playing now, who is entered next, and how they did.</p>' +
       '<div class="hero__count"><span><b>' + live + "</b>in events now</span><span><b>" + upc + "</b>entered in upcoming events</span><span><b>" +
       DATA.players.length + "</b>players on " + teamList().length + " teams</span></div></section>";
     html += '<div class="tabs" role="tablist">' + tabs.map(function (t) {
@@ -220,7 +220,7 @@
     }).join("");
     app.innerHTML = '<p class="crumbs"><a href="#/teams">Teams</a></p><h1>' + esc(team.school) + "</h1>" +
       (team.rank < 999 ? '<div class="facts"><span>Team ranking <b>' + team.rank + "</b></span><span><b>" + team.players.length + "</b> players</span></div>" : "") +
-      '<div class="section"><h2>On tour</h2>' + (blocks || empty("No players from this team are entered in ITF events in the last two weeks or the next three.")) + "</div>" +
+      '<div class="section"><h2>On tour</h2>' + (blocks || empty("No players from this team are in ITF, Challenger or ATP events in the last two weeks or the next three.")) + "</div>" +
       '<div class="section"><h2>Roster</h2><ul class="grid">' + roster + "</ul></div>";
   }
 
@@ -244,13 +244,13 @@
     html += '<div class="section"><h2>Coming up</h2>' +
       (upcoming.length ? upcoming.map(function (t) { return eventBlock(t, only); }).join("") : empty("Not on any published entry list yet.")) + "</div>";
     html += '<div class="section"><h2>Playing and results</h2>' +
-      (played.length ? played.map(function (t) { return eventBlock(t, only, true); }).join("") : empty("No ITF matches in the last two weeks.")) + "</div>";
+      (played.length ? played.map(function (t) { return eventBlock(t, only, true); }).join("") : empty("No matches in the last two weeks.")) + "</div>";
     app.innerHTML = html;
   }
 
   function pageTournaments() {
     var groups = [["current", "Playing now"], ["upcoming", "Next up"], ["past", "Last two weeks"]];
-    var html = "<h1>Tournaments</h1><p class=\"lede\">Every ITF M15 and M25 event from two weeks back to three weeks ahead.</p>";
+    var html = "<h1>Tournaments</h1><p class=\"lede\">Every ITF M15 and M25 event, ATP Challenger and ATP Tour event from two weeks back to three weeks ahead.</p>";
     groups.forEach(function (g) {
       var list = byStatus(g[0]);
       if (g[0] === "past") list = list.slice().reverse();
@@ -271,7 +271,7 @@
     var html = '<p class="crumbs"><a href="#/tournaments">Tournaments</a></p><h1>' + esc(t.name) + "</h1>" +
       '<div class="facts"><span><b>' + esc(fmtRange(t.start, t.end)) + "</b></span><span>" + esc(t.category) + "</span>" +
       (t.country ? "<span>" + esc(t.country) + "</span>" : "") + "<span>" + statusTag(t) + "</span>" +
-      '<span><a href="' + esc(t.url) + '" rel="noopener" target="_blank">Draws on itftennis.com</a></span></div>';
+      '<span><a href="' + esc(t.url) + '" rel="noopener" target="_blank">' + (/^ATP/.test(t.tour || "") ? "Draws on atptour.com" : "Draws on itftennis.com") + "</a></span></div>";
     html += '<div class="section">' + (block || empty(t.status === "upcoming"
       ? "No roster players are on the entry list yet. Lists usually appear about two weeks before the event."
       : "No roster players found in this event.")) + "</div>";
