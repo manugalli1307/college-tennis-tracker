@@ -37,6 +37,12 @@
  },
  {
   "tournament": "m-itf-usa-2026-051",
+  "player": "university-of-georgia-james-weber",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
   "player": "ucf-fadi-bidan",
   "section": "Qualifying",
   "match": "full name"
@@ -50,12 +56,6 @@
  {
   "tournament": "m-itf-usa-2026-051",
   "player": "michigan-state-mitchell-sheldon",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "auburn-patrik-munkhammar",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -343,13 +343,13 @@
  },
  {
   "tournament": "m-itf-usa-2026-050",
-  "player": "texas-a-m-university-theo-papamalamis",
-  "section": "Main Draw Direct Acceptance",
+  "player": "tcu-maximus-dussault",
+  "section": "Qualifying",
   "match": "full name"
  },
  {
   "tournament": "m-itf-usa-2026-050",
-  "player": "wake-forest-dominick-mosejczuk",
+  "player": "ohio-state-denis-petak",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -372,15 +372,21 @@
   "match": "full name"
  },
  {
-  "tournament": "m-itf-mex-2026-011",
-  "player": "university-of-oklahoma-dragos-cazacu",
-  "section": "Main Draw Direct Acceptance",
+  "tournament": "m-itf-usa-2026-050",
+  "player": "nc-state-william-manning",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-050",
+  "player": "nc-state-lachlan-mcfadzean",
+  "section": "Qualifying",
   "match": "full name"
  },
  {
   "tournament": "m-itf-mex-2026-011",
-  "player": "wake-forest-kacper-szymkowiak",
-  "section": "Qualifying",
+  "player": "university-of-oklahoma-dragos-cazacu",
+  "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
  {
