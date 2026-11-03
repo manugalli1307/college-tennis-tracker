@@ -1,101 +1,5 @@
 [
  {
-  "tournament": "m-itf-usa-2026-048",
-  "player": "university-of-oklahoma-dragos-cazacu",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-048",
-  "player": "university-of-oklahoma-daniel-uta",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-048",
-  "player": "ucf-clement-lemire",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-048",
-  "player": "auburn-duje-markovina",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-048",
-  "player": "nc-state-lachlan-mcfadzean",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-048",
-  "player": "university-of-georgia-julian-alonso",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-048",
-  "player": "university-of-georgia-james-weber",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "player": "wake-forest-kacper-szymkowiak",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bra-2026-015",
-  "player": "ucf-pedro-rodrigues",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-047",
-  "player": "university-of-texas-at-austin-tomasz-berkieta",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-047",
-  "player": "vanderbilt-pablo-martinez-gomez",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-047",
-  "player": "baylor-university-zsombor-velcz",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-047",
-  "player": "baylor-university-erik-schiessl",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-047",
-  "player": "texas-a-m-university-togan-tokac",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-047",
-  "player": "university-of-florida-kevin-edengren",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-ita-2026-044",
-  "player": "usc-branko-djuric",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-usa-2026-051",
   "player": "lsu-enzo-kohlmann-de-freitas",
   "section": "Main Draw Direct Acceptance",
@@ -289,6 +193,12 @@
  },
  {
   "tournament": "m-itf-can-2026-005",
+  "player": "university-of-arizona-matthias-uwe-kask",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-can-2026-005",
   "player": "usc-connor-church",
   "section": "Qualifying",
   "match": "full name"
@@ -296,12 +206,6 @@
  {
   "tournament": "m-itf-can-2026-005",
   "player": "cornell-david-cristian-carteputreda",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-can-2026-005",
-  "player": "nc-state-jules-leroux",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -314,12 +218,6 @@
  {
   "tournament": "m-itf-usa-2026-046",
   "player": "university-of-oklahoma-dragos-cazacu",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-046",
-  "player": "texas-a-m-university-theo-papamalamis",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -343,6 +241,24 @@
  },
  {
   "tournament": "m-itf-usa-2026-046",
+  "player": "baylor-university-erik-schiessl",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "player": "university-of-georgia-noah-johnston",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "player": "ucf-fadi-bidan",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
   "player": "ucf-clement-lemire",
   "section": "Qualifying",
   "match": "full name"
@@ -356,6 +272,12 @@
  {
   "tournament": "m-itf-usa-2026-046",
   "player": "university-of-florida-kevin-edengren",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "player": "auburn-manel-lazaro",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -530,6 +452,12 @@
  {
   "tournament": "m-itf-gbr-2026-007",
   "player": "university-of-san-diego-oliver-tarvet",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ita-2026-044",
+  "player": "usc-branko-djuric",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -726,8 +654,56 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-usa-2026-048",
+  "player": "nc-state-lachlan-mcfadzean",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "player": "university-of-georgia-julian-alonso",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "player": "auburn-duje-markovina",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "player": "university-of-oklahoma-daniel-uta",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "player": "university-of-oklahoma-dragos-cazacu",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "player": "ucf-clement-lemire",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-tun-2026-044",
   "player": "ucf-wissam-abderrahman",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "player": "wake-forest-kacper-szymkowiak",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-bra-2026-015",
+  "player": "ucf-pedro-rodrigues",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -740,6 +716,18 @@
  {
   "tournament": "m-itf-can-2026-004",
   "player": "baylor-university-august-brostrom-poulsen",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "texas-a-m-university-tiago-pires",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-tiago-pires",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -764,6 +752,42 @@
  {
   "tournament": "m-itf-can-2026-004",
   "player": "clemson-viktor-markov",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "player": "university-of-florida-kevin-edengren",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "player": "university-of-texas-at-austin-tomasz-berkieta",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "player": "texas-a-m-university-ritesh-patil",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "player": "ohio-state-bryce-nakashima",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "player": "vanderbilt-pablo-martinez-gomez",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "player": "baylor-university-zsombor-velcz",
   "section": "Main Draw",
   "match": "draw"
  }
