@@ -2649,8 +2649,8 @@
    ]
   },
   "p2": {
-   "name": "",
-   "country": "",
+   "name": "Matthew Segura",
+   "country": "USA",
    "seed": "",
    "winner": false,
    "roster": []
@@ -2680,7 +2680,7 @@
    "name": "Wissam Abderrahman",
    "country": "TUN",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "ucf-wissam-abderrahman"
    ]
@@ -2691,6 +2691,39 @@
    "seed": "",
    "winner": false,
    "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "4",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-044",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Nino Ehrenschneider",
+   "country": "GER",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Wissam Abderrahman",
+   "country": "TUN",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "ucf-wissam-abderrahman"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -2717,7 +2750,7 @@
    "name": "Kacper Szymkowiak",
    "country": "POL",
    "seed": "7",
-   "winner": false,
+   "winner": true,
    "roster": [
     "wake-forest-kacper-szymkowiak"
    ]
@@ -2725,6 +2758,39 @@
   "p2": {
    "name": "Stephen Slocombe",
    "country": "BAR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Kacper Szymkowiak",
+   "country": "POL",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "wake-forest-kacper-szymkowiak"
+   ]
+  },
+  "p2": {
+   "name": "Carel Aubriel Ngounoue",
+   "country": "USA",
    "seed": "",
    "winner": false,
    "roster": []
@@ -2763,22 +2829,18 @@
    "name": "Benjamin Torrealba",
    "country": "CHI",
    "seed": "2",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "4",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "4",
+    "6"
    ]
   ],
   "live": false
@@ -2828,7 +2890,7 @@
    "name": "Oskar Brostrom Poulsen",
    "country": "DEN",
    "seed": "3",
-   "winner": false,
+   "winner": true,
    "roster": [
     "baylor-university-august-brostrom-poulsen"
    ]
@@ -2840,19 +2902,15 @@
    "winner": false,
    "roster": []
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "2"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -3044,9 +3102,46 @@
   "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
+   "name": "Oskar Brostrom Poulsen",
+   "country": "DEN",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "baylor-university-august-brostrom-poulsen"
+   ]
+  },
+  "p2": {
    "name": "",
    "country": "",
    "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Theodore Dean",
+   "country": "USA",
+   "seed": "6",
    "winner": false,
    "roster": []
   },
@@ -3118,8 +3213,8 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
-   "name": "",
-   "country": "",
+   "name": "James Quattro",
+   "country": "USA",
    "seed": "",
    "winner": false,
    "roster": []
@@ -3229,11 +3324,13 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
-   "name": "",
-   "country": "",
+   "name": "Togan Tokac",
+   "country": "TUR",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "texas-a-m-university-togan-tokac"
+   ]
   },
   "p2": {
    "name": "Pablo Martinez Gomez",
@@ -3242,6 +3339,43 @@
    "winner": false,
    "roster": [
     "vanderbilt-pablo-martinez-gomez"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Ioan Alexandru Chirita",
+   "country": "ROU",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Erik Schiessl",
+   "country": "GER",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "baylor-university-erik-schiessl"
    ]
   },
   "winner": 0,
@@ -3280,6 +3414,43 @@
    "roster": [
     "baylor-university-zsombor-velcz"
    ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Connor Henry Van Schalkwyk",
+   "country": "NAM",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "baylor-university-connor-van-schalkwyk"
+   ]
+  },
+  "p2": {
+   "name": "Rishvanth Krishna",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
   },
   "winner": 0,
   "sets": [

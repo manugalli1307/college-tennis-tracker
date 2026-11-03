@@ -787,13 +787,31 @@
  },
  {
   "tournament": "m-itf-usa-2026-047",
+  "player": "texas-a-m-university-togan-tokac",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
   "player": "vanderbilt-pablo-martinez-gomez",
   "section": "Main Draw",
   "match": "draw"
  },
  {
   "tournament": "m-itf-usa-2026-047",
+  "player": "baylor-university-erik-schiessl",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
   "player": "baylor-university-zsombor-velcz",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "player": "baylor-university-connor-van-schalkwyk",
   "section": "Main Draw",
   "match": "draw"
  }
