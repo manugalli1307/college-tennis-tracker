@@ -372,18 +372,6 @@
   "match": "full name"
  },
  {
-  "tournament": "m-itf-mex-2026-011",
-  "player": "university-of-oklahoma-dragos-cazacu",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-mex-2026-011",
-  "player": "mississippi-state-segundo-goity-zapico",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
   "tournament": "m-itf-gre-2026-017",
   "player": "university-of-san-diego-neo-niedner",
   "section": "Qualifying",
@@ -392,6 +380,12 @@
  {
   "tournament": "m-itf-gre-2026-017",
   "player": "baylor-university-zsombor-velcz",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bra-2026-021",
+  "player": "ucf-pedro-rodrigues",
   "section": "Qualifying",
   "match": "full name"
  },
