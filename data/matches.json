@@ -1,5 +1,353 @@
 [
  {
+  "tournament": "m-itf-cro-2026-009",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Nico Hipfl",
+   "country": "AUT",
+   "seed": "6",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Bozo Barun",
+   "country": "CRO",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-bozo-barun"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Ryotaro Taguchi",
+   "country": "JPN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Fons Van Sambeek",
+   "country": "NED",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-fons-van-sambeek"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(5)",
+    "7"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Miles Jones",
+   "country": "USA",
+   "seed": "8",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ewen Lumsden",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-ewen-lumsden"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "1",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Luka Talan Lopatic",
+   "country": "SLO",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luka-talan-lopatic"
+   ]
+  },
+  "p2": {
+   "name": "Ammar Elamin",
+   "country": "IRL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Matthew Thomson",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-matthew-thomson"
+   ]
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "GRE",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Matyas Fuele",
+   "country": "HUN",
+   "seed": "3",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Fons Van Sambeek",
+   "country": "NED",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-fons-van-sambeek"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "0",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Ewen Lumsden",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-ewen-lumsden"
+   ]
+  },
+  "p2": {
+   "name": "Luka Talan Lopatic",
+   "country": "SLO",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luka-talan-lopatic"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "2",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Hugo Car",
+   "country": "FRA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "GRE",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Fons Van Sambeek",
+   "country": "NED",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-fons-van-sambeek"
+   ]
+  },
+  "p2": {
+   "name": "Benjamin Pietri",
+   "country": "FRA",
+   "seed": "6",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "2",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-013",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Luka Talan Lopatic",
+   "country": "SLO",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-oklahoma-luka-talan-lopatic"
+   ]
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "GRE",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-usa-2026-041",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -120,7 +468,9 @@
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-university-of-texas-at-austin-micah-braswell"
+   ]
   },
   "winner": 1,
   "sets": [
@@ -206,6 +556,39 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Jonah Braswell",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-jonah-braswell"
+   ]
+  },
+  "p2": {
+   "name": "Eli Stephenson",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-041",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "FELIPE PINZON MORENO",
    "country": "USA",
    "seed": "",
@@ -219,7 +602,9 @@
    "country": "USA",
    "seed": "4",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-ohio-state-jack-anthrop"
+   ]
   },
   "winner": 2,
   "sets": [
@@ -247,7 +632,9 @@
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-smu-liam-krall"
+   ]
   },
   "p2": {
    "name": "Zsombor Velcz",
@@ -381,6 +768,43 @@
   "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
+   "name": "Eli Stephenson",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Jack Anthrop",
+   "country": "USA",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-jack-anthrop"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "0",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-041",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
    "name": "Vignesh Gogineni",
    "country": "USA",
    "seed": "6",
@@ -476,6 +900,645 @@
   "live": false
  },
  {
+  "tournament": "m-itf-usa-2026-041",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Jack Secord",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Jack Anthrop",
+   "country": "USA",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-jack-anthrop"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-042",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Carles Hernandez",
+   "country": "ESP",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-carles-hernandez"
+   ]
+  },
+  "p2": {
+   "name": "Anas Mazdrashki",
+   "country": "BUL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "7",
+    "6(6)"
+   ],
+   [
+    "4",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-042",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Robin Bertrand",
+   "country": "FRA",
+   "seed": "1",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Carles Hernandez",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-carles-hernandez"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-chn-2026-033",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Luca Staeheli",
+   "country": "SUI",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-luca-staeheli"
+   ]
+  },
+  "p2": {
+   "name": "Haolong He",
+   "country": "CHN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-chn-2026-033",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Luca Staeheli",
+   "country": "SUI",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-luca-staeheli"
+   ]
+  },
+  "p2": {
+   "name": "Maxim Shin",
+   "country": "UZB",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-chn-2026-033",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Luca Staeheli",
+   "country": "SUI",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-luca-staeheli"
+   ]
+  },
+  "p2": {
+   "name": "Daniil Sarksian",
+   "country": "ARM",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-jpn-2026-001",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "TAKUMI KATSUDA",
+   "country": "JPN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Hugo Hashimoto",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-columbia-hugo-hashimoto"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-jpn-2026-001",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Hikaru Shiraishi",
+   "country": "JPN",
+   "seed": "1",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Hugo Hashimoto",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-columbia-hugo-hashimoto"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-jpn-2026-001",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Hugo Hashimoto",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-columbia-hugo-hashimoto"
+   ]
+  },
+  "p2": {
+   "name": "Oscar Brown",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ind-2026-011",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Adhithya Ganesan",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-adhithya-ganesan"
+   ]
+  },
+  "p2": {
+   "name": "Hitesh Chauhan",
+   "country": "IND",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ind-2026-011",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Samir Banerjee",
+   "country": "USA",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-stanford-samir-banerjee"
+   ]
+  },
+  "p2": {
+   "name": "William Rejchtman Vinciguerra",
+   "country": "SWE",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ind-2026-011",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Noah Schachter",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-texas-a-m-university-noah-schachter"
+   ]
+  },
+  "p2": {
+   "name": "Manish Sureshkumar",
+   "country": "IND",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(3)",
+    "7"
+   ],
+   [
+    "6(5)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ind-2026-011",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Adhithya Ganesan",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-adhithya-ganesan"
+   ]
+  },
+  "p2": {
+   "name": "Digvijay Pratap Singh",
+   "country": "IND",
+   "seed": "4",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "5",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ind-2026-011",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Samir Banerjee",
+   "country": "USA",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-stanford-samir-banerjee"
+   ]
+  },
+  "p2": {
+   "name": "Samarth Sahita",
+   "country": "IND",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ind-2026-011",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Samir Banerjee",
+   "country": "USA",
+   "seed": "6",
+   "winner": false,
+   "roster": [
+    "alumni-stanford-samir-banerjee"
+   ]
+  },
+  "p2": {
+   "name": "Garrett Johns",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(7)",
+    "7"
+   ],
+   [
+    "1",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Roan Jones",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Jared Horwood",
+   "country": "CAN",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-arizona-jared-horwood"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Liam Hignett",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Pablo Perez Ramos",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-pablo-perez-ramos"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(6)"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Finn Murgett",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-auburn-finn-murgett"
+   ]
+  },
+  "p2": {
+   "name": "Bader Idrees",
+   "country": "KSA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Billy Blaydes",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-auburn-billy-blaydes"
+   ]
+  },
+  "p2": {
+   "name": "Conor Brady",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-gbr-2026-007",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -504,6 +1567,72 @@
    [
     "2",
     "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Sebastian Sorger",
+   "country": "AUT",
+   "seed": "5",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Finn Murgett",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-auburn-finn-murgett"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(5)",
+    "7"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Mika Petkovic",
+   "country": "GER",
+   "seed": "6",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Billy Blaydes",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-auburn-billy-blaydes"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -546,6 +1675,39 @@
   "draw": "Main Draw",
   "round": "Quarter-finals",
   "p1": {
+   "name": "Finn Murgett",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-auburn-finn-murgett"
+   ]
+  },
+  "p2": {
+   "name": "George Loffhagen",
+   "country": "GBR",
+   "seed": "4",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(7)"
+   ],
+   [
+    "1",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
    "name": "Mika Petkovic",
    "country": "GER",
    "seed": "6",
@@ -570,6 +1732,39 @@
    [
     "6(4)",
     "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-044",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Eero Vasa",
+   "country": "FIN",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-pepperdine-eero-vasa"
+   ]
+  },
+  "p2": {
+   "name": "Michael Wright",
+   "country": "IRL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "5"
    ]
   ],
   "live": false
@@ -610,6 +1805,80 @@
  {
   "tournament": "m-itf-ita-2026-044",
   "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Adrian Oetzbach",
+   "country": "GER",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-pepperdine-adrian-oetzbach"
+   ]
+  },
+  "p2": {
+   "name": "Rares Teodor Pieleanu",
+   "country": "ROU",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "7",
+    "6(6)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-044",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Eero Vasa",
+   "country": "FIN",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-pepperdine-eero-vasa"
+   ]
+  },
+  "p2": {
+   "name": "Matteo Gribaldo",
+   "country": "ITA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "4",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-044",
+  "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
    "name": "Branko Djuric",
@@ -641,6 +1910,684 @@
   "live": false
  },
  {
+  "tournament": "m-itf-ita-2026-044",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Adrian Oetzbach",
+   "country": "GER",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-pepperdine-adrian-oetzbach"
+   ]
+  },
+  "p2": {
+   "name": "Leonardo Iemmi",
+   "country": "ITA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-044",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Adrian Oetzbach",
+   "country": "GER",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-pepperdine-adrian-oetzbach"
+   ]
+  },
+  "p2": {
+   "name": "Andrey Chepelev",
+   "country": "",
+   "seed": "2",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-fra-2026-022",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Philip Henning",
+   "country": "RSA",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-philip-henning"
+   ]
+  },
+  "p2": {
+   "name": "Robin Catry",
+   "country": "FRA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-nc-state-robin-catry"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-fra-2026-022",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Philip Henning",
+   "country": "RSA",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-philip-henning"
+   ]
+  },
+  "p2": {
+   "name": "Antoine Walch",
+   "country": "FRA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-fra-2026-022",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Philip Henning",
+   "country": "RSA",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-philip-henning"
+   ]
+  },
+  "p2": {
+   "name": "Louis Wessels",
+   "country": "GER",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-011",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Matthew Dellavedova",
+   "country": "AUS",
+   "seed": "1",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Hayden Jones",
+   "country": "AUS",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-hayden-jones"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-011",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Archie Stewart",
+   "country": "NZL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Herman Hoeyeraal",
+   "country": "NOR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-arizona-herman-hoeyeraal"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-011",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Isaac Becroft",
+   "country": "NZL",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-isaac-becroft"
+   ]
+  },
+  "p2": {
+   "name": "Chase Ferguson",
+   "country": "AUS",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-011",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Herman Hoeyeraal",
+   "country": "NOR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-arizona-herman-hoeyeraal"
+   ]
+  },
+  "p2": {
+   "name": "Moerani Bouzige",
+   "country": "AUS",
+   "seed": "5",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-011",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Anton Shepp",
+   "country": "NZL",
+   "seed": "6",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Isaac Becroft",
+   "country": "NZL",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-isaac-becroft"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-011",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Blake Ellis",
+   "country": "AUS",
+   "seed": "4",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Herman Hoeyeraal",
+   "country": "NOR",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-arizona-herman-hoeyeraal"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-011",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Isaac Becroft",
+   "country": "NZL",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-isaac-becroft"
+   ]
+  },
+  "p2": {
+   "name": "Enzo Aguiard",
+   "country": "AUS",
+   "seed": "3",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-014",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Ewen Lumsden",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-ewen-lumsden"
+   ]
+  },
+  "p2": {
+   "name": "Javier Munoz Fuster",
+   "country": "ESP",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-014",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Alexandre Reco",
+   "country": "FRA",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Pablo Perez Ramos",
+   "country": "ESP",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-pablo-perez-ramos"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "2",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-014",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Matthew Thomson",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-matthew-thomson"
+   ]
+  },
+  "p2": {
+   "name": "Thando Longwe-Smit",
+   "country": "RSA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-014",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Odysseas Geladaris",
+   "country": "GRE",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "GRE",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-014",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Pablo Perez Ramos",
+   "country": "ESP",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-pablo-perez-ramos"
+   ]
+  },
+  "p2": {
+   "name": "Dan Brand",
+   "country": "ISR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-014",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Thando Longwe-Smit",
+   "country": "RSA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "GRE",
+   "seed": "2",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-014",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Pablo Perez Ramos",
+   "country": "ESP",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-pablo-perez-ramos"
+   ]
+  },
+  "p2": {
+   "name": "Thando Longwe-Smit",
+   "country": "RSA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Matias Soto",
+   "country": "CHI",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-matias-soto"
+   ]
+  },
+  "p2": {
+   "name": "Lance Lage",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-mex-2026-007",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -649,7 +2596,9 @@
    "country": "FRA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-nc-state-damien-salvestre"
+   ]
   },
   "p2": {
    "name": "Joaquin Guilleme",
@@ -669,6 +2618,72 @@
    [
     "4",
     "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jeronimo Velazco Escobar",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ryan Colby",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-ryan-colby"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Matias Soto",
+   "country": "CHI",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-matias-soto"
+   ]
+  },
+  "p2": {
+   "name": "Mauricio Schtulmann Gasca",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "1"
    ]
   ],
   "live": false
@@ -709,13 +2724,48 @@
  {
   "tournament": "m-itf-mex-2026-007",
   "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "LUCCA LIU",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ryan Colby",
+   "country": "USA",
+   "seed": "2",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-georgia-ryan-colby"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "draw": "Main Draw",
   "round": "Quarter-finals",
   "p1": {
    "name": "Matias Soto",
    "country": "CHI",
    "seed": "1",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-baylor-university-matias-soto"
+   ]
   },
   "p2": {
    "name": "Joaquin Guilleme",
@@ -735,6 +2785,138 @@
    [
     "6",
     "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-043",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Benito Sanchez Martinez",
+   "country": "GER",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-benito-sanchez-martinez"
+   ]
+  },
+  "p2": {
+   "name": "Cesar Bouchelaghem",
+   "country": "FRA",
+   "seed": "2",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-043",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Louis Larue",
+   "country": "FRA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Benito Sanchez Martinez",
+   "country": "GER",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-benito-sanchez-martinez"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "0",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-043",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Tuncay Duran",
+   "country": "TUR",
+   "seed": "5",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Benito Sanchez Martinez",
+   "country": "GER",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-benito-sanchez-martinez"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Blaise Bicknell",
+   "country": "JAM",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-blaise-bicknell"
+   ]
+  },
+  "p2": {
+   "name": "Drew Van Orderlain",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -768,6 +2950,109 @@
    [
     "6",
     "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jeffrey Fradkin",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Noah Schachter",
+   "country": "USA",
+   "seed": "5",
+   "winner": true,
+   "roster": [
+    "alumni-texas-a-m-university-noah-schachter"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "2",
+    "6"
+   ],
+   [
+    "5",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Alexander Bernard",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-ohio-state-alexander-bernard"
+   ]
+  },
+  "p2": {
+   "name": "Nathan Cox",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jacob Brumm",
+   "country": "USA",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jacob-brumm"
+   ]
+  },
+  "p2": {
+   "name": "Rohan SACHDEV",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
    ]
   ],
   "live": false
@@ -818,7 +3103,9 @@
    "country": "JAM",
    "seed": "1",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-university-of-florida-blaise-bicknell"
+   ]
   },
   "p2": {
    "name": "Matisse Farzam",
@@ -838,6 +3125,72 @@
    [
     "6",
     "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Tyler Mercier",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Noah Schachter",
+   "country": "USA",
+   "seed": "5",
+   "winner": true,
+   "roster": [
+    "alumni-texas-a-m-university-noah-schachter"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6(5)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Jacob Brumm",
+   "country": "USA",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jacob-brumm"
+   ]
+  },
+  "p2": {
+   "name": "Juan Sebastian Dominguez Collado",
+   "country": "GUA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
+   ],
+   [
+    "7",
+    "6(5)"
    ]
   ],
   "live": false
@@ -880,6 +3233,74 @@
   "draw": "Main Draw",
   "round": "Quarter-finals",
   "p1": {
+   "name": "Blaise Bicknell",
+   "country": "JAM",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-blaise-bicknell"
+   ]
+  },
+  "p2": {
+   "name": "Noah Schachter",
+   "country": "USA",
+   "seed": "5",
+   "winner": false,
+   "roster": [
+    "alumni-texas-a-m-university-noah-schachter"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Jacob Brumm",
+   "country": "USA",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jacob-brumm"
+   ]
+  },
+  "p2": {
+   "name": "Matt Kuhar",
+   "country": "USA",
+   "seed": "3",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "7",
+    "6(5)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
    "name": "Kacper Szymkowiak",
    "country": "POL",
    "seed": "6",
@@ -904,6 +3325,552 @@
    [
     "6",
     "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-038",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Giovanni Oradini",
+   "country": "ITA",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-giovanni-oradini"
+   ]
+  },
+  "p2": {
+   "name": "Roberto Franchin",
+   "country": "ITA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-038",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Lorenzo Rottoli",
+   "country": "ITA",
+   "seed": "6",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Alex Kobelt",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-alex-kobelt"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(2)",
+    "7"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-038",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Giovanni Oradini",
+   "country": "ITA",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-giovanni-oradini"
+   ]
+  },
+  "p2": {
+   "name": "Jacopo Bilardo",
+   "country": "ITA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-038",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Alex Kobelt",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-ohio-state-alex-kobelt"
+   ]
+  },
+  "p2": {
+   "name": "Maximilian Figl",
+   "country": "ITA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(3)",
+    "7"
+   ],
+   [
+    "6(6)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-038",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Giovanni Oradini",
+   "country": "ITA",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-giovanni-oradini"
+   ]
+  },
+  "p2": {
+   "name": "Andrea Colombo",
+   "country": "ITA",
+   "seed": "8",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-030",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Igor Piasek",
+   "country": "POL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Borys Zgola",
+   "country": "POL",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-borys-zgola"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-030",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Arda Azkara",
+   "country": "TUR",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-georgia-arda-azkara"
+   ]
+  },
+  "p2": {
+   "name": "Volodymyr Iakubenko",
+   "country": "UKR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-usc-volodymyr-iakubenko"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6(6)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-030",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Borys Zgola",
+   "country": "POL",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-borys-zgola"
+   ]
+  },
+  "p2": {
+   "name": "Aaron Funk",
+   "country": "GER",
+   "seed": "6",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6(4)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-030",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Volodymyr Iakubenko",
+   "country": "UKR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-usc-volodymyr-iakubenko"
+   ]
+  },
+  "p2": {
+   "name": "Marat Salbiev",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-030",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Volodymyr Iakubenko",
+   "country": "UKR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-usc-volodymyr-iakubenko"
+   ]
+  },
+  "p2": {
+   "name": "Constantin Bittoun Kouzmine",
+   "country": "FRA",
+   "seed": "2",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6(5)",
+    "7"
+   ],
+   [
+    "7",
+    "6(7)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-sgp-2026-003",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Adhithya Ganesan",
+   "country": "USA",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-adhithya-ganesan"
+   ]
+  },
+  "p2": {
+   "name": "Ren Nakamura",
+   "country": "JPN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-sgp-2026-003",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Stefan Storch",
+   "country": "AUS",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-texas-a-m-university-stefan-storch"
+   ]
+  },
+  "p2": {
+   "name": "Alexander Watanabe Eriksson",
+   "country": "SWE",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(3)",
+    "7"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-sgp-2026-003",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Adhithya Ganesan",
+   "country": "USA",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-adhithya-ganesan"
+   ]
+  },
+  "p2": {
+   "name": "Alexander Watanabe Eriksson",
+   "country": "SWE",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "7",
+    "6(3)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-sgp-2026-003",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Adhithya Ganesan",
+   "country": "USA",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-adhithya-ganesan"
+   ]
+  },
+  "p2": {
+   "name": "Pranav Karthik",
+   "country": "IND",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6(4)",
+    "7"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-jpn-2026-014",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Kanta Watanabe",
+   "country": "JPN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Hugo Hashimoto",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-columbia-hugo-hashimoto"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "0",
+    "6"
+   ],
+   [
+    "1",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-jpn-2026-014",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Markus Malaszszak",
+   "country": "THA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Hugo Hashimoto",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-columbia-hugo-hashimoto"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(4)",
+    "7"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "7",
+    "6(4)"
    ]
   ],
   "live": false
@@ -954,7 +3921,9 @@
    "country": "GBR",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-oliver-okonkwo"
+   ]
   },
   "p2": {
    "name": "Noah Johnston",
@@ -1000,7 +3969,9 @@
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-university-of-arizona-dominique-rolland"
+   ]
   },
   "winner": 1,
   "sets": [
@@ -1063,7 +4034,9 @@
    "country": "ISR",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-smu-ofek-shimanov"
+   ]
   },
   "p2": {
    "name": "Alexander Rozin",
@@ -1105,7 +4078,9 @@
    "country": "USA",
    "seed": "6",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-ohio-state-jack-anthrop"
+   ]
   },
   "winner": 2,
   "sets": [
@@ -1269,6 +4244,72 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "William Jansen",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Xavier Calvelo",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-smu-xavier-calvelo"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-040",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Micah Braswell",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-micah-braswell"
+   ]
+  },
+  "p2": {
+   "name": "Alexandr Cozbinov",
+   "country": "MDA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-040",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Nikita Filin",
    "country": "USA",
    "seed": "",
@@ -1385,7 +4426,9 @@
    "country": "USA",
    "seed": "6",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-ohio-state-jack-anthrop"
+   ]
   },
   "winner": 2,
   "sets": [
@@ -1485,7 +4528,9 @@
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-university-of-texas-at-austin-micah-braswell"
+   ]
   },
   "p2": {
    "name": "Nikita Filin",
@@ -1568,7 +4613,9 @@
    "country": "USA",
    "seed": "6",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-ohio-state-jack-anthrop"
+   ]
   },
   "winner": 2,
   "sets": [
@@ -1658,6 +4705,109 @@
   "live": false
  },
  {
+  "tournament": "m-itf-mlt-2026-001",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Philip Henning",
+   "country": "RSA",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-philip-henning"
+   ]
+  },
+  "p2": {
+   "name": "Xavi Matas Ortega",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6(5)",
+    "7"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mlt-2026-001",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "James MacKinlay",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Gilles Arnaud Bailly",
+   "country": "BEL",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-gilles-arnaud-bailly"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mlt-2026-001",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Philip Henning",
+   "country": "RSA",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-georgia-philip-henning"
+   ]
+  },
+  "p2": {
+   "name": "Dmitry Popko",
+   "country": "KAZ",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(3)",
+    "7"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-usa-2026-044",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -1666,7 +4816,9 @@
    "country": "GBR",
    "seed": "1",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-tcu-alastair-gray"
+   ]
   },
   "p2": {
    "name": "Emanuel Ivanisevic",
@@ -1708,7 +4860,9 @@
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-tcu-alex-rybakov"
+   ]
   },
   "winner": 1,
   "sets": [
@@ -1808,7 +4962,9 @@
    "country": "GBR",
    "seed": "4",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-tcu-lui-maxted"
+   ]
   },
   "p2": {
    "name": "Pablo Martinez Gomez",
@@ -1911,7 +5067,9 @@
    "country": "NED",
    "seed": "6",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-tcu-sander-jong"
+   ]
   },
   "p2": {
    "name": "Asahi Harazaki",
@@ -2010,7 +5168,9 @@
    "country": "USA",
    "seed": "5",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-university-of-georgia-tyler-zink"
+   ]
   },
   "p2": {
    "name": "Charlie Swaine",
@@ -2113,7 +5273,9 @@
    "country": "GBR",
    "seed": "1",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-tcu-alastair-gray"
+   ]
   },
   "p2": {
    "name": "Theo Papamalamis",
@@ -2166,6 +5328,43 @@
    [
     "7",
     "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-044",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Lui Maxted",
+   "country": "GBR",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-lui-maxted"
+   ]
+  },
+  "p2": {
+   "name": "Ilia Snitari",
+   "country": "MDA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(6)"
+   ],
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -2284,7 +5483,9 @@
    "country": "USA",
    "seed": "5",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-university-of-georgia-tyler-zink"
+   ]
   },
   "p2": {
    "name": "Marko Mesarovic",
@@ -2321,7 +5522,9 @@
    "country": "GBR",
    "seed": "1",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-tcu-alastair-gray"
+   ]
   },
   "p2": {
    "name": "Luca Pow",
@@ -2354,7 +5557,9 @@
    "country": "GBR",
    "seed": "4",
    "winner": true,
-   "roster": []
+   "roster": [
+    "alumni-tcu-lui-maxted"
+   ]
   },
   "p2": {
    "name": "Bruno Kuzuhara",
@@ -2378,6 +5583,72 @@
    [
     "",
     ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-044",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Tyler Zink",
+   "country": "USA",
+   "seed": "5",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-tyler-zink"
+   ]
+  },
+  "p2": {
+   "name": "Johan Alexander Rodriguez",
+   "country": "COL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jelle Sels",
+   "country": "NED",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Billy Blaydes",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-auburn-billy-blaydes"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -2407,6 +5678,72 @@
    [
     "6",
     "4"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Finn Murgett",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-auburn-finn-murgett"
+   ]
+  },
+  "p2": {
+   "name": "Maximilian Marterer",
+   "country": "GER",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Paul Jubb",
+   "country": "GBR",
+   "seed": "5",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Oscar Weightman",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-usc-oscar-weightman"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
    ],
    [
     "6",
@@ -2481,6 +5818,364 @@
    [
     "6",
     "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-012",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Isaac Becroft",
+   "country": "NZL",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-isaac-becroft"
+   ]
+  },
+  "p2": {
+   "name": "Stefan Vujic",
+   "country": "AUS",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-012",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Hayden Jones",
+   "country": "AUS",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-hayden-jones"
+   ]
+  },
+  "p2": {
+   "name": "Moerani Bouzige",
+   "country": "AUS",
+   "seed": "5",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-012",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Casey Hoole",
+   "country": "AUS",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Herman Hoeyeraal",
+   "country": "NOR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-arizona-herman-hoeyeraal"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(9)",
+    "7"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6(7)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-012",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Isaac Becroft",
+   "country": "NZL",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-isaac-becroft"
+   ]
+  },
+  "p2": {
+   "name": "Moerani Bouzige",
+   "country": "AUS",
+   "seed": "5",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(4)",
+    "7"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-012",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Herman Hoeyeraal",
+   "country": "NOR",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-arizona-herman-hoeyeraal"
+   ]
+  },
+  "p2": {
+   "name": "Philip Sekulic",
+   "country": "AUS",
+   "seed": "2",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-aus-2026-012",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Matthew Dellavedova",
+   "country": "AUS",
+   "seed": "1",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Isaac Becroft",
+   "country": "NZL",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-isaac-becroft"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tur-2026-027",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Vuk Radjenovic",
+   "country": "SRB",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-michigan-state-vuk-radjenovic"
+   ]
+  },
+  "p2": {
+   "name": "Egor Khotchenkov",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tur-2026-027",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Vuk Radjenovic",
+   "country": "SRB",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-michigan-state-vuk-radjenovic"
+   ]
+  },
+  "p2": {
+   "name": "Lieven Mietusch",
+   "country": "GER",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Ryan Colby",
+   "country": "USA",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-georgia-ryan-colby"
+   ]
+  },
+  "p2": {
+   "name": "Jack Secord",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Santiago Giamichelle",
+   "country": "ARG",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-georgia-santiago-giamichelle"
+   ]
+  },
+  "p2": {
+   "name": "Novak Novakovic",
+   "country": "SRB",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
    ]
   ],
   "live": false
@@ -2599,6 +6294,80 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Axel Nefve",
+   "country": "USA",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-axel-nefve"
+   ]
+  },
+  "p2": {
+   "name": "Anuj Watane",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Liam Krall",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-smu-liam-krall"
+   ]
+  },
+  "p2": {
+   "name": "Henry Lieberman",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Daniel Uta",
    "country": "ROU",
    "seed": "",
@@ -2669,6 +6438,45 @@
  {
   "tournament": "m-itf-usa-2026-048",
   "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Max Sheldon",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-michigan-state-max-sheldon"
+   ]
+  },
+  "p2": {
+   "name": "Tristan McCormick",
+   "country": "USA",
+   "seed": "2",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-georgia-tristan-mccormick"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
    "name": "",
@@ -2704,6 +6512,39 @@
   "live": false
  },
  {
+  "tournament": "m-itf-chn-2026-034",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Maxim Zhukov",
+   "country": "",
+   "seed": "6",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Stefan Storch",
+   "country": "AUS",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-texas-a-m-university-stefan-storch"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(7)"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-tun-2026-044",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -2732,6 +6573,43 @@
    [
     "4",
     "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-044",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Tuncay Duran",
+   "country": "TUR",
+   "seed": "8",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Benito Sanchez Martinez",
+   "country": "GER",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-benito-sanchez-martinez"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "7",
+    "6(7)"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -2778,6 +6656,109 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Blaise Bicknell",
+   "country": "JAM",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-blaise-bicknell"
+   ]
+  },
+  "p2": {
+   "name": "Aydan Gomez Osorio",
+   "country": "CUW",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Volodymyr Gurenko",
+   "country": "CAN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Alexander Bernard",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-alexander-bernard"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Pedro Petroski Rocha",
+   "country": "BRA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Jacob Brumm",
+   "country": "USA",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jacob-brumm"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "0",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Kacper Szymkowiak",
    "country": "POL",
    "seed": "7",
@@ -2809,6 +6790,115 @@
  {
   "tournament": "m-itf-ber-2026-002",
   "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Noah Schachter",
+   "country": "USA",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-texas-a-m-university-noah-schachter"
+   ]
+  },
+  "p2": {
+   "name": "Tyler Mercier",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Blaise Bicknell",
+   "country": "JAM",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-blaise-bicknell"
+   ]
+  },
+  "p2": {
+   "name": "Kian Vakili",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Alexander Bernard",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-ohio-state-alexander-bernard"
+   ]
+  },
+  "p2": {
+   "name": "Jacob Brumm",
+   "country": "USA",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-baylor-university-jacob-brumm"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
    "name": "Kacper Szymkowiak",
@@ -2822,6 +6912,43 @@
   "p2": {
    "name": "Carel Aubriel Ngounoue",
    "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Noah Schachter",
+   "country": "USA",
+   "seed": "6",
+   "winner": false,
+   "roster": [
+    "alumni-texas-a-m-university-noah-schachter"
+   ]
+  },
+  "p2": {
+   "name": "",
+   "country": "",
    "seed": "",
    "winner": false,
    "roster": []
@@ -2877,6 +7004,288 @@
   "live": false
  },
  {
+  "tournament": "m-itf-ita-2026-031",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Nik Mikovic",
+   "country": "SLO",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Adrian Oetzbach",
+   "country": "GER",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-pepperdine-adrian-oetzbach"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-031",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Simone Massucco",
+   "country": "ITA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Adrian Oetzbach",
+   "country": "GER",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "alumni-pepperdine-adrian-oetzbach"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-031",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Karim Ibrahim",
+   "country": "EGY",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Pierre Yves Bailly",
+   "country": "BEL",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-pierre-yves-bailly"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(3)",
+    "7"
+   ],
+   [
+    "1",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-031",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Luke Hooper",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Aleksandre Bakshi",
+   "country": "GEO",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-aleksandre-bakshi"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-031",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Oscar Weightman",
+   "country": "GBR",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-usc-oscar-weightman"
+   ]
+  },
+  "p2": {
+   "name": "Borys Zgola",
+   "country": "POL",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-borys-zgola"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-031",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Louis Van Herck",
+   "country": "LUX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Pierre Yves Bailly",
+   "country": "BEL",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-pierre-yves-bailly"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-031",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Aleksandre Bakshi",
+   "country": "GEO",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-oklahoma-aleksandre-bakshi"
+   ]
+  },
+  "p2": {
+   "name": "Kerem Yilmaz",
+   "country": "TUR",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-031",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Oscar Weightman",
+   "country": "GBR",
+   "seed": "6",
+   "winner": false,
+   "roster": [
+    "alumni-usc-oscar-weightman"
+   ]
+  },
+  "p2": {
+   "name": "Adrien Burdet",
+   "country": "SUI",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-can-2026-004",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -2923,7 +7332,7 @@
    "seed": "3",
    "winner": true,
    "roster": [
-    "baylor-university-august-brostrom-poulsen"
+    "alumni-baylor-university-oskar-brostrom-poulsen"
    ]
   },
   "p2": {
@@ -3123,6 +7532,39 @@
  {
   "tournament": "m-itf-can-2026-004",
   "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jaden Weekes",
+   "country": "CAN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Daniel De Jonge",
+   "country": "NED",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-pepperdine-daniel-de-jonge"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
    "name": "Oskar Brostrom Poulsen",
@@ -3130,7 +7572,7 @@
    "seed": "3",
    "winner": false,
    "roster": [
-    "baylor-university-august-brostrom-poulsen"
+    "alumni-baylor-university-oskar-brostrom-poulsen"
    ]
   },
   "p2": {
@@ -3215,7 +7657,9 @@
    "country": "NED",
    "seed": "2",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-pepperdine-daniel-de-jonge"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -3230,6 +7674,146 @@
    [
     "",
     ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Matias Soto",
+   "country": "CHI",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-baylor-university-matias-soto"
+   ]
+  },
+  "p2": {
+   "name": "Frazier Rengifo",
+   "country": "COL",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6(6)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Patricio Alvarado",
+   "country": "ECU",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Lorenzo Claverie",
+   "country": "ITA",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Carlo Arena Fava",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Lorenzo Claverie",
+   "country": "ITA",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Raphael Perot",
+   "country": "FRA",
+   "seed": "1",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Hunter Heck",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-hunter-heck"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "0"
+   ],
+   [
+    "4",
+    "6"
    ]
   ],
   "live": false
@@ -3426,7 +8010,9 @@
    "country": "ROU",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-baylor-university-alexandru-chirita"
+   ]
   },
   "p2": {
    "name": "Erik Schiessl",
@@ -3496,17 +8082,91 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
-   "name": "Connor Henry Van Schalkwyk",
-   "country": "NAM",
+   "name": "Samir Banerjee",
+   "country": "USA",
    "seed": "",
    "winner": false,
    "roster": [
-    "baylor-university-connor-van-schalkwyk"
+    "alumni-stanford-samir-banerjee"
    ]
   },
   "p2": {
-   "name": "Rishvanth Krishna",
+   "name": "Siwanat Auytayakul",
+   "country": "THA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Hiroki Sakagawa",
+   "country": "JPN",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-arizona-hiroki-sakagawa"
+   ]
+  },
+  "p2": {
+   "name": "Max Wiskandt",
+   "country": "GER",
+   "seed": "2",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Hunter Heck",
    "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-hunter-heck"
+   ]
+  },
+  "p2": {
+   "name": "",
+   "country": "",
    "seed": "",
    "winner": false,
    "roster": []
@@ -3566,32 +8226,503 @@
   "live": false
  },
  {
-  "tournament": "te-cali-challenger-2026",
+  "tournament": "m-itf-gre-2026-015",
   "draw": "Main Draw",
-  "round": "Round of 16",
+  "round": "1st Round",
   "p1": {
-   "name": "Felipe Meligeni Rodrigues Alves",
-   "country": "Brazil Height / Weight: 185 cm / 78 kg",
+   "name": "Vuk Krstajic",
+   "country": "MNE",
    "seed": "",
-   "winner": true,
-   "roster": [],
-   "rank": 348
+   "winner": false,
+   "roster": []
   },
   "p2": {
-   "name": "Diego Dedura-Palomero",
-   "country": "Germany",
+   "name": "Ioannis Xilas",
+   "country": "GRE",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-015",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Gilles Arnaud Bailly",
+   "country": "BEL",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-gilles-arnaud-bailly"
+   ]
+  },
+  "p2": {
+   "name": "Dimitris Azoidis",
+   "country": "GRE",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-015",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Melios Efstathiou",
+   "country": "CYP",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-melios-efstathiou"
+   ]
+  },
+  "p2": {
+   "name": "Pavlos Tsitsipas",
+   "country": "GRE",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(3)",
+    "7"
+   ],
+   [
+    "7",
+    "6(13)"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-015",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Oskari Paldanius",
+   "country": "FIN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Pablo Perez Ramos",
+   "country": "ESP",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-pablo-perez-ramos"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-015",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Michael Wright",
+   "country": "IRL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "GRE",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-015",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Gilles Arnaud Bailly",
+   "country": "BEL",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-gilles-arnaud-bailly"
+   ]
+  },
+  "p2": {
+   "name": "Benjamin Pietri",
+   "country": "FRA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-015",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Melios Efstathiou",
+   "country": "CYP",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-melios-efstathiou"
+   ]
+  },
+  "p2": {
+   "name": "Pablo Perez Ramos",
+   "country": "ESP",
    "seed": "",
    "winner": false,
    "roster": [
-    "university-of-texas-at-austin-mariano-dedura-palomero"
+    "alumni-university-of-florida-pablo-perez-ramos"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
    ],
-   "rank": 188
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Carles Hernandez",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-carles-hernandez"
+   ]
+  },
+  "p2": {
+   "name": "Marcel Zielinski",
+   "country": "POL",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Luka Talan Lopatic",
+   "country": "SLO",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-oklahoma-luka-talan-lopatic"
+   ]
+  },
+  "p2": {
+   "name": "Sergi Fita Juan",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brussels-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Raphael Collignon",
+   "country": "Belgium",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 55
+  },
+  "p2": {
+   "name": "Nishesh Basavareddy",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-stanford-nishesh-basavareddy"
+   ],
+   "rank": 128
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brussels-2026",
+  "draw": "Qualifying",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Nishesh Basavareddy",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-stanford-nishesh-basavareddy"
+   ],
+   "rank": 128
+  },
+  "p2": {
+   "name": "Aziz Dougaz",
+   "country": "Tunisia Height / Weight: 188 cm / 80 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 380
   },
   "winner": 1,
   "sets": [
    [
     "6",
     "4"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brussels-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Nishesh Basavareddy",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-stanford-nishesh-basavareddy"
+   ],
+   "rank": 128
+  },
+  "p2": {
+   "name": "Edas Butvilas",
+   "country": "Lithuania",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 209
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brussels-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Clement Chidekh",
+   "country": "France",
+   "seed": "4",
+   "winner": true,
+   "roster": [],
+   "rank": 131
+  },
+  "p2": {
+   "name": "Gilles Arnaud Bailly",
+   "country": "Belgium",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-gilles-arnaud-bailly"
+   ],
+   "rank": 484
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-cali-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Valerio Aboian",
+   "country": "Argentina",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 258
+  },
+  "p2": {
+   "name": "Matias Soto",
+   "country": "Chile",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-baylor-university-matias-soto"
+   ],
+   "rank": 260
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
    ],
    [
     "6",
@@ -3605,32 +8736,36 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
-   "name": "Diego Dedura-Palomero",
-   "country": "Germany",
+   "name": "Matias Soto",
+   "country": "Chile",
    "seed": "",
    "winner": true,
    "roster": [
-    "university-of-texas-at-austin-mariano-dedura-palomero"
+    "alumni-baylor-university-matias-soto"
    ],
-   "rank": 188
+   "rank": 260
   },
   "p2": {
-   "name": "Nicolas Kicker",
-   "country": "Argentina Height / Weight: 178 cm / 75 kg",
+   "name": "Samuel Heredia",
+   "country": "Colombia",
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 340
+   "rank": 634
   },
   "winner": 1,
   "sets": [
    [
-    "6",
-    "4"
+    "7",
+    "6(8)"
+   ],
+   [
+    "4",
+    "6"
    ],
    [
     "6",
-    "4"
+    "2"
    ]
   ],
   "live": false
@@ -3638,30 +8773,30 @@
  {
   "tournament": "te-cali-challenger-2026",
   "draw": "Qualifying",
-  "round": "Round of 16",
+  "round": "1st Round",
   "p1": {
-   "name": "Diego Dedura-Palomero",
-   "country": "Germany",
-   "seed": "1",
+   "name": "Felipe Meligeni Rodrigues Alves",
+   "country": "Brazil Height / Weight: 185 cm / 78 kg",
+   "seed": "3",
    "winner": true,
-   "roster": [
-    "university-of-texas-at-austin-mariano-dedura-palomero"
-   ],
-   "rank": 188
+   "roster": [],
+   "rank": 348
   },
   "p2": {
-   "name": "Frazier Rengifo",
-   "country": "Colombia",
+   "name": "Lorenzo Claverie",
+   "country": "Italy",
    "seed": "",
    "winner": false,
-   "roster": [],
-   "rank": 1587
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ],
+   "rank": 819
   },
   "winner": 1,
   "sets": [
    [
     "6",
-    "4"
+    "2"
    ],
    [
     "6",
@@ -3675,32 +8810,67 @@
   "draw": "Qualifying",
   "round": "1st Round",
   "p1": {
-   "name": "Diego Dedura-Palomero",
-   "country": "Germany",
-   "seed": "1",
+   "name": "Jose Pereira",
+   "country": "Brazil Height / Weight: 180 cm / 74 kg",
+   "seed": "",
    "winner": true,
-   "roster": [
-    "university-of-texas-at-austin-mariano-dedura-palomero"
-   ],
-   "rank": 188
+   "roster": [],
+   "rank": 739
   },
   "p2": {
-   "name": "Adria Soriano Barrera",
-   "country": "Colombia",
-   "seed": "",
+   "name": "Tristan McCormick",
+   "country": "USA Height: 193 cm",
+   "seed": "12",
    "winner": false,
-   "roster": [],
-   "rank": 985
+   "roster": [
+    "alumni-university-of-georgia-tristan-mccormick"
+   ],
+   "rank": 635
   },
   "winner": 1,
   "sets": [
    [
-    "7",
-    "6(4)"
+    "6",
+    "1"
    ],
    [
     "6",
-    "3"
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Jenson Brooksby",
+   "country": "USA Height / Weight: 188 cm / 82 kg",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jenson-brooksby"
+   ],
+   "rank": 94
+  },
+  "p2": {
+   "name": "Darwin Blanch",
+   "country": "USA",
+   "seed": "2",
+   "winner": false,
+   "roster": [],
+   "rank": 139
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -3714,7 +8884,9 @@
    "country": "USA Height / Weight: 188 cm / 82 kg",
    "seed": "1",
    "winner": true,
-   "roster": [],
+   "roster": [
+    "alumni-baylor-university-jenson-brooksby"
+   ],
    "rank": 94
   },
   "p2": {
@@ -3740,6 +8912,115 @@
    [
     "6",
     "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Semifinals",
+  "p1": {
+   "name": "Darwin Blanch",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": [],
+   "rank": 139
+  },
+  "p2": {
+   "name": "Sander Jong",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-tcu-sander-jong"
+   ],
+   "rank": 393
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Jenson Brooksby",
+   "country": "USA Height / Weight: 188 cm / 82 kg",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jenson-brooksby"
+   ],
+   "rank": 94
+  },
+  "p2": {
+   "name": "Patrick (2000) Maloney",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": null
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Sander Jong",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-sander-jong"
+   ],
+   "rank": 393
+  },
+  "p2": {
+   "name": "Aidan Mayo",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 285
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "0",
+    "6"
+   ],
+   [
+    "7",
+    "6(5)"
    ]
   ],
   "live": false
@@ -3821,6 +9102,45 @@
   "draw": "Main Draw",
   "round": "Round of 16",
   "p1": {
+   "name": "Sander Jong",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-sander-jong"
+   ],
+   "rank": 393
+  },
+  "p2": {
+   "name": "Jeffrey John Wolf",
+   "country": "USA Height / Weight: 183 cm / 79 kg",
+   "seed": "5",
+   "winner": false,
+   "roster": [],
+   "rank": 204
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "6(1)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
    "name": "Gabriel Debru",
    "country": "France",
    "seed": "",
@@ -3835,7 +9155,9 @@
    "country": "USA Height / Weight: 185 cm / 68 kg",
    "seed": "",
    "winner": false,
-   "roster": [],
+   "roster": [
+    "alumni-tcu-alex-rybakov"
+   ],
    "rank": 641
   },
   "winner": 1,
@@ -3895,6 +9217,43 @@
   "draw": "Main Draw",
   "round": "Round of 16",
   "p1": {
+   "name": "Jenson Brooksby",
+   "country": "USA Height / Weight: 188 cm / 82 kg",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jenson-brooksby"
+   ],
+   "rank": 94
+  },
+  "p2": {
+   "name": "Timo Legout",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-timo-legout"
+   ],
+   "rank": 338
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
    "name": "Mees Rottgering",
    "country": "Netherlands",
    "seed": "",
@@ -3909,7 +9268,9 @@
    "country": "France",
    "seed": "",
    "winner": false,
-   "roster": [],
+   "roster": [
+    "alumni-tcu-cosme-rolland-de-ravel"
+   ],
    "rank": 580
   },
   "winner": 1,
@@ -3921,6 +9282,117 @@
    [
     "7",
     "6(2)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Patrick (2000) Maloney",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": null
+  },
+  "p2": {
+   "name": "Kenta (2004) Miyoshi",
+   "country": "Japan",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi"
+   ],
+   "rank": null
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
+   ],
+   [
+    "6(3)",
+    "7"
+   ],
+   [
+    "7",
+    "6(5)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Sander Jong",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-sander-jong"
+   ],
+   "rank": 393
+  },
+  "p2": {
+   "name": "Lui Maxted",
+   "country": "Great Britain",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-tcu-lui-maxted"
+   ],
+   "rank": 428
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jeffrey John Wolf",
+   "country": "USA Height / Weight: 183 cm / 79 kg",
+   "seed": "5",
+   "winner": true,
+   "roster": [],
+   "rank": 204
+  },
+  "p2": {
+   "name": "Tyler Zink",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-georgia-tyler-zink"
+   ],
+   "rank": 441
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -3944,7 +9416,9 @@
    "country": "USA",
    "seed": "3",
    "winner": false,
-   "roster": [],
+   "roster": [
+    "alumni-nc-state-braden-shick"
+   ],
    "rank": 205
   },
   "winner": 1,
@@ -4008,6 +9482,115 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Kenta (2004) Miyoshi",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi"
+   ],
+   "rank": null
+  },
+  "p2": {
+   "name": "Murphy Cassone",
+   "country": "USA",
+   "seed": "6",
+   "winner": false,
+   "roster": [],
+   "rank": 283
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "6(0)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Igor Marcondes",
+   "country": "Brazil Height / Weight: 185 cm / 75 kg",
+   "seed": "7",
+   "winner": true,
+   "roster": [],
+   "rank": 279
+  },
+  "p2": {
+   "name": "Sebastian Gorzny",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-sebastian-gorzny"
+   ],
+   "rank": 403
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "2",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Alex Rybakov",
+   "country": "USA Height / Weight: 185 cm / 68 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-alex-rybakov"
+   ],
+   "rank": 641
+  },
+  "p2": {
+   "name": "Gavin Young",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 530
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Darwin Blanch",
    "country": "USA",
    "seed": "2",
@@ -4043,11 +9626,124 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Aidan Mayo",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 285
+  },
+  "p2": {
+   "name": "Colton Smith",
+   "country": "USA",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-arizona-colton-smith"
+   ],
+   "rank": 218
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "2",
+    "6"
+   ],
+   [
+    "7",
+    "6(7)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Cosme Rolland De Ravel",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-cosme-rolland-de-ravel"
+   ],
+   "rank": 580
+  },
+  "p2": {
+   "name": "Ozan Baris",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-michigan-state-ozan-baris"
+   ],
+   "rank": 397
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Kaylan Bigun",
+   "country": "USA Height / Weight: 183 cm / 79 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 523
+  },
+  "p2": {
+   "name": "Trevor Svajda",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-smu-trevor-svajda"
+   ],
+   "rank": 481
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Timo Legout",
    "country": "",
    "seed": "",
    "winner": true,
-   "roster": [],
+   "roster": [
+    "alumni-university-of-texas-at-austin-timo-legout"
+   ],
    "rank": 338
   },
   "p2": {
@@ -4104,6 +9800,45 @@
    [
     "6",
     "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jenson Brooksby",
+   "country": "USA Height / Weight: 188 cm / 82 kg",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jenson-brooksby"
+   ],
+   "rank": 94
+  },
+  "p2": {
+   "name": "Mitchell Krueger",
+   "country": "USA Height / Weight: 188 cm / 82 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 361
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
    ]
   ],
   "live": false
@@ -4178,6 +9913,82 @@
    [
     "6",
     "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Sander Jong",
+   "country": "Netherlands",
+   "seed": "9",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-sander-jong"
+   ],
+   "rank": 393
+  },
+  "p2": {
+   "name": "Kenta (2004) Miyoshi",
+   "country": "Japan",
+   "seed": "2",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi"
+   ],
+   "rank": null
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Alex Rybakov",
+   "country": "USA Height / Weight: 185 cm / 68 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-alex-rybakov"
+   ],
+   "rank": 641
+  },
+  "p2": {
+   "name": "Bor Artnak",
+   "country": "Slovenia",
+   "seed": "11",
+   "winner": false,
+   "roster": [],
+   "rank": 538
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -4304,6 +10115,45 @@
   "draw": "Qualifying",
   "round": "1st Round",
   "p1": {
+   "name": "Gavin Young",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 530
+  },
+  "p2": {
+   "name": "James Trotter",
+   "country": "Japan",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-ohio-state-james-trotter"
+   ],
+   "rank": 542
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
    "name": "Bor Artnak",
    "country": "Slovenia",
    "seed": "11",
@@ -4384,11 +10234,48 @@
   "draw": "Qualifying",
   "round": "1st Round",
   "p1": {
+   "name": "Kenta (2004) Miyoshi",
+   "country": "Japan",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi"
+   ],
+   "rank": null
+  },
+  "p2": {
+   "name": "Keshav Chopra",
+   "country": "USA Height / Weight: 178 cm / 58 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 694
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
    "name": "Sander Jong",
    "country": "Netherlands",
    "seed": "9",
    "winner": true,
-   "roster": [],
+   "roster": [
+    "alumni-tcu-sander-jong"
+   ],
    "rank": 393
   },
   "p2": {
@@ -4419,36 +10306,774 @@
   "live": false
  },
  {
-  "tournament": "te-guayaquil-challenger-2026",
-  "draw": "Main Draw",
-  "round": "Round of 16",
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
   "p1": {
-   "name": "Valerio Aboian",
-   "country": "Argentina",
+   "name": "Alex Rybakov",
+   "country": "USA Height / Weight: 185 cm / 68 kg",
    "seed": "",
    "winner": true,
-   "roster": [],
-   "rank": 258
+   "roster": [
+    "alumni-tcu-alex-rybakov"
+   ],
+   "rank": 641
   },
   "p2": {
-   "name": "Diego Dedura-Palomero",
-   "country": "Germany",
-   "seed": "7",
+   "name": "Karl Poling",
+   "country": "USA Height / Weight: 185 cm / 76 kg",
+   "seed": "3",
+   "winner": false,
+   "roster": [],
+   "rank": 453
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guangzhou-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Coleman Wong",
+   "country": "Hong Kong",
+   "seed": "1",
+   "winner": true,
+   "roster": [],
+   "rank": 85
+  },
+  "p2": {
+   "name": "Jay Friend",
+   "country": "Japan",
+   "seed": "",
    "winner": false,
    "roster": [
-    "university-of-texas-at-austin-mariano-dedura-palomero"
+    "alumni-university-of-arizona-jay-friend"
    ],
-   "rank": 188
+   "rank": 252
   },
   "winner": 1,
   "sets": [
    [
     "7",
+    "6(5)"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guangzhou-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Jay Friend",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-arizona-jay-friend"
+   ],
+   "rank": 252
+  },
+  "p2": {
+   "name": "James McCabe",
+   "country": "Australia",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 256
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "7",
+    "6(1)"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guangzhou-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jay Friend",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-arizona-jay-friend"
+   ],
+   "rank": 252
+  },
+  "p2": {
+   "name": "Ognjen Milic",
+   "country": "Serbia",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 377
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6(3)",
+    "7"
+   ],
+   [
+    "7",
+    "6(5)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-lisbon-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Elmer Moller",
+   "country": "Denmark Height / Weight: 183 cm / 73 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 150
+  },
+  "p2": {
+   "name": "Tristan Boyer",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-stanford-tristan-boyer"
+   ],
+   "rank": 207
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-lyon-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Daniel Altmaier",
+   "country": "Germany Height / Weight: 191 cm / 88 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 63
+  },
+  "p2": {
+   "name": "Borna Gojo",
+   "country": "Croatia Height / Weight: 196 cm / 90 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-borna-gojo"
+   ],
+   "rank": 133
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-lyon-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Benjamin Bonzi",
+   "country": "France Height / Weight: 185 cm / 76 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 95
+  },
+  "p2": {
+   "name": "Cameron Norrie",
+   "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-tcu-cameron-norrie"
+   ],
+   "rank": 45
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-lyon-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Borna Gojo",
+   "country": "Croatia Height / Weight: 196 cm / 90 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-borna-gojo"
+   ],
+   "rank": 133
+  },
+  "p2": {
+   "name": "Arthur Fery",
+   "country": "Great Britain",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-stanford-arthur-fery"
+   ],
+   "rank": 32
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "6(2)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-lyon-2026",
+  "draw": "Qualifying",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Borna Gojo",
+   "country": "Croatia Height / Weight: 196 cm / 90 kg",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-borna-gojo"
+   ],
+   "rank": 133
+  },
+  "p2": {
+   "name": "Vitaliy Sachko",
+   "country": "Ukraine Height / Weight: 183 cm / 68 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 175
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
     "6(4)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-lyon-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Borna Gojo",
+   "country": "Croatia Height / Weight: 196 cm / 90 kg",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-borna-gojo"
+   ],
+   "rank": 133
+  },
+  "p2": {
+   "name": "Francesco Maestrelli",
+   "country": "Italy",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 176
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "6(6)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-basel-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Jan-Lennard Struff",
+   "country": "Germany Height / Weight: 193 cm / 92 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 39
+  },
+  "p2": {
+   "name": "Nuno Borges",
+   "country": "Portugal Height / Weight: 185 cm / 75 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-nuno-borges"
+   ],
+   "rank": 49
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-basel-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Jerome Kym",
+   "country": "Switzerland Height / Weight: 198 cm / 87 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 164
+  },
+  "p2": {
+   "name": "Ben Shelton",
+   "country": "USA",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-ben-shelton"
+   ],
+   "rank": 4
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6(4)",
+    "7"
+   ],
+   [
+    "7",
+    "6(1)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-basel-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Nuno Borges",
+   "country": "Portugal Height / Weight: 185 cm / 75 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-nuno-borges"
+   ],
+   "rank": 49
+  },
+  "p2": {
+   "name": "Casper Ruud",
+   "country": "Norway Height / Weight: 183 cm / 77 kg",
+   "seed": "9",
+   "winner": false,
+   "roster": [],
+   "rank": 23
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-basel-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Ben Shelton",
+   "country": "USA",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-ben-shelton"
+   ],
+   "rank": 4
+  },
+  "p2": {
+   "name": "Aleksandar Kovacevic",
+   "country": "USA Height / Weight: 183 cm / 76 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 84
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(4)",
+    "7"
    ],
    [
     "7",
     "6(3)"
+   ],
+   [
+    "7",
+    "6(4)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-basel-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Nuno Borges",
+   "country": "Portugal Height / Weight: 185 cm / 75 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-nuno-borges"
+   ],
+   "rank": 49
+  },
+  "p2": {
+   "name": "Mika Brunold",
+   "country": "Switzerland",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 184
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brest-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Dino Prizmic",
+   "country": "Croatia",
+   "seed": "2",
+   "winner": true,
+   "roster": [],
+   "rank": 92
+  },
+  "p2": {
+   "name": "Borna Gojo",
+   "country": "Croatia Height / Weight: 196 cm / 90 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-borna-gojo"
+   ],
+   "rank": 133
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brest-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Borna Gojo",
+   "country": "Croatia Height / Weight: 196 cm / 90 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-wake-forest-borna-gojo"
+   ],
+   "rank": 133
+  },
+  "p2": {
+   "name": "Tom Paris",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 764
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(5)",
+    "7"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brest-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Dino Prizmic",
+   "country": "Croatia",
+   "seed": "2",
+   "winner": true,
+   "roster": [],
+   "rank": 92
+  },
+  "p2": {
+   "name": "Robin Catry",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-nc-state-robin-catry"
+   ],
+   "rank": 656
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brest-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Gabriel Diallo",
+   "country": "Canada",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 169
+  },
+  "p2": {
+   "name": "Nishesh Basavareddy",
+   "country": "USA",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-stanford-nishesh-basavareddy"
+   ],
+   "rank": 128
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brest-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Robin Catry",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-robin-catry"
+   ],
+   "rank": 656
+  },
+  "p2": {
+   "name": "Calvin Hemery",
+   "country": "France Height / Weight: 191 cm / 83 kg",
+   "seed": "2",
+   "winner": false,
+   "roster": [],
+   "rank": 274
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(2)",
+    "7"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brest-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Robin Catry",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-robin-catry"
+   ],
+   "rank": 656
+  },
+  "p2": {
+   "name": "Dimitar Kuzmanov",
+   "country": "Bulgaria Height / Weight: 193 cm / 77 kg",
+   "seed": "7",
+   "winner": false,
+   "roster": [],
+   "rank": 363
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
    ]
   ],
   "live": false
@@ -4458,22 +11083,92 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
-   "name": "Diego Dedura-Palomero",
-   "country": "Germany",
-   "seed": "7",
+   "name": "Joao Lucas Reis Da Silva",
+   "country": "Brazil Height / Weight: 175 cm / 75 kg",
+   "seed": "5",
    "winner": true,
-   "roster": [
-    "university-of-texas-at-austin-mariano-dedura-palomero"
-   ],
-   "rank": 188
+   "roster": [],
+   "rank": 177
   },
   "p2": {
-   "name": "Genaro Alberto Olivieri",
-   "country": "Argentina Height / Weight: 175 cm / 73 kg",
+   "name": "Lorenzo Claverie",
+   "country": "Italy",
    "seed": "",
    "winner": false,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ],
+   "rank": 819
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Alan Magadan",
+   "country": "Mexico",
+   "seed": "6",
+   "winner": true,
    "roster": [],
-   "rank": 257
+   "rank": 496
+  },
+  "p2": {
+   "name": "Tristan McCormick",
+   "country": "USA Height: 193 cm",
+   "seed": "9",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-georgia-tristan-mccormick"
+   ],
+   "rank": 635
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Lorenzo Claverie",
+   "country": "Italy",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ],
+   "rank": 819
+  },
+  "p2": {
+   "name": "Ryan Nijboer",
+   "country": "Netherlands Height / Weight: 180 cm / 77 kg",
+   "seed": "3",
+   "winner": false,
+   "roster": [],
+   "rank": 384
   },
   "winner": 1,
   "sets": [
@@ -4482,8 +11177,183 @@
     "5"
    ],
    [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Tristan McCormick",
+   "country": "USA Height: 193 cm",
+   "seed": "9",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-tristan-mccormick"
+   ],
+   "rank": 635
+  },
+  "p2": {
+   "name": "Bernardo Munk Mesa",
+   "country": "Spain",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 1100
+  },
+  "winner": 1,
+  "sets": [
+   [
     "7",
-    "6(3)"
+    "5"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Lorenzo Claverie",
+   "country": "Italy",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ],
+   "rank": 819
+  },
+  "p2": {
+   "name": "Arklon Huertas Del Pino",
+   "country": "Peru Weight: 87 kg",
+   "seed": "10",
+   "winner": false,
+   "roster": [],
+   "rank": 755
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-ningbo-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Yaroslav Demin",
+   "country": "Russia",
+   "seed": "11",
+   "winner": true,
+   "roster": [],
+   "rank": 358
+  },
+  "p2": {
+   "name": "Martin Borisiouk",
+   "country": "Belarus Height / Weight: 191 cm / 82 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-nc-state-martin-borisiouk"
+   ],
+   "rank": 726
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(6)"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-seoul-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Sho Shimabukuro",
+   "country": "Japan Height / Weight: 183 cm / 75 kg",
+   "seed": "7",
+   "winner": true,
+   "roster": [],
+   "rank": 118
+  },
+  "p2": {
+   "name": "Jay Friend",
+   "country": "Japan",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-arizona-jay-friend"
+   ],
+   "rank": 252
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-seoul-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jay Friend",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-arizona-jay-friend"
+   ],
+   "rank": 252
+  },
+  "p2": {
+   "name": "August Holmgren",
+   "country": "Denmark",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 267
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -4519,6 +11389,45 @@
    [
     "6",
     "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-seoul-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Uisung Park",
+   "country": "South Korea",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 754
+  },
+  "p2": {
+   "name": "Alafia Ayeni",
+   "country": "USA Height / Weight: 191 cm / 82 kg",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "alumni-cornell-alafia-ayeni"
+   ],
+   "rank": 434
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -4717,7 +11626,9 @@
    "country": "USA Height / Weight: 188 cm / 82 kg",
    "seed": "1",
    "winner": false,
-   "roster": [],
+   "roster": [
+    "alumni-baylor-university-jenson-brooksby"
+   ],
    "rank": 94
   },
   "winner": 1,
@@ -4773,6 +11684,41 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Darwin Blanch",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [],
+   "rank": 139
+  },
+  "p2": {
+   "name": "Sebastian Gorzny",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-sebastian-gorzny"
+   ],
+   "rank": 403
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Daniil Ostapenkov",
    "country": "Belarus",
    "seed": "",
@@ -4787,7 +11733,9 @@
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": [],
+   "roster": [
+    "alumni-michigan-state-ozan-baris"
+   ],
    "rank": 397
   },
   "winner": 1,
@@ -4799,6 +11747,41 @@
    [
     "6",
     "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Valentin Royer",
+   "country": "France Height / Weight: 188 cm / 83 kg",
+   "seed": "2",
+   "winner": true,
+   "roster": [],
+   "rank": 120
+  },
+  "p2": {
+   "name": "Timo Legout",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-texas-at-austin-timo-legout"
+   ],
+   "rank": 338
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "6(6)"
    ]
   ],
   "live": false
@@ -4843,11 +11826,48 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Maks Kasnikowski",
+   "country": "Poland",
+   "seed": "8",
+   "winner": true,
+   "roster": [],
+   "rank": 211
+  },
+  "p2": {
+   "name": "James Trotter",
+   "country": "Japan",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-ohio-state-james-trotter"
+   ],
+   "rank": 542
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Jenson Brooksby",
    "country": "USA Height / Weight: 188 cm / 82 kg",
    "seed": "1",
    "winner": true,
-   "roster": [],
+   "roster": [
+    "alumni-baylor-university-jenson-brooksby"
+   ],
    "rank": 94
   },
   "p2": {
@@ -4859,6 +11879,41 @@
     "ohio-state-bryce-nakashima"
    ],
    "rank": 570
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Max Hans Rehberg",
+   "country": "Germany",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 248
+  },
+  "p2": {
+   "name": "Braden Shick",
+   "country": "USA",
+   "seed": "6",
+   "winner": false,
+   "roster": [
+    "alumni-nc-state-braden-shick"
+   ],
+   "rank": 205
   },
   "winner": 1,
   "sets": [
@@ -4892,7 +11947,9 @@
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": [],
+   "roster": [
+    "alumni-university-of-arizona-colton-smith"
+   ],
    "rank": 218
   },
   "winner": 1,
@@ -4927,7 +11984,9 @@
    "country": "Canada Height / Weight: 180 cm / 79 kg",
    "seed": "4",
    "winner": false,
-   "roster": [],
+   "roster": [
+    "alumni-nc-state-alexis-galarneau"
+   ],
    "rank": 195
   },
   "winner": 1,
@@ -4939,6 +11998,86 @@
    [
     "6",
     "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "James Trotter",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-james-trotter"
+   ],
+   "rank": 542
+  },
+  "p2": {
+   "name": "Ozan Baris",
+   "country": "USA",
+   "seed": "2",
+   "winner": false,
+   "roster": [
+    "alumni-michigan-state-ozan-baris"
+   ],
+   "rank": 397
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "6(6)",
+    "7"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Timo Legout",
+   "country": "",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-timo-legout"
+   ],
+   "rank": 338
+  },
+  "p2": {
+   "name": "Andrew Fenty",
+   "country": "USA Height / Weight: 194 cm / 93 kg",
+   "seed": "7",
+   "winner": false,
+   "roster": [],
+   "rank": 489
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "2",
+    "6"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -5063,6 +12202,123 @@
   "draw": "Qualifying",
   "round": "1st Round",
   "p1": {
+   "name": "Sebastian Dominko",
+   "country": "Slovenia",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 456
+  },
+  "p2": {
+   "name": "Justin Boulais",
+   "country": "Canada Height / Weight: 183 cm / 77 kg",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "alumni-ohio-state-justin-boulais"
+   ],
+   "rank": 439
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Ozan Baris",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-michigan-state-ozan-baris"
+   ],
+   "rank": 397
+  },
+  "p2": {
+   "name": "Hunter Heck",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-hunter-heck"
+   ],
+   "rank": 602
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "James Trotter",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-james-trotter"
+   ],
+   "rank": 542
+  },
+  "p2": {
+   "name": "Trevor Svajda",
+   "country": "USA",
+   "seed": "10",
+   "winner": false,
+   "roster": [
+    "alumni-smu-trevor-svajda"
+   ],
+   "rank": 481
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
    "name": "Andrew Fenty",
    "country": "USA Height / Weight: 194 cm / 93 kg",
    "seed": "7",
@@ -5085,6 +12341,43 @@
    [
     "7",
     "5"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Timo Legout",
+   "country": "",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-timo-legout"
+   ],
+   "rank": 338
+  },
+  "p2": {
+   "name": "Daniel De Jonge",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-pepperdine-daniel-de-jonge"
+   ],
+   "rank": 569
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(6)"
    ],
    [
     "6",
@@ -5149,7 +12442,9 @@
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": [],
+   "roster": [
+    "alumni-university-of-texas-at-austin-jonah-braswell"
+   ],
    "rank": 1469
   },
   "winner": 1,
@@ -5196,6 +12491,545 @@
    [
     "6",
     "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Gavin Young",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 530
+  },
+  "p2": {
+   "name": "Kenta (2004) Miyoshi",
+   "country": "Japan",
+   "seed": "5",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi"
+   ],
+   "rank": null
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-vienna-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Alexander Zverev",
+   "country": "Germany Height / Weight: 198 cm / 90 kg",
+   "seed": "1",
+   "winner": true,
+   "roster": [],
+   "rank": 1
+  },
+  "p2": {
+   "name": "Arthur Fery",
+   "country": "Great Britain",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-stanford-arthur-fery"
+   ],
+   "rank": 32
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-vienna-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Arthur Fery",
+   "country": "Great Britain",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-stanford-arthur-fery"
+   ],
+   "rank": 32
+  },
+  "p2": {
+   "name": "Lorenzo Musetti",
+   "country": "Italy Height / Weight: 185 cm / 75 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 24
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "5",
+    "7"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-vienna-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Daniil Medvedev",
+   "country": "Russia Height / Weight: 198 cm / 83 kg",
+   "seed": "3",
+   "winner": true,
+   "roster": [],
+   "rank": 5
+  },
+  "p2": {
+   "name": "Cameron Norrie",
+   "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-tcu-cameron-norrie"
+   ],
+   "rank": 45
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "6(1)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-vienna-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Alex De Minaur",
+   "country": "Australia Height / Weight: 183 cm / 69 kg",
+   "seed": "5",
+   "winner": true,
+   "roster": [],
+   "rank": 9
+  },
+  "p2": {
+   "name": "Learner Tien",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-usc-learner-tien"
+   ],
+   "rank": 19
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-vienna-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Cameron Norrie",
+   "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-cameron-norrie"
+   ],
+   "rank": 45
+  },
+  "p2": {
+   "name": "Francisco Cerundolo",
+   "country": "Argentina Height / Weight: 185 cm / 78 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 20
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-vienna-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Learner Tien",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-usc-learner-tien"
+   ],
+   "rank": 19
+  },
+  "p2": {
+   "name": "Luca Van Assche",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 47
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-vienna-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Arthur Fery",
+   "country": "Great Britain",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-stanford-arthur-fery"
+   ],
+   "rank": 32
+  },
+  "p2": {
+   "name": "Jacob Fearnley",
+   "country": "Great Britain",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 90
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "5",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-bratislava-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Sascha Gueymard Wayenburg",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 187
+  },
+  "p2": {
+   "name": "Eero Vasa",
+   "country": "Finland Height / Weight: 188 cm / 79 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-pepperdine-eero-vasa"
+   ],
+   "rank": 478
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-bratislava-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Nishesh Basavareddy",
+   "country": "USA",
+   "seed": "9",
+   "winner": true,
+   "roster": [
+    "alumni-stanford-nishesh-basavareddy"
+   ],
+   "rank": 128
+  },
+  "p2": {
+   "name": "Milos Karol",
+   "country": "Slovakia Height / Weight: 198 cm / 90 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 597
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-bratislava-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Eero Vasa",
+   "country": "Finland Height / Weight: 188 cm / 79 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-pepperdine-eero-vasa"
+   ],
+   "rank": 478
+  },
+  "p2": {
+   "name": "Vadym Ursu",
+   "country": "Ukraine Height / Weight: 180 cm / 71 kg",
+   "seed": "9",
+   "winner": false,
+   "roster": [],
+   "rank": 414
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-bratislava-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Eero Vasa",
+   "country": "Finland Height / Weight: 188 cm / 79 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-pepperdine-eero-vasa"
+   ],
+   "rank": 478
+  },
+  "p2": {
+   "name": "Andrej Martin",
+   "country": "Slovakia Height / Weight: 183 cm / 83 kg",
+   "seed": "6",
+   "winner": false,
+   "roster": [],
+   "rank": 351
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "2",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "James Trotter",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-james-trotter"
+   ],
+   "rank": 542
+  },
+  "p2": {
+   "name": "Michael Zheng",
+   "country": "USA",
+   "seed": "2",
+   "winner": false,
+   "roster": [
+    "alumni-columbia-michael-zheng"
+   ],
+   "rank": 100
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Max Hans Rehberg",
+   "country": "Germany",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 248
+  },
+  "p2": {
+   "name": "Trevor Svajda",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-smu-trevor-svajda"
+   ],
+   "rank": 481
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Daniel Milavsky",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 307
+  },
+  "p2": {
+   "name": "Alexis Galarneau",
+   "country": "Canada Height / Weight: 180 cm / 79 kg",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-nc-state-alexis-galarneau"
+   ],
+   "rank": 195
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -5275,6 +13109,109 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Justin Boulais",
+   "country": "Canada Height / Weight: 183 cm / 77 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-justin-boulais"
+   ],
+   "rank": 439
+  },
+  "p2": {
+   "name": "Jeffrey John Wolf",
+   "country": "USA Height / Weight: 183 cm / 79 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 204
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Alastair Gray",
+   "country": "Great Britain Height / Weight: 188 cm / 73 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-alastair-gray"
+   ],
+   "rank": 270
+  },
+  "p2": {
+   "name": "Valentin Royer",
+   "country": "France Height / Weight: 188 cm / 83 kg",
+   "seed": "4",
+   "winner": false,
+   "roster": [],
+   "rank": 120
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Braden Shick",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-nc-state-braden-shick"
+   ],
+   "rank": 205
+  },
+  "p2": {
+   "name": "Colton Smith",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-arizona-colton-smith"
+   ],
+   "rank": 218
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "2",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Jack Kennedy",
    "country": "USA",
    "seed": "",
@@ -5305,6 +13242,41 @@
    [
     "6",
     "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Aidan Mayo",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [],
+   "rank": 285
+  },
+  "p2": {
+   "name": "Kenta (2004) Miyoshi",
+   "country": "Japan",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi"
+   ],
+   "rank": null
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
    ]
   ],
   "live": false
@@ -5347,13 +13319,91 @@
  {
   "tournament": "te-charlottesville-challenger-2026",
   "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Justin Boulais",
+   "country": "Canada Height / Weight: 183 cm / 77 kg",
+   "seed": "9",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-justin-boulais"
+   ],
+   "rank": 439
+  },
+  "p2": {
+   "name": "Samuel Heredia",
+   "country": "Colombia",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 634
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "James Trotter",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-james-trotter"
+   ],
+   "rank": 542
+  },
+  "p2": {
+   "name": "Ozan Baris",
+   "country": "USA",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-michigan-state-ozan-baris"
+   ],
+   "rank": 397
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
   "round": "1st Round",
   "p1": {
    "name": "Kenta (2004) Miyoshi",
    "country": "Japan",
    "seed": "8",
    "winner": true,
-   "roster": [],
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi"
+   ],
    "rank": null
   },
   "p2": {
@@ -5466,7 +13516,9 @@
    "country": "USA",
    "seed": "7",
    "winner": true,
-   "roster": [],
+   "roster": [
+    "alumni-michigan-state-ozan-baris"
+   ],
    "rank": 397
   },
   "p2": {
@@ -5488,6 +13540,660 @@
    [
     "6",
     "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "James Trotter",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-james-trotter"
+   ],
+   "rank": 542
+  },
+  "p2": {
+   "name": "Oliver Okonkwo",
+   "country": "Great Britain",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-illinois-at-urbana-champaign-oliver-okonkwo"
+   ],
+   "rank": 964
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Justin Boulais",
+   "country": "Canada Height / Weight: 183 cm / 77 kg",
+   "seed": "9",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-justin-boulais"
+   ],
+   "rank": 439
+  },
+  "p2": {
+   "name": "Joshua Sheehy",
+   "country": "USA Height / Weight: 188 cm / 80 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 763
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Nuno Borges",
+   "country": "Portugal Height / Weight: 185 cm / 75 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-nuno-borges"
+   ],
+   "rank": 49
+  },
+  "p2": {
+   "name": "Karen Khachanov",
+   "country": "Russia Height / Weight: 198 cm / 87 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 25
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Luca Van Assche",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 47
+  },
+  "p2": {
+   "name": "Learner Tien",
+   "country": "USA",
+   "seed": "15",
+   "winner": false,
+   "roster": [
+    "alumni-usc-learner-tien"
+   ],
+   "rank": 19
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(4)"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Ben Shelton",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-ben-shelton"
+   ],
+   "rank": 4
+  },
+  "p2": {
+   "name": "Cameron Norrie",
+   "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-tcu-cameron-norrie"
+   ],
+   "rank": 45
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Nuno Borges",
+   "country": "Portugal Height / Weight: 185 cm / 75 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-nuno-borges"
+   ],
+   "rank": 49
+  },
+  "p2": {
+   "name": "Moise Kouame",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 132
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Learner Tien",
+   "country": "USA",
+   "seed": "15",
+   "winner": true,
+   "roster": [
+    "alumni-usc-learner-tien"
+   ],
+   "rank": 19
+  },
+  "p2": {
+   "name": "Adolfo Daniel Vallejo",
+   "country": "Paraguay",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 56
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "5",
+    "7"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Quentin Halys",
+   "country": "France Height / Weight: 191 cm / 78 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 46
+  },
+  "p2": {
+   "name": "Arthur Fery",
+   "country": "Great Britain",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-stanford-arthur-fery"
+   ],
+   "rank": 32
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(6)"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Cameron Norrie",
+   "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-cameron-norrie"
+   ],
+   "rank": 45
+  },
+  "p2": {
+   "name": "Matteo Arnaldi",
+   "country": "Italy",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 36
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "1",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Alex Molcan",
+   "country": "Slovakia Height / Weight: 178 cm / 73 kg",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 78
+  },
+  "p2": {
+   "name": "Nuno Borges",
+   "country": "Portugal Height / Weight: 185 cm / 75 kg",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-nuno-borges"
+   ],
+   "rank": 49
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Nuno Borges",
+   "country": "Portugal Height / Weight: 185 cm / 75 kg",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-nuno-borges"
+   ],
+   "rank": 49
+  },
+  "p2": {
+   "name": "Adrian Mannarino",
+   "country": "France Height / Weight: 180 cm / 79 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 59
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-taipei-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Kaichi Uchida",
+   "country": "Japan Height / Weight: 180 cm / 74 kg",
+   "seed": "11",
+   "winner": true,
+   "roster": [],
+   "rank": 401
+  },
+  "p2": {
+   "name": "Alafia Ayeni",
+   "country": "USA Height / Weight: 191 cm / 82 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-cornell-alafia-ayeni"
+   ],
+   "rank": 434
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "4",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-taipei-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Masamichi Imamura",
+   "country": "Japan",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 437
+  },
+  "p2": {
+   "name": "Luca Staeheli",
+   "country": "Switzerland",
+   "seed": "12",
+   "winner": false,
+   "roster": [
+    "alumni-nc-state-luca-staeheli"
+   ],
+   "rank": 449
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-taranto-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Peter Makk",
+   "country": "Hungary",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-usc-peter-makk"
+   ],
+   "rank": 537
+  },
+  "p2": {
+   "name": "Filippo Romano",
+   "country": "Italy",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 240
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-taranto-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Philip Henning",
+   "country": "RSA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-philip-henning"
+   ],
+   "rank": 236
+  },
+  "p2": {
+   "name": "Calvin Hemery",
+   "country": "France Height / Weight: 191 cm / 83 kg",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 274
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-taranto-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Peter Makk",
+   "country": "Hungary",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-usc-peter-makk"
+   ],
+   "rank": 537
+  },
+  "p2": {
+   "name": "Tiago Pereira",
+   "country": "Portugal",
+   "seed": "1",
+   "winner": false,
+   "roster": [],
+   "rank": 318
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-taranto-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Matteo Sciahbasi",
+   "country": "",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 873
+  },
+  "p2": {
+   "name": "Arvid Nordquist",
+   "country": "Sweden Height / Weight: 185 cm / 84 kg",
+   "seed": "10",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-arvid-nordquist"
+   ],
+   "rank": 657
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "6(9)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-taranto-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Peter Makk",
+   "country": "Hungary",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-usc-peter-makk"
+   ],
+   "rank": 537
+  },
+  "p2": {
+   "name": "Marco Bavaro",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": null
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
    ]
   ],
   "live": false

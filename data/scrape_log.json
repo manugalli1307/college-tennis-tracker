@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:42:30+00:00",
+ "updated": "2026-11-04T17:28:30+00:00",
  "atp": [
   {
    "step": "event",
@@ -16,7 +16,7 @@
    "name": "Brussels ATP",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 4,
    "data": true
   },
   {
@@ -43,7 +43,7 @@
    "name": "Fort Worth Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 19,
+   "matches": 40,
    "data": true
   },
   {
@@ -52,7 +52,7 @@
    "name": "Guangzhou Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 3,
    "data": true
   },
   {
@@ -61,7 +61,7 @@
    "name": "Lisbon Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 1,
    "data": true
   },
   {
@@ -70,7 +70,7 @@
    "name": "Lyon ATP",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 5,
    "data": true
   },
   {
@@ -79,7 +79,7 @@
    "name": "Basel ATP",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 5,
    "data": true
   },
   {
@@ -88,7 +88,7 @@
    "name": "Brest Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 6,
    "data": true
   },
   {
@@ -97,7 +97,7 @@
    "name": "Guayaquil Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 2,
+   "matches": 5,
    "data": true
   },
   {
@@ -106,7 +106,7 @@
    "name": "Ningbo Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 1,
    "data": true
   },
   {
@@ -115,7 +115,7 @@
    "name": "Seoul Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 1,
+   "matches": 4,
    "data": true
   },
   {
@@ -124,7 +124,7 @@
    "name": "Sioux Falls Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 19,
+   "matches": 30,
    "data": true
   },
   {
@@ -133,7 +133,7 @@
    "name": "Vienna ATP",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 7,
    "data": true
   },
   {
@@ -141,8 +141,8 @@
    "id": "te-bratislava-challenger-2026",
    "name": "Bratislava Challenger",
    "status": "current",
-   "entries": 0,
-   "matches": 0,
+   "entries": 3,
+   "matches": 4,
    "data": true
   },
   {
@@ -150,8 +150,8 @@
    "id": "te-charlottesville-challenger-2026",
    "name": "Charlottesville Challenger",
    "status": "current",
-   "entries": 7,
-   "matches": 8,
+   "entries": 20,
+   "matches": 19,
    "data": true
   },
   {
@@ -168,8 +168,8 @@
    "id": "te-paris-2026",
    "name": "Paris ATP",
    "status": "current",
-   "entries": 0,
-   "matches": 0,
+   "entries": 6,
+   "matches": 9,
    "data": true
   },
   {
@@ -177,8 +177,8 @@
    "id": "te-taipei-challenger-2026",
    "name": "Taipei Challenger",
    "status": "current",
-   "entries": 0,
-   "matches": 0,
+   "entries": 2,
+   "matches": 2,
    "data": true
   },
   {
@@ -195,13 +195,13 @@
    "id": "te-taranto-challenger-2026",
    "name": "Taranto Challenger",
    "status": "current",
-   "entries": 0,
-   "matches": 0,
+   "entries": 4,
+   "matches": 5,
    "data": true
   },
   {
    "step": "profiles opened",
-   "count": 0
+   "count": 116
   }
  ]
 }
