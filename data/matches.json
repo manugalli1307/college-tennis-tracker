@@ -3564,5 +3564,170 @@
    ]
   ],
   "live": false
+ },
+ {
+  "tournament": "te-cali-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Felipe Meligeni Rodrigues Alves",
+   "country": "Brazil Height / Weight: 185 cm / 78 kg",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Diego Dedura-Palomero",
+   "country": "Germany",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-texas-at-austin-mariano-dedura-palomero"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-cali-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Diego Dedura-Palomero",
+   "country": "Germany",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-mariano-dedura-palomero"
+   ]
+  },
+  "p2": {
+   "name": "Nicolas Kicker",
+   "country": "Argentina Height / Weight: 178 cm / 75 kg",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-cali-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Diego Dedura-Palomero",
+   "country": "Germany",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-mariano-dedura-palomero"
+   ]
+  },
+  "p2": {
+   "name": "Frazier Rengifo",
+   "country": "Colombia",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-cali-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Diego Dedura-Palomero",
+   "country": "Germany",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-mariano-dedura-palomero"
+   ]
+  },
+  "p2": {
+   "name": "Adria Soriano Barrera",
+   "country": "Colombia",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(4)"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-seoul-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Billy Harris",
+   "country": "Great Britain Height / Weight: 191 cm / 86 kg",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Jangjun Kim",
+   "country": "South Korea",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-virginia-jangjun-kim"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(2)"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
  }
 ]

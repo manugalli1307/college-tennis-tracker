@@ -1,5 +1,60 @@
 [
  {
+  "id": "te-almaty-2026",
+  "name": "Almaty ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/almaty/2026/atp-men/"
+ },
+ {
+  "id": "te-brussels-2026",
+  "name": "Brussels ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/brussels/2026/atp-men/"
+ },
+ {
+  "id": "te-cali-challenger-2026",
+  "name": "Cali Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/cali-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-lisbon-challenger-2026",
+  "name": "Lisbon Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/lisbon-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-lyon-2026",
+  "name": "Lyon ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/lyon/2026/atp-men/"
+ },
+ {
   "id": "m-itf-cro-2026-009",
   "name": "M15 Bol",
   "category": "M15",
@@ -163,6 +218,28 @@
   "end": "2026-10-25",
   "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m25-tamworth/aus/2026/m-itf-aus-2026-011/"
+ },
+ {
+  "id": "te-basel-2026",
+  "name": "Basel ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/basel/2026/atp-men/"
+ },
+ {
+  "id": "te-brest-challenger-2026",
+  "name": "Brest Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/brest-challenger/2026/atp-men/"
  },
  {
   "id": "m-itf-uzb-2026-001",
@@ -330,6 +407,39 @@
   "url": "https://www.itftennis.com/en/tournament/m25-tamworth/aus/2026/m-itf-aus-2026-012/"
  },
  {
+  "id": "te-ningbo-challenger-2026",
+  "name": "Ningbo Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/ningbo-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-seoul-challenger-2026",
+  "name": "Seoul Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/seoul-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-vienna-2026",
+  "name": "Vienna ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/vienna/2026/atp-men/"
+ },
+ {
   "id": "m-itf-tur-2026-027",
   "name": "M15 Antalya",
   "category": "M15",
@@ -482,6 +592,39 @@
   "end": "2026-11-08",
   "status": "current",
   "url": "https://www.itftennis.com/en/tournament/m25-valencia/esp/2026/m-itf-esp-2026-050/"
+ },
+ {
+  "id": "te-paris-2026",
+  "name": "Paris ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "status": "current",
+  "url": "https://www.tennisexplorer.com/paris/2026/atp-men/"
+ },
+ {
+  "id": "te-taipei-challenger-2026",
+  "name": "Taipei Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "status": "current",
+  "url": "https://www.tennisexplorer.com/taipei-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-taranto-challenger-2026",
+  "name": "Taranto Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-03",
+  "end": "2026-11-09",
+  "status": "current",
+  "url": "https://www.tennisexplorer.com/taranto-challenger/2026/atp-men/"
  },
  {
   "id": "m-itf-tur-2026-028",

@@ -1,15 +1,126 @@
 {
- "updated": "2026-11-04T13:19:38+00:00",
+ "updated": "2026-11-04T13:48:17+00:00",
  "atp": [
   {
-   "step": "calendar Challenger",
-   "error": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"ul.events > li\")\n",
-   "page": "title='Challenger Tour | Calendar | ATP Tour | Tennis' body='Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window DIGITAL INNOVATION PARTNER LOG IN EN Experiences Shop TOURNAMENTS ATP Tour Challenger ITF Search Open All2026-27 Calendar '"
+   "step": "event",
+   "id": "te-almaty-2026",
+   "name": "Almaty ATP",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
   },
   {
-   "step": "calendar ATP",
-   "error": "Page.wait_for_selector: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"ul.events > li\")\n",
-   "page": "title='Attention Required! | Cloudflare' body='Sorry, you have been blocked You are unable to access atptour.com Why have I been blocked?  This website is using a security service to protect itself from online attacks. The action you just performe'"
+   "step": "event",
+   "id": "te-brussels-2026",
+   "name": "Brussels ATP",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-cali-challenger-2026",
+   "name": "Cali Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 4,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-lisbon-challenger-2026",
+   "name": "Lisbon Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-lyon-2026",
+   "name": "Lyon ATP",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-basel-2026",
+   "name": "Basel ATP",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-brest-challenger-2026",
+   "name": "Brest Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-ningbo-challenger-2026",
+   "name": "Ningbo Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-seoul-challenger-2026",
+   "name": "Seoul Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 1,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-vienna-2026",
+   "name": "Vienna ATP",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-paris-2026",
+   "name": "Paris ATP",
+   "status": "current",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-taipei-challenger-2026",
+   "name": "Taipei Challenger",
+   "status": "current",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-taranto-challenger-2026",
+   "name": "Taranto Challenger",
+   "status": "current",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "profiles opened",
+   "count": 26
   }
  ]
 }
