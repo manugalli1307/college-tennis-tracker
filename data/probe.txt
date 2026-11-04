@@ -3,3 +3,8 @@ OK   ATP site: calendar: status 200, 8155 characters, expected text found
 OK   Tennis Explorer: calendar: status 200, 21774 characters, expected text found
 OK   Tennis Explorer: draw: status 200, 5564 characters, expected text found
 OK   Tennis Explorer: player: status 200, 5508 characters, expected text found
+saved calendar 334152
+saved event 156785
+saved event_draw 156803
+saved event_qual 143061
+saved player 130655
