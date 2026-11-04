@@ -1,0 +1,32 @@
+name: Probe school rosters
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Save sample roster pages
+        run: python scraper/alumni_probe.py | tee alumni_probe.txt
+      - name: Save the result
+        run: |
+          git config user.name "tennis-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          mkdir -p probes && mv alumni_probe.txt probes/alumni_probe.txt
+          rm -rf probes/alumni_html && mv alumni_html probes/alumni_html
+          git add probes
+          git commit -m "Alumni probe $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to save"
+          git pull --rebase -X theirs origin main
+          git push origin HEAD:main
