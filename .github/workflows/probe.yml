@@ -25,7 +25,8 @@ jobs:
           git config user.name "tennis-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           mkdir -p data && mv probe.txt data/probe.txt
-          git add data/probe.txt
+          rm -rf data/probe_html && mv probe_html data/probe_html
+          git add data/probe.txt data/probe_html
           git commit -m "Probe result $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to save"
           git pull --rebase -X theirs origin main
           git push origin HEAD:main

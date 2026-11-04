@@ -27,3 +27,28 @@ with sync_playwright() as p:
         except Exception as e:
             print(f"FAIL {label}: {str(e)[:120]}")
     b.close()
+
+# ---- Save sample pages so the Tennis Explorer reader can be written against real HTML ----
+import os, re
+os.makedirs("probe_html", exist_ok=True)
+SAMPLES = {
+    "calendar": "https://www.tennisexplorer.com/calendar/atp-men/2026/",
+    "event": "https://www.tennisexplorer.com/charlottesville-challenger/2026/atp-men/",
+    "event_draw": "https://www.tennisexplorer.com/charlottesville-challenger/2026/atp-men/?draw=1",
+    "event_qual": "https://www.tennisexplorer.com/charlottesville-challenger/2026/atp-men/?phase=qualification",
+    "player": "https://www.tennisexplorer.com/player/santamarta-roig/",
+}
+with sync_playwright() as p:
+    b = p.chromium.launch(headless=True)
+    pg = b.new_page(user_agent=UA)
+    for name, url in SAMPLES.items():
+        try:
+            pg.goto(url, timeout=45000)
+            pg.wait_for_timeout(3000)
+            html = pg.content()
+            html = re.sub(r"<script.*?</script>|<style.*?</style>", "", html, flags=re.S)
+            open(f"probe_html/{name}.html", "w", encoding="utf-8").write(html[:400000])
+            print("saved", name, len(html))
+        except Exception as e:
+            print("could not save", name, str(e)[:100])
+    b.close()
