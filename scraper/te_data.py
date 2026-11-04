@@ -68,15 +68,16 @@ def read_calendar(page, today, back_days, ahead_days, classify):
                 start = date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
             except ValueError:
                 continue
-            name = a.get_text(" ", strip=True)
+            sp = a.find("span", title=True)
+            name = (sp["title"] if sp else a.get_text(" ", strip=True)).strip()
             main = tr.get("data-type") == "main"
-            if not main and "challenger" not in name.lower():
+            if not main and "chall" not in name.lower():
                 continue  # ITF / UTR events come from the ITF site
             end = start + timedelta(days=6)
             status = classify(start, end, today, ahead_days, back_days)
             if status is None:
                 continue
-            city = re.sub(r"\s*challenger\s*$", "", name, flags=re.I).strip()
+            city = re.sub(r"\s*chall(enger)?\.?\s*$", "", name, flags=re.I).strip()
             slug = hm.group(1)
             events[f"te-{slug}-{hm.group(2)}"] = {
                 "id": f"te-{slug}-{hm.group(2)}",
