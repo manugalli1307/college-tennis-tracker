@@ -1,338 +1,512 @@
 {
  "daniel-2dd17": {
   "raw": "Daniel Taro",
-  "country": "Japan Height / Weight: 191 cm / 80 kg"
+  "country": "Japan Height / Weight: 191 cm / 80 kg",
+  "rank": 178,
+  "asof": "2026-11-04"
  },
  "dedura-palomero-d612d": {
   "raw": "Dedura-Palomero Diego",
-  "country": "Germany"
+  "country": "Germany",
+  "rank": 188,
+  "asof": "2026-11-04"
  },
  "meligeni-rodrigues-alves": {
   "raw": "Meligeni Rodrigues Alves Felipe",
-  "country": "Brazil Height / Weight: 185 cm / 78 kg"
+  "country": "Brazil Height / Weight: 185 cm / 78 kg",
+  "rank": 348,
+  "asof": "2026-11-04"
  },
  "kicker": {
   "raw": "Kicker Nicolas",
-  "country": "Argentina Height / Weight: 178 cm / 75 kg"
+  "country": "Argentina Height / Weight: 178 cm / 75 kg",
+  "rank": 340,
+  "asof": "2026-11-04"
  },
  "casanova-dbdaf": {
   "raw": "Casanova Hernan",
-  "country": "Argentina Height / Weight: 178 cm / 76 kg"
+  "country": "Argentina Height / Weight: 178 cm / 76 kg",
+  "rank": 438,
+  "asof": "2026-11-04"
  },
  "gomez-0d12e": {
   "raw": "Gomez Juan Sebastian",
-  "country": "Colombia Height: 178 cm"
+  "country": "Colombia Height: 178 cm",
+  "rank": 582,
+  "asof": "2026-11-04"
  },
  "rengifo-e334b": {
   "raw": "Rengifo Frazier",
-  "country": "Colombia"
+  "country": "Colombia",
+  "rank": 1587,
+  "asof": "2026-11-04"
  },
  "soriano-barrera": {
   "raw": "Soriano Barrera Adria",
-  "country": "Colombia"
+  "country": "Colombia",
+  "rank": 985,
+  "asof": "2026-11-04"
  },
  "flores-d3104": {
   "raw": "Flores Jesse",
-  "country": "Costa Rica Height / Weight: 188 cm / 82 kg"
+  "country": "Costa Rica Height / Weight: 188 cm / 82 kg",
+  "rank": 810,
+  "asof": "2026-11-04"
  },
  "silva-eb375": {
   "raw": "Silva Joao",
-  "country": "Portugal"
+  "country": "Portugal",
+  "rank": 1323,
+  "asof": "2026-11-04"
  },
  "paul-324c3": {
   "raw": "Paul Tommy",
-  "country": "USA Height / Weight: 185 cm / 82 kg"
+  "country": "USA Height / Weight: 185 cm / 82 kg",
+  "rank": 14,
+  "asof": "2026-11-04"
  },
  "nakashima-68876": {
   "raw": "Nakashima Brandon",
-  "country": "USA Height / Weight: 185 cm / 77 kg"
+  "country": "USA Height / Weight: 185 cm / 77 kg",
+  "rank": 18,
+  "asof": "2026-11-04"
  },
  "paul-b9a07": {
   "raw": "Paul Jakub",
-  "country": "Switzerland"
+  "country": "Switzerland",
+  "rank": 1001,
+  "asof": "2026-11-04"
  },
  "mcdonald-245be": {
   "raw": "McDonald Niels",
-  "country": ""
+  "country": "",
+  "rank": 477,
+  "asof": "2026-11-04"
  },
  "zhang-45382": {
   "raw": "Zhang Tianhui",
-  "country": "China"
+  "country": "China",
+  "rank": 800,
+  "asof": "2026-11-04"
  },
  "kang-665bd": {
   "raw": "Kang Kaigaoge",
-  "country": "China"
+  "country": "China",
+  "rank": 2219,
+  "asof": "2026-11-04"
  },
  "wong-d3ead": {
   "raw": "Wong Coleman",
-  "country": "Hong Kong"
+  "country": "Hong Kong",
+  "rank": 85,
+  "asof": "2026-11-04"
  },
  "zhang-45ae9": {
   "raw": "Zhang Zhizhen",
-  "country": "China Height / Weight: 193 cm / 87 kg"
+  "country": "China Height / Weight: 193 cm / 87 kg",
+  "rank": 162,
+  "asof": "2026-11-04"
  },
  "kim-207ea": {
   "raw": "Kim Jangjun",
-  "country": "South Korea"
+  "country": "South Korea",
+  "rank": 852,
+  "asof": "2026-11-04"
  },
  "harris-5a94c": {
   "raw": "Harris Billy",
-  "country": "Great Britain Height / Weight: 191 cm / 86 kg"
+  "country": "Great Britain Height / Weight: 191 cm / 86 kg",
+  "rank": 232,
+  "asof": "2026-11-04"
  },
  "kim-5708a": {
   "raw": "Kim Tae Woo",
-  "country": "South Korea"
+  "country": "South Korea",
+  "rank": null,
+  "asof": "2026-11-04"
  },
  "kim-f04c8": {
   "raw": "Kim Geun Jun",
-  "country": "South Korea"
+  "country": "South Korea",
+  "rank": 920,
+  "asof": "2026-11-04"
  },
  "kim-51fcd": {
   "raw": "Kim Dong Ju",
-  "country": "South Korea"
+  "country": "South Korea",
+  "rank": 746,
+  "asof": "2026-11-04"
  },
  "chen-9a30f": {
   "raw": "Chen Kuan-Shou",
-  "country": ""
+  "country": "",
+  "rank": 734,
+  "asof": "2026-11-04"
  },
  "chen-d979c": {
   "raw": "Chen Yan Cheng",
-  "country": ""
+  "country": "",
+  "rank": 963,
+  "asof": "2026-11-04"
  },
  "chen-85bb7": {
   "raw": "Chen Tin",
-  "country": "Chinese Taipei Height: 178 cm"
+  "country": "Chinese Taipei Height: 178 cm",
+  "rank": null,
+  "asof": "2026-11-04"
  },
  "papoe": {
   "raw": "Papoe Radu Mihai",
-  "country": "Romania"
+  "country": "Romania",
+  "rank": 280,
+  "asof": "2026-11-04"
  },
  "debru-5353d": {
   "raw": "Debru Gabriel",
-  "country": "France"
+  "country": "France",
+  "rank": 556,
+  "asof": "2026-11-04"
  },
  "brooksby": {
   "raw": "Brooksby Jenson",
-  "country": "USA Height / Weight: 188 cm / 82 kg"
+  "country": "USA Height / Weight: 188 cm / 82 kg",
+  "rank": 94,
+  "asof": "2026-11-04"
  },
  "arutiunian": {
   "raw": "Arutiunian Erik",
-  "country": "Belarus"
+  "country": "Belarus",
+  "rank": 575,
+  "asof": "2026-11-04"
  },
  "rottgering": {
   "raw": "Rottgering Mees",
-  "country": "Netherlands"
+  "country": "Netherlands",
+  "rank": 295,
+  "asof": "2026-11-04"
  },
  "blanch-748a3": {
   "raw": "Blanch Darwin",
-  "country": "USA"
+  "country": "USA",
+  "rank": 139,
+  "asof": "2026-11-04"
  },
  "rybakov": {
   "raw": "Rybakov Alex",
-  "country": "USA Height / Weight: 185 cm / 68 kg"
+  "country": "USA Height / Weight: 185 cm / 68 kg",
+  "rank": 641,
+  "asof": "2026-11-04"
  },
  "marcondes": {
   "raw": "Marcondes Igor",
-  "country": "Brazil Height / Weight: 185 cm / 75 kg"
+  "country": "Brazil Height / Weight: 185 cm / 75 kg",
+  "rank": 279,
+  "asof": "2026-11-04"
  },
  "rolland-de-ravel": {
   "raw": "Rolland De Ravel Cosme",
-  "country": "France"
+  "country": "France",
+  "rank": 580,
+  "asof": "2026-11-04"
  },
  "shick-9f067": {
   "raw": "Shick Braden",
-  "country": "USA"
+  "country": "USA",
+  "rank": 205,
+  "asof": "2026-11-04"
  },
  "martin-e6e6e": {
   "raw": "Martin Andres",
-  "country": "USA Height / Weight: 183 cm / 77 kg"
+  "country": "USA Height / Weight: 183 cm / 77 kg",
+  "rank": 359,
+  "asof": "2026-11-04"
  },
  "winter-e2184": {
   "raw": "Winter Edward",
-  "country": "Australia"
+  "country": "Australia",
+  "rank": 404,
+  "asof": "2026-11-04"
  },
  "legout": {
   "raw": "Legout Timo",
-  "country": ""
+  "country": "",
+  "rank": 338,
+  "asof": "2026-11-04"
  },
  "rehberg-2d8d7": {
   "raw": "Rehberg Max Hans",
-  "country": "Germany"
+  "country": "Germany",
+  "rank": 248,
+  "asof": "2026-11-04"
  },
  "ambrogi": {
   "raw": "Ambrogi Luciano Emanuel",
-  "country": "Argentina"
+  "country": "Argentina",
+  "rank": 335,
+  "asof": "2026-11-04"
  },
  "mchugh": {
   "raw": "McHugh Aidan",
-  "country": "Great Britain Height / Weight: 178 cm / 70 kg"
+  "country": "Great Britain Height / Weight: 178 cm / 70 kg",
+  "rank": 490,
+  "asof": "2026-11-04"
  },
  "chan-0fbe0": {
   "raw": "Chan Duncan",
-  "country": "Canada"
+  "country": "Canada",
+  "rank": 470,
+  "asof": "2026-11-04"
  },
  "young-cae75": {
   "raw": "Young Gavin",
-  "country": "USA"
+  "country": "USA",
+  "rank": 530,
+  "asof": "2026-11-04"
  },
  "johnson-a3da6": {
   "raw": "Johnson Spencer",
-  "country": "USA"
+  "country": "USA",
+  "rank": 430,
+  "asof": "2026-11-04"
  },
  "ostapenkov": {
   "raw": "Ostapenkov Daniil",
-  "country": "Belarus"
+  "country": "Belarus",
+  "rank": 511,
+  "asof": "2026-11-04"
  },
  "pedrico-kravtsov": {
   "raw": "Pedrico Kravtsov Albert",
-  "country": "Spain"
+  "country": "Spain",
+  "rank": 1406,
+  "asof": "2026-11-04"
  },
  "woestendick": {
   "raw": "Woestendick Cooper",
-  "country": "USA"
+  "country": "USA",
+  "rank": 1817,
+  "asof": "2026-11-04"
  },
  "artnak": {
   "raw": "Artnak Bor",
-  "country": "Slovenia"
+  "country": "Slovenia",
+  "rank": 538,
+  "asof": "2026-11-04"
  },
  "pascual-ferra": {
   "raw": "Pascual Ferra Roger",
-  "country": "Spain"
+  "country": "Spain",
+  "rank": 690,
+  "asof": "2026-11-04"
  },
  "rice-6b866": {
   "raw": "Rice Keegan",
-  "country": "Canada"
+  "country": "Canada",
+  "rank": 579,
+  "asof": "2026-11-04"
  },
  "jong-f7977": {
   "raw": "Jong Sander",
-  "country": "Netherlands"
+  "country": "Netherlands",
+  "rank": 393,
+  "asof": "2026-11-04"
  },
  "hewitt-d8622": {
   "raw": "Hewitt Cruz",
-  "country": "Australia"
+  "country": "Australia",
+  "rank": 328,
+  "asof": "2026-11-04"
  },
  "weber-173d1": {
   "raw": "Weber Arthur",
-  "country": "France"
+  "country": "France",
+  "rank": 419,
+  "asof": "2026-11-04"
  },
  "aboian-f7ddc": {
   "raw": "Aboian Valerio",
-  "country": "Argentina"
+  "country": "Argentina",
+  "rank": 258,
+  "asof": "2026-11-04"
  },
  "olivieri-ff875": {
   "raw": "Olivieri Genaro Alberto",
-  "country": "Argentina Height / Weight: 175 cm / 73 kg"
+  "country": "Argentina Height / Weight: 175 cm / 73 kg",
+  "rank": 257,
+  "asof": "2026-11-04"
  },
  "rodriguez-b9b54": {
   "raw": "Rodriguez Lorenzo Joaquin",
-  "country": "Argentina"
+  "country": "Argentina",
+  "rank": 517,
+  "asof": "2026-11-04"
  },
  "dietrich-fa350": {
   "raw": "Dietrich Dylan",
-  "country": "Switzerland"
+  "country": "Switzerland",
+  "rank": 189,
+  "asof": "2026-11-04"
  },
  "draxl": {
   "raw": "Draxl Liam",
-  "country": "Canada"
+  "country": "Canada",
+  "rank": 168,
+  "asof": "2026-11-04"
  },
  "mayo-58e8a": {
   "raw": "Mayo Aidan",
-  "country": "USA"
+  "country": "USA",
+  "rank": 285,
+  "asof": "2026-11-04"
  },
  "wolf-e839f": {
   "raw": "Wolf Jeffrey John",
-  "country": "USA Height / Weight: 183 cm / 79 kg"
+  "country": "USA Height / Weight: 183 cm / 79 kg",
+  "rank": 204,
+  "asof": "2026-11-04"
  },
  "bigun": {
   "raw": "Bigun Kaylan",
-  "country": "USA Height / Weight: 183 cm / 79 kg"
+  "country": "USA Height / Weight: 183 cm / 79 kg",
+  "rank": 523,
+  "asof": "2026-11-04"
  },
  "baris": {
   "raw": "Baris Ozan",
-  "country": "USA"
+  "country": "USA",
+  "rank": 397,
+  "asof": "2026-11-04"
  },
  "berkieta": {
   "raw": "Berkieta Tomasz",
-  "country": "Poland"
+  "country": "Poland",
+  "rank": 642,
+  "asof": "2026-11-04"
  },
  "nakashima-baff8": {
   "raw": "Nakashima Bryce Nakashima",
-  "country": "USA"
+  "country": "USA",
+  "rank": 570,
+  "asof": "2026-11-04"
  },
  "smith-4a480": {
   "raw": "Smith Colton",
-  "country": "USA"
+  "country": "USA",
+  "rank": 218,
+  "asof": "2026-11-04"
  },
  "galarneau-32e1f": {
   "raw": "Galarneau Alexis",
-  "country": "Canada Height / Weight: 180 cm / 79 kg"
+  "country": "Canada Height / Weight: 180 cm / 79 kg",
+  "rank": 195,
+  "asof": "2026-11-04"
  },
  "willwerth": {
   "raw": "Willwerth Benjamin",
-  "country": "USA"
+  "country": "USA",
+  "rank": 779,
+  "asof": "2026-11-04"
  },
  "fenty": {
   "raw": "Fenty Andrew",
-  "country": "USA Height / Weight: 194 cm / 93 kg"
+  "country": "USA Height / Weight: 194 cm / 93 kg",
+  "rank": 489,
+  "asof": "2026-11-04"
  },
  "braswell-07182": {
   "raw": "Braswell Jonah",
-  "country": "USA"
+  "country": "USA",
+  "rank": 1469,
+  "asof": "2026-11-04"
  },
  "vandecasteele-87d37": {
   "raw": "Vandecasteele Quinn",
-  "country": "USA"
+  "country": "USA",
+  "rank": 472,
+  "asof": "2026-11-04"
  },
  "exsted": {
   "raw": "Exsted Maxwell",
-  "country": "USA"
+  "country": "USA",
+  "rank": 892,
+  "asof": "2026-11-04"
  },
  "kennedy-81205": {
   "raw": "Kennedy Jack",
-  "country": "USA"
+  "country": "USA",
+  "rank": 396,
+  "asof": "2026-11-04"
  },
  "santamarta-roig": {
   "raw": "Santamarta Roig Andres",
-  "country": "Spain"
+  "country": "Spain",
+  "rank": 774,
+  "asof": "2026-11-04"
  },
  "giron-49e97": {
   "raw": "Giron Marcos",
-  "country": "USA Height / Weight: 180 cm / 77 kg"
+  "country": "USA Height / Weight: 180 cm / 77 kg",
+  "rank": 89,
+  "asof": "2026-11-04"
  },
  "chidekh": {
   "raw": "Chidekh Clement",
-  "country": "France"
+  "country": "France",
+  "rank": 131,
+  "asof": "2026-11-04"
  },
  "barton-61a23": {
   "raw": "Barton Hynek",
-  "country": "Czech Republic"
+  "country": "Czech Republic",
+  "rank": 277,
+  "asof": "2026-11-04"
  },
  "okonkwo": {
   "raw": "Okonkwo Oliver",
-  "country": "Great Britain"
+  "country": "Great Britain",
+  "rank": 964,
+  "asof": "2026-11-04"
  },
  "mosejczuk-9a09b": {
   "raw": "Mosejczuk Dominick",
-  "country": ""
+  "country": "",
+  "rank": 804,
+  "asof": "2026-11-04"
  },
  "brockett-a1ea3": {
   "raw": "Brockett Stiles",
-  "country": "USA"
+  "country": "USA",
+  "rank": null,
+  "asof": "2026-11-04"
  },
  "miyoshi-1fb72": {
   "raw": "Miyoshi Kenta (2004)",
-  "country": "Japan"
+  "country": "Japan",
+  "rank": null,
+  "asof": "2026-11-04"
  },
  "hudd": {
   "raw": "Hudd Emile",
-  "country": "Great Britain Height: 204 cm"
+  "country": "Great Britain Height: 204 cm",
+  "rank": 466,
+  "asof": "2026-11-04"
  },
  "ribeiro-a7963": {
   "raw": "Ribeiro Eduardo",
-  "country": "Brazil"
+  "country": "Brazil",
+  "rank": 360,
+  "asof": "2026-11-04"
  },
  "schiessl-c0557": {
   "raw": "Schiessl Joao Eduardo",
-  "country": "Brazil"
+  "country": "Brazil",
+  "rank": 551,
+  "asof": "2026-11-04"
+ },
+ "antonius": {
+  "raw": "Antonius Michael",
+  "country": "",
+  "rank": 619,
+  "asof": "2026-11-04"
  }
 }

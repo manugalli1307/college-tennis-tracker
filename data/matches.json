@@ -1,5 +1,108 @@
 [
  {
+  "tournament": "m-itf-gbr-2026-008",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Oliver Tarvet",
+   "country": "GBR",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "university-of-san-diego-oliver-tarvet"
+   ]
+  },
+  "p2": {
+   "name": "Conor Gannon",
+   "country": "IRL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Oliver Tarvet",
+   "country": "GBR",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "university-of-san-diego-oliver-tarvet"
+   ]
+  },
+  "p2": {
+   "name": "Vladislav Melnic",
+   "country": "ROU",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(5)",
+    "7"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Oliver Tarvet",
+   "country": "GBR",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "university-of-san-diego-oliver-tarvet"
+   ]
+  },
+  "p2": {
+   "name": "Mika Petkovic",
+   "country": "GER",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-usa-2026-041",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -2383,109 +2486,6 @@
   "live": false
  },
  {
-  "tournament": "m-itf-gbr-2026-008",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Oliver Tarvet",
-   "country": "GBR",
-   "seed": "3",
-   "winner": true,
-   "roster": [
-    "university-of-san-diego-oliver-tarvet"
-   ]
-  },
-  "p2": {
-   "name": "Conor Gannon",
-   "country": "IRL",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "6",
-    "1"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-gbr-2026-008",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Oliver Tarvet",
-   "country": "GBR",
-   "seed": "3",
-   "winner": true,
-   "roster": [
-    "university-of-san-diego-oliver-tarvet"
-   ]
-  },
-  "p2": {
-   "name": "Vladislav Melnic",
-   "country": "ROU",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6(5)",
-    "7"
-   ],
-   [
-    "6",
-    "2"
-   ],
-   [
-    "6",
-    "1"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-gbr-2026-008",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Oliver Tarvet",
-   "country": "GBR",
-   "seed": "3",
-   "winner": true,
-   "roster": [
-    "university-of-san-diego-oliver-tarvet"
-   ]
-  },
-  "p2": {
-   "name": "Mika Petkovic",
-   "country": "GER",
-   "seed": "7",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "2"
-   ],
-   [
-    "6",
-    "2"
-   ]
-  ],
-  "live": false
- },
- {
   "tournament": "m-itf-usa-2026-048",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -3353,7 +3353,7 @@
    "roster": []
   },
   "p2": {
-   "name": "Bryce Nakashima Nakashima",
+   "name": "Bryce Nakashima",
    "country": "USA",
    "seed": "",
    "winner": true,
@@ -3533,7 +3533,7 @@
   "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
-   "name": "Bryce Nakashima Nakashima",
+   "name": "Bryce Nakashima",
    "country": "USA",
    "seed": "",
    "winner": false,
@@ -3574,7 +3574,8 @@
    "country": "Brazil Height / Weight: 185 cm / 78 kg",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 348
   },
   "p2": {
    "name": "Diego Dedura-Palomero",
@@ -3583,7 +3584,8 @@
    "winner": false,
    "roster": [
     "university-of-texas-at-austin-mariano-dedura-palomero"
-   ]
+   ],
+   "rank": 188
   },
   "winner": 1,
   "sets": [
@@ -3609,14 +3611,16 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-mariano-dedura-palomero"
-   ]
+   ],
+   "rank": 188
   },
   "p2": {
    "name": "Nicolas Kicker",
    "country": "Argentina Height / Weight: 178 cm / 75 kg",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 340
   },
   "winner": 1,
   "sets": [
@@ -3642,14 +3646,16 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-mariano-dedura-palomero"
-   ]
+   ],
+   "rank": 188
   },
   "p2": {
    "name": "Frazier Rengifo",
    "country": "Colombia",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 1587
   },
   "winner": 1,
   "sets": [
@@ -3675,14 +3681,16 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-mariano-dedura-palomero"
-   ]
+   ],
+   "rank": 188
   },
   "p2": {
    "name": "Adria Soriano Barrera",
    "country": "Colombia",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 985
   },
   "winner": 1,
   "sets": [
@@ -3706,7 +3714,8 @@
    "country": "USA Height / Weight: 188 cm / 82 kg",
    "seed": "1",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 94
   },
   "p2": {
    "name": "Gabriel Debru",
@@ -3715,7 +3724,8 @@
    "winner": false,
    "roster": [
     "university-of-texas-at-austin-gabriel-debru"
-   ]
+   ],
+   "rank": 556
   },
   "winner": 1,
   "sets": [
@@ -3745,7 +3755,8 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-gabriel-debru"
-   ]
+   ],
+   "rank": 556
   },
   "p2": {
    "name": "Erik Arutiunian",
@@ -3754,7 +3765,8 @@
    "winner": false,
    "roster": [
     "lsu-erik-arutiunian"
-   ]
+   ],
+   "rank": 575
   },
   "winner": 1,
   "sets": [
@@ -3778,7 +3790,8 @@
    "country": "USA",
    "seed": "2",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 139
   },
   "p2": {
    "name": "Mees Rottgering",
@@ -3787,7 +3800,8 @@
    "winner": false,
    "roster": [
     "wake-forest-mees-rottgering"
-   ]
+   ],
+   "rank": 295
   },
   "winner": 1,
   "sets": [
@@ -3813,14 +3827,16 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-gabriel-debru"
-   ]
+   ],
+   "rank": 556
   },
   "p2": {
    "name": "Alex Rybakov",
    "country": "USA Height / Weight: 185 cm / 68 kg",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 641
   },
   "winner": 1,
   "sets": [
@@ -3850,14 +3866,16 @@
    "winner": true,
    "roster": [
     "lsu-erik-arutiunian"
-   ]
+   ],
+   "rank": 575
   },
   "p2": {
    "name": "Igor Marcondes",
    "country": "Brazil Height / Weight: 185 cm / 75 kg",
    "seed": "7",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 279
   },
   "winner": 1,
   "sets": [
@@ -3883,14 +3901,16 @@
    "winner": true,
    "roster": [
     "wake-forest-mees-rottgering"
-   ]
+   ],
+   "rank": 295
   },
   "p2": {
    "name": "Cosme Rolland De Ravel",
    "country": "France",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 580
   },
   "winner": 1,
   "sets": [
@@ -3916,14 +3936,16 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-gabriel-debru"
-   ]
+   ],
+   "rank": 556
   },
   "p2": {
    "name": "Braden Shick",
    "country": "USA",
    "seed": "3",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 205
   },
   "winner": 1,
   "sets": [
@@ -3953,14 +3975,16 @@
    "winner": true,
    "roster": [
     "lsu-erik-arutiunian"
-   ]
+   ],
+   "rank": 575
   },
   "p2": {
    "name": "Andres Martin",
    "country": "USA Height / Weight: 183 cm / 77 kg",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 359
   },
   "winner": 1,
   "sets": [
@@ -3984,11 +4008,47 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Darwin Blanch",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": [],
+   "rank": 139
+  },
+  "p2": {
+   "name": "Albert Pedrico Kravtsov",
+   "country": "Spain",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "tcu-albert-pedrico"
+   ],
+   "rank": 1406
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Timo Legout",
    "country": "",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 338
   },
   "p2": {
    "name": "Edward Winter",
@@ -3997,7 +4057,8 @@
    "winner": false,
    "roster": [
     "pepperdine-edward-winter"
-   ]
+   ],
+   "rank": 404
   },
   "winner": 1,
   "sets": [
@@ -4023,14 +4084,16 @@
    "winner": true,
    "roster": [
     "wake-forest-mees-rottgering"
-   ]
+   ],
+   "rank": 295
   },
   "p2": {
    "name": "Max Hans Rehberg",
    "country": "Germany",
    "seed": "8",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 248
   },
   "winner": 1,
   "sets": [
@@ -4050,20 +4113,61 @@
   "draw": "Qualifying",
   "round": "Round of 16",
   "p1": {
+   "name": "Albert Pedrico Kravtsov",
+   "country": "Spain",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "tcu-albert-pedrico"
+   ],
+   "rank": 1406
+  },
+  "p2": {
+   "name": "Michael Antonius",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 619
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(4)"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "7",
+    "6(4)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
    "name": "Erik Arutiunian",
    "country": "Belarus",
    "seed": "",
    "winner": true,
    "roster": [
     "lsu-erik-arutiunian"
-   ]
+   ],
+   "rank": 575
   },
   "p2": {
    "name": "Aidan McHugh",
    "country": "Great Britain Height / Weight: 178 cm / 70 kg",
    "seed": "7",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 490
   },
   "winner": 1,
   "sets": [
@@ -4087,7 +4191,8 @@
    "country": "USA",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 530
   },
   "p2": {
    "name": "Duncan Chan",
@@ -4096,7 +4201,8 @@
    "winner": false,
    "roster": [
     "tcu-duncan-chan"
-   ]
+   ],
+   "rank": 470
   },
   "winner": 1,
   "sets": [
@@ -4126,7 +4232,8 @@
    "winner": true,
    "roster": [
     "lsu-erik-arutiunian"
-   ]
+   ],
+   "rank": 575
   },
   "p2": {
    "name": "Spencer Johnson",
@@ -4135,7 +4242,8 @@
    "winner": false,
    "roster": [
     "ucla-spencer-johnson"
-   ]
+   ],
+   "rank": 430
   },
   "winner": 1,
   "sets": [
@@ -4163,7 +4271,10 @@
    "country": "Spain",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [
+    "tcu-albert-pedrico"
+   ],
+   "rank": 1406
   },
   "p2": {
    "name": "Daniil Ostapenkov",
@@ -4172,7 +4283,8 @@
    "winner": false,
    "roster": [
     "lsu-daniil-ostapenkov"
-   ]
+   ],
+   "rank": 511
   },
   "winner": 1,
   "sets": [
@@ -4196,7 +4308,8 @@
    "country": "Slovenia",
    "seed": "11",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 538
   },
   "p2": {
    "name": "Cooper Woestendick",
@@ -4205,7 +4318,8 @@
    "winner": false,
    "roster": [
     "tcu-cooper-woestendick"
-   ]
+   ],
+   "rank": 1817
   },
   "winner": 1,
   "sets": [
@@ -4235,14 +4349,18 @@
    "winner": true,
    "roster": [
     "tcu-duncan-chan"
-   ]
+   ],
+   "rank": 470
   },
   "p2": {
    "name": "Roger Pascual Ferra",
    "country": "Spain",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "tcu-roger-pascual"
+   ],
+   "rank": 690
   },
   "winner": 1,
   "sets": [
@@ -4270,7 +4388,8 @@
    "country": "Netherlands",
    "seed": "9",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 393
   },
   "p2": {
    "name": "Keegan Rice",
@@ -4279,7 +4398,8 @@
    "winner": false,
    "roster": [
     "university-of-virginia-keegan-rice"
-   ]
+   ],
+   "rank": 579
   },
   "winner": 1,
   "sets": [
@@ -4307,7 +4427,8 @@
    "country": "Argentina",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 258
   },
   "p2": {
    "name": "Diego Dedura-Palomero",
@@ -4316,7 +4437,8 @@
    "winner": false,
    "roster": [
     "university-of-texas-at-austin-mariano-dedura-palomero"
-   ]
+   ],
+   "rank": 188
   },
   "winner": 1,
   "sets": [
@@ -4342,14 +4464,16 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-mariano-dedura-palomero"
-   ]
+   ],
+   "rank": 188
   },
   "p2": {
    "name": "Genaro Alberto Olivieri",
    "country": "Argentina Height / Weight: 175 cm / 73 kg",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 257
   },
   "winner": 1,
   "sets": [
@@ -4373,7 +4497,8 @@
    "country": "Great Britain Height / Weight: 191 cm / 86 kg",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 232
   },
   "p2": {
    "name": "Jangjun Kim",
@@ -4382,7 +4507,8 @@
    "winner": false,
    "roster": [
     "university-of-virginia-jangjun-kim"
-   ]
+   ],
+   "rank": 852
   },
   "winner": 1,
   "sets": [
@@ -4408,14 +4534,16 @@
    "winner": true,
    "roster": [
     "university-of-virginia-dylan-dietrich"
-   ]
+   ],
+   "rank": 189
   },
   "p2": {
    "name": "Liam Draxl",
    "country": "Canada",
    "seed": "5",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 168
   },
   "winner": 1,
   "sets": [
@@ -4445,14 +4573,16 @@
    "winner": true,
    "roster": [
     "university-of-virginia-dylan-dietrich"
-   ]
+   ],
+   "rank": 189
   },
   "p2": {
    "name": "Aidan Mayo",
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 285
   },
   "winner": 1,
   "sets": [
@@ -4478,14 +4608,16 @@
    "winner": true,
    "roster": [
     "university-of-virginia-dylan-dietrich"
-   ]
+   ],
+   "rank": 189
   },
   "p2": {
    "name": "Jeffrey John Wolf",
    "country": "USA Height / Weight: 183 cm / 79 kg",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 204
   },
   "winner": 1,
   "sets": [
@@ -4509,7 +4641,8 @@
    "country": "USA",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 285
   },
   "p2": {
    "name": "Mees Rottgering",
@@ -4518,7 +4651,8 @@
    "winner": false,
    "roster": [
     "wake-forest-mees-rottgering"
-   ]
+   ],
+   "rank": 295
   },
   "winner": 1,
   "sets": [
@@ -4542,7 +4676,8 @@
    "country": "Canada",
    "seed": "5",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 168
   },
   "p2": {
    "name": "Daniil Ostapenkov",
@@ -4551,7 +4686,8 @@
    "winner": false,
    "roster": [
     "lsu-daniil-ostapenkov"
-   ]
+   ],
+   "rank": 511
   },
   "winner": 1,
   "sets": [
@@ -4573,14 +4709,16 @@
    "winner": true,
    "roster": [
     "university-of-virginia-dylan-dietrich"
-   ]
+   ],
+   "rank": 189
   },
   "p2": {
    "name": "Jenson Brooksby",
    "country": "USA Height / Weight: 188 cm / 82 kg",
    "seed": "1",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 94
   },
   "winner": 1,
   "sets": [
@@ -4606,14 +4744,16 @@
    "winner": true,
    "roster": [
     "wake-forest-mees-rottgering"
-   ]
+   ],
+   "rank": 295
   },
   "p2": {
    "name": "Kaylan Bigun",
    "country": "USA Height / Weight: 183 cm / 79 kg",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 523
   },
   "winner": 1,
   "sets": [
@@ -4639,14 +4779,16 @@
    "winner": true,
    "roster": [
     "lsu-daniil-ostapenkov"
-   ]
+   ],
+   "rank": 511
   },
   "p2": {
    "name": "Ozan Baris",
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 397
   },
   "winner": 1,
   "sets": [
@@ -4670,7 +4812,8 @@
    "country": "Canada",
    "seed": "5",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 168
   },
   "p2": {
    "name": "Tomasz Berkieta",
@@ -4679,7 +4822,8 @@
    "winner": false,
    "roster": [
     "university-of-texas-at-austin-tomasz-berkieta"
-   ]
+   ],
+   "rank": 642
   },
   "winner": 1,
   "sets": [
@@ -4703,7 +4847,8 @@
    "country": "USA Height / Weight: 188 cm / 82 kg",
    "seed": "1",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 94
   },
   "p2": {
    "name": "Bryce Nakashima Nakashima",
@@ -4712,7 +4857,8 @@
    "winner": false,
    "roster": [
     "ohio-state-bryce-nakashima"
-   ]
+   ],
+   "rank": 570
   },
   "winner": 1,
   "sets": [
@@ -4738,14 +4884,16 @@
    "winner": true,
    "roster": [
     "university-of-virginia-dylan-dietrich"
-   ]
+   ],
+   "rank": 189
   },
   "p2": {
    "name": "Colton Smith",
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 218
   },
   "winner": 1,
   "sets": [
@@ -4771,14 +4919,16 @@
    "winner": true,
    "roster": [
     "wake-forest-mees-rottgering"
-   ]
+   ],
+   "rank": 295
   },
   "p2": {
    "name": "Alexis Galarneau",
    "country": "Canada Height / Weight: 180 cm / 79 kg",
    "seed": "4",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 195
   },
   "winner": 1,
   "sets": [
@@ -4804,7 +4954,8 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-tomasz-berkieta"
-   ]
+   ],
+   "rank": 642
   },
   "p2": {
    "name": "Spencer Johnson",
@@ -4813,7 +4964,8 @@
    "winner": false,
    "roster": [
     "ucla-spencer-johnson"
-   ]
+   ],
+   "rank": 430
   },
   "winner": 1,
   "sets": [
@@ -4843,14 +4995,16 @@
    "winner": true,
    "roster": [
     "lsu-daniil-ostapenkov"
-   ]
+   ],
+   "rank": 511
   },
   "p2": {
    "name": "Gavin Young",
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 530
   },
   "winner": 1,
   "sets": [
@@ -4878,7 +5032,8 @@
    "country": "USA",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 779
   },
   "p2": {
    "name": "Duncan Chan",
@@ -4887,7 +5042,8 @@
    "winner": false,
    "roster": [
     "tcu-duncan-chan"
-   ]
+   ],
+   "rank": 470
   },
   "winner": 1,
   "sets": [
@@ -4911,7 +5067,8 @@
    "country": "USA Height / Weight: 194 cm / 93 kg",
    "seed": "7",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 489
   },
   "p2": {
    "name": "Cooper Woestendick",
@@ -4920,7 +5077,8 @@
    "winner": false,
    "roster": [
     "tcu-cooper-woestendick"
-   ]
+   ],
+   "rank": 1817
   },
   "winner": 1,
   "sets": [
@@ -4946,7 +5104,8 @@
    "winner": true,
    "roster": [
     "university-of-texas-at-austin-tomasz-berkieta"
-   ]
+   ],
+   "rank": 642
   },
   "p2": {
    "name": "Erik Arutiunian",
@@ -4955,7 +5114,8 @@
    "winner": false,
    "roster": [
     "lsu-erik-arutiunian"
-   ]
+   ],
+   "rank": 575
   },
   "winner": 1,
   "sets": [
@@ -4981,14 +5141,16 @@
    "winner": true,
    "roster": [
     "ucla-spencer-johnson"
-   ]
+   ],
+   "rank": 430
   },
   "p2": {
    "name": "Jonah Braswell",
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 1469
   },
   "winner": 1,
   "sets": [
@@ -5014,14 +5176,16 @@
    "winner": true,
    "roster": [
     "lsu-daniil-ostapenkov"
-   ]
+   ],
+   "rank": 511
   },
   "p2": {
    "name": "Quinn Vandecasteele",
    "country": "USA",
    "seed": "8",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 472
   },
   "winner": 1,
   "sets": [
@@ -5045,7 +5209,8 @@
    "country": "USA Height / Weight: 180 cm / 77 kg",
    "seed": "1",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 89
   },
   "p2": {
    "name": "Dylan Dietrich",
@@ -5054,7 +5219,8 @@
    "winner": false,
    "roster": [
     "university-of-virginia-dylan-dietrich"
-   ]
+   ],
+   "rank": 189
   },
   "winner": 1,
   "sets": [
@@ -5078,7 +5244,8 @@
    "country": "France",
    "seed": "5",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 131
   },
   "p2": {
    "name": "Andres Santamarta Roig",
@@ -5087,7 +5254,8 @@
    "winner": false,
    "roster": [
     "university-of-virginia-andres-santamarta-roig"
-   ]
+   ],
+   "rank": 774
   },
   "winner": 1,
   "sets": [
@@ -5113,14 +5281,16 @@
    "winner": true,
    "roster": [
     "university-of-virginia-jack-kennedy"
-   ]
+   ],
+   "rank": 396
   },
   "p2": {
    "name": "Hynek Barton",
    "country": "Czech Republic",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 277
   },
   "winner": 1,
   "sets": [
@@ -5148,7 +5318,8 @@
    "country": "USA Height / Weight: 183 cm / 77 kg",
    "seed": "6",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 359
   },
   "p2": {
    "name": "Stiles Brockett",
@@ -5157,7 +5328,8 @@
    "winner": false,
    "roster": [
     "university-of-virginia-stiles-brockett"
-   ]
+   ],
+   "rank": null
   },
   "winner": 1,
   "sets": [
@@ -5181,7 +5353,8 @@
    "country": "Japan",
    "seed": "8",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": null
   },
   "p2": {
    "name": "Dominick Mosejczuk",
@@ -5190,7 +5363,8 @@
    "winner": false,
    "roster": [
     "wake-forest-dominick-mosejczuk"
-   ]
+   ],
+   "rank": 804
   },
   "winner": 1,
   "sets": [
@@ -5218,7 +5392,8 @@
    "country": "USA",
    "seed": "3",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 285
   },
   "p2": {
    "name": "Duncan Chan",
@@ -5227,7 +5402,8 @@
    "winner": false,
    "roster": [
     "tcu-duncan-chan"
-   ]
+   ],
+   "rank": 470
   },
   "winner": 1,
   "sets": [
@@ -5253,14 +5429,16 @@
    "winner": true,
    "roster": [
     "university-of-virginia-stiles-brockett"
-   ]
+   ],
+   "rank": null
   },
   "p2": {
    "name": "Emile Hudd",
    "country": "Great Britain Height: 204 cm",
    "seed": "12",
    "winner": false,
-   "roster": []
+   "roster": [],
+   "rank": 466
   },
   "winner": 1,
   "sets": [
@@ -5288,7 +5466,8 @@
    "country": "USA",
    "seed": "7",
    "winner": true,
-   "roster": []
+   "roster": [],
+   "rank": 397
   },
   "p2": {
    "name": "Jangjun Kim",
@@ -5297,7 +5476,8 @@
    "winner": false,
    "roster": [
     "university-of-virginia-jangjun-kim"
-   ]
+   ],
+   "rank": 852
   },
   "winner": 1,
   "sets": [

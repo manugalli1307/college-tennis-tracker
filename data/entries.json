@@ -1,5 +1,11 @@
 [
  {
+  "tournament": "m-itf-gbr-2026-008",
+  "player": "university-of-san-diego-oliver-tarvet",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-usa-2026-051",
   "player": "lsu-enzo-kohlmann-de-freitas",
   "section": "Main Draw Direct Acceptance",
@@ -690,12 +696,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-008",
-  "player": "university-of-san-diego-oliver-tarvet",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-usa-2026-048",
   "player": "nc-state-lachlan-mcfadzean",
   "section": "Main Draw",
@@ -883,6 +883,12 @@
  },
  {
   "tournament": "te-fort-worth-challenger-2026",
+  "player": "tcu-albert-pedrico",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
   "player": "pepperdine-edward-winter",
   "section": "Main Draw",
   "match": "draw"
@@ -908,6 +914,12 @@
  {
   "tournament": "te-fort-worth-challenger-2026",
   "player": "tcu-cooper-woestendick",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "tcu-roger-pascual",
   "section": "Qualifying",
   "match": "draw"
  },
