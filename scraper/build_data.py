@@ -26,7 +26,7 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-import atp_data
+import te_data
 import itf_scraper as itf
 import tennis_tracker as tt
 
@@ -359,12 +359,16 @@ def main():
             except Exception as e:
                 print(f"    [!] problem: {e}")
 
-        # ATP Challengers and ATP Tour (atptour.com). A failure here never affects the ITF data.
+        # ATP Challengers and ATP Tour (tennisexplorer.com). A failure here never affects the ITF data.
         print("\n" + "=" * 50 + "\nATP Challenger and ATP Tour\n" + "=" * 50)
         try:
-            recs, ok, ents, ms = atp_data.collect(
-                page, today, args.back_days, args.ahead_days, itf.classify, roster_ids_for, prepared, id_by_key,
-                only=args.only, limit=args.max_tournaments)
+            te_cache = load_json("te_players.json", {})
+            try:
+                recs, ok, ents, ms = te_data.collect(
+                    page, today, args.back_days, args.ahead_days, itf.classify, roster_ids_for, prepared, id_by_key,
+                    te_cache, only=args.only, limit=args.max_tournaments)
+            finally:
+                save_json("te_players.json", te_cache)
             new_t.update(recs)
             read_ok.update(ok)
             entries_by_t.update(ents)
@@ -408,7 +412,7 @@ def main():
                         ent_keys.add((m["tournament"], pid))
 
     tlist = sorted(tournaments.values(), key=lambda r: (r["start"], r["name"]))
-    save_json("scrape_log.json", {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "atp": atp_data.LOG})
+    save_json("scrape_log.json", {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "atp": te_data.LOG})
     save_json("players.json", players)
     save_json("tournaments.json", tlist)
     save_json("entries.json", entries)

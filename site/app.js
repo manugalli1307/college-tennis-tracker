@@ -271,7 +271,7 @@
     var html = '<p class="crumbs"><a href="#/tournaments">Tournaments</a></p><h1>' + esc(t.name) + "</h1>" +
       '<div class="facts"><span><b>' + esc(fmtRange(t.start, t.end)) + "</b></span><span>" + esc(t.category) + "</span>" +
       (t.country ? "<span>" + esc(t.country) + "</span>" : "") + "<span>" + statusTag(t) + "</span>" +
-      '<span><a href="' + esc(t.url) + '" rel="noopener" target="_blank">' + (/^ATP/.test(t.tour || "") ? "Draws on atptour.com" : "Draws on itftennis.com") + "</a></span></div>";
+      '<span><a href="' + esc(t.url) + '" rel="noopener" target="_blank">' + (/^ATP/.test(t.tour || "") ? "Draws on tennisexplorer.com" : "Draws on itftennis.com") + "</a></span></div>";
     html += '<div class="section">' + (block || empty(t.status === "upcoming"
       ? "No roster players are on the entry list yet. Lists usually appear about two weeks before the event."
       : "No roster players found in this event.")) + "</div>";
