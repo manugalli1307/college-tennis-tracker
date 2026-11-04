@@ -1,11 +1,5 @@
 [
  {
-  "tournament": "m-itf-gbr-2026-008",
-  "player": "university-of-san-diego-oliver-tarvet",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-usa-2026-051",
   "player": "lsu-enzo-kohlmann-de-freitas",
   "section": "Main Draw Direct Acceptance",
@@ -692,6 +686,12 @@
  {
   "tournament": "m-itf-usa-2026-044",
   "player": "university-of-oklahoma-dragos-cazacu",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "player": "university-of-san-diego-oliver-tarvet",
   "section": "Main Draw",
   "match": "draw"
  },

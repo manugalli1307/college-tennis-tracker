@@ -1,4 +1,902 @@
 {
+ "m-itf-aus-2026-012": [
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Matthew Dellavedova",
+    "country": "AUS",
+    "seed": "1",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Darcy Nicholls",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Lachlan Vickery",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Reece Falck",
+    "country": "NZL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "7",
+     "6(4)"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Isaac Becroft",
+    "country": "NZL",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Stefan Vujic",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Hayden Jones",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Moerani Bouzige",
+    "country": "AUS",
+    "seed": "5",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Enzo Aguiard",
+    "country": "AUS",
+    "seed": "3",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Benjamin O'Connell",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Derek Pham",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Jeremy Beale",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Chen Dong",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Sam Ryan Ziegann",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "3",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Scott Jones",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Chase Ferguson",
+    "country": "AUS",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(3)",
+     "7"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Anton Shepp",
+    "country": "NZL",
+    "seed": "6",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Ethan Cook",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Zane Stevens",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Cody Atkinson",
+    "country": "NZL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Nikolas Baker",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Harrison Satara",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "6(8)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Pavle Marinkov",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Blake Ellis",
+    "country": "AUS",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Tai Leonard Sach",
+    "country": "AUS",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Naoki Nakagawa",
+    "country": "JPN",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Alex Bulte",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Ymerali Ibraimi",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Casey Hoole",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Herman Hoeyeraal",
+    "country": "NOR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(9)",
+     "7"
+    ],
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6(7)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Zaharije-Zak Talic",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Philip Sekulic",
+    "country": "AUS",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Matthew Dellavedova",
+    "country": "AUS",
+    "seed": "1",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Lachlan Vickery",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "0"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Isaac Becroft",
+    "country": "NZL",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Moerani Bouzige",
+    "country": "AUS",
+    "seed": "5",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6(4)",
+     "7"
+    ],
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Enzo Aguiard",
+    "country": "AUS",
+    "seed": "3",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Jeremy Beale",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "5",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Sam Ryan Ziegann",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Chase Ferguson",
+    "country": "AUS",
+    "seed": "8",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Anton Shepp",
+    "country": "NZL",
+    "seed": "6",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Zane Stevens",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "4",
+     "6"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Harrison Satara",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Blake Ellis",
+    "country": "AUS",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "5",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Tai Leonard Sach",
+    "country": "AUS",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Ymerali Ibraimi",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6",
+     "0"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Herman Hoeyeraal",
+    "country": "NOR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Philip Sekulic",
+    "country": "AUS",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Matthew Dellavedova",
+    "country": "AUS",
+    "seed": "1",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Isaac Becroft",
+    "country": "NZL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "0"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Jeremy Beale",
+    "country": "AUS",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Sam Ryan Ziegann",
+    "country": "AUS",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Anton Shepp",
+    "country": "NZL",
+    "seed": "6",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Blake Ellis",
+    "country": "AUS",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(4)",
+     "7"
+    ],
+    [
+     "6(4)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-aus-2026-012",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Tai Leonard Sach",
+    "country": "AUS",
+    "seed": "7",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Philip Sekulic",
+    "country": "AUS",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "0",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  }
+ ],
  "m-itf-cro-2026-009": [
   {
    "tournament": "m-itf-cro-2026-009",
@@ -25283,21 +26181,87 @@
    "live": false
   }
  ],
- "m-itf-aus-2026-012": [
+ "m-itf-gbr-2026-008": [
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Matthew Dellavedova",
-    "country": "AUS",
+    "name": "Henry Searle",
+    "country": "GBR",
     "seed": "1",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Mae Malige",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Roan Jones",
+    "country": "GBR",
+    "seed": "",
     "winner": true,
     "roster": []
    },
    "p2": {
-    "name": "Darcy Nicholls",
-    "country": "AUS",
+    "name": "William Nolan",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Jelle Sels",
+    "country": "NED",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Billy Blaydes",
+    "country": "GBR",
     "seed": "",
     "winner": false,
     "roster": []
@@ -25310,352 +26274,249 @@
     ],
     [
      "6",
-     "2"
+     "4"
     ]
    ],
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Lachlan Vickery",
-    "country": "AUS",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Reece Falck",
-    "country": "NZL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "7",
-     "6(4)"
-    ],
-    [
-     "6",
-     "1"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Isaac Becroft",
-    "country": "NZL",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Stefan Vujic",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "3",
-     "6"
-    ],
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Hayden Jones",
-    "country": "AUS",
+    "name": "Jake Evans",
+    "country": "GBR",
     "seed": "",
     "winner": false,
     "roster": []
    },
    "p2": {
-    "name": "Moerani Bouzige",
-    "country": "AUS",
-    "seed": "5",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Enzo Aguiard",
-    "country": "AUS",
-    "seed": "3",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Benjamin O'Connell",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "1"
-    ],
-    [
-     "7",
-     "5"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Derek Pham",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Jeremy Beale",
-    "country": "AUS",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Chen Dong",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Sam Ryan Ziegann",
-    "country": "AUS",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6",
-     "3"
-    ],
-    [
-     "3",
-     "6"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Scott Jones",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Chase Ferguson",
-    "country": "AUS",
+    "name": "Viktor Durasovic",
+    "country": "NOR",
     "seed": "8",
     "winner": true,
     "roster": []
    },
    "winner": 2,
    "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "3",
+    "winner": true,
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
+   },
+   "p2": {
+    "name": "Conor Gannon",
+    "country": "IRL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Dylan Leeman",
+    "country": "IRL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Vladislav Melnic",
+    "country": "ROU",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6(6)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "James Beaven",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Rhys Lawlor",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Mark Ceban",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "7",
+     "6(6)"
+    ],
+    [
+     "3",
+     "6"
+    ],
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Louis Wessels",
+    "country": "GER",
+    "seed": "6",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Liam Hignett",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
     [
      "6(3)",
      "7"
-    ],
-    [
-     "2",
-     "6"
     ]
    ],
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Anton Shepp",
-    "country": "NZL",
-    "seed": "6",
+    "name": "Alexis Canter",
+    "country": "GBR",
+    "seed": "",
     "winner": true,
     "roster": []
    },
    "p2": {
-    "name": "Ethan Cook",
-    "country": "AUS",
+    "name": "Pierre Antoine Tailleu",
+    "country": "FRA",
     "seed": "",
     "winner": false,
     "roster": []
    },
    "winner": 1,
    "sets": [
-    [
-     "6",
-     "4"
-    ],
-    [
-     "6",
-     "4"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Zane Stevens",
-    "country": "AUS",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Cody Atkinson",
-    "country": "NZL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "6",
-     "2"
-    ],
     [
      "6",
      "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Nikolas Baker",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Harrison Satara",
-    "country": "AUS",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
     ],
     [
-     "6(8)",
-     "7"
+     "6",
+     "4"
     ]
    ],
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Pavle Marinkov",
-    "country": "AUS",
+    "name": "Finn Murgett",
+    "country": "GBR",
     "seed": "",
     "winner": false,
     "roster": []
    },
    "p2": {
-    "name": "Blake Ellis",
-    "country": "AUS",
-    "seed": "4",
+    "name": "Maximilian Marterer",
+    "country": "GER",
+    "seed": "",
     "winner": true,
     "roster": []
    },
@@ -25673,19 +26534,50 @@
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Tai Leonard Sach",
-    "country": "AUS",
-    "seed": "7",
+    "name": "Loann Massard",
+    "country": "FRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Johannus Monday",
+    "country": "GBR",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Paul Jubb",
+    "country": "GBR",
+    "seed": "5",
     "winner": true,
     "roster": []
    },
    "p2": {
-    "name": "Naoki Nakagawa",
-    "country": "JPN",
+    "name": "Oscar Weightman",
+    "country": "GBR",
     "seed": "",
     "winner": false,
     "roster": []
@@ -25694,30 +26586,96 @@
    "sets": [
     [
      "6",
-     "3"
+     "2"
     ],
     [
      "6",
-     "4"
+     "1"
     ]
    ],
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Alex Bulte",
-    "country": "AUS",
+    "name": "Matt Ponchet",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Stijn Pel",
+    "country": "NED",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Marcus Walters",
+    "country": "GBR",
     "seed": "",
     "winner": false,
     "roster": []
    },
    "p2": {
-    "name": "Ymerali Ibraimi",
-    "country": "AUS",
+    "name": "Leonardo Rossi",
+    "country": "ITA",
     "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(1)",
+     "7"
+    ],
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6(4)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Patrick Brady",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Martin Krumich",
+    "country": "CZE",
+    "seed": "2",
     "winner": true,
     "roster": []
    },
@@ -25735,19 +26693,19 @@
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
-   "round": "1st Round",
+   "round": "2nd Round",
    "p1": {
-    "name": "Casey Hoole",
-    "country": "AUS",
+    "name": "Mae Malige",
+    "country": "FRA",
     "seed": "",
     "winner": false,
     "roster": []
    },
    "p2": {
-    "name": "Herman Hoeyeraal",
-    "country": "NOR",
+    "name": "Roan Jones",
+    "country": "GBR",
     "seed": "",
     "winner": true,
     "roster": []
@@ -25755,42 +26713,110 @@
    "winner": 2,
    "sets": [
     [
-     "6(9)",
-     "7"
+     "1",
+     "6"
     ],
     [
-     "6",
-     "4"
+     "7",
+     "6(5)"
     ],
     [
-     "6(7)",
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Jelle Sels",
+    "country": "NED",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Viktor Durasovic",
+    "country": "NOR",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
+    [
+     "6(5)",
      "7"
     ]
    ],
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
-   "round": "1st Round",
+   "round": "2nd Round",
    "p1": {
-    "name": "Zaharije-Zak Talic",
-    "country": "AUS",
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "3",
+    "winner": true,
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
+   },
+   "p2": {
+    "name": "Vladislav Melnic",
+    "country": "ROU",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "James Beaven",
+    "country": "GBR",
     "seed": "",
     "winner": false,
     "roster": []
    },
    "p2": {
-    "name": "Philip Sekulic",
-    "country": "AUS",
-    "seed": "2",
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "7",
     "winner": true,
     "roster": []
    },
    "winner": 2,
    "sets": [
     [
-     "4",
+     "2",
      "6"
     ],
     [
@@ -25801,19 +26827,19 @@
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "Matthew Dellavedova",
-    "country": "AUS",
-    "seed": "1",
+    "name": "Liam Hignett",
+    "country": "GBR",
+    "seed": "",
     "winner": true,
     "roster": []
    },
    "p2": {
-    "name": "Lachlan Vickery",
-    "country": "AUS",
+    "name": "Alexis Canter",
+    "country": "GBR",
     "seed": "",
     "winner": false,
     "roster": []
@@ -25822,65 +26848,92 @@
    "sets": [
     [
      "6",
-     "0"
+     "4"
     ],
     [
-     "6",
-     "1"
+     "7",
+     "6(3)"
     ]
    ],
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "Isaac Becroft",
-    "country": "NZL",
+    "name": "Maximilian Marterer",
+    "country": "GER",
     "seed": "",
-    "winner": true,
+    "winner": false,
     "roster": []
    },
    "p2": {
-    "name": "Moerani Bouzige",
-    "country": "AUS",
+    "name": "Johannus Monday",
+    "country": "GBR",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Paul Jubb",
+    "country": "GBR",
     "seed": "5",
     "winner": false,
     "roster": []
    },
-   "winner": 1,
+   "p2": {
+    "name": "Matt Ponchet",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
    "sets": [
     [
-     "6(4)",
+     "7",
+     "5"
+    ],
+    [
+     "6(6)",
      "7"
-    ],
-    [
-     "6",
-     "1"
-    ],
-    [
-     "6",
-     "4"
     ]
    ],
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "Enzo Aguiard",
-    "country": "AUS",
-    "seed": "3",
+    "name": "Leonardo Rossi",
+    "country": "ITA",
+    "seed": "",
     "winner": false,
     "roster": []
    },
    "p2": {
-    "name": "Jeremy Beale",
-    "country": "AUS",
-    "seed": "",
+    "name": "Martin Krumich",
+    "country": "CZE",
+    "seed": "2",
     "winner": true,
     "roster": []
    },
@@ -25891,6 +26944,41 @@
      "6"
     ],
     [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Roan Jones",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Viktor Durasovic",
+    "country": "NOR",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "6",
+     "4"
+    ],
+    [
      "5",
      "7"
     ]
@@ -25898,20 +26986,22 @@
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Sam Ryan Ziegann",
-    "country": "AUS",
-    "seed": "",
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "3",
     "winner": true,
-    "roster": []
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
    },
    "p2": {
-    "name": "Chase Ferguson",
-    "country": "AUS",
-    "seed": "8",
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "7",
     "winner": false,
     "roster": []
    },
@@ -25919,7 +27009,7 @@
    "sets": [
     [
      "6",
-     "3"
+     "2"
     ],
     [
      "6",
@@ -25929,253 +27019,71 @@
    "live": false
   },
   {
-   "tournament": "m-itf-aus-2026-012",
+   "tournament": "m-itf-gbr-2026-008",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Anton Shepp",
-    "country": "NZL",
-    "seed": "6",
+    "name": "Liam Hignett",
+    "country": "GBR",
+    "seed": "",
     "winner": true,
     "roster": []
    },
    "p2": {
-    "name": "Zane Stevens",
-    "country": "AUS",
-    "seed": "",
+    "name": "Johannus Monday",
+    "country": "GBR",
+    "seed": "4",
     "winner": false,
     "roster": []
    },
    "winner": 1,
    "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Matt Ponchet",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Martin Krumich",
+    "country": "CZE",
+    "seed": "2",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
     [
      "6",
      "3"
     ],
-    [
-     "4",
-     "6"
-    ],
-    [
-     "7",
-     "5"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Harrison Satara",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Blake Ellis",
-    "country": "AUS",
-    "seed": "4",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "5",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Tai Leonard Sach",
-    "country": "AUS",
-    "seed": "7",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Ymerali Ibraimi",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "7",
-     "5"
-    ],
-    [
-     "6",
-     "0"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Herman Hoeyeraal",
-    "country": "NOR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Philip Sekulic",
-    "country": "AUS",
-    "seed": "2",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "1",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Matthew Dellavedova",
-    "country": "AUS",
-    "seed": "1",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Isaac Becroft",
-    "country": "NZL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
     [
      "6",
      "4"
-    ],
-    [
-     "6",
-     "0"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Jeremy Beale",
-    "country": "AUS",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Sam Ryan Ziegann",
-    "country": "AUS",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Anton Shepp",
-    "country": "NZL",
-    "seed": "6",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Blake Ellis",
-    "country": "AUS",
-    "seed": "4",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(4)",
-     "7"
-    ],
-    [
-     "6(4)",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-aus-2026-012",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Tai Leonard Sach",
-    "country": "AUS",
-    "seed": "7",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Philip Sekulic",
-    "country": "AUS",
-    "seed": "2",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "0",
-     "6"
-    ],
-    [
-     "4",
-     "6"
     ]
    ],
    "live": false
@@ -27923,22 +28831,18 @@
     "name": "Johan Alexander Rodriguez",
     "country": "COL",
     "seed": "5",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "3",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "3",
+     "6"
     ]
    ],
    "live": false
@@ -27986,7 +28890,7 @@
     "name": "William Mirarchi",
     "country": "ITA",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -27996,19 +28900,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "2"
     ]
    ],
    "live": false
@@ -28372,6 +29272,41 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
+    "name": "",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Johan Alexander Rodriguez",
+    "country": "COL",
+    "seed": "5",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-usa-2026-048",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
     "name": "Vignesh Gogineni",
     "country": "USA",
     "seed": "4",
@@ -28379,8 +29314,8 @@
     "roster": []
    },
    "p2": {
-    "name": "",
-    "country": "",
+    "name": "William Mirarchi",
+    "country": "ITA",
     "seed": "",
     "winner": false,
     "roster": []
@@ -30123,7 +31058,7 @@
     "name": "Blaise Bicknell",
     "country": "JAM",
     "seed": "1",
-    "winner": true,
+    "winner": false,
     "roster": []
    },
    "p2": {
@@ -30133,19 +31068,19 @@
     "winner": false,
     "roster": []
    },
-   "winner": 1,
+   "winner": 0,
    "sets": [
     [
-     "4",
-     "6"
+     "",
+     ""
     ],
     [
-     "6",
-     "1"
+     "",
+     ""
     ],
     [
-     "6",
-     "2"
+     "",
+     ""
     ]
    ],
    "live": false
@@ -30200,18 +31135,22 @@
     "name": "Alexander Bernard",
     "country": "USA",
     "seed": "",
-    "winner": true,
+    "winner": false,
     "roster": []
    },
-   "winner": 2,
+   "winner": 0,
    "sets": [
     [
-     "2",
-     "6"
+     "",
+     ""
     ],
     [
-     "4",
-     "6"
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
     ]
    ],
    "live": false
@@ -30332,18 +31271,18 @@
     "name": "Tariq Simons",
     "country": "BER",
     "seed": "",
-    "winner": true,
+    "winner": false,
     "roster": []
    },
-   "winner": 2,
+   "winner": 0,
    "sets": [
     [
      "6(6)",
      "7"
     ],
     [
-     "6(3)",
-     "7"
+     "6",
+     "6"
     ]
    ],
    "live": false
@@ -30658,9 +31597,9 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "Blaise Bicknell",
-    "country": "JAM",
-    "seed": "1",
+    "name": "",
+    "country": "",
+    "seed": "",
     "winner": false,
     "roster": []
    },
@@ -30693,8 +31632,8 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "Alexander Bernard",
-    "country": "USA",
+    "name": "",
+    "country": "",
     "seed": "",
     "winner": false,
     "roster": []
@@ -30763,8 +31702,8 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "Tariq Simons",
-    "country": "BER",
+    "name": "",
+    "country": "",
     "seed": "",
     "winner": false,
     "roster": []
@@ -31497,22 +32436,18 @@
     "name": "Victor Bini",
     "country": "BRA",
     "seed": "8",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6(3)",
+     "7"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "4",
+     "6"
     ]
    ],
    "live": false
@@ -31595,13 +32530,79 @@
     "name": "Giovanni Branchetti",
     "country": "ARG",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
     "name": "Glauco Pinheiro da Cruz Junior",
     "country": "BRA",
     "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-bra-2026-015",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Victor Braga",
+    "country": "BRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Benjamin Torrealba",
+    "country": "CHI",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6",
+     "4"
+    ],
+    [
+     "5",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-bra-2026-015",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Victor Bini",
+    "country": "BRA",
+    "seed": "8",
     "winner": false,
     "roster": []
    },
@@ -31625,10 +32626,10 @@
   {
    "tournament": "m-itf-bra-2026-015",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Victor Braga",
-    "country": "BRA",
+    "name": "Giovanni Branchetti",
+    "country": "ARG",
     "seed": "",
     "winner": false,
     "roster": []
@@ -35778,22 +36779,22 @@
     "name": "Robert Guna",
     "country": "ROU",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
+     "4",
+     "6"
     ],
     [
-     "",
-     ""
+     "4",
+     "6"
     ]
    ],
    "live": false
@@ -36141,8 +37142,8 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Robert Guna",
+    "country": "ROU",
     "seed": "",
     "winner": false,
     "roster": []
@@ -60922,6 +61923,39 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
+    "name": "Dodig",
+    "country": "",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": null
+   },
+   "p2": {
+    "name": "Krajci",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": null
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "7",
+     "6(2)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-bratislava-challenger-2026",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
     "name": "Gentzsch",
     "country": "",
     "seed": "",
@@ -67202,6 +68236,39 @@
   }
  ],
  "te-villa-maria-challenger-2026": [
+  {
+   "tournament": "te-villa-maria-challenger-2026",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Torres",
+    "country": "",
+    "seed": "5",
+    "winner": true,
+    "roster": [],
+    "rank": null
+   },
+   "p2": {
+    "name": "Bruna",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": null
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
   {
    "tournament": "te-villa-maria-challenger-2026",
    "draw": "Main Draw",
