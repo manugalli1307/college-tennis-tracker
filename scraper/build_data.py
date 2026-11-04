@@ -432,7 +432,7 @@ def main():
         print("\n" + "=" * 50 + "\nATP rankings for roster players\n" + "=" * 50)
         rank_cache = load_json("rank_lookup.json", {})
         try:
-            rankings_data.lookup(page, [x for x in players if not x.get("alumni")], rank_cache, te_data.RANKS)
+            rankings_data.lookup(page, players, rank_cache, te_data.RANKS)
         except Exception as e:
             print(f"[!] ranking lookup failed: {e}")
         finally:
@@ -485,6 +485,24 @@ def main():
             cur.pop("rank", None)
         elif info.get("rank"):
             cur.pop("unranked", None)
+
+    # Drop anything that points at players who are no longer on the lists (e.g. former players without an ATP ranking)
+    valid = {x["id"] for x in players}
+    entries = [e for e in entries if e["player"] in valid]
+    kept_m = []
+    for m in matches:
+        for k in ("p1", "p2"):
+            if m.get(k):
+                m[k]["roster"] = [i for i in m[k]["roster"] if i in valid]
+        if any(m.get(k) and m[k]["roster"] for k in ("p1", "p2")):
+            kept_m.append(m)
+    matches = kept_m
+    for ms_ in draws.values():
+        for m in ms_:
+            for k in ("p1", "p2"):
+                if m.get(k):
+                    m[k]["roster"] = [i for i in m[k]["roster"] if i in valid]
+    ranks = {k: v for k, v in ranks.items() if k in valid}
 
     tlist = sorted(tournaments.values(), key=lambda r: (r["start"], r["name"]))
     save_json("scrape_log.json", {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "atp": te_data.LOG, "ranks": rankings_data.LOG})

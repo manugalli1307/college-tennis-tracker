@@ -254,7 +254,7 @@
       return one(live || hits[hits.length - 1]);
     }
     var cur = ids.filter(function (id) { return !DATA.playerById[id].alumni; }), alu = ids.filter(function (id) { return DATA.playerById[id].alumni; });
-    var rows = cur.map(rowFor).join("") + (alu.length ? (cur.length ? '<li class="row row--label">Alumni</li>' : "") + alu.map(rowFor).join("") : "");
+    var rows = cur.map(rowFor).join("") + (alu.length ? (cur.length ? '<li class="row row--label">Former college tennis players</li>' : "") + alu.map(rowFor).join("") : "");
     if (noHead) return '<section class="event"><ul class="rows">' + rows + "</ul></section>";
     return '<section class="event"><div class="event__head"><h3>' + tournamentLink(t) + "</h3>" + statusTag(t) +
       '<div class="event__meta"><span>' + esc(fmtRange(t.start, t.end)) + "</span><span>" + esc(t.category) + "</span>" +
@@ -287,7 +287,7 @@
       '<div class="hero__count"><span><b>' + live + "</b>in events now</span><span><b>" + upc + "</b>entered in upcoming events</span><span><b>" +
       DATA.players.length + "</b>players on " + teamList().length + " teams</span></div></section>";
     html += '<div class="chips" role="group" aria-label="Who to show"><button type="button" data-view="current" aria-pressed="' + (homeView === "current") + '">College players</button>' +
-      '<button type="button" data-view="alumni" aria-pressed="' + (homeView === "alumni") + '">Alumni</button></div>' +
+      '<button type="button" data-view="alumni" aria-pressed="' + (homeView === "alumni") + '">Former college tennis players</button></div>' +
       filterBar() + '<div class="tabs" role="tablist">' + tabs.map(function (t) {
       return '<button role="tab" data-tab="' + t.id + '" aria-selected="' + (t.id === homeTab.id) + '">' + t.label + "</button>";
     }).join("") + "</div>";
@@ -334,7 +334,7 @@
       (team.rank < 999 ? '<div class="facts"><span>Team ranking <b>' + team.rank + "</b></span><span><b>" + team.players.length + "</b> players</span></div>" : "") +
       '<div class="section"><h2>On tour</h2>' + (blocks || empty("No players from this team are in ITF, Challenger or ATP events in the last two weeks or the next three.")) + "</div>" +
       '<div class="section"><h2>Roster</h2><ul class="grid">' + roster + "</ul></div>" +
-      (DATA.alumniTeams[key] ? '<p class="section"><a href="#/alumni/' + esc(key) + '">' + esc(team.school) + " alumni on the pro tour (" + DATA.alumniTeams[key].players.length + ") →</a></p>" : "");
+      (DATA.alumniTeams[key] ? '<p class="section"><a href="#/alumni/' + esc(key) + '">' + esc(team.school) + " former college tennis players (" + DATA.alumniTeams[key].players.length + ") →</a></p>" : "");
     bindFollow();
   }
 
@@ -503,7 +503,7 @@
       var ra = DATA.teams[a.slug] ? DATA.teams[a.slug].rank : 999, rb = DATA.teams[b.slug] ? DATA.teams[b.slug].rank : 999;
       return ra - rb || a.school.localeCompare(b.school);
     });
-    app.innerHTML = "<h1>Alumni</h1><p class=\"lede\">Former players from the top 30 teams who are playing pro events. Kept apart from the current players.</p>" +
+    app.innerHTML = "<h1>Former college tennis players</h1><p class=\"lede\">Former players from the top 30 teams who hold an ATP ranking. Kept apart from the current players.</p>" +
       (list.length ? '<ul class="grid section">' + list.map(function (a) {
         var n = alumniTour(a);
         return '<li><a href="#/alumni/' + esc(a.slug) + '"><span><strong>' + esc(a.school) + '</strong></span><span class="muted">' +
@@ -526,11 +526,11 @@
     }).map(function (p) {
       return '<li><a href="#/player/' + esc(p.id) + '"><strong>' + esc(p.name) + rkBadge(p.id) + '</strong><span class="muted">' + esc(alumLabel(p)) + "</span></a></li>";
     }).join("");
-    app.innerHTML = '<p class="crumbs"><a href="#/alumni">Alumni</a></p><h1>' + esc(team.school) + " alumni</h1>" +
-      '<div class="facts"><span><b>' + team.players.length + "</b> alumni tracked</span>" +
+    app.innerHTML = '<p class="crumbs"><a href="#/alumni">Former college tennis players</a></p><h1>' + esc(team.school) + " former college tennis players</h1>" +
+      '<div class="facts"><span><b>' + team.players.length + "</b> tracked</span>" +
       (DATA.teams[key] ? '<span><a href="#/team/' + esc(key) + '">Current team →</a></span>' : "") + "</div>" +
       '<div class="section"><h2>On tour</h2>' + (blocks || empty("No alumni from this school are in tracked events right now.")) + "</div>" +
-      '<div class="section"><h2>Alumni</h2><ul class="grid">' + roster + "</ul></div>";
+      '<div class="section"><h2>Former players</h2><ul class="grid">' + roster + "</ul></div>";
   }
 
   function pageFollowing() {
@@ -567,7 +567,7 @@
       .sort(function (a, b) { return a.r.rank - b.r.rank; });
     var html = "<h1>College ranking</h1><p class=\"lede\">Players by current ATP singles ranking. Only players we have seen in Challenger or ATP events so far have a ranking here; more fill in as the season goes.</p>" +
       '<div class="chips"><button type="button" data-rank="current" aria-pressed="' + (rankView === "current") + '">Current players</button>' +
-      '<button type="button" data-rank="alumni" aria-pressed="' + (rankView === "alumni") + '">Alumni</button></div>';
+      '<button type="button" data-rank="alumni" aria-pressed="' + (rankView === "alumni") + '">Former college tennis players</button></div>';
     html += list.length ? '<ol class="rank">' + list.map(function (x) {
       return '<li><span class="rank__n">#' + esc(x.r.rank) + '</span><a href="#/player/' + esc(x.p.id) + '"><strong>' + esc(x.p.name) +
         '</strong></a><span class="muted">' + esc(x.p.school) + (x.p.alumni ? " alumni" : "") + "</span></li>";

@@ -1,0 +1,30 @@
+name: Rank check for former players
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          pip install -r scraper/requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Look up every former player
+        run: python scraper/alumni_rank.py | tee alumni_rank_summary.txt
+      - name: Save the result
+        run: |
+          git config user.name "tennis-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          mkdir -p probes && mv alumni_rank_summary.txt probes/alumni_rank_summary.txt
+          git add data/alumni.csv data/alumni_all.csv data/rank_lookup.json probes
+          git commit -m "Former players: keep only ranked ones" || echo "nothing to save"
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push origin HEAD:main && break; sleep 5; done
