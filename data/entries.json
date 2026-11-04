@@ -13,12 +13,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-051",
-  "player": "ucf-nicolas-oliveira",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
   "player": "baylor-university-zsombor-velcz",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
@@ -157,18 +151,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-049",
-  "player": "university-of-notre-dame-jonas-kucera",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-049",
-  "player": "auburn-iker-urribarrens",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-049",
   "player": "nc-state-william-manning",
   "section": "Qualifying",
   "match": "full name"
@@ -217,7 +199,19 @@
  },
  {
   "tournament": "m-itf-usa-2026-046",
+  "player": "lsu-enzo-kohlmann-de-freitas",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
   "player": "university-of-oklahoma-dragos-cazacu",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "player": "ucf-fanming-meng",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -229,13 +223,7 @@
  },
  {
   "tournament": "m-itf-usa-2026-046",
-  "player": "mississippi-state-segundo-goity-zapico",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-046",
-  "player": "lsu-enzo-kohlmann-de-freitas",
+  "player": "lsu-nikolas-stoot",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -265,7 +253,7 @@
  },
  {
   "tournament": "m-itf-usa-2026-046",
-  "player": "ucf-fanming-meng",
+  "player": "michigan-state-mitchell-sheldon",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -277,13 +265,25 @@
  },
  {
   "tournament": "m-itf-usa-2026-046",
+  "player": "university-of-florida-ty-host",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
   "player": "auburn-manel-lazaro",
   "section": "Qualifying",
   "match": "full name"
  },
  {
   "tournament": "m-itf-usa-2026-046",
-  "player": "auburn-duje-markovina",
+  "player": "auburn-patrik-munkhammar",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "player": "auburn-iker-urribarrens",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -301,19 +301,7 @@
  },
  {
   "tournament": "m-itf-bol-2026-002",
-  "player": "mississippi-state-segundo-goity-zapico",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-002",
   "player": "auburn-duje-markovina",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-050",
-  "player": "university-of-texas-at-austin-tomasz-berkieta",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -337,7 +325,7 @@
  },
  {
   "tournament": "m-itf-usa-2026-050",
-  "player": "university-of-oklahoma-dragos-cazacu",
+  "player": "texas-a-m-university-markus-molder",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -361,7 +349,13 @@
  },
  {
   "tournament": "m-itf-usa-2026-050",
-  "player": "texas-a-m-university-markus-molder",
+  "player": "vanderbilt-hugo-coquelin",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-050",
+  "player": "auburn-tyler-bowers",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -373,13 +367,7 @@
  },
  {
   "tournament": "m-itf-usa-2026-050",
-  "player": "nc-state-william-manning",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-050",
-  "player": "nc-state-lachlan-mcfadzean",
+  "player": "nc-state-toby-kodat",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -396,15 +384,27 @@
   "match": "full name"
  },
  {
-  "tournament": "m-itf-tun-2026-046",
-  "player": "university-of-texas-at-austin-gabriel-debru",
+  "tournament": "m-itf-gre-2026-017",
+  "player": "university-of-san-diego-neo-niedner",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-gre-2026-017",
+  "player": "baylor-university-zsombor-velcz",
   "section": "Qualifying",
   "match": "full name"
  },
  {
   "tournament": "m-itf-tun-2026-046",
+  "player": "university-of-texas-at-austin-gabriel-debru",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-046",
   "player": "usc-branko-djuric",
-  "section": "Qualifying",
+  "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
  {
