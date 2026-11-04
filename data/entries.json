@@ -1,79 +1,55 @@
 [
  {
-  "tournament": "m-itf-gbr-2026-007",
-  "player": "alumni-university-of-arizona-jared-horwood",
+  "tournament": "m-itf-can-2026-004",
+  "player": "ucla-aadarsh-tripathi",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-007",
-  "player": "alumni-university-of-florida-pablo-perez-ramos",
+  "tournament": "m-itf-can-2026-004",
+  "player": "alumni-baylor-university-oskar-brostrom-poulsen",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-007",
-  "player": "alumni-auburn-finn-murgett",
+  "tournament": "m-itf-can-2026-004",
+  "player": "texas-a-m-university-tiago-pires",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-007",
-  "player": "alumni-auburn-billy-blaydes",
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-tiago-pires",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-007",
-  "player": "university-of-san-diego-oliver-tarvet",
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-marko-mesarovic",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-008",
-  "player": "alumni-auburn-billy-blaydes",
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-romain-gales",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-008",
-  "player": "university-of-san-diego-oliver-tarvet",
+  "tournament": "m-itf-can-2026-004",
+  "player": "cornell-rodrigo-fernandes",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-008",
-  "player": "alumni-auburn-finn-murgett",
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-viktor-markov",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-gbr-2026-008",
-  "player": "alumni-usc-oscar-weightman",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-egy-2026-031",
-  "player": "alumni-university-of-texas-at-austin-pierre-yves-bailly",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-egy-2026-031",
-  "player": "alumni-university-of-oklahoma-aleksandre-bakshi",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-egy-2026-031",
-  "player": "alumni-usc-oscar-weightman",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-egy-2026-031",
-  "player": "alumni-university-of-florida-borys-zgola",
+  "tournament": "m-itf-can-2026-004",
+  "player": "alumni-pepperdine-daniel-de-jonge",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -1344,6 +1320,18 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-egy-2026-029",
+  "player": "alumni-university-of-georgia-arda-azkara",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-egy-2026-029",
+  "player": "alumni-usc-volodymyr-iakubenko",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-chn-2026-033",
   "player": "alumni-nc-state-luca-staeheli",
   "section": "Main Draw",
@@ -1370,6 +1358,36 @@
  {
   "tournament": "m-itf-ind-2026-011",
   "player": "alumni-texas-a-m-university-noah-schachter",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "player": "alumni-university-of-arizona-jared-horwood",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "player": "alumni-university-of-florida-pablo-perez-ramos",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "player": "alumni-auburn-finn-murgett",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "player": "alumni-auburn-billy-blaydes",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-007",
+  "player": "university-of-san-diego-oliver-tarvet",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -1806,6 +1824,30 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-gbr-2026-008",
+  "player": "alumni-auburn-billy-blaydes",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "player": "university-of-san-diego-oliver-tarvet",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "player": "alumni-auburn-finn-murgett",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gbr-2026-008",
+  "player": "alumni-usc-oscar-weightman",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-aus-2026-012",
   "player": "alumni-mississippi-state-isaac-becroft",
   "section": "Main Draw",
@@ -1968,56 +2010,26 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-can-2026-004",
-  "player": "ucla-aadarsh-tripathi",
+  "tournament": "m-itf-egy-2026-031",
+  "player": "alumni-university-of-texas-at-austin-pierre-yves-bailly",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-can-2026-004",
-  "player": "alumni-baylor-university-oskar-brostrom-poulsen",
+  "tournament": "m-itf-egy-2026-031",
+  "player": "alumni-university-of-oklahoma-aleksandre-bakshi",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-can-2026-004",
-  "player": "texas-a-m-university-tiago-pires",
+  "tournament": "m-itf-egy-2026-031",
+  "player": "alumni-usc-oscar-weightman",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-can-2026-004",
-  "player": "clemson-tiago-pires",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "clemson-marko-mesarovic",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "clemson-romain-gales",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "cornell-rodrigo-fernandes",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "clemson-viktor-markov",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "alumni-pepperdine-daniel-de-jonge",
+  "tournament": "m-itf-egy-2026-031",
+  "player": "alumni-university-of-florida-borys-zgola",
   "section": "Main Draw",
   "match": "draw"
  },
