@@ -13,6 +13,7 @@ import re
 from datetime import date, timedelta
 
 BASE = "https://www.atptour.com"
+LOG = []   # diagnostics, saved to data/scrape_log.json by build_data.py
 CALENDARS = [
     ("Challenger", BASE + "/en/atp-challenger-tour/calendar"),
     ("ATP", BASE + "/en/tournaments"),
@@ -59,6 +60,14 @@ _DRAW_JS = """() => {
 }"""
 
 
+def _fail_note(page):
+    try:
+        body = page.inner_text("body")[:200].replace("\n", " ")
+        return f"title={page.title()!r} body={body!r}"
+    except Exception as e:
+        return f"(could not read page: {str(e)[:60]})"
+
+
 def parse_dates(text: str):
     """'2 - 8 November, 2026' / '26 October - 1 November, 2026' -> (start, end) or None."""
     m = _DATE_RE.search(text or "")
@@ -95,6 +104,7 @@ def read_calendar(page, tour: str, url: str, today, back_days, ahead_days, class
         raw = page.evaluate(_CAL_JS)
     except Exception as e:
         print(f"  [!] could not read the {tour} calendar: {str(e)[:150]}")
+        LOG.append({"step": f"calendar {tour}", "error": str(e)[:120], "page": _fail_note(page)})
         return []
     events = []
     for r in raw:
@@ -136,7 +146,8 @@ def read_draw_players(page, draws_url: str, matchtype: str):
         page.goto(f"{BASE}{draws_url}?matchtype={matchtype}", timeout=45000)
         page.wait_for_selector("select option[data-first]", state="attached", timeout=15000)
         return page.evaluate(_DRAW_JS)
-    except Exception:
+    except Exception as e:
+        LOG.append({"step": "draw", "url": f"{draws_url}?matchtype={matchtype}", "error": str(e)[:100], "page": _fail_note(page)})
         return []
 
 
@@ -147,7 +158,8 @@ def read_results(page, results_url: str):
         page.wait_for_selector(".match .stats-item", state="attached", timeout=20000)
         page.wait_for_timeout(1500)
         return page.evaluate(_RESULTS_JS)
-    except Exception:
+    except Exception as e:
+        LOG.append({"step": "results", "url": results_url, "error": str(e)[:100], "page": _fail_note(page)})
         return []
 
 
@@ -177,6 +189,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
             "status": ev["status"], "url": ev["url"],
         }
         print(f"[ATP {i}/{len(events)}] {ev['name']} ({ev['category']}, {ev['status']}, {ev['start']} to {ev['end']})")
+        LOG.append({"step": "event", "id": tid, "name": ev["name"], "status": ev["status"], "draws": ev["draws"], "results": ev["results"]})
         try:
             # Entries: everyone on the draw sheets
             if ev["draws"] and ev["status"] in ("upcoming", "current"):
@@ -188,6 +201,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                         for pid, kind in roster_ids_for(f"{p['first']} {p['last']}", prepared, id_by_key):
                             ents.append({"tournament": tid, "player": pid, "section": section, "match": kind})
                 print(f"    {total} players on the draw sheets, {len(ents)} roster entr(ies)")
+                LOG.append({"step": "draw summary", "id": tid, "players": total, "roster": len(ents)})
                 if total:
                     entries_by_t[tid] = ents
                     read_ok[tid] = True
@@ -229,6 +243,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                         "live": winner == 0 and bool(sets) and ev["status"] == "current",
                     })
                 print(f"    {len(raw)} singles matches on the results page, {len(ms)} with roster players")
+                LOG.append({"step": "results summary", "id": tid, "matches": len(raw), "roster": len(ms)})
                 if raw:
                     matches_by_t[tid] = ms
                     read_ok[tid] = True

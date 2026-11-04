@@ -406,6 +406,7 @@ def main():
                         ent_keys.add((m["tournament"], pid))
 
     tlist = sorted(tournaments.values(), key=lambda r: (r["start"], r["name"]))
+    save_json("scrape_log.json", {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "atp": atp_data.LOG})
     save_json("players.json", players)
     save_json("tournaments.json", tlist)
     save_json("entries.json", entries)
