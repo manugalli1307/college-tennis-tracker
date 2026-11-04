@@ -173,9 +173,9 @@ def collect_matches(page, t, tid, prepared, id_by_key, debug):
         page.wait_for_selector(".drawsheet-widget", timeout=15000)
     except Exception:
         print("    no draw sheet on this page (draw not published yet?)")
-        return [], 0
+        return [], 0, []
 
-    out, seen = [], 0
+    out, seen, allm = [], 0, []
     draws = [("Main Draw", read_draw(page))]
     if switch_draw(page, r"^\s*qualifying"):
         draws.append(("Qualifying", read_draw(page)))
@@ -198,8 +198,8 @@ def collect_matches(page, t, tid, prepared, id_by_key, debug):
                         "winner": bool(p["winner"]),
                         "roster": [pid for pid, kind in roster_ids_for(full, prepared, id_by_key)],
                     })
-                if not any(s and s["roster"] for s in sides):
-                    continue
+                if not any(s and (s["name"] or s["roster"]) for s in sides):
+                    continue  # empty slot in a later round
                 p1, p2 = m["p1"] or {"scores": []}, m["p2"] or {"scores": []}
                 n = max(len(p1["scores"]), len(p2["scores"]))
                 sets = []
@@ -208,7 +208,7 @@ def collect_matches(page, t, tid, prepared, id_by_key, debug):
                     b = norm_score(p2["scores"][i]) if i < len(p2["scores"]) else ""
                     sets.append([a, b])
                 winner = 1 if sides[0] and sides[0]["winner"] else 2 if sides[1] and sides[1]["winner"] else 0
-                out.append({
+                item = {
                     "tournament": tid,
                     "draw": draw_name,
                     "round": round_title,
@@ -217,8 +217,11 @@ def collect_matches(page, t, tid, prepared, id_by_key, debug):
                     "winner": winner,
                     "sets": sets,
                     "live": bool(m["live"]),
-                })
-    return out, seen
+                }
+                allm.append(item)
+                if any(s and s["roster"] for s in sides):
+                    out.append(item)
+    return out, seen, allm
 
 
 # ---------------------------------------------------------------------------
@@ -280,7 +283,9 @@ def main():
     old_m = load_json("matches.json", [])
 
     new_t, read_ok = {}, {}
-    entries_by_t, matches_by_t = {}, {}
+    entries_by_t, matches_by_t, draws_by_t = {}, {}, {}
+    old_d = load_json("draws.json", {})
+    old_r = load_json("rankings.json", {})
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -351,10 +356,11 @@ def main():
                         for e in ents:
                             print(f"    ENTRY: {e['player']} - {e['section']}")
                 else:
-                    ms, seen = collect_matches(page, t, tid, prepared, id_by_key, args.debug)
+                    ms, seen, allm = collect_matches(page, t, tid, prepared, id_by_key, args.debug)
                     print(f"    {seen} players on draw sheet, {len(ms)} roster match(es)")
                     if seen:
                         matches_by_t[tid] = ms
+                        draws_by_t[tid] = allm
                         read_ok[tid] = True
             except Exception as e:
                 print(f"    [!] problem: {e}")
@@ -364,7 +370,7 @@ def main():
         try:
             te_cache = load_json("te_players.json", {})
             try:
-                recs, ok, ents, ms = te_data.collect(
+                recs, ok, ents, ms, drw = te_data.collect(
                     page, today, args.back_days, args.ahead_days, itf.classify, roster_ids_for, prepared, id_by_key,
                     te_cache, only=args.only, limit=args.max_tournaments)
             finally:
@@ -373,6 +379,7 @@ def main():
             read_ok.update(ok)
             entries_by_t.update(ents)
             matches_by_t.update(ms)
+            draws_by_t.update(drw)
         except Exception as e:
             print(f"[!] ATP section failed: {e}")
         browser.close()
@@ -385,9 +392,11 @@ def main():
     cutoff = (today - timedelta(days=args.back_days)).isoformat()
     tournaments = dict(new_t)
     for tid, rec in old_t.items():
-        if rec.get("tour", "ITF") != "ITF" and tid not in tournaments:
-            continue  # ATP events only stay if they were read successfully this run
-        if tid not in tournaments and rec["end"] >= cutoff and not args.only:
+        st = itf.classify(date.fromisoformat(rec["start"]), date.fromisoformat(rec["end"]), today, 999, 999)
+        if rec.get("tour", "ITF") != "ITF" and tid not in tournaments and st != "past":
+            continue  # unfinished ATP events only stay if they were read successfully this run
+        if tid not in tournaments and not args.only and (st == "past" or rec["end"] >= cutoff):
+            # Finished events are kept for good so the site builds up a full season.
             # Recompute status from dates so old records age correctly
             st = itf.classify(date.fromisoformat(rec["start"]), date.fromisoformat(rec["end"]), today, 999, 999)
             rec["status"] = st or rec["status"]
@@ -411,12 +420,19 @@ def main():
                         entries.append({"tournament": m["tournament"], "player": pid, "section": m["draw"], "match": "draw"})
                         ent_keys.add((m["tournament"], pid))
 
+    draws = {t: v for t, v in old_d.items() if t in tournaments and t not in read_ok}
+    draws.update({t: v for t, v in draws_by_t.items() if t in tournaments})
+    ranks = dict(old_r)
+    ranks.update(te_data.RANKS)
+
     tlist = sorted(tournaments.values(), key=lambda r: (r["start"], r["name"]))
     save_json("scrape_log.json", {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "atp": te_data.LOG})
     save_json("players.json", players)
     save_json("tournaments.json", tlist)
     save_json("entries.json", entries)
     save_json("matches.json", matches)
+    save_json("draws.json", draws)
+    save_json("rankings.json", ranks)
     save_json("meta.json", {
         "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "window": {"back_days": args.back_days, "ahead_days": args.ahead_days},

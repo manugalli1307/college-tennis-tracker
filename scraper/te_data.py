@@ -19,6 +19,7 @@ import tennis_tracker as tt
 BASE = "https://www.tennisexplorer.com"
 CALENDAR = BASE + "/calendar/atp-men/{year}/"
 LOG = []
+RANKS = {}   # roster player id -> {"rank": 123, "asof": "2026-11-04"}
 MAX_PROFILES_PER_RUN = 250
 
 ROUNDS = {"1R": "1st Round", "2R": "2nd Round", "3R": "3rd Round", "R128": "Round of 128",
@@ -165,22 +166,28 @@ class Names:
     def full(self, p, force=False):
         """Full 'Given Surname' for a player dict, or None if not known."""
         slug = p["slug"]
-        if slug not in self.cache:
-            if not force and not self.possible(p["surname"]):
+        entry = self.cache.get(slug)
+        stale = (entry is None or "rank" not in entry
+                 or (date.today() - date.fromisoformat(entry.get("asof", "2000-01-01"))).days >= 7)
+        if stale:
+            if entry is None and not force and not self.possible(p["surname"]):
                 return None
-            if self.fetched >= MAX_PROFILES_PER_RUN:
-                return None
-            self.fetched += 1
-            try:
-                soup = _get(self.page, f"{BASE}/player/{slug}/", "table.plDetail, h3")
-                h = soup.select_one("table.plDetail h3") or soup.select_one("h3")
-                raw = h.get_text(" ", strip=True) if h else ""
-                cm = re.search(r"Country:\s*(.+?)\s+Age:", soup.get_text(" ", strip=True))
-                self.cache[slug] = {"raw": raw, "country": cm.group(1) if cm else ""}
-            except Exception as e:
-                LOG.append({"step": "profile", "slug": slug, "error": str(e)[:100], "page": _note(self.page)})
-                return None
-        raw = self.cache[slug].get("raw", "")
+            if self.fetched < MAX_PROFILES_PER_RUN:
+                self.fetched += 1
+                try:
+                    soup = _get(self.page, f"{BASE}/player/{slug}/", "table.plDetail, h3")
+                    h = soup.select_one("table.plDetail h3") or soup.select_one("h3")
+                    raw = h.get_text(" ", strip=True) if h else ""
+                    text = soup.get_text(" ", strip=True)
+                    cm = re.search(r"Country:\s*(.+?)\s+Age:", text)
+                    rm = re.search(r"Current/Highest rank - singles:\s*(\d+)\.", text)
+                    self.cache[slug] = {"raw": raw, "country": cm.group(1) if cm else "",
+                                        "rank": int(rm.group(1)) if rm else None,
+                                        "asof": date.today().isoformat()}
+                except Exception as e:
+                    LOG.append({"step": "profile", "slug": slug, "error": str(e)[:100], "page": _note(self.page)})
+        entry = self.cache.get(slug)
+        raw = (entry or {}).get("raw", "")
         if not raw:
             return None
         sn = p["surname"].strip()
@@ -203,13 +210,13 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
     if limit:
         events = events[:limit]
 
-    records, read_ok, entries_by_t, matches_by_t = {}, {}, {}, {}
+    records, read_ok, entries_by_t, matches_by_t, draws_by_t = {}, {}, {}, {}, {}
     for i, ev in enumerate(events, 1):
         tid = ev["id"]
         print(f"[ATP {i}/{len(events)}] {ev['name']} ({ev['category']}, {ev['status']}, {ev['start']} to {ev['end']})")
         try:
             sections = [("Main Draw", ev["path"]), ("Qualifying", ev["path"] + "?phase=qualification")]
-            ents, ms, any_data = [], [], False
+            ents, ms, alls, any_data = [], [], [], False
             for section, path in sections:
                 try:
                     soup = _get(page, BASE + path, "table.result, #draw")
@@ -227,6 +234,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                         if not full:
                             continue
                         for pid, kind in roster_ids_for(full, prepared, id_by_key):
+                            note_rank(names.cache, p["slug"], pid)
                             if not any(e["player"] == pid and e["section"] == section for e in ents):
                                 ents.append({"tournament": tid, "player": pid, "section": section, "match": kind})
                 if ev["status"] in ("current", "past"):
@@ -235,21 +243,28 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                         for k, p in enumerate((m["p1"], m["p2"]), 1):
                             full = names.full(p)
                             roster = [pid for pid, kind in roster_ids_for(full, prepared, id_by_key)] if full else []
+                            for pid in roster:
+                                note_rank(names.cache, p["slug"], pid)
                             hit = hit or bool(roster)
                             sides.append({"p": p, "full": full, "roster": roster, "winner": m["winner"] == k})
-                        if not hit:
-                            continue
-                        for s in sides:  # opponents get a full name too
-                            if not s["full"]:
-                                s["full"] = names.full(s["p"], force=True) or s["p"]["surname"]
-                        ms.append({
+                        if hit:
+                            for s_ in sides:  # opponents get a full name and ranking too
+                                if not s_["full"]:
+                                    s_["full"] = names.full(s_["p"], force=True) or s_["p"]["surname"]
+
+                        def side_dict(s_, mp):
+                            c = names.cache.get(mp["slug"], {})
+                            return {"name": s_["full"] or mp["surname"], "country": c.get("country", ""),
+                                    "seed": mp["seed"], "winner": s_["winner"], "roster": s_["roster"],
+                                    "rank": c.get("rank")}
+                        item = {
                             "tournament": tid, "draw": section, "round": m["round"],
-                            "p1": {"name": sides[0]["full"], "country": names.cache.get(m["p1"]["slug"], {}).get("country", ""),
-                                   "seed": m["p1"]["seed"], "winner": sides[0]["winner"], "roster": sides[0]["roster"]},
-                            "p2": {"name": sides[1]["full"], "country": names.cache.get(m["p2"]["slug"], {}).get("country", ""),
-                                   "seed": m["p2"]["seed"], "winner": sides[1]["winner"], "roster": sides[1]["roster"]},
+                            "p1": side_dict(sides[0], m["p1"]), "p2": side_dict(sides[1], m["p2"]),
                             "winner": m["winner"], "sets": m["sets"], "live": False,
-                        })
+                        }
+                        alls.append(item)
+                        if hit:
+                            ms.append(item)
             print(f"    {len(ents)} roster entr(ies), {len(ms)} roster match(es)")
             LOG.append({"step": "event", "id": tid, "name": ev["name"], "status": ev["status"],
                         "entries": len(ents), "matches": len(ms), "data": any_data})
@@ -264,11 +279,13 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                     entries_by_t[tid] = ents
                 if ms:
                     matches_by_t[tid] = ms
+                if alls:
+                    draws_by_t[tid] = alls
         except Exception as e:
             print(f"    [!] problem: {str(e)[:150]}")
             LOG.append({"step": "event", "id": tid, "error": str(e)[:120]})
     LOG.append({"step": "profiles opened", "count": names.fetched})
-    return records, read_ok, entries_by_t, matches_by_t
+    return records, read_ok, entries_by_t, matches_by_t, draws_by_t
 
 
 def tt_roster(prepared):
@@ -278,3 +295,9 @@ def tt_roster(prepared):
         rp = item[0] if isinstance(item, (tuple, list)) else item
         out.append(getattr(rp, "player", None) or str(rp))
     return out
+
+
+def note_rank(cache, slug, pid):
+    c = cache.get(slug) or {}
+    if c.get("rank"):
+        RANKS[pid] = {"rank": c["rank"], "asof": c.get("asof", "")}

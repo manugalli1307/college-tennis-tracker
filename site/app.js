@@ -4,6 +4,53 @@
   var DATA = {};
   var app = document.getElementById("main");
   var homeTab = null;
+  var tourFilter = "all";
+  var FILTERS = [["all", "All"], ["M15", "M15"], ["M25", "M25"], ["challenger", "Challengers"], ["atp", "ATP Tour"]];
+  function passes(t) {
+    if (tourFilter === "all") return true;
+    if (tourFilter === "challenger") return t.tour === "ATP Challenger";
+    if (tourFilter === "atp") return t.tour === "ATP Tour";
+    return t.category === tourFilter;
+  }
+  function isoDaysAgo(n) {
+    var d = new Date(); d.setDate(d.getDate() - n);
+    return d.getFullYear() + "-" + ("0" + (d.getMonth() + 1)).slice(-2) + "-" + ("0" + d.getDate()).slice(-2);
+  }
+  function isRecent(t) { return t.end >= isoDaysAgo(14); }
+  function filterBar() {
+    return '<div class="chips" role="group" aria-label="Filter tournaments">' + FILTERS.map(function (f) {
+      return '<button type="button" data-filter="' + f[0] + '" aria-pressed="' + (tourFilter === f[0]) + '">' + f[1] + "</button>";
+    }).join("") + "</div>";
+  }
+  function bindFilters() {
+    Array.prototype.forEach.call(app.querySelectorAll("[data-filter]"), function (b) {
+      b.addEventListener("click", function () { tourFilter = b.getAttribute("data-filter"); route(true); });
+    });
+  }
+
+  // ---------- follows (saved in this browser only) ----------
+  function loadFollows() {
+    try { var f = JSON.parse(localStorage.getItem("ctot-follows") || "{}"); return { p: f.p || [], t: f.t || [] }; }
+    catch (e) { return { p: [], t: [] }; }
+  }
+  function saveFollows(f) { try { localStorage.setItem("ctot-follows", JSON.stringify(f)); } catch (e) { /* private mode */ } }
+  function isFollowing(kind, id) { return loadFollows()[kind].indexOf(id) >= 0; }
+  function followButton(kind, id) {
+    var on = isFollowing(kind, id);
+    return '<button type="button" class="follow" data-follow="' + kind + ":" + esc(id) + '" aria-pressed="' + on + '">' + (on ? "★ Following" : "☆ Follow") + "</button>";
+  }
+  function bindFollow() {
+    Array.prototype.forEach.call(app.querySelectorAll("[data-follow]"), function (b) {
+      b.addEventListener("click", function () {
+        var parts2 = b.getAttribute("data-follow").split(":"), kind = parts2[0], id = parts2.slice(1).join(":");
+        var f = loadFollows(), i = f[kind].indexOf(id);
+        if (i >= 0) f[kind].splice(i, 1); else f[kind].push(id);
+        saveFollows(f);
+        b.setAttribute("aria-pressed", i < 0);
+        b.textContent = i < 0 ? "★ Following" : "☆ Follow";
+      });
+    });
+  }
 
   // ---------- helpers ----------
   function esc(s) {
@@ -32,6 +79,7 @@
 
   // ---------- data ----------
   function index() {
+    DATA.draws = DATA.draws || {}; DATA.ranks = DATA.ranks || {};
     DATA.playerById = {}; DATA.tById = {}; DATA.teams = {};
     DATA.entriesByT = {}; DATA.entriesByP = {}; DATA.matchesByT = {}; DATA.matchesByP = {};
     DATA.players.forEach(function (p) {
@@ -90,7 +138,8 @@
       name = '<a href="#/player/' + esc(o.roster[0]) + '">' + name + "</a>";
     }
     var extra = [o.country, o.seed ? "seed " + o.seed : ""].filter(Boolean).join(", ");
-    return name + (extra ? ' <span class="muted">(' + esc(extra) + ")</span>" : "");
+    return name + (extra ? ' <span class="muted">(' + esc(extra) + ")</span>" : "") +
+      (o.rank ? ' <span class="rk" title="Current ATP singles ranking">ATP #' + esc(o.rank) + "</span>" : "");
   }
 
   // One row for a player in an event; match may be null (just entered)
@@ -164,7 +213,8 @@
 
   // ---------- pages ----------
   function pageHome() {
-    var cur = byStatus("current"), nxt = byStatus("upcoming"), past = byStatus("past").slice().reverse();
+    var cur = byStatus("current").filter(passes), nxt = byStatus("upcoming").filter(passes),
+      past = byStatus("past").filter(isRecent).filter(passes).reverse();
     var tabs = [
       { id: "current", label: "Playing now", list: cur, none: "No roster players are in an event right now. Check Next up for who is entered." },
       { id: "upcoming", label: "Next up", list: nxt, none: "No entry lists are published yet for roster players. Lists usually appear about two weeks before an event." },
@@ -180,12 +230,13 @@
       '<p class="lede">Men from the top 30 Division I teams at ITF M15 and M25 events, ATP Challengers and the ATP Tour: who is playing now, who is entered next, and how they did.</p>' +
       '<div class="hero__count"><span><b>' + live + "</b>in events now</span><span><b>" + upc + "</b>entered in upcoming events</span><span><b>" +
       DATA.players.length + "</b>players on " + teamList().length + " teams</span></div></section>";
-    html += '<div class="tabs" role="tablist">' + tabs.map(function (t) {
+    html += filterBar() + '<div class="tabs" role="tablist">' + tabs.map(function (t) {
       return '<button role="tab" data-tab="' + t.id + '" aria-selected="' + (t.id === homeTab.id) + '">' + t.label + "</button>";
     }).join("") + "</div>";
     var blocks = homeTab.list.map(function (t) { return eventBlock(t); }).join("");
     html += blocks || empty(homeTab.none);
     app.innerHTML = html;
+    bindFilters();
     Array.prototype.forEach.call(app.querySelectorAll("[data-tab]"), function (b) {
       b.addEventListener("click", function () {
         homeTab = tabs.filter(function (t) { return t.id === b.getAttribute("data-tab"); })[0];
@@ -218,10 +269,11 @@
       return '<li><a href="#/player/' + esc(p.id) + '"><strong>' + esc(p.name) + '</strong><span class="muted">' +
         esc(p.class || "") + (n ? (p.class ? " · " : "") + plural(n, "event") : "") + "</span></a></li>";
     }).join("");
-    app.innerHTML = '<p class="crumbs"><a href="#/teams">Teams</a></p><h1>' + esc(team.school) + "</h1>" +
+    app.innerHTML = '<p class="crumbs"><a href="#/teams">Teams</a></p><h1>' + esc(team.school) + "</h1>" + followButton("t", team.slug) +
       (team.rank < 999 ? '<div class="facts"><span>Team ranking <b>' + team.rank + "</b></span><span><b>" + team.players.length + "</b> players</span></div>" : "") +
       '<div class="section"><h2>On tour</h2>' + (blocks || empty("No players from this team are in ITF, Challenger or ATP events in the last two weeks or the next three.")) + "</div>" +
       '<div class="section"><h2>Roster</h2><ul class="grid">' + roster + "</ul></div>";
+    bindFollow();
   }
 
   function pagePlayer(id) {
@@ -240,28 +292,70 @@
     var html = '<p class="crumbs"><a href="#/team/' + esc(slug(p.school)) + '">' + esc(p.school) + "</a></p><h1>" + esc(p.name) + "</h1>" +
       '<div class="facts">' + (p.class ? "<span><b>" + esc(p.class) + "</b></span>" : "") +
       (p.hometown ? "<span>" + esc(p.hometown) + "</span>" : "") + "</div>";
-    if (w + l) html += '<p class="record"><b>' + w + "–" + l + '</b>in singles over the last two weeks</p>';
+    var rk = DATA.ranks[id];
+    if (rk && rk.rank) html += '<div class="facts"><span>ATP singles ranking <b>#' + esc(rk.rank) + "</b></span></div>";
+    html += followButton("p", id);
+    if (w + l) html += '<p class="record"><b>' + w + "–" + l + '</b>in singles matches tracked on this site</p>';
     html += '<div class="section"><h2>Coming up</h2>' +
       (upcoming.length ? upcoming.map(function (t) { return eventBlock(t, only); }).join("") : empty("Not on any published entry list yet.")) + "</div>";
     html += '<div class="section"><h2>Playing and results</h2>' +
-      (played.length ? played.map(function (t) { return eventBlock(t, only, true); }).join("") : empty("No matches in the last two weeks.")) + "</div>";
+      (played.length ? played.map(function (t) { return eventBlock(t, only, true); }).join("") : empty("No matches tracked yet.")) + "</div>";
     app.innerHTML = html;
+    bindFollow();
   }
 
+  function tournamentList(list) {
+    return '<ul class="grid">' + list.map(function (t) {
+      var n = new Set((DATA.entriesByT[t.id] || []).map(function (e) { return e.player; })).size;
+      return '<li><a href="#/tournament/' + esc(t.id) + '"><span><strong>' + esc(t.name) + '</strong><br><span class="muted">' +
+        esc(fmtRange(t.start, t.end)) + " · " + esc(t.category) + "</span></span><span class=\"muted\">" + (n ? plural(n, "player") : "") + "</span></a></li>";
+    }).join("") + "</ul>";
+  }
   function pageTournaments() {
-    var groups = [["current", "Playing now"], ["upcoming", "Next up"], ["past", "Last two weeks"]];
-    var html = "<h1>Tournaments</h1><p class=\"lede\">Every ITF M15 and M25 event, ATP Challenger and ATP Tour event from two weeks back to three weeks ahead.</p>";
-    groups.forEach(function (g) {
-      var list = byStatus(g[0]);
-      if (g[0] === "past") list = list.slice().reverse();
-      if (!list.length) return;
-      html += '<div class="section"><h2>' + g[1] + '</h2><ul class="grid">' + list.map(function (t) {
-        var n = new Set((DATA.entriesByT[t.id] || []).map(function (e) { return e.player; })).size;
-        return '<li><a href="#/tournament/' + esc(t.id) + '"><span><strong>' + esc(t.name) + '</strong><br><span class="muted">' +
-          esc(fmtRange(t.start, t.end)) + "</span></span><span class=\"muted\">" + (n ? plural(n, "player") : "") + "</span></a></li>";
-      }).join("") + "</ul></div>";
+    var html = "<h1>Tournaments</h1><p class=\"lede\">ITF M15 and M25 events, ATP Challengers and the ATP Tour. Finished events stay here for the whole season.</p>" + filterBar();
+    var all = DATA.tournaments.filter(passes);
+    [["current", "Playing now"], ["upcoming", "Next up"]].forEach(function (g) {
+      var list = all.filter(function (t) { return t.status === g[0]; });
+      if (list.length) html += '<div class="section"><h2>' + g[1] + "</h2>" + tournamentList(list) + "</div>";
     });
+    var past = all.filter(function (t) { return t.status === "past"; }).reverse();
+    var recent = past.filter(isRecent), older = past.filter(function (t) { return !isRecent(t); });
+    if (recent.length) html += '<div class="section"><h2>Last two weeks</h2>' + tournamentList(recent) + "</div>";
+    if (older.length) html += '<details class="section"><summary><h2>Earlier this season (' + older.length + ")</h2></summary>" + tournamentList(older) + "</details>";
+    if (!all.length) html += empty("No tournaments match this filter right now.");
     app.innerHTML = html;
+    bindFilters();
+  }
+
+  // The full draw, with college players highlighted
+  function drawHTML(t) {
+    var ms = DATA.draws[t.id];
+    if (!ms || !ms.length) return "";
+    var groups = [], idx = {};
+    ms.forEach(function (m) {
+      var key = m.draw + "|" + m.round;
+      if (idx[key] === undefined) { idx[key] = groups.length; groups.push({ draw: m.draw, round: m.round, list: [] }); }
+      groups[idx[key]].list.push(m);
+    });
+    function side(o, won, sets, flip) {
+      if (!o) return '<div class="dm__p"><span class="muted">Bye</span></div>';
+      var hl = o.roster && o.roster.length && DATA.playerById[o.roster[0]];
+      var nm = hl ? '<a href="#/player/' + esc(o.roster[0]) + '">' + esc(o.name) + "</a>" : esc(o.name || "TBD");
+      var info = [o.seed ? "(" + esc(o.seed) + ")" : "", o.rank ? "ATP #" + esc(o.rank) : ""].filter(Boolean).join(" ");
+      return '<div class="dm__p' + (won ? " dm__p--w" : "") + (hl ? " dm__p--hl" : "") + '"><span class="dm__n">' + nm +
+        (hl ? ' <span class="dm__s">' + esc(DATA.playerById[o.roster[0]].school) + "</span>" : "") +
+        (info ? ' <span class="muted">' + info + "</span>" : "") + '</span><span class="dm__sc">' +
+        (sets || []).map(function (st) { return "<span>" + setCell(flip ? st[1] : st[0]) + "</span>"; }).join("") + "</span></div>";
+    }
+    var html = '<div class="section"><h2>Draw</h2><p class="muted">College players are highlighted.</p>';
+    groups.forEach(function (g) {
+      html += '<h3 class="dr">' + esc((g.draw === "Qualifying" ? "Qualifying · " : "") + g.round) + '</h3><div class="dm-grid">' +
+        g.list.map(function (m) {
+          return '<div class="dm' + (m.live ? " dm--live" : "") + '">' + side(m.p1, m.winner === 1, m.sets, false) +
+            side(m.p2, m.winner === 2, m.sets, true) + "</div>";
+        }).join("") + "</div>";
+    });
+    return html + "</div>";
   }
 
   function pageTournament(id) {
@@ -275,6 +369,45 @@
     html += '<div class="section">' + (block || empty(t.status === "upcoming"
       ? "No roster players are on the entry list yet. Lists usually appear about two weeks before the event."
       : "No roster players found in this event.")) + "</div>";
+    html += drawHTML(t);
+    app.innerHTML = html;
+  }
+
+  function pageFollowing() {
+    var f = loadFollows(), only = {}, n = 0;
+    f.p.forEach(function (id) { if (DATA.playerById[id]) { only[id] = true; n++; } });
+    f.t.forEach(function (k) { if (DATA.teams[k]) DATA.teams[k].players.forEach(function (p) { only[p.id] = true; n++; }); });
+    var html = "<h1>Following</h1>";
+    if (!n) {
+      app.innerHTML = html + empty("You aren't following anyone yet. Open a player or a team and press Follow. Your list is saved in this browser on this device only.");
+      return;
+    }
+    html += '<p class="lede">Your followed players and teams. This list is saved in this browser only.</p>';
+    var shown = false;
+    [["current", "Playing now"], ["upcoming", "Next up"], ["past", "Recent results"]].forEach(function (g) {
+      var list = DATA.tournaments.filter(function (t) { return t.status === g[0] && (g[0] !== "past" || isRecent(t)); });
+      if (g[0] === "past") list = list.slice().reverse();
+      var blocks = list.map(function (t) { return eventBlock(t, only); }).join("");
+      if (blocks) { shown = true; html += '<div class="section"><h2>' + g[1] + "</h2>" + blocks + "</div>"; }
+    });
+    if (!shown) html += empty("None of them are in an event right now or entered in the next three weeks.");
+    var people = Object.keys(only).map(function (id) { return DATA.playerById[id]; }).filter(Boolean)
+      .sort(function (a, b) { return a.name.localeCompare(b.name); });
+    html += '<div class="section"><h2>Who you follow</h2><ul class="grid">' + people.map(function (p) {
+      return '<li><a href="#/player/' + esc(p.id) + '"><strong>' + esc(p.name) + '</strong><span class="muted">' + esc(p.school) + "</span></a></li>";
+    }).join("") + "</ul></div>";
+    app.innerHTML = html;
+  }
+
+  function pageRanking() {
+    var list = DATA.players.map(function (p) { return { p: p, r: DATA.ranks[p.id] }; })
+      .filter(function (x) { return x.r && x.r.rank; })
+      .sort(function (a, b) { return a.r.rank - b.r.rank; });
+    var html = "<h1>College ranking</h1><p class=\"lede\">Roster players by current ATP singles ranking. Only players we have seen in Challenger or ATP events so far have a ranking here; more fill in as the season goes.</p>";
+    html += list.length ? '<ol class="rank">' + list.map(function (x) {
+      return '<li><span class="rank__n">#' + esc(x.r.rank) + '</span><a href="#/player/' + esc(x.p.id) + '"><strong>' + esc(x.p.name) +
+        '</strong></a><span class="muted">' + esc(x.p.school) + "</span></li>";
+    }).join("") + "</ol>" : empty("No rankings yet. They appear after the next update.");
     app.innerHTML = html;
   }
 
@@ -283,7 +416,7 @@
   }
 
   // ---------- router ----------
-  function route() {
+  function route(keepScroll) {
     if (!DATA.players) return;
     var h = location.hash.replace(/^#\/?/, "");
     var seg = h.split("/");
@@ -297,8 +430,10 @@
     else if (page === "player") pagePlayer(arg);
     else if (page === "tournaments") pageTournaments();
     else if (page === "tournament") pageTournament(arg);
+    else if (page === "following") pageFollowing();
+    else if (page === "ranking") pageRanking();
     else pageHome();
-    window.scrollTo(0, 0);
+    if (keepScroll !== true) window.scrollTo(0, 0);
     document.title = (page === "home" ? "" : (app.querySelector("h1") || {}).textContent + " – ") + "College Tennis on Tour";
   }
 
@@ -341,16 +476,19 @@
 
   // ---------- start ----------
   app.innerHTML = '<p class="empty">Loading the latest entries and results…</p>';
-  Promise.all(["players.json", "tournaments.json", "entries.json", "matches.json", "meta.json"].map(fetchJSON))
+  function optional(name, fallback) { return fetchJSON(name).catch(function () { return fallback; }); }
+  Promise.all(["players.json", "tournaments.json", "entries.json", "matches.json", "meta.json"].map(fetchJSON)
+    .concat([optional("draws.json", {}), optional("rankings.json", {})]))
     .then(function (r) {
       DATA.players = r[0]; DATA.tournaments = r[1]; DATA.entries = r[2]; DATA.matches = r[3]; DATA.meta = r[4];
+      DATA.draws = r[5]; DATA.ranks = r[6];
       index();
       setupSearch();
       if (DATA.meta && DATA.meta.updated) {
         var d = new Date(DATA.meta.updated);
         document.getElementById("updated").textContent = "Last updated " + d.toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) + ".";
       }
-      window.addEventListener("hashchange", route);
+      window.addEventListener("hashchange", function () { route(); });
       route();
     })
     .catch(function () {

@@ -2,8 +2,8 @@ name: Update data and publish site
 
 on:
   schedule:
-    - cron: "23 10 * * *"   # about 6:23 AM Eastern: entry lists and last night's results
-    - cron: "41 2 * * *"    # about 10:41 PM Eastern: today's results
+    - cron: "7 11 * * *"    # about 6 AM Eastern in winter (7 AM in summer): entry lists and last night's results
+    - cron: "7 21 * * *"    # about 4 PM Eastern in winter (5 PM in summer): today's results
   workflow_dispatch:         # lets you run it by hand from the Actions tab
   push:
     branches: [main]
