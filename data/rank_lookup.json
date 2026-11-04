@@ -1,0 +1,1001 @@
+{
+ "university-of-virginia-stiles-brockett": {
+  "found": true,
+  "slug": "brockett-a1ea3",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-dylan-dietrich": {
+  "found": true,
+  "slug": "dietrich-fa350",
+  "rank": 189,
+  "country": "Switzerland",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-roy-horovitz": {
+  "found": true,
+  "slug": "horovitz",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-jack-kennedy": {
+  "found": true,
+  "slug": "kennedy-81205",
+  "rank": 396,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-jangjun-kim": {
+  "found": true,
+  "slug": "kim-207ea",
+  "rank": 852,
+  "country": "South Korea",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-luca-preda": {
+  "found": true,
+  "slug": "preda-b2ce0",
+  "rank": 1631,
+  "country": "Romania",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-stefan-regalia": {
+  "found": true,
+  "slug": "regalia",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-keegan-rice": {
+  "found": true,
+  "slug": "rice-6b866",
+  "rank": 579,
+  "country": "Canada",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-andres-santamarta-roig": {
+  "found": true,
+  "slug": "santamarta-roig",
+  "rank": 774,
+  "country": "Spain",
+  "asof": "2026-11-04"
+ },
+ "university-of-virginia-ty-switzer": {
+  "found": true,
+  "slug": "switzer",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-tomasz-berkieta": {
+  "found": true,
+  "slug": "berkieta",
+  "rank": 642,
+  "country": "Poland",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-jeremiah-braswell": {
+  "found": true,
+  "slug": "braswell-237e1",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-lucas-brown": {
+  "found": true,
+  "slug": "brown-af546",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-gabriel-debru": {
+  "found": true,
+  "slug": "debru-5353d",
+  "rank": 556,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-mariano-dedura-palomero": {
+  "found": true,
+  "slug": "dedura-palomero",
+  "rank": 2082,
+  "country": "Germany",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-sebastian-eriksson": {
+  "found": true,
+  "slug": "eriksson-20fd4",
+  "rank": null,
+  "country": "Sweden",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-abel-forger": {
+  "found": true,
+  "slug": "forger-fe3ad",
+  "rank": 822,
+  "country": "Netherlands",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-lucas-marionneau": {
+  "found": true,
+  "slug": "marionneau",
+  "rank": 1111,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "university-of-texas-at-austin-oliver-ojakaar": {
+  "found": true,
+  "slug": "ojakaar",
+  "rank": 1041,
+  "country": "Estonia",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-joaquin-guilleme": {
+  "found": true,
+  "slug": "guilleme",
+  "rank": 1007,
+  "country": "Nicaragua",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-emanuel-ivanisevic": {
+  "found": true,
+  "slug": "ivanisevic-8bdf7",
+  "rank": 1903,
+  "country": "Croatia",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-dominick-mosejczuk": {
+  "found": true,
+  "slug": "mosejczuk-9a09b",
+  "rank": 804,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-luca-pow": {
+  "found": true,
+  "slug": "pow",
+  "rank": 1156,
+  "country": "Great Britain",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-mees-rottgering": {
+  "found": true,
+  "slug": "rottgering",
+  "rank": 295,
+  "country": "Netherlands",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-aryan-shah": {
+  "found": true,
+  "slug": "shah-e7d4a",
+  "rank": 986,
+  "country": "India",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-cornelius-shalmi": {
+  "found": true,
+  "slug": "shalmi",
+  "rank": null,
+  "country": "Denmark",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-kacper-szymkowiak": {
+  "found": true,
+  "slug": "szymkowiak",
+  "rank": 1110,
+  "country": "Poland",
+  "asof": "2026-11-04"
+ },
+ "wake-forest-aditya-vyas": {
+  "found": true,
+  "slug": "vyas-83754",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "tcu-oliver-bonding": {
+  "found": true,
+  "slug": "bonding",
+  "rank": 662,
+  "country": "Great Britain",
+  "asof": "2026-11-04"
+ },
+ "tcu-matthieu-chambonniere": {
+  "found": true,
+  "slug": "chambonniere",
+  "rank": 1457,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "tcu-duncan-chan": {
+  "found": true,
+  "slug": "chan-0fbe0",
+  "rank": 470,
+  "country": "Canada",
+  "asof": "2026-11-04"
+ },
+ "tcu-maximus-dussault": {
+  "found": true,
+  "slug": "dussault",
+  "rank": 1127,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "tcu-jamie-mackenzie": {
+  "found": true,
+  "slug": "mackenzie-87661",
+  "rank": 630,
+  "country": "Germany",
+  "asof": "2026-11-04"
+ },
+ "tcu-roger-pascual": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "tcu-albert-pedrico": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "tcu-kaj-quirijns": {
+  "found": true,
+  "slug": "quirijns",
+  "rank": null,
+  "country": "Switzerland",
+  "asof": "2026-11-04"
+ },
+ "tcu-cooper-woestendick": {
+  "found": true,
+  "slug": "woestendick",
+  "rank": 1817,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-brandon-carpico": {
+  "found": true,
+  "slug": "carpico",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-nikita-filin": {
+  "found": true,
+  "slug": "filin-b22a4",
+  "rank": 1214,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-matthew-forbes": {
+  "found": true,
+  "slug": "forbes-0b703",
+  "rank": 944,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-alex-fuchs": {
+  "found": true,
+  "slug": "fuchs-74144",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-aidan-kim": {
+  "found": true,
+  "slug": "kim-f6a25",
+  "rank": 639,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-victor-lilov": {
+  "found": true,
+  "slug": "lilov-8f33a",
+  "rank": 1250,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-bryce-nakashima": {
+  "found": true,
+  "slug": "nakashima-baff8",
+  "rank": 570,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-alex-okonkwo": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "ohio-state-ilija-palavestra": {
+  "found": true,
+  "slug": "palavestra",
+  "rank": 1674,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-denis-petak": {
+  "found": true,
+  "slug": "petak",
+  "rank": 1130,
+  "country": "Czech Republic",
+  "asof": "2026-11-04"
+ },
+ "ohio-state-preston-stearns": {
+  "found": true,
+  "slug": "stearns-adf1d",
+  "rank": 1331,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-pepijn-bastiaansen": {
+  "found": true,
+  "slug": "bastiaansen",
+  "rank": 1562,
+  "country": "Netherlands",
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-jacopo-borsoi": {
+  "found": true,
+  "slug": "borsoi-12689",
+  "rank": null,
+  "country": "Italy",
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-diego-duran": {
+  "found": true,
+  "slug": "duran-1ceaf",
+  "rank": null,
+  "country": "Colombia",
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-roberto-ferrer-guimaraes": {
+  "found": true,
+  "slug": "ferrer-guimaraes",
+  "rank": 2003,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-segundo-goity-zapico": {
+  "found": true,
+  "slug": "goity-zapico",
+  "rank": 1048,
+  "country": "Argentina",
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-bryan-hernandez-cortes": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-marshall-landry": {
+  "found": true,
+  "slug": "landry-01845",
+  "rank": null,
+  "country": "",
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-raphael-vaksmann": {
+  "found": true,
+  "slug": "vaksmann",
+  "rank": null,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "mississippi-state-luigi-valletta": {
+  "found": true,
+  "slug": "valletta-43f35",
+  "rank": 1919,
+  "country": "Italy",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-alejandro-arcila": {
+  "found": true,
+  "slug": "arcila-1eb73",
+  "rank": 1842,
+  "country": "Colombia",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-tristan-berard": {
+  "found": true,
+  "slug": "berard-37120",
+  "rank": 1554,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-filip-gustafsson": {
+  "found": true,
+  "slug": "gustafsson-323bc",
+  "rank": null,
+  "country": "Sweden",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-oskar-jansson": {
+  "found": true,
+  "slug": "jansson-27d57",
+  "rank": 2246,
+  "country": "Sweden",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-sander-juuhl-sivertsen": {
+  "found": true,
+  "slug": "juuhl-sivertsen",
+  "rank": null,
+  "country": "Norway",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-zoran-ludoski": {
+  "found": true,
+  "slug": "ludoski",
+  "rank": 1919,
+  "country": "Serbia",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-alexander-rozin": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-glib-sekachov": {
+  "found": true,
+  "slug": "sekachov",
+  "rank": 1817,
+  "country": "Ukraine",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-cole-stelse": {
+  "found": true,
+  "slug": "stelse",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-arizona-matthias-uwe-kask": {
+  "found": true,
+  "slug": "kask",
+  "rank": 2160,
+  "country": "Canada",
+  "asof": "2026-11-04"
+ },
+ "lsu-erik-arutiunian": {
+  "found": true,
+  "slug": "arutiunian",
+  "rank": 575,
+  "country": "Belarus",
+  "asof": "2026-11-04"
+ },
+ "lsu-michael-bassem-sobhy": {
+  "found": true,
+  "slug": "bassem-sobhy",
+  "rank": 647,
+  "country": "Egypt",
+  "asof": "2026-11-04"
+ },
+ "lsu-enzo-kohlmann-de-freitas": {
+  "found": true,
+  "slug": "kohlmann-de-freitas",
+  "rank": 1013,
+  "country": "Brazil",
+  "asof": "2026-11-04"
+ },
+ "lsu-charles-hobbs": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "lsu-andrej-loncarevic": {
+  "found": true,
+  "slug": "loncarevic-23b68",
+  "rank": 1610,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "lsu-daniil-ostapenkov": {
+  "found": true,
+  "slug": "ostapenkov",
+  "rank": 511,
+  "country": "Belarus",
+  "asof": "2026-11-04"
+ },
+ "lsu-olaf-pieczkowski": {
+  "found": true,
+  "slug": "pieczkowski",
+  "rank": 717,
+  "country": "Poland",
+  "asof": "2026-11-04"
+ },
+ "lsu-nikolas-stoot": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "university-of-oklahoma-luciano-ambrogi": {
+  "found": true,
+  "slug": "ambrogi",
+  "rank": 335,
+  "country": "Argentina",
+  "asof": "2026-11-04"
+ },
+ "university-of-oklahoma-dragos-cazacu": {
+  "found": true,
+  "slug": "cazacu-fcce2",
+  "rank": 714,
+  "country": "Romania",
+  "asof": "2026-11-04"
+ },
+ "university-of-oklahoma-tito-chavez": {
+  "found": true,
+  "slug": "chavez-986c0",
+  "rank": 1129,
+  "country": "Ecuador",
+  "asof": "2026-11-04"
+ },
+ "university-of-oklahoma-asahi-harazaki": {
+  "found": true,
+  "slug": "harazaki",
+  "rank": 1150,
+  "country": "Japan",
+  "asof": "2026-11-04"
+ },
+ "university-of-oklahoma-alejandro-melero": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "university-of-oklahoma-johan-rodriguez": {
+  "found": true,
+  "slug": "rodriguez-rodriguez-ad3a3",
+  "rank": 807,
+  "country": "Colombia",
+  "asof": "2026-11-04"
+ },
+ "university-of-oklahoma-daniel-uta": {
+  "found": true,
+  "slug": "uta",
+  "rank": 1223,
+  "country": "Romania",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-devin-badenhorst": {
+  "found": true,
+  "slug": "badenhorst",
+  "rank": 1022,
+  "country": "RSA",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-calvin-baierl": {
+  "found": true,
+  "slug": "baierl-7ad2e",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-louis-bowden": {
+  "found": true,
+  "slug": "bowden-3ebfb",
+  "rank": null,
+  "country": "Great Britain",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-august-brostrom-poulsen": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "baylor-university-radek-chodora": {
+  "found": true,
+  "slug": "chodora",
+  "rank": null,
+  "country": "Czech Republic",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-connor-doig": {
+  "found": true,
+  "slug": "doig",
+  "rank": 1610,
+  "country": "RSA",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-gordon-gallagher": {
+  "found": true,
+  "slug": "gallagher-b2968",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-drew-hedgecoe": {
+  "found": true,
+  "slug": "hedgecoe",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-erik-schiessl": {
+  "found": true,
+  "slug": "schiessl-49747",
+  "rank": 1239,
+  "country": "Germany",
+  "asof": "2026-11-04"
+ },
+ "baylor-university-connor-van-schalkwyk": {
+  "found": true,
+  "slug": "van-schalkwyk-60699",
+  "rank": null,
+  "country": "Namibia",
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-egor-gorin": {
+  "found": true,
+  "slug": "gorin",
+  "rank": null,
+  "country": "Russia",
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-alex-frusina": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-kholo-montsi": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-theo-papamalamis": {
+  "found": true,
+  "slug": "papamalamis",
+  "rank": 544,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-ritesh-patil": {
+  "found": true,
+  "slug": "patil-00c7a",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-togan-tokac": {
+  "found": true,
+  "slug": "tokac-d51e5",
+  "rank": 1526,
+  "country": "Turkey",
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-ethan-silva": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-kriish-tyagi": {
+  "found": true,
+  "slug": "tyagi-c04a1",
+  "rank": 926,
+  "country": "India",
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-markus-molder": {
+  "found": true,
+  "slug": "molder",
+  "rank": 878,
+  "country": "Estonia",
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-tiago-pires": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "texas-a-m-university-lathan-skrobarcek": {
+  "found": true,
+  "slug": "skrobarcek",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-julian-alonso": {
+  "found": true,
+  "slug": "alonso-1d5f3",
+  "rank": 1290,
+  "country": "Spain",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-andrew-delgado": {
+  "found": true,
+  "slug": "delgado-76130",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-maxime-dubouch": {
+  "found": true,
+  "slug": "dubouch",
+  "rank": null,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-eudald-gonzalez-ollich": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-cooper-johnson": {
+  "found": true,
+  "slug": "johnson-e1fe4",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-noah-johnston": {
+  "found": true,
+  "slug": "johnston-d9563",
+  "rank": 1256,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-noble-renfrow": {
+  "found": true,
+  "slug": "renfrow",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-oliver-sanders": {
+  "found": true,
+  "slug": "sanders-620d7",
+  "rank": 1634,
+  "country": "Czech Republic",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-gabriele-vulpitta": {
+  "found": true,
+  "slug": "vulpitta",
+  "rank": 1862,
+  "country": "Italy",
+  "asof": "2026-11-04"
+ },
+ "university-of-georgia-james-weber": {
+  "found": true,
+  "slug": "weber-bfa63",
+  "rank": 1647,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "ucf-wissam-abderrahman": {
+  "found": true,
+  "slug": "abderrahman",
+  "rank": null,
+  "country": "Tunisia",
+  "asof": "2026-11-04"
+ },
+ "ucf-mohammad-alkotop": {
+  "found": true,
+  "slug": "alkotop-725e9",
+  "rank": null,
+  "country": "Jordan",
+  "asof": "2026-11-04"
+ },
+ "ucf-kai-luca-ampaw": {
+  "found": true,
+  "slug": "ampaw",
+  "rank": null,
+  "country": "Great Britain",
+  "asof": "2026-11-04"
+ },
+ "ucf-fadi-bidan": {
+  "found": true,
+  "slug": "bidan-97557",
+  "rank": 1300,
+  "country": "Lebanon",
+  "asof": "2026-11-04"
+ },
+ "ucf-clement-lemire": {
+  "found": true,
+  "slug": "lemire-4ac78",
+  "rank": 1126,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "ucf-fanming-meng": {
+  "found": true,
+  "slug": "meng-b3f9b",
+  "rank": 991,
+  "country": "China",
+  "asof": "2026-11-04"
+ },
+ "ucf-nicolas-oliveira": {
+  "found": true,
+  "slug": "oliveira-7b451",
+  "rank": 797,
+  "country": "Brazil",
+  "asof": "2026-11-04"
+ },
+ "ucf-pedro-rodrigues": {
+  "found": true,
+  "slug": "rodrigues",
+  "rank": 1647,
+  "country": "Brazil",
+  "asof": "2026-11-04"
+ },
+ "university-of-illinois-at-urbana-champaign-david-bakonyi": {
+  "found": true,
+  "slug": "bakonyi",
+  "rank": 1667,
+  "country": "Hungary",
+  "asof": "2026-11-04"
+ },
+ "university-of-illinois-at-urbana-champaign-sasha-colleu": {
+  "found": true,
+  "slug": "colleu",
+  "rank": 2160,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "university-of-illinois-at-urbana-champaign-jon-gamble": {
+  "found": true,
+  "slug": "gamble-3bd00",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-illinois-at-urbana-champaign-adam-jilly": {
+  "found": true,
+  "slug": "jilly",
+  "rank": 1218,
+  "country": "Hungary",
+  "asof": "2026-11-04"
+ },
+ "university-of-illinois-at-urbana-champaign-nicholas-mekhael": {
+  "found": true,
+  "slug": "mekhael",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-illinois-at-urbana-champaign-zach-viiala": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "university-of-illinois-at-urbana-champaign-colson-wells": {
+  "found": true,
+  "slug": "wells-838e3",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-illinois-at-urbana-champaign-jeremy-zhang": {
+  "found": true,
+  "slug": "zhang-c4288",
+  "rank": 1340,
+  "country": "Australia",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-gabe-avram": {
+  "found": true,
+  "slug": "avram-da85f",
+  "rank": 1519,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-paul-barbier-gazeu": {
+  "found": true,
+  "slug": "barbier-gazeu",
+  "rank": 1287,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-sean-daryabeigi": {
+  "found": true,
+  "slug": "daryabeigi",
+  "rank": 1244,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-cole-henceroth": {
+  "found": true,
+  "slug": "henceroth",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-atakan-karahan": {
+  "found": true,
+  "slug": "karahan",
+  "rank": null,
+  "country": "Turkey",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-billy-moxon": {
+  "found": true,
+  "slug": "moxon",
+  "rank": null,
+  "country": "Great Britain",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-charlie-robertson": {
+  "found": true,
+  "slug": "robertson-52862",
+  "rank": 905,
+  "country": "Great Britain",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-max-stenzer": {
+  "found": true,
+  "slug": "stenzer",
+  "rank": null,
+  "country": "Germany",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-charlie-swaine": {
+  "found": true,
+  "slug": "swaine",
+  "rank": 1734,
+  "country": "Great Britain",
+  "asof": "2026-11-04"
+ },
+ "university-of-south-carolina-antonin-witz": {
+  "found": true,
+  "slug": "witz-463f7",
+  "rank": 1455,
+  "country": "France",
+  "asof": "2026-11-04"
+ },
+ "stanford-nathan-barki": {
+  "found": true,
+  "slug": "barki-be9dc",
+  "rank": 1384,
+  "country": "Indonesia",
+  "asof": "2026-11-04"
+ },
+ "stanford-nico-godsick": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "stanford-gus-grumet": {
+  "found": true,
+  "slug": "grumet",
+  "rank": 1475,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "stanford-kyle-kang": {
+  "found": true,
+  "slug": "kang-f4bba",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "stanford-ronit-karki": {
+  "found": true,
+  "slug": "karki-1f500",
+  "rank": 889,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "stanford-mark-krupkin": {
+  "found": true,
+  "slug": "krupkin",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "stanford-jagger-leach": {
+  "found": true,
+  "slug": "leach-cc0c0",
+  "rank": 1519,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "stanford-alex-razeghi": {
+  "found": false,
+  "asof": "2026-11-04"
+ },
+ "stanford-hudson-rivera": {
+  "found": true,
+  "slug": "rivera-eb124",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "stanford-luke-tusher": {
+  "found": true,
+  "slug": "tusher",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-04"
+ },
+ "university-of-san-diego-manvydas-balciunas": {
+  "found": true,
+  "slug": "balciunas",
+  "rank": 1547,
+  "country": "Netherlands",
+  "asof": "2026-11-04"
+ }
+}

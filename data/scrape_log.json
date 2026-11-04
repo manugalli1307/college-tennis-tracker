@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T17:28:30+00:00",
+ "updated": "2026-11-04T18:31:47+00:00",
  "atp": [
   {
    "step": "event",
@@ -201,7 +201,14 @@
   },
   {
    "step": "profiles opened",
-   "count": 116
+   "count": 201
+  }
+ ],
+ "ranks": [
+  {
+   "step": "rank lookup",
+   "searched": 150,
+   "matched": 133
   }
  ]
 }

@@ -897,6 +897,2630 @@
    "live": false
   }
  ],
+ "m-itf-gbr-2026-007": [
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Hugo Grenier",
+    "country": "FRA",
+    "seed": "1",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Pierre Antoine Tailleu",
+    "country": "FRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Marcus Walters",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Benjamin Gusic Wan",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "6",
+     "1"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Roan Jones",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Jared Horwood",
+    "country": "CAN",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-arizona-jared-horwood"
+    ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Patrick Foley",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Paul Jubb",
+    "country": "GBR",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Mateja Stanisavljevic",
+    "country": "SUI",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Patrick Brady",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "6(1)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Liam Hignett",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Pablo Perez Ramos",
+    "country": "ESP",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-florida-pablo-perez-ramos"
+    ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "6(6)"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Kyle McKay",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Ivan Dorokhov",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Vladislav Melnic",
+    "country": "ROU",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Viktor Durasovic",
+    "country": "NOR",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Sebastian Sorger",
+    "country": "AUT",
+    "seed": "5",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Rhys Lawlor",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Finn Murgett",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-auburn-finn-murgett"
+    ]
+   },
+   "p2": {
+    "name": "Bader Idrees",
+    "country": "KSA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Cian Maguire",
+    "country": "IRL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Conor Gannon",
+    "country": "IRL",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Mark Ceban",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "George Loffhagen",
+    "country": "GBR",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "6",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Jelle Sels",
+    "country": "NED",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "6(1)"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Billy Blaydes",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-auburn-billy-blaydes"
+    ]
+   },
+   "p2": {
+    "name": "Conor Brady",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Jake Evans",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Toby Martin",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Pietro Orlando Fellin",
+    "country": "ITA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "2",
+    "winner": true,
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Hugo Grenier",
+    "country": "FRA",
+    "seed": "1",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Marcus Walters",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "6(3)"
+    ],
+    [
+     "7",
+     "6(2)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Roan Jones",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Paul Jubb",
+    "country": "GBR",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Patrick Brady",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Liam Hignett",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Kyle McKay",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Viktor Durasovic",
+    "country": "NOR",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Sebastian Sorger",
+    "country": "AUT",
+    "seed": "5",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Finn Murgett",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-auburn-finn-murgett"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Conor Gannon",
+    "country": "IRL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "George Loffhagen",
+    "country": "GBR",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "0",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "6",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Billy Blaydes",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-auburn-billy-blaydes"
+    ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Jake Evans",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "2",
+    "winner": true,
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Hugo Grenier",
+    "country": "FRA",
+    "seed": "1",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Paul Jubb",
+    "country": "GBR",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6(5)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Patrick Brady",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Viktor Durasovic",
+    "country": "NOR",
+    "seed": "8",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Finn Murgett",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-auburn-finn-murgett"
+    ]
+   },
+   "p2": {
+    "name": "George Loffhagen",
+    "country": "GBR",
+    "seed": "4",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "6(7)"
+    ],
+    [
+     "1",
+     "0"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-007",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "6",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "2",
+    "winner": true,
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "6(4)",
+     "7"
+    ]
+   ],
+   "live": false
+  }
+ ],
+ "m-itf-gbr-2026-008": [
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Henry Searle",
+    "country": "GBR",
+    "seed": "1",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Mae Malige",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Roan Jones",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "William Nolan",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Jelle Sels",
+    "country": "NED",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Billy Blaydes",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-auburn-billy-blaydes"
+    ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Jake Evans",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Viktor Durasovic",
+    "country": "NOR",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "3",
+    "winner": true,
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
+   },
+   "p2": {
+    "name": "Conor Gannon",
+    "country": "IRL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Dylan Leeman",
+    "country": "IRL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Vladislav Melnic",
+    "country": "ROU",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6(6)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "James Beaven",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Rhys Lawlor",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Mark Ceban",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "7",
+     "6(6)"
+    ],
+    [
+     "3",
+     "6"
+    ],
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Louis Wessels",
+    "country": "GER",
+    "seed": "6",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Liam Hignett",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
+    [
+     "6(3)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Alexis Canter",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Pierre Antoine Tailleu",
+    "country": "FRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Finn Murgett",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-auburn-finn-murgett"
+    ]
+   },
+   "p2": {
+    "name": "Maximilian Marterer",
+    "country": "GER",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Loann Massard",
+    "country": "FRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Johannus Monday",
+    "country": "GBR",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Paul Jubb",
+    "country": "GBR",
+    "seed": "5",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Oscar Weightman",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-usc-oscar-weightman"
+    ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Matt Ponchet",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Stijn Pel",
+    "country": "NED",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Marcus Walters",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Leonardo Rossi",
+    "country": "ITA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(1)",
+     "7"
+    ],
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6(4)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Patrick Brady",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Martin Krumich",
+    "country": "CZE",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Mae Malige",
+    "country": "FRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Roan Jones",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
+    [
+     "7",
+     "6(5)"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Jelle Sels",
+    "country": "NED",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Viktor Durasovic",
+    "country": "NOR",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
+    [
+     "6(5)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "3",
+    "winner": true,
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
+   },
+   "p2": {
+    "name": "Vladislav Melnic",
+    "country": "ROU",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "James Beaven",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Liam Hignett",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Alexis Canter",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "7",
+     "6(3)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Maximilian Marterer",
+    "country": "GER",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Johannus Monday",
+    "country": "GBR",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Paul Jubb",
+    "country": "GBR",
+    "seed": "5",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Matt Ponchet",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6(6)",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Leonardo Rossi",
+    "country": "ITA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Martin Krumich",
+    "country": "CZE",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Roan Jones",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Viktor Durasovic",
+    "country": "NOR",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "6",
+     "4"
+    ],
+    [
+     "5",
+     "7"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Oliver Tarvet",
+    "country": "GBR",
+    "seed": "3",
+    "winner": true,
+    "roster": [
+     "university-of-san-diego-oliver-tarvet"
+    ]
+   },
+   "p2": {
+    "name": "Mika Petkovic",
+    "country": "GER",
+    "seed": "7",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Liam Hignett",
+    "country": "GBR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Johannus Monday",
+    "country": "GBR",
+    "seed": "4",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-gbr-2026-008",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Matt Ponchet",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Martin Krumich",
+    "country": "CZE",
+    "seed": "2",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  }
+ ],
+ "m-itf-egy-2026-031": [
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Karim Bennani",
+    "country": "MAR",
+    "seed": "1",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Melih Anavatan",
+    "country": "TUR",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(1)",
+     "7"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Aaron Gabet",
+    "country": "FRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Nicolas Ifi",
+    "country": "BEL",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(4)",
+     "7"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Jan Wygona",
+    "country": "POL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Louis Van Herck",
+    "country": "LUX",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "1",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Karim Ibrahim",
+    "country": "EGY",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Pierre Yves Bailly",
+    "country": "BEL",
+    "seed": "8",
+    "winner": true,
+    "roster": [
+     "alumni-university-of-texas-at-austin-pierre-yves-bailly"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(3)",
+     "7"
+    ],
+    [
+     "1",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Lorenzo Bocchi",
+    "country": "ITA",
+    "seed": "3",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Igor Piasek",
+    "country": "POL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Saveli Razanau",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "John Bothma",
+    "country": "RSA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "6",
+     "2"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Luke Hooper",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Aleksandre Bakshi",
+    "country": "GEO",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-university-of-oklahoma-aleksandre-bakshi"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "0",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Oskari Eerola",
+    "country": "FIN",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Kerem Yilmaz",
+    "country": "TUR",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Oscar Weightman",
+    "country": "GBR",
+    "seed": "6",
+    "winner": true,
+    "roster": [
+     "alumni-usc-oscar-weightman"
+    ]
+   },
+   "p2": {
+    "name": "Borys Zgola",
+    "country": "POL",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-florida-borys-zgola"
+    ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Adrien Burdet",
+    "country": "SUI",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Wishaya Trongcharoenchaikul",
+    "country": "THA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Jorge Plans",
+    "country": "ESP",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Niklas Waldner",
+    "country": "AUT",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Ammar Faleh Alhogbani",
+    "country": "KSA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Sidane Pontjodikromo",
+    "country": "NED",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(11)",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Amr Elsayed",
+    "country": "EGY",
+    "seed": "5",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Marwan Ehab",
+    "country": "EGY",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "6(4)"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Artur Kukasian",
+    "country": "",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Koray Kirci",
+    "country": "TUR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "S Mert Ozdemir",
+    "country": "TUR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Omar Kandil",
+    "country": "EGY",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(3)",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Yi Yuan",
+    "country": "HKG",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Saba Purtseladze",
+    "country": "GEO",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "0",
+     "6"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Melih Anavatan",
+    "country": "TUR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Nicolas Ifi",
+    "country": "BEL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Louis Van Herck",
+    "country": "LUX",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Pierre Yves Bailly",
+    "country": "BEL",
+    "seed": "8",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-texas-at-austin-pierre-yves-bailly"
+    ]
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Lorenzo Bocchi",
+    "country": "ITA",
+    "seed": "3",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "John Bothma",
+    "country": "RSA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Aleksandre Bakshi",
+    "country": "GEO",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-oklahoma-aleksandre-bakshi"
+    ]
+   },
+   "p2": {
+    "name": "Kerem Yilmaz",
+    "country": "TUR",
+    "seed": "7",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Oscar Weightman",
+    "country": "GBR",
+    "seed": "6",
+    "winner": false,
+    "roster": [
+     "alumni-usc-oscar-weightman"
+    ]
+   },
+   "p2": {
+    "name": "Adrien Burdet",
+    "country": "SUI",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Jorge Plans",
+    "country": "ESP",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Sidane Pontjodikromo",
+    "country": "NED",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Amr Elsayed",
+    "country": "EGY",
+    "seed": "5",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Artur Kukasian",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-egy-2026-031",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Omar Kandil",
+    "country": "EGY",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Saba Purtseladze",
+    "country": "GEO",
+    "seed": "2",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  }
+ ],
  "m-itf-cro-2026-009": [
   {
    "tournament": "m-itf-cro-2026-009",
@@ -9908,916 +12532,6 @@
     [
      "1",
      "3"
-    ]
-   ],
-   "live": false
-  }
- ],
- "m-itf-gbr-2026-007": [
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Hugo Grenier",
-    "country": "FRA",
-    "seed": "1",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Pierre Antoine Tailleu",
-    "country": "FRA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Marcus Walters",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Benjamin Gusic Wan",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "6",
-     "1"
-    ],
-    [
-     "7",
-     "5"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Roan Jones",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Jared Horwood",
-    "country": "CAN",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-university-of-arizona-jared-horwood"
-    ]
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "1"
-    ],
-    [
-     "7",
-     "5"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Patrick Foley",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Paul Jubb",
-    "country": "GBR",
-    "seed": "7",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "1",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Mateja Stanisavljevic",
-    "country": "SUI",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Patrick Brady",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "5",
-     "7"
-    ],
-    [
-     "6(1)",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Liam Hignett",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Pablo Perez Ramos",
-    "country": "ESP",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-university-of-florida-pablo-perez-ramos"
-    ]
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "7",
-     "6(6)"
-    ],
-    [
-     "6",
-     "1"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Kyle McKay",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Ivan Dorokhov",
-    "country": "",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "3",
-     "6"
-    ],
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Vladislav Melnic",
-    "country": "ROU",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Viktor Durasovic",
-    "country": "NOR",
-    "seed": "8",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Sebastian Sorger",
-    "country": "AUT",
-    "seed": "5",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Rhys Lawlor",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "7",
-     "5"
-    ],
-    [
-     "6(5)",
-     "7"
-    ],
-    [
-     "6",
-     "4"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Finn Murgett",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": [
-     "alumni-auburn-finn-murgett"
-    ]
-   },
-   "p2": {
-    "name": "Bader Idrees",
-    "country": "KSA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "2"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Cian Maguire",
-    "country": "IRL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Conor Gannon",
-    "country": "IRL",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "3",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Mark Ceban",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "George Loffhagen",
-    "country": "GBR",
-    "seed": "4",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "1",
-     "6"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Mika Petkovic",
-    "country": "GER",
-    "seed": "6",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Jelle Sels",
-    "country": "NED",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "7",
-     "6(1)"
-    ],
-    [
-     "6",
-     "2"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Billy Blaydes",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": [
-     "alumni-auburn-billy-blaydes"
-    ]
-   },
-   "p2": {
-    "name": "Conor Brady",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "3",
-     "6"
-    ],
-    [
-     "6",
-     "4"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Jake Evans",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Toby Martin",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "2"
-    ],
-    [
-     "6",
-     "4"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Pietro Orlando Fellin",
-    "country": "ITA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Oliver Tarvet",
-    "country": "GBR",
-    "seed": "2",
-    "winner": true,
-    "roster": [
-     "university-of-san-diego-oliver-tarvet"
-    ]
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Hugo Grenier",
-    "country": "FRA",
-    "seed": "1",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Marcus Walters",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "7",
-     "6(3)"
-    ],
-    [
-     "7",
-     "6(2)"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Roan Jones",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Paul Jubb",
-    "country": "GBR",
-    "seed": "7",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "3",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Patrick Brady",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Liam Hignett",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "1"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Kyle McKay",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Viktor Durasovic",
-    "country": "NOR",
-    "seed": "8",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Sebastian Sorger",
-    "country": "AUT",
-    "seed": "5",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Finn Murgett",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": [
-     "alumni-auburn-finn-murgett"
-    ]
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(5)",
-     "7"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Conor Gannon",
-    "country": "IRL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "George Loffhagen",
-    "country": "GBR",
-    "seed": "4",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "0",
-     "6"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Mika Petkovic",
-    "country": "GER",
-    "seed": "6",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Billy Blaydes",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-auburn-billy-blaydes"
-    ]
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "2"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Jake Evans",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Oliver Tarvet",
-    "country": "GBR",
-    "seed": "2",
-    "winner": true,
-    "roster": [
-     "university-of-san-diego-oliver-tarvet"
-    ]
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "3",
-     "6"
-    ],
-    [
-     "1",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Hugo Grenier",
-    "country": "FRA",
-    "seed": "1",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Paul Jubb",
-    "country": "GBR",
-    "seed": "7",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "1",
-     "6"
-    ],
-    [
-     "6",
-     "1"
-    ],
-    [
-     "6(5)",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Patrick Brady",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Viktor Durasovic",
-    "country": "NOR",
-    "seed": "8",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "1"
-    ],
-    [
-     "6",
-     "2"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Finn Murgett",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": [
-     "alumni-auburn-finn-murgett"
-    ]
-   },
-   "p2": {
-    "name": "George Loffhagen",
-    "country": "GBR",
-    "seed": "4",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "7",
-     "6(7)"
-    ],
-    [
-     "1",
-     "0"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-007",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Mika Petkovic",
-    "country": "GER",
-    "seed": "6",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Oliver Tarvet",
-    "country": "GBR",
-    "seed": "2",
-    "winner": true,
-    "roster": [
-     "university-of-san-diego-oliver-tarvet"
-    ]
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(5)",
-     "7"
-    ],
-    [
-     "6(4)",
-     "7"
     ]
    ],
    "live": false
@@ -25527,920 +27241,6 @@
    "live": false
   }
  ],
- "m-itf-gbr-2026-008": [
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Henry Searle",
-    "country": "GBR",
-    "seed": "1",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Mae Malige",
-    "country": "FRA",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6",
-     "4"
-    ],
-    [
-     "6(5)",
-     "7"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Roan Jones",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "William Nolan",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Jelle Sels",
-    "country": "NED",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Billy Blaydes",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-auburn-billy-blaydes"
-    ]
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "4"
-    ],
-    [
-     "6",
-     "4"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Jake Evans",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Viktor Durasovic",
-    "country": "NOR",
-    "seed": "8",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "5",
-     "7"
-    ],
-    [
-     "3",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Oliver Tarvet",
-    "country": "GBR",
-    "seed": "3",
-    "winner": true,
-    "roster": [
-     "university-of-san-diego-oliver-tarvet"
-    ]
-   },
-   "p2": {
-    "name": "Conor Gannon",
-    "country": "IRL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "4"
-    ],
-    [
-     "6",
-     "1"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Dylan Leeman",
-    "country": "IRL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Vladislav Melnic",
-    "country": "ROU",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "3",
-     "6"
-    ],
-    [
-     "6(6)",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "James Beaven",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Rhys Lawlor",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "1"
-    ],
-    [
-     "6",
-     "4"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Mark Ceban",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Mika Petkovic",
-    "country": "GER",
-    "seed": "7",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "7",
-     "6(6)"
-    ],
-    [
-     "3",
-     "6"
-    ],
-    [
-     "1",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Louis Wessels",
-    "country": "GER",
-    "seed": "6",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Liam Hignett",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "1",
-     "6"
-    ],
-    [
-     "6(3)",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Alexis Canter",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Pierre Antoine Tailleu",
-    "country": "FRA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "4"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Finn Murgett",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-auburn-finn-murgett"
-    ]
-   },
-   "p2": {
-    "name": "Maximilian Marterer",
-    "country": "GER",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "1",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Loann Massard",
-    "country": "FRA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Johannus Monday",
-    "country": "GBR",
-    "seed": "4",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "5",
-     "7"
-    ],
-    [
-     "3",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Paul Jubb",
-    "country": "GBR",
-    "seed": "5",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Oscar Weightman",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-usc-oscar-weightman"
-    ]
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "2"
-    ],
-    [
-     "6",
-     "1"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Matt Ponchet",
-    "country": "FRA",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Stijn Pel",
-    "country": "NED",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "4"
-    ],
-    [
-     "6",
-     "2"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Marcus Walters",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Leonardo Rossi",
-    "country": "ITA",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(1)",
-     "7"
-    ],
-    [
-     "7",
-     "5"
-    ],
-    [
-     "6(4)",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Patrick Brady",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Martin Krumich",
-    "country": "CZE",
-    "seed": "2",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Mae Malige",
-    "country": "FRA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Roan Jones",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "1",
-     "6"
-    ],
-    [
-     "7",
-     "6(5)"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Jelle Sels",
-    "country": "NED",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Viktor Durasovic",
-    "country": "NOR",
-    "seed": "8",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "1",
-     "6"
-    ],
-    [
-     "6(5)",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Oliver Tarvet",
-    "country": "GBR",
-    "seed": "3",
-    "winner": true,
-    "roster": [
-     "university-of-san-diego-oliver-tarvet"
-    ]
-   },
-   "p2": {
-    "name": "Vladislav Melnic",
-    "country": "ROU",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6(5)",
-     "7"
-    ],
-    [
-     "6",
-     "2"
-    ],
-    [
-     "6",
-     "1"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "James Beaven",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Mika Petkovic",
-    "country": "GER",
-    "seed": "7",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "3",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Liam Hignett",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Alexis Canter",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "4"
-    ],
-    [
-     "7",
-     "6(3)"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Maximilian Marterer",
-    "country": "GER",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Johannus Monday",
-    "country": "GBR",
-    "seed": "4",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Paul Jubb",
-    "country": "GBR",
-    "seed": "5",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Matt Ponchet",
-    "country": "FRA",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "7",
-     "5"
-    ],
-    [
-     "6(6)",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Leonardo Rossi",
-    "country": "ITA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Martin Krumich",
-    "country": "CZE",
-    "seed": "2",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "3",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Roan Jones",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Viktor Durasovic",
-    "country": "NOR",
-    "seed": "8",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "5",
-     "7"
-    ],
-    [
-     "6",
-     "4"
-    ],
-    [
-     "5",
-     "7"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Oliver Tarvet",
-    "country": "GBR",
-    "seed": "3",
-    "winner": true,
-    "roster": [
-     "university-of-san-diego-oliver-tarvet"
-    ]
-   },
-   "p2": {
-    "name": "Mika Petkovic",
-    "country": "GER",
-    "seed": "7",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "2"
-    ],
-    [
-     "6",
-     "2"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Liam Hignett",
-    "country": "GBR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Johannus Monday",
-    "country": "GBR",
-    "seed": "4",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-gbr-2026-008",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
-    "name": "Matt Ponchet",
-    "country": "FRA",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Martin Krumich",
-    "country": "CZE",
-    "seed": "2",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "4",
-     "6"
-    ],
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "4"
-    ]
-   ],
-   "live": false
-  }
- ],
  "m-itf-aus-2026-012": [
   {
    "tournament": "m-itf-aus-2026-012",
@@ -28983,7 +29783,7 @@
     "name": "Ryan Colby",
     "country": "USA",
     "seed": "1",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-university-of-georgia-ryan-colby"
     ]
@@ -28995,19 +29795,19 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "2",
+     "6"
     ],
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
+     "6",
+     "1"
     ]
    ],
    "live": false
@@ -29020,7 +29820,7 @@
     "name": "Santiago Giamichelle",
     "country": "ARG",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-university-of-georgia-santiago-giamichelle"
     ]
@@ -29032,19 +29832,19 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "4",
+     "6"
     ],
     [
-     "",
-     ""
+     "6",
+     "4"
     ],
     [
-     "",
-     ""
+     "6",
+     "3"
     ]
    ],
    "live": false
@@ -29344,22 +30144,18 @@
     "name": "Henry Lieberman",
     "country": "USA",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "3",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "1",
+     "6"
     ]
    ],
    "live": false
@@ -29407,7 +30203,7 @@
     "name": "Felix Corwin",
     "country": "USA",
     "seed": "6",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -29417,19 +30213,19 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "1",
+     "6"
     ],
     [
-     "",
-     ""
+     "6",
+     "4"
     ],
     [
-     "",
-     ""
+     "6",
+     "3"
     ]
    ],
    "live": false
@@ -29486,22 +30282,18 @@
     "name": "Raul Garcia",
     "country": "BOL",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "1",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "3",
+     "6"
     ]
    ],
    "live": false
@@ -29526,6 +30318,45 @@
     "winner": false,
     "roster": [
      "alumni-university-of-georgia-tristan-mccormick"
+    ]
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-usa-2026-048",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Ryan Colby",
+    "country": "USA",
+    "seed": "1",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-georgia-ryan-colby"
+    ]
+   },
+   "p2": {
+    "name": "Santiago Giamichelle",
+    "country": "ARG",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-georgia-santiago-giamichelle"
     ]
    },
    "winner": 0,
@@ -29690,8 +30521,8 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Henry Lieberman",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": []
@@ -29704,6 +30535,76 @@
     "roster": [
      "university-of-oklahoma-dragos-cazacu"
     ]
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-usa-2026-048",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Felix Corwin",
+    "country": "USA",
+    "seed": "6",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-usa-2026-048",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Raul Garcia",
+    "country": "BOL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
    },
    "winner": 0,
    "sets": [
@@ -33813,806 +34714,6 @@
    "live": false
   }
  ],
- "m-itf-egy-2026-031": [
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Karim Bennani",
-    "country": "MAR",
-    "seed": "1",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Melih Anavatan",
-    "country": "TUR",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(1)",
-     "7"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Aaron Gabet",
-    "country": "FRA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Nicolas Ifi",
-    "country": "BEL",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(4)",
-     "7"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Jan Wygona",
-    "country": "POL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Louis Van Herck",
-    "country": "LUX",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "1",
-     "6"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Karim Ibrahim",
-    "country": "EGY",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Pierre Yves Bailly",
-    "country": "BEL",
-    "seed": "8",
-    "winner": true,
-    "roster": [
-     "alumni-university-of-texas-at-austin-pierre-yves-bailly"
-    ]
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(3)",
-     "7"
-    ],
-    [
-     "1",
-     "4"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Lorenzo Bocchi",
-    "country": "ITA",
-    "seed": "3",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Igor Piasek",
-    "country": "POL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "3"
-    ],
-    [
-     "6",
-     "1"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Saveli Razanau",
-    "country": "",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "John Bothma",
-    "country": "RSA",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "6",
-     "2"
-    ],
-    [
-     "4",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Luke Hooper",
-    "country": "GBR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Aleksandre Bakshi",
-    "country": "GEO",
-    "seed": "",
-    "winner": true,
-    "roster": [
-     "alumni-university-of-oklahoma-aleksandre-bakshi"
-    ]
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "0",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Oskari Eerola",
-    "country": "FIN",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Kerem Yilmaz",
-    "country": "TUR",
-    "seed": "7",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "2",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Oscar Weightman",
-    "country": "GBR",
-    "seed": "6",
-    "winner": true,
-    "roster": [
-     "alumni-usc-oscar-weightman"
-    ]
-   },
-   "p2": {
-    "name": "Borys Zgola",
-    "country": "POL",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-university-of-florida-borys-zgola"
-    ]
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "7",
-     "5"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Adrien Burdet",
-    "country": "SUI",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Wishaya Trongcharoenchaikul",
-    "country": "THA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "4"
-    ],
-    [
-     "7",
-     "5"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Jorge Plans",
-    "country": "ESP",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Niklas Waldner",
-    "country": "AUT",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "6",
-     "2"
-    ],
-    [
-     "6",
-     "4"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Ammar Faleh Alhogbani",
-    "country": "KSA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Sidane Pontjodikromo",
-    "country": "NED",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(11)",
-     "7"
-    ],
-    [
-     "3",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Amr Elsayed",
-    "country": "EGY",
-    "seed": "5",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Marwan Ehab",
-    "country": "EGY",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "7",
-     "6(4)"
-    ],
-    [
-     "6",
-     "2"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Artur Kukasian",
-    "country": "",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "p2": {
-    "name": "Koray Kirci",
-    "country": "TUR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 1,
-   "sets": [
-    [
-     "3",
-     "6"
-    ],
-    [
-     "6",
-     "4"
-    ],
-    [
-     "6",
-     "3"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "S Mert Ozdemir",
-    "country": "TUR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Omar Kandil",
-    "country": "EGY",
-    "seed": "",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "6(3)",
-     "7"
-    ],
-    [
-     "3",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Yi Yuan",
-    "country": "HKG",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Saba Purtseladze",
-    "country": "GEO",
-    "seed": "2",
-    "winner": true,
-    "roster": []
-   },
-   "winner": 2,
-   "sets": [
-    [
-     "2",
-     "6"
-    ],
-    [
-     "0",
-     "6"
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Melih Anavatan",
-    "country": "TUR",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Nicolas Ifi",
-    "country": "BEL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Louis Van Herck",
-    "country": "LUX",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Pierre Yves Bailly",
-    "country": "BEL",
-    "seed": "8",
-    "winner": false,
-    "roster": [
-     "alumni-university-of-texas-at-austin-pierre-yves-bailly"
-    ]
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Lorenzo Bocchi",
-    "country": "ITA",
-    "seed": "3",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "John Bothma",
-    "country": "RSA",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Aleksandre Bakshi",
-    "country": "GEO",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-university-of-oklahoma-aleksandre-bakshi"
-    ]
-   },
-   "p2": {
-    "name": "Kerem Yilmaz",
-    "country": "TUR",
-    "seed": "7",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Oscar Weightman",
-    "country": "GBR",
-    "seed": "6",
-    "winner": false,
-    "roster": [
-     "alumni-usc-oscar-weightman"
-    ]
-   },
-   "p2": {
-    "name": "Adrien Burdet",
-    "country": "SUI",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Jorge Plans",
-    "country": "ESP",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Sidane Pontjodikromo",
-    "country": "NED",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Amr Elsayed",
-    "country": "EGY",
-    "seed": "5",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Artur Kukasian",
-    "country": "",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  },
-  {
-   "tournament": "m-itf-egy-2026-031",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Omar Kandil",
-    "country": "EGY",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Saba Purtseladze",
-    "country": "GEO",
-    "seed": "2",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": false
-  }
- ],
  "m-itf-can-2026-004": [
   {
    "tournament": "m-itf-can-2026-004",
@@ -36263,24 +36364,20 @@
     "name": "Tomasz Berkieta",
     "country": "POL",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "university-of-texas-at-austin-tomasz-berkieta"
     ]
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6(3)",
+     "7"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "3",
+     "6"
     ]
    ],
    "live": false
@@ -36411,24 +36508,20 @@
     "name": "Erik Schiessl",
     "country": "GER",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "baylor-university-erik-schiessl"
     ]
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "2",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "1",
+     "6"
     ]
    ],
    "live": false
@@ -36653,7 +36746,7 @@
     "name": "Connor Henry Van Schalkwyk",
     "country": "NAM",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -36663,19 +36756,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "2"
     ]
    ],
    "live": false
@@ -36796,11 +36885,13 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Tomasz Berkieta",
+    "country": "POL",
     "seed": "",
     "winner": false,
-    "roster": []
+    "roster": [
+     "university-of-texas-at-austin-tomasz-berkieta"
+    ]
    },
    "p2": {
     "name": "Bor Artnak",
@@ -36842,6 +36933,78 @@
    "p2": {
     "name": "",
     "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-usa-2026-047",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Erik Schiessl",
+    "country": "GER",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "baylor-university-erik-schiessl"
+    ]
+   },
+   "p2": {
+    "name": "",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "m-itf-usa-2026-047",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Connor Henry Van Schalkwyk",
+    "country": "NAM",
     "seed": "",
     "winner": false,
     "roster": []
@@ -37206,22 +37369,22 @@
     "name": "Robert Guna",
     "country": "ROU",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
+     "4",
+     "6"
     ],
     [
-     "",
-     ""
+     "4",
+     "6"
     ]
    ],
    "live": false
@@ -37577,8 +37740,8 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Robert Guna",
+    "country": "ROU",
     "seed": "",
     "winner": false,
     "roster": []
@@ -37797,22 +37960,18 @@
     "name": "Sergi Perez Contri",
     "country": "ESP",
     "seed": "6",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "0",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "4",
+     "6"
     ]
    ],
    "live": false
@@ -38147,7 +38306,7 @@
     "name": "Luka Talan Lopatic",
     "country": "SLO",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-university-of-oklahoma-luka-talan-lopatic"
     ]
@@ -38159,19 +38318,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "7",
+     "6(3)"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "3"
     ]
    ],
    "live": false
@@ -38254,9 +38409,9 @@
     "roster": []
    },
    "p2": {
-    "name": "",
-    "country": "",
-    "seed": "",
+    "name": "Sergi Perez Contri",
+    "country": "ESP",
+    "seed": "6",
     "winner": false,
     "roster": []
    },
@@ -38457,11 +38612,13 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Luka Talan Lopatic",
+    "country": "SLO",
     "seed": "",
     "winner": false,
-    "roster": []
+    "roster": [
+     "alumni-university-of-oklahoma-luka-talan-lopatic"
+    ]
    },
    "p2": {
     "name": "Miguel Damas",
@@ -38494,12 +38651,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Medvedev",
-    "country": "",
+    "name": "Daniil Medvedev",
+    "country": "Russia",
     "seed": "1",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 5
    },
    "p2": {
     "name": "Basilashvili",
@@ -38531,12 +38688,12 @@
    "draw": "Main Draw",
    "round": "Semifinals",
    "p1": {
-    "name": "Medvedev",
-    "country": "",
+    "name": "Daniil Medvedev",
+    "country": "Russia",
     "seed": "1",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 5
    },
    "p2": {
     "name": "Bublik",
@@ -38605,12 +38762,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Khachanov",
-    "country": "",
+    "name": "Karen Khachanov",
+    "country": "Russia",
     "seed": "5",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 25
    },
    "winner": 1,
    "sets": [
@@ -38634,12 +38791,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Medvedev",
-    "country": "",
+    "name": "Daniil Medvedev",
+    "country": "Russia",
     "seed": "1",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 5
    },
    "p2": {
     "name": "Atmane",
@@ -38708,12 +38865,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Mannarino",
-    "country": "",
+    "name": "Adrian Mannarino",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 59
    },
    "winner": 1,
    "sets": [
@@ -38757,20 +38914,20 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Medvedev",
-    "country": "",
+    "name": "Daniil Medvedev",
+    "country": "Russia",
     "seed": "1",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 5
    },
    "p2": {
-    "name": "Shimabukuro",
-    "country": "",
+    "name": "Sho Shimabukuro",
+    "country": "Japan",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 118
    },
    "winner": 1,
    "sets": [
@@ -38790,12 +38947,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Khachanov",
-    "country": "",
+    "name": "Karen Khachanov",
+    "country": "Russia",
     "seed": "5",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 25
    },
    "p2": {
     "name": "Machac",
@@ -38897,12 +39054,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Mannarino",
-    "country": "",
+    "name": "Adrian Mannarino",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 59
    },
    "p2": {
     "name": "Rublev",
@@ -39070,12 +39227,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Khachanov",
-    "country": "",
+    "name": "Karen Khachanov",
+    "country": "Russia",
     "seed": "5",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 25
    },
    "p2": {
     "name": "Sakamoto",
@@ -39145,7 +39302,7 @@
    },
    "p2": {
     "name": "Aleksandar Kovacevic",
-    "country": "USA Height / Weight: 183 cm / 76 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -39206,12 +39363,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Shimabukuro",
-    "country": "",
+    "name": "Sho Shimabukuro",
+    "country": "Japan",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 118
    },
    "p2": {
     "name": "Safiullin",
@@ -39309,16 +39466,16 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Mannarino",
-    "country": "",
+    "name": "Adrian Mannarino",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 59
    },
    "p2": {
     "name": "Aleksandar Vukic",
-    "country": "Australia Height / Weight: 188 cm / 84 kg",
+    "country": "Australia",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -39490,12 +39647,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Diallo",
-    "country": "",
+    "name": "Gabriel Diallo",
+    "country": "Canada",
     "seed": "4",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 169
    },
    "winner": 1,
    "sets": [
@@ -39705,7 +39862,7 @@
    },
    "p2": {
     "name": "Taro Daniel",
-    "country": "Japan Height / Weight: 191 cm / 80 kg",
+    "country": "Japan",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -39762,12 +39919,12 @@
    "draw": "Qualifying",
    "round": "Round of 16",
    "p1": {
-    "name": "Diallo",
-    "country": "",
+    "name": "Gabriel Diallo",
+    "country": "Canada",
     "seed": "4",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 169
    },
    "p2": {
     "name": "Mayot",
@@ -39838,12 +39995,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Struff",
-    "country": "",
+    "name": "Jan-Lennard Struff",
+    "country": "Germany",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 39
    },
    "winner": 1,
    "sets": [
@@ -39867,12 +40024,12 @@
    "draw": "Main Draw",
    "round": "Semifinals",
    "p1": {
-    "name": "Struff",
-    "country": "",
+    "name": "Jan-Lennard Struff",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 39
    },
    "p2": {
     "name": "Fils",
@@ -39912,12 +40069,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Cerundolo",
-    "country": "",
+    "name": "Francisco Cerundolo",
+    "country": "Argentina",
     "seed": "3",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 20
    },
    "winner": 1,
    "sets": [
@@ -39941,12 +40098,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Struff",
-    "country": "",
+    "name": "Jan-Lennard Struff",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 39
    },
    "p2": {
     "name": "Bergs",
@@ -40044,12 +40201,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Cerundolo",
-    "country": "",
+    "name": "Francisco Cerundolo",
+    "country": "Argentina",
     "seed": "3",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 20
    },
    "p2": {
     "name": "Clement Chidekh",
@@ -40151,12 +40308,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Collignon",
-    "country": "",
+    "name": "Raphael Collignon",
+    "country": "Belgium",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 55
    },
    "winner": 1,
    "sets": [
@@ -40200,12 +40357,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Struff",
-    "country": "",
+    "name": "Jan-Lennard Struff",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 39
    },
    "p2": {
     "name": "Onclin",
@@ -40299,12 +40456,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Cerundolo",
-    "country": "",
+    "name": "Francisco Cerundolo",
+    "country": "Argentina",
     "seed": "3",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 20
    },
    "p2": {
     "name": "Damm",
@@ -40377,12 +40534,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Prizmic",
-    "country": "",
+    "name": "Dino Prizmic",
+    "country": "Croatia",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 92
    },
    "winner": 1,
    "sets": [
@@ -40544,16 +40701,16 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Struff",
-    "country": "",
+    "name": "Jan-Lennard Struff",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 39
    },
    "p2": {
     "name": "Marcos Giron",
-    "country": "USA Height / Weight: 180 cm / 77 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -40827,7 +40984,7 @@
    },
    "p2": {
     "name": "Aziz Dougaz",
-    "country": "Tunisia Height / Weight: 188 cm / 80 kg",
+    "country": "Tunisia",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -40922,7 +41079,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Aziz Dougaz",
-    "country": "Tunisia Height / Weight: 188 cm / 80 kg",
+    "country": "Tunisia",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -41245,7 +41402,7 @@
    },
    "p2": {
     "name": "Felipe Meligeni Rodrigues Alves",
-    "country": "Brazil Height / Weight: 185 cm / 78 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -41381,7 +41538,7 @@
    "round": "Final",
    "p1": {
     "name": "Felipe Meligeni Rodrigues Alves",
-    "country": "Brazil Height / Weight: 185 cm / 78 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -41597,7 +41754,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Felipe Meligeni Rodrigues Alves",
-    "country": "Brazil Height / Weight: 185 cm / 78 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -41836,7 +41993,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Felipe Meligeni Rodrigues Alves",
-    "country": "Brazil Height / Weight: 185 cm / 78 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -41877,7 +42034,7 @@
    },
    "p2": {
     "name": "Nicolas Kicker",
-    "country": "Argentina Height / Weight: 178 cm / 75 kg",
+    "country": "Argentina",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -42084,12 +42241,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Pereira",
-    "country": "",
+    "name": "Jose Pereira",
+    "country": "Brazil",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 739
    },
    "winner": 1,
    "sets": [
@@ -42118,7 +42275,7 @@
    },
    "p2": {
     "name": "Juan Alejandro Hernandez Serrano",
-    "country": "Mexico Height / Weight: 175 cm / 70 kg",
+    "country": "Mexico",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -42225,7 +42382,7 @@
    },
    "p2": {
     "name": "Hernan Casanova",
-    "country": "Argentina Height / Weight: 178 cm / 76 kg",
+    "country": "Argentina",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -42254,7 +42411,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Felipe Meligeni Rodrigues Alves",
-    "country": "Brazil Height / Weight: 185 cm / 78 kg",
+    "country": "Brazil",
     "seed": "3",
     "winner": true,
     "roster": [],
@@ -42262,7 +42419,7 @@
    },
    "p2": {
     "name": "Juan Sebastian Gomez",
-    "country": "Colombia Height: 178 cm",
+    "country": "Colombia",
     "seed": "7",
     "winner": false,
     "roster": [],
@@ -42328,7 +42485,7 @@
    },
    "p2": {
     "name": "Juan Alejandro Hernandez Serrano",
-    "country": "Mexico Height / Weight: 175 cm / 70 kg",
+    "country": "Mexico",
     "seed": "5",
     "winner": false,
     "roster": [],
@@ -42393,12 +42550,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Magadan",
-    "country": "",
+    "name": "Alan Magadan",
+    "country": "Mexico",
     "seed": "6",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 496
    },
    "winner": 1,
    "sets": [
@@ -42418,12 +42575,12 @@
    "draw": "Qualifying",
    "round": "Round of 16",
    "p1": {
-    "name": "Pereira",
-    "country": "",
+    "name": "Jose Pereira",
+    "country": "Brazil",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 739
    },
    "p2": {
     "name": "Alves",
@@ -42485,7 +42642,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Juan Alejandro Hernandez Serrano",
-    "country": "Mexico Height / Weight: 175 cm / 70 kg",
+    "country": "Mexico",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -42518,7 +42675,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Juan Sebastian Gomez",
-    "country": "Colombia Height: 178 cm",
+    "country": "Colombia",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -42595,12 +42752,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Munk Mesa",
-    "country": "",
+    "name": "Bernardo Munk Mesa",
+    "country": "Spain",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 1100
    },
    "winner": 1,
    "sets": [
@@ -42654,7 +42811,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Felipe Meligeni Rodrigues Alves",
-    "country": "Brazil Height / Weight: 185 cm / 78 kg",
+    "country": "Brazil",
     "seed": "3",
     "winner": true,
     "roster": [],
@@ -42697,7 +42854,7 @@
    },
    "p2": {
     "name": "Jesse Flores",
-    "country": "Costa Rica Height / Weight: 188 cm / 82 kg",
+    "country": "Costa Rica",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -42788,7 +42945,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jose Pereira",
-    "country": "Brazil Height / Weight: 180 cm / 74 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -42796,7 +42953,7 @@
    },
    "p2": {
     "name": "Tristan McCormick",
-    "country": "USA Height: 193 cm",
+    "country": "USA",
     "seed": "12",
     "winner": false,
     "roster": [
@@ -42822,12 +42979,12 @@
    "draw": "Qualifying",
    "round": "1st Round",
    "p1": {
-    "name": "Magadan",
-    "country": "",
+    "name": "Alan Magadan",
+    "country": "Mexico",
     "seed": "6",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 496
    },
    "p2": {
     "name": "Bolivar Idarraga",
@@ -42857,12 +43014,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Romano",
-    "country": "",
+    "name": "Filippo Romano",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 240
    },
    "p2": {
     "name": "Ribecai",
@@ -42927,12 +43084,12 @@
    "draw": "Main Draw",
    "round": "Semifinals",
    "p1": {
-    "name": "Romano",
-    "country": "",
+    "name": "Filippo Romano",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 240
    },
    "p2": {
     "name": "Kopp",
@@ -43034,12 +43191,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Romano",
-    "country": "",
+    "name": "Filippo Romano",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 240
    },
    "p2": {
     "name": "Donald",
@@ -43207,12 +43364,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Romano",
-    "country": "",
+    "name": "Filippo Romano",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 240
    },
    "p2": {
     "name": "Milev",
@@ -43413,12 +43570,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Romano",
-    "country": "",
+    "name": "Filippo Romano",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 240
    },
    "p2": {
     "name": "Jianu",
@@ -43628,7 +43785,7 @@
    },
    "p2": {
     "name": "Jay Clarke",
-    "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -44521,12 +44678,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Sciahbasi",
-    "country": "",
+    "name": "Matteo Sciahbasi",
+    "country": "Italy",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 873
    },
    "winner": 1,
    "sets": [
@@ -44549,7 +44706,7 @@
    "round": "Final",
    "p1": {
     "name": "Jenson Brooksby",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "1",
     "winner": true,
     "roster": [
@@ -44584,7 +44741,7 @@
    "round": "Semifinals",
    "p1": {
     "name": "Jenson Brooksby",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "1",
     "winner": true,
     "roster": [
@@ -44660,7 +44817,7 @@
    "round": "Final",
    "p1": {
     "name": "Jenson Brooksby",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "1",
     "winner": true,
     "roster": [
@@ -44669,7 +44826,7 @@
     "rank": 94
    },
    "p2": {
-    "name": "Patrick (2000) Maloney",
+    "name": "Patrick Maloney",
     "country": "USA",
     "seed": "",
     "winner": false,
@@ -44816,7 +44973,7 @@
    },
    "p2": {
     "name": "Jeffrey John Wolf",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "5",
     "winner": false,
     "roster": [],
@@ -44855,7 +45012,7 @@
    },
    "p2": {
     "name": "Alex Rybakov",
-    "country": "USA Height / Weight: 185 cm / 68 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [
@@ -44896,7 +45053,7 @@
    },
    "p2": {
     "name": "Igor Marcondes",
-    "country": "Brazil Height / Weight: 185 cm / 75 kg",
+    "country": "Brazil",
     "seed": "7",
     "winner": false,
     "roster": [],
@@ -44929,7 +45086,7 @@
    },
    "p2": {
     "name": "Kaylan Bigun",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -44958,7 +45115,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Jenson Brooksby",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "1",
     "winner": true,
     "roster": [
@@ -44968,7 +45125,7 @@
    },
    "p2": {
     "name": "Timo Legout",
-    "country": "",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [
@@ -45039,12 +45196,12 @@
     "rank": 139
    },
    "p2": {
-    "name": "Milavsky",
-    "country": "",
+    "name": "Daniel Milavsky",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 307
    },
    "winner": 1,
    "sets": [
@@ -45064,7 +45221,7 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Patrick (2000) Maloney",
+    "name": "Patrick Maloney",
     "country": "USA",
     "seed": "",
     "winner": true,
@@ -45072,7 +45229,7 @@
     "rank": null
    },
    "p2": {
-    "name": "Kenta (2004) Miyoshi",
+    "name": "Kenta Miyoshi",
     "country": "Japan",
     "seed": "",
     "winner": false,
@@ -45141,7 +45298,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jeffrey John Wolf",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -45227,7 +45384,7 @@
    },
    "p2": {
     "name": "Andres Martin",
-    "country": "USA Height / Weight: 183 cm / 77 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -45255,7 +45412,7 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Kenta (2004) Miyoshi",
+    "name": "Kenta Miyoshi",
     "country": "Japan",
     "seed": "",
     "winner": true,
@@ -45291,7 +45448,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Igor Marcondes",
-    "country": "Brazil Height / Weight: 185 cm / 75 kg",
+    "country": "Brazil",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -45330,7 +45487,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Alex Rybakov",
-    "country": "USA Height / Weight: 185 cm / 68 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [
@@ -45476,7 +45633,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Kaylan Bigun",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -45511,7 +45668,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Timo Legout",
-    "country": "",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [
@@ -45583,7 +45740,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jenson Brooksby",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "1",
     "winner": true,
     "roster": [
@@ -45593,7 +45750,7 @@
    },
    "p2": {
     "name": "Mitchell Krueger",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -45621,12 +45778,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Milavsky",
-    "country": "",
+    "name": "Daniel Milavsky",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 307
    },
    "p2": {
     "name": "Nanda",
@@ -45654,7 +45811,7 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Patrick (2000) Maloney",
+    "name": "Patrick Maloney",
     "country": "USA",
     "seed": "",
     "winner": true,
@@ -45698,7 +45855,7 @@
    },
    "p2": {
     "name": "Michael Antonius",
-    "country": "",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -45727,7 +45884,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Kaylan Bigun",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -45770,7 +45927,7 @@
    },
    "p2": {
     "name": "Aidan McHugh",
-    "country": "Great Britain Height / Weight: 178 cm / 70 kg",
+    "country": "Great Britain",
     "seed": "7",
     "winner": false,
     "roster": [],
@@ -45804,7 +45961,7 @@
     "rank": 393
    },
    "p2": {
-    "name": "Kenta (2004) Miyoshi",
+    "name": "Kenta Miyoshi",
     "country": "Japan",
     "seed": "2",
     "winner": false,
@@ -45836,7 +45993,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Alex Rybakov",
-    "country": "USA Height / Weight: 185 cm / 68 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [
@@ -45951,7 +46108,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Aidan McHugh",
-    "country": "Great Britain Height / Weight: 178 cm / 70 kg",
+    "country": "Great Britain",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -45959,7 +46116,7 @@
    },
    "p2": {
     "name": "Joshua Sheehy",
-    "country": "USA Height / Weight: 188 cm / 80 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -45984,7 +46141,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Kaylan Bigun",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -45992,7 +46149,7 @@
    },
    "p2": {
     "name": "Andrew Fenty",
-    "country": "USA Height / Weight: 194 cm / 93 kg",
+    "country": "USA",
     "seed": "5",
     "winner": false,
     "roster": [],
@@ -46091,7 +46248,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Michael Antonius",
-    "country": "",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -46246,7 +46403,7 @@
    "draw": "Qualifying",
    "round": "1st Round",
    "p1": {
-    "name": "Kenta (2004) Miyoshi",
+    "name": "Kenta Miyoshi",
     "country": "Japan",
     "seed": "2",
     "winner": true,
@@ -46257,7 +46414,7 @@
    },
    "p2": {
     "name": "Keshav Chopra",
-    "country": "USA Height / Weight: 178 cm / 58 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -46323,7 +46480,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Alex Rybakov",
-    "country": "USA Height / Weight: 185 cm / 68 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [
@@ -46333,7 +46490,7 @@
    },
    "p2": {
     "name": "Karl Poling",
-    "country": "USA Height / Weight: 185 cm / 76 kg",
+    "country": "USA",
     "seed": "3",
     "winner": false,
     "roster": [],
@@ -46508,7 +46665,7 @@
    },
    "p2": {
     "name": "Keegan Smith",
-    "country": "USA Height / Weight: 198 cm / 93 kg",
+    "country": "USA",
     "seed": "7",
     "winner": false,
     "roster": [],
@@ -46658,7 +46815,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Keegan Smith",
-    "country": "USA Height / Weight: 198 cm / 93 kg",
+    "country": "USA",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -46736,7 +46893,7 @@
    },
    "p2": {
     "name": "Zhizhen Zhang",
-    "country": "China Height / Weight: 193 cm / 87 kg",
+    "country": "China",
     "seed": "4",
     "winner": false,
     "roster": [],
@@ -46870,7 +47027,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Keegan Smith",
-    "country": "USA Height / Weight: 198 cm / 93 kg",
+    "country": "USA",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -47013,12 +47170,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "winner": 1,
    "sets": [
@@ -47220,19 +47377,19 @@
    "round": "1st Round",
    "p1": {
     "name": "Zhizhen Zhang",
-    "country": "China Height / Weight: 193 cm / 87 kg",
+    "country": "China",
     "seed": "4",
     "winner": true,
     "roster": [],
     "rank": 162
    },
    "p2": {
-    "name": "Uchida",
-    "country": "",
+    "name": "Kaichi Uchida",
+    "country": "Japan",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 401
    },
    "winner": 1,
    "sets": [
@@ -47497,12 +47654,12 @@
    "draw": "Qualifying",
    "round": "Round of 16",
    "p1": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "p2": {
     "name": "Samrej",
@@ -47736,12 +47893,12 @@
    "draw": "Qualifying",
    "round": "1st Round",
    "p1": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "p2": {
     "name": "Binda",
@@ -47884,12 +48041,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Imamura",
-    "country": "",
+    "name": "Masamichi Imamura",
+    "country": "Japan",
     "seed": "4",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 437
    },
    "winner": 1,
    "sets": [
@@ -48088,12 +48245,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Moller",
-    "country": "",
+    "name": "Elmer Moller",
+    "country": "Denmark",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 150
    },
    "winner": 1,
    "sets": [
@@ -48183,12 +48340,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Moller",
-    "country": "",
+    "name": "Elmer Moller",
+    "country": "Denmark",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 150
    },
    "p2": {
     "name": "Rocha",
@@ -48291,7 +48448,7 @@
    },
    "p2": {
     "name": "Andrej Martin",
-    "country": "Slovakia Height / Weight: 183 cm / 83 kg",
+    "country": "Slovakia",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -48524,12 +48681,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Moller",
-    "country": "",
+    "name": "Elmer Moller",
+    "country": "Denmark",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 150
    },
    "p2": {
     "name": "Alcala Gurri",
@@ -48562,7 +48719,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Andrej Martin",
-    "country": "Slovakia Height / Weight: 183 cm / 83 kg",
+    "country": "Slovakia",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -48636,7 +48793,7 @@
    },
    "p2": {
     "name": "Nikolas Sanchez Izquierdo",
-    "country": "Spain Height / Weight: 185 cm / 77 kg",
+    "country": "Spain",
     "seed": "8",
     "winner": false,
     "roster": [],
@@ -48672,12 +48829,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Pereira",
-    "country": "",
+    "name": "Tiago Pereira",
+    "country": "Portugal",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 318
    },
    "winner": 1,
    "sets": [
@@ -48808,12 +48965,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Hemery",
-    "country": "",
+    "name": "Calvin Hemery",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 274
    },
    "winner": 1,
    "sets": [
@@ -48904,7 +49061,7 @@
    },
    "p2": {
     "name": "Andres Andrade",
-    "country": "Ecuador Height / Weight: 180 cm / 73 kg",
+    "country": "Ecuador",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -48929,7 +49086,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Elmer Moller",
-    "country": "Denmark Height / Weight: 183 cm / 73 kg",
+    "country": "Denmark",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -49244,7 +49401,7 @@
    },
    "p2": {
     "name": "Andrej Martin",
-    "country": "Slovakia Height / Weight: 183 cm / 83 kg",
+    "country": "Slovakia",
     "seed": "5",
     "winner": false,
     "roster": [],
@@ -49342,12 +49499,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Karol",
-    "country": "",
+    "name": "Milos Karol",
+    "country": "Slovakia",
     "seed": "12",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 597
    },
    "winner": 1,
    "sets": [
@@ -49615,7 +49772,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Andrej Martin",
-    "country": "Slovakia Height / Weight: 183 cm / 83 kg",
+    "country": "Slovakia",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -49715,12 +49872,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Musetti",
-    "country": "",
+    "name": "Lorenzo Musetti",
+    "country": "Italy",
     "seed": "6",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 24
    },
    "p2": {
     "name": "Fritz",
@@ -49748,12 +49905,12 @@
    "draw": "Main Draw",
    "round": "Semifinals",
    "p1": {
-    "name": "Musetti",
-    "country": "",
+    "name": "Lorenzo Musetti",
+    "country": "Italy",
     "seed": "6",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 24
    },
    "p2": {
     "name": "Cobolli",
@@ -49794,7 +49951,7 @@
    },
    "p2": {
     "name": "Tommy Paul",
-    "country": "USA Height / Weight: 185 cm / 82 kg",
+    "country": "USA",
     "seed": "4",
     "winner": false,
     "roster": [],
@@ -49818,20 +49975,20 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Musetti",
-    "country": "",
+    "name": "Lorenzo Musetti",
+    "country": "Italy",
     "seed": "6",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 24
    },
    "p2": {
-    "name": "Van Assche",
-    "country": "",
+    "name": "Luca Van Assche",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 47
    },
    "winner": 1,
    "sets": [
@@ -49864,7 +50021,7 @@
    },
    "p2": {
     "name": "Brandon Nakashima",
-    "country": "USA Height / Weight: 185 cm / 77 kg",
+    "country": "USA",
     "seed": "5",
     "winner": false,
     "roster": [],
@@ -49900,12 +50057,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Altmaier",
-    "country": "",
+    "name": "Daniel Altmaier",
+    "country": "Germany",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 63
    },
    "winner": 1,
    "sets": [
@@ -49926,7 +50083,7 @@
    "round": "Final",
    "p1": {
     "name": "Tommy Paul",
-    "country": "USA Height / Weight: 185 cm / 82 kg",
+    "country": "USA",
     "seed": "4",
     "winner": true,
     "roster": [],
@@ -49963,7 +50120,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Brandon Nakashima",
-    "country": "USA Height / Weight: 185 cm / 77 kg",
+    "country": "USA",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -50061,12 +50218,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Van Assche",
-    "country": "",
+    "name": "Luca Van Assche",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 47
    },
    "p2": {
     "name": "Vacherot",
@@ -50099,7 +50256,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Daniel Altmaier",
-    "country": "Germany Height / Weight: 191 cm / 88 kg",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -50107,7 +50264,7 @@
    },
    "p2": {
     "name": "Borna Gojo",
-    "country": "Croatia Height / Weight: 196 cm / 90 kg",
+    "country": "Croatia",
     "seed": "",
     "winner": false,
     "roster": [
@@ -50134,19 +50291,19 @@
    "round": "Round of 16",
    "p1": {
     "name": "Tommy Paul",
-    "country": "USA Height / Weight: 185 cm / 82 kg",
+    "country": "USA",
     "seed": "4",
     "winner": true,
     "roster": [],
     "rank": 14
    },
    "p2": {
-    "name": "Bonzi",
-    "country": "",
+    "name": "Benjamin Bonzi",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 95
    },
    "winner": 1,
    "sets": [
@@ -50170,20 +50327,20 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Musetti",
-    "country": "",
+    "name": "Lorenzo Musetti",
+    "country": "Italy",
     "seed": "6",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 24
    },
    "p2": {
-    "name": "Kouame",
-    "country": "",
+    "name": "Moise Kouame",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 132
    },
    "winner": 1,
    "sets": [
@@ -50274,7 +50431,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Brandon Nakashima",
-    "country": "USA Height / Weight: 185 cm / 77 kg",
+    "country": "USA",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -50343,12 +50500,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Van Assche",
-    "country": "",
+    "name": "Luca Van Assche",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 47
    },
    "p2": {
     "name": "Tabur",
@@ -50377,7 +50534,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Benjamin Bonzi",
-    "country": "France Height / Weight: 185 cm / 76 kg",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -50385,7 +50542,7 @@
    },
    "p2": {
     "name": "Cameron Norrie",
-    "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": false,
     "roster": [
@@ -50416,7 +50573,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Daniel Altmaier",
-    "country": "Germany Height / Weight: 191 cm / 88 kg",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -50490,7 +50647,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Borna Gojo",
-    "country": "Croatia Height / Weight: 196 cm / 90 kg",
+    "country": "Croatia",
     "seed": "",
     "winner": true,
     "roster": [
@@ -50535,7 +50692,7 @@
    },
    "p2": {
     "name": "Sebastian Baez",
-    "country": "Argentina Height / Weight: 170 cm / 70 kg",
+    "country": "Argentina",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -50559,12 +50716,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Kouame",
-    "country": "",
+    "name": "Moise Kouame",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 132
    },
    "p2": {
     "name": "Sonego",
@@ -50592,20 +50749,20 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Musetti",
-    "country": "",
+    "name": "Lorenzo Musetti",
+    "country": "Italy",
     "seed": "6",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 24
    },
    "p2": {
-    "name": "Arnaldi",
-    "country": "",
+    "name": "Matteo Arnaldi",
+    "country": "Italy",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 36
    },
    "winner": 1,
    "sets": [
@@ -50725,7 +50882,7 @@
    "round": "Quarterfinals",
    "p1": {
     "name": "Borna Gojo",
-    "country": "Croatia Height / Weight: 196 cm / 90 kg",
+    "country": "Croatia",
     "seed": "6",
     "winner": true,
     "roster": [
@@ -50735,7 +50892,7 @@
    },
    "p2": {
     "name": "Vitaliy Sachko",
-    "country": "Ukraine Height / Weight: 183 cm / 68 kg",
+    "country": "Ukraine",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -50878,12 +51035,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Royer",
-    "country": "",
+    "name": "Valentin Royer",
+    "country": "France",
     "seed": "2",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 120
    },
    "winner": 1,
    "sets": [
@@ -50908,7 +51065,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Borna Gojo",
-    "country": "Croatia Height / Weight: 196 cm / 90 kg",
+    "country": "Croatia",
     "seed": "6",
     "winner": true,
     "roster": [
@@ -50954,12 +51111,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Gueymard Wayenburg",
-    "country": "",
+    "name": "Sascha Gueymard Wayenburg",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 187
    },
    "winner": 1,
    "sets": [
@@ -51013,7 +51170,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Vitaliy Sachko",
-    "country": "Ukraine Height / Weight: 183 cm / 68 kg",
+    "country": "Ukraine",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -51129,12 +51286,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Struff",
-    "country": "",
+    "name": "Jan-Lennard Struff",
+    "country": "Germany",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 39
    },
    "winner": 1,
    "sets": [
@@ -51192,7 +51349,7 @@
    "round": "Final",
    "p1": {
     "name": "Jan-Lennard Struff",
-    "country": "Germany Height / Weight: 193 cm / 92 kg",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -51200,7 +51357,7 @@
    },
    "p2": {
     "name": "Nuno Borges",
-    "country": "Portugal Height / Weight: 185 cm / 75 kg",
+    "country": "Portugal",
     "seed": "",
     "winner": false,
     "roster": [
@@ -51234,12 +51391,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Kym",
-    "country": "",
+    "name": "Jerome Kym",
+    "country": "Switzerland",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 164
    },
    "winner": 1,
    "sets": [
@@ -51330,7 +51487,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Jerome Kym",
-    "country": "Switzerland Height / Weight: 198 cm / 87 kg",
+    "country": "Switzerland",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -51369,7 +51526,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Jan-Lennard Struff",
-    "country": "Germany Height / Weight: 193 cm / 92 kg",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -51447,7 +51604,7 @@
    },
    "p2": {
     "name": "Daniel Altmaier",
-    "country": "Germany Height / Weight: 191 cm / 88 kg",
+    "country": "Germany",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -51583,7 +51740,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Nuno Borges",
-    "country": "Portugal Height / Weight: 185 cm / 75 kg",
+    "country": "Portugal",
     "seed": "",
     "winner": true,
     "roster": [
@@ -51593,7 +51750,7 @@
    },
    "p2": {
     "name": "Casper Ruud",
-    "country": "Norway Height / Weight: 183 cm / 77 kg",
+    "country": "Norway",
     "seed": "9",
     "winner": false,
     "roster": [],
@@ -51725,7 +51882,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jan-Lennard Struff",
-    "country": "Germany Height / Weight: 193 cm / 92 kg",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -51801,7 +51958,7 @@
    },
    "p2": {
     "name": "Aleksandar Kovacevic",
-    "country": "USA Height / Weight: 183 cm / 76 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -51900,7 +52057,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jerome Kym",
-    "country": "Switzerland Height / Weight: 198 cm / 87 kg",
+    "country": "Switzerland",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -52003,7 +52160,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Casper Ruud",
-    "country": "Norway Height / Weight: 183 cm / 77 kg",
+    "country": "Norway",
     "seed": "9",
     "winner": true,
     "roster": [],
@@ -52047,12 +52204,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Halys",
-    "country": "",
+    "name": "Quentin Halys",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 46
    },
    "winner": 1,
    "sets": [
@@ -52077,7 +52234,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Daniel Altmaier",
-    "country": "Germany Height / Weight: 191 cm / 88 kg",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -52147,7 +52304,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Nuno Borges",
-    "country": "Portugal Height / Weight: 185 cm / 75 kg",
+    "country": "Portugal",
     "seed": "",
     "winner": true,
     "roster": [
@@ -52223,7 +52380,7 @@
    },
    "p2": {
     "name": "Aleksandar Kovacevic",
-    "country": "USA Height / Weight: 183 cm / 76 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -52256,7 +52413,7 @@
    },
    "p2": {
     "name": "Daniel Altmaier",
-    "country": "Germany Height / Weight: 191 cm / 88 kg",
+    "country": "Germany",
     "seed": "7",
     "winner": false,
     "roster": [],
@@ -52351,7 +52508,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Aleksandar Kovacevic",
-    "country": "USA Height / Weight: 183 cm / 76 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -52384,7 +52541,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Daniel Altmaier",
-    "country": "Germany Height / Weight: 191 cm / 88 kg",
+    "country": "Germany",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -52425,7 +52582,7 @@
    },
    "p2": {
     "name": "Sebastian Baez",
-    "country": "Argentina Height / Weight: 170 cm / 70 kg",
+    "country": "Argentina",
     "seed": "1",
     "winner": false,
     "roster": [],
@@ -52495,7 +52652,7 @@
    },
    "p2": {
     "name": "Zachary Svajda",
-    "country": "",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -52561,7 +52718,7 @@
    },
    "p2": {
     "name": "Marcos Giron",
-    "country": "USA Height / Weight: 180 cm / 77 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -52591,12 +52748,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Kouame",
-    "country": "",
+    "name": "Moise Kouame",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 132
    },
    "p2": {
     "name": "Damm",
@@ -52628,12 +52785,12 @@
    "draw": "Main Draw",
    "round": "Semifinals",
    "p1": {
-    "name": "Kouame",
-    "country": "",
+    "name": "Moise Kouame",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 132
    },
    "p2": {
     "name": "Virtanen",
@@ -52669,12 +52826,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Prizmic",
-    "country": "",
+    "name": "Dino Prizmic",
+    "country": "Croatia",
     "seed": "2",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 92
    },
    "winner": 1,
    "sets": [
@@ -52731,12 +52888,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Kouame",
-    "country": "",
+    "name": "Moise Kouame",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 132
    },
    "p2": {
     "name": "Francesco Maestrelli",
@@ -52797,12 +52954,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Prizmic",
-    "country": "",
+    "name": "Dino Prizmic",
+    "country": "Croatia",
     "seed": "2",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 92
    },
    "p2": {
     "name": "Cina",
@@ -52863,12 +53020,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Kouame",
-    "country": "",
+    "name": "Moise Kouame",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 132
    },
    "p2": {
     "name": "Gaston",
@@ -52970,12 +53127,12 @@
     "rank": 176
    },
    "p2": {
-    "name": "Diallo",
-    "country": "",
+    "name": "Gabriel Diallo",
+    "country": "Canada",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 169
    },
    "winner": 1,
    "sets": [
@@ -53070,7 +53227,7 @@
    },
    "p2": {
     "name": "Borna Gojo",
-    "country": "Croatia Height / Weight: 196 cm / 90 kg",
+    "country": "Croatia",
     "seed": "",
     "winner": false,
     "roster": [
@@ -53141,12 +53298,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Romano",
-    "country": "",
+    "name": "Filippo Romano",
+    "country": "Italy",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 240
    },
    "winner": 1,
    "sets": [
@@ -53236,12 +53393,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Kouame",
-    "country": "",
+    "name": "Moise Kouame",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 132
    },
    "p2": {
     "name": "Grenier",
@@ -53310,12 +53467,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Gueymard Wayenburg",
-    "country": "",
+    "name": "Sascha Gueymard Wayenburg",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 187
    },
    "winner": 1,
    "sets": [
@@ -53443,7 +53600,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Borna Gojo",
-    "country": "Croatia Height / Weight: 196 cm / 90 kg",
+    "country": "Croatia",
     "seed": "",
     "winner": true,
     "roster": [
@@ -53768,7 +53925,7 @@
    },
    "p2": {
     "name": "Calvin Hemery",
-    "country": "France Height / Weight: 191 cm / 83 kg",
+    "country": "France",
     "seed": "2",
     "winner": false,
     "roster": [],
@@ -53805,7 +53962,7 @@
    },
    "p2": {
     "name": "Niels McDonald",
-    "country": "",
+    "country": "Germany",
     "seed": "10",
     "winner": false,
     "roster": [],
@@ -53841,12 +53998,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Ursu",
-    "country": "",
+    "name": "Vadym Ursu",
+    "country": "Ukraine",
     "seed": "8",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 414
    },
    "winner": 1,
    "sets": [
@@ -54040,7 +54197,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Calvin Hemery",
-    "country": "France Height / Weight: 191 cm / 83 kg",
+    "country": "France",
     "seed": "2",
     "winner": true,
     "roster": [],
@@ -54083,7 +54240,7 @@
    },
    "p2": {
     "name": "Dimitar Kuzmanov",
-    "country": "Bulgaria Height / Weight: 193 cm / 77 kg",
+    "country": "Bulgaria",
     "seed": "7",
     "winner": false,
     "roster": [],
@@ -54173,12 +54330,12 @@
    "draw": "Qualifying",
    "round": "1st Round",
    "p1": {
-    "name": "Ursu",
-    "country": "",
+    "name": "Vadym Ursu",
+    "country": "Ukraine",
     "seed": "8",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 414
    },
    "p2": {
     "name": "Freire Da Silva",
@@ -54244,7 +54401,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Niels McDonald",
-    "country": "",
+    "country": "Germany",
     "seed": "10",
     "winner": true,
     "roster": [],
@@ -54319,12 +54476,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Reis Da Silva",
-    "country": "",
+    "name": "Joao Lucas Reis Da Silva",
+    "country": "Brazil",
     "seed": "5",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 177
    },
    "winner": 1,
    "sets": [
@@ -54377,12 +54534,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Reis Da Silva",
-    "country": "",
+    "name": "Joao Lucas Reis Da Silva",
+    "country": "Brazil",
     "seed": "5",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 177
    },
    "p2": {
     "name": "Ugo Carabelli",
@@ -54509,12 +54666,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Reis Da Silva",
-    "country": "",
+    "name": "Joao Lucas Reis Da Silva",
+    "country": "Brazil",
     "seed": "5",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 177
    },
    "p2": {
     "name": "Camacho",
@@ -54588,7 +54745,7 @@
    },
    "p2": {
     "name": "Juan Alejandro Hernandez Serrano",
-    "country": "Mexico Height / Weight: 175 cm / 70 kg",
+    "country": "Mexico",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -54778,7 +54935,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Juan Alejandro Hernandez Serrano",
-    "country": "Mexico Height / Weight: 175 cm / 70 kg",
+    "country": "Mexico",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -54844,7 +55001,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Joao Lucas Reis Da Silva",
-    "country": "Brazil Height / Weight: 175 cm / 75 kg",
+    "country": "Brazil",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -54923,12 +55080,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Magadan",
-    "country": "",
+    "name": "Alan Magadan",
+    "country": "Mexico",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 496
    },
    "winner": 1,
    "sets": [
@@ -55093,7 +55250,7 @@
    },
    "p2": {
     "name": "Genaro Alberto Olivieri",
-    "country": "Argentina Height / Weight: 175 cm / 73 kg",
+    "country": "Argentina",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -55328,7 +55485,7 @@
    },
    "p2": {
     "name": "Tristan McCormick",
-    "country": "USA Height: 193 cm",
+    "country": "USA",
     "seed": "9",
     "winner": false,
     "roster": [
@@ -55468,7 +55625,7 @@
    },
    "p2": {
     "name": "Ryan Nijboer",
-    "country": "Netherlands Height / Weight: 180 cm / 77 kg",
+    "country": "Netherlands",
     "seed": "3",
     "winner": false,
     "roster": [],
@@ -55493,7 +55650,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Juan Alejandro Hernandez Serrano",
-    "country": "Mexico Height / Weight: 175 cm / 70 kg",
+    "country": "Mexico",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -55629,7 +55786,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Tristan McCormick",
-    "country": "USA Height: 193 cm",
+    "country": "USA",
     "seed": "9",
     "winner": true,
     "roster": [
@@ -55664,7 +55821,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Juan Alejandro Hernandez Serrano",
-    "country": "Mexico Height / Weight: 175 cm / 70 kg",
+    "country": "Mexico",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -55672,7 +55829,7 @@
    },
    "p2": {
     "name": "Jose Pereira",
-    "country": "Brazil Height / Weight: 180 cm / 74 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -55740,7 +55897,7 @@
    },
    "p2": {
     "name": "Arklon Huertas Del Pino",
-    "country": "Peru Weight: 87 kg",
+    "country": "Peru",
     "seed": "10",
     "winner": false,
     "roster": [],
@@ -55868,7 +56025,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Ryan Nijboer",
-    "country": "Netherlands Height / Weight: 180 cm / 77 kg",
+    "country": "Netherlands",
     "seed": "3",
     "winner": true,
     "roster": [],
@@ -55935,12 +56092,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "p2": {
     "name": "Bar Biryukov",
@@ -56009,12 +56166,12 @@
    "draw": "Main Draw",
    "round": "Semifinals",
    "p1": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "p2": {
     "name": "Hsu",
@@ -56149,12 +56306,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "p2": {
     "name": "Mayot",
@@ -56330,16 +56487,16 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "p2": {
     "name": "Charles Broom",
-    "country": "Great Britain Height / Weight: 178 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "8",
     "winner": false,
     "roster": [],
@@ -56408,12 +56565,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Uchida",
-    "country": "",
+    "name": "Kaichi Uchida",
+    "country": "Japan",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 401
    },
    "winner": 1,
    "sets": [
@@ -56478,12 +56635,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Imamura",
-    "country": "",
+    "name": "Masamichi Imamura",
+    "country": "Japan",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 437
    },
    "winner": 1,
    "sets": [
@@ -56721,12 +56878,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "p2": {
     "name": "Overbeck",
@@ -56825,7 +56982,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Charles Broom",
-    "country": "Great Britain Height / Weight: 178 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "8",
     "winner": true,
     "roster": [],
@@ -56866,7 +57023,7 @@
    },
    "p2": {
     "name": "Keegan Smith",
-    "country": "USA Height / Weight: 198 cm / 93 kg",
+    "country": "USA",
     "seed": "2",
     "winner": false,
     "roster": [],
@@ -57001,12 +57158,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Uchida",
-    "country": "",
+    "name": "Kaichi Uchida",
+    "country": "Japan",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 401
    },
    "p2": {
     "name": "Ognjen Milic",
@@ -57034,12 +57191,12 @@
    "draw": "Qualifying",
    "round": "Round of 16",
    "p1": {
-    "name": "Demin",
-    "country": "",
+    "name": "Yaroslav Demin",
+    "country": "Russia",
     "seed": "11",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 358
    },
    "p2": {
     "name": "Sun",
@@ -57282,7 +57439,7 @@
    },
    "p2": {
     "name": "Martin Borisiouk",
-    "country": "Belarus Height / Weight: 191 cm / 82 kg",
+    "country": "Belarus",
     "seed": "",
     "winner": false,
     "roster": [
@@ -57690,7 +57847,7 @@
    },
    "p2": {
     "name": "Billy Harris",
-    "country": "Great Britain Height / Weight: 191 cm / 86 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -57818,7 +57975,7 @@
    "round": "Final",
    "p1": {
     "name": "Billy Harris",
-    "country": "Great Britain Height / Weight: 191 cm / 86 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -57854,12 +58011,12 @@
     "rank": 85
    },
    "p2": {
-    "name": "Shimabukuro",
-    "country": "",
+    "name": "Sho Shimabukuro",
+    "country": "Japan",
     "seed": "7",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 118
    },
    "winner": 1,
    "sets": [
@@ -57917,7 +58074,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Sho Shimabukuro",
-    "country": "Japan Height / Weight: 183 cm / 75 kg",
+    "country": "Japan",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -57993,7 +58150,7 @@
    },
    "p2": {
     "name": "Taro Daniel",
-    "country": "Japan Height / Weight: 191 cm / 80 kg",
+    "country": "Japan",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -58026,7 +58183,7 @@
    },
    "p2": {
     "name": "Zhizhen Zhang",
-    "country": "China Height / Weight: 193 cm / 87 kg",
+    "country": "China",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -58051,7 +58208,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Billy Harris",
-    "country": "Great Britain Height / Weight: 191 cm / 86 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -58059,7 +58216,7 @@
    },
    "p2": {
     "name": "Aleksandar Vukic",
-    "country": "Australia Height / Weight: 188 cm / 84 kg",
+    "country": "Australia",
     "seed": "8",
     "winner": false,
     "roster": [],
@@ -58125,7 +58282,7 @@
    },
    "p2": {
     "name": "Lloyd Harris",
-    "country": "RSA Height / Weight: 193 cm / 80 kg",
+    "country": "RSA",
     "seed": "5",
     "winner": false,
     "roster": [],
@@ -58319,7 +58476,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Aleksandar Vukic",
-    "country": "Australia Height / Weight: 188 cm / 84 kg",
+    "country": "Australia",
     "seed": "8",
     "winner": true,
     "roster": [],
@@ -58418,7 +58575,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Taro Daniel",
-    "country": "Japan Height / Weight: 191 cm / 80 kg",
+    "country": "Japan",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -58486,7 +58643,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Sho Shimabukuro",
-    "country": "Japan Height / Weight: 183 cm / 75 kg",
+    "country": "Japan",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -58519,7 +58676,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Billy Harris",
-    "country": "Great Britain Height / Weight: 191 cm / 86 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -58587,7 +58744,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Lloyd Harris",
-    "country": "RSA Height / Weight: 193 cm / 80 kg",
+    "country": "RSA",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -58620,7 +58777,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Zhizhen Zhang",
-    "country": "China Height / Weight: 193 cm / 87 kg",
+    "country": "China",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -58800,12 +58957,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Park",
-    "country": "",
+    "name": "Uisung Park",
+    "country": "South Korea",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 754
    },
    "winner": 1,
    "sets": [
@@ -59184,7 +59341,7 @@
    },
    "p2": {
     "name": "Alafia Ayeni",
-    "country": "USA Height / Weight: 191 cm / 82 kg",
+    "country": "USA",
     "seed": "3",
     "winner": false,
     "roster": [
@@ -59374,12 +59531,12 @@
     "rank": 168
    },
    "p2": {
-    "name": "Dominko",
-    "country": "",
+    "name": "Sebastian Dominko",
+    "country": "Slovenia",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 456
    },
    "winner": 1,
    "sets": [
@@ -59475,12 +59632,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Dominko",
-    "country": "",
+    "name": "Sebastian Dominko",
+    "country": "Slovenia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 456
    },
    "p2": {
     "name": "Max Hans Rehberg",
@@ -59519,7 +59676,7 @@
    },
    "p2": {
     "name": "Jeffrey John Wolf",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -59587,7 +59744,7 @@
    },
    "p2": {
     "name": "Mitchell Krueger",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -59646,20 +59803,20 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Dominko",
-    "country": "",
+    "name": "Sebastian Dominko",
+    "country": "Slovenia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 456
    },
    "p2": {
-    "name": "Royer",
-    "country": "",
+    "name": "Valentin Royer",
+    "country": "France",
     "seed": "2",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 120
    },
    "winner": 1,
    "sets": [
@@ -59723,7 +59880,7 @@
    },
    "p2": {
     "name": "Jenson Brooksby",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "1",
     "winner": false,
     "roster": [
@@ -59760,7 +59917,7 @@
    },
    "p2": {
     "name": "Kaylan Bigun",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -59792,12 +59949,12 @@
     "rank": 285
    },
    "p2": {
-    "name": "Kasnikowski",
-    "country": "",
+    "name": "Maks Kasnikowski",
+    "country": "Poland",
     "seed": "8",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 211
    },
    "winner": 1,
    "sets": [
@@ -59822,19 +59979,19 @@
    "round": "Round of 16",
    "p1": {
     "name": "Jeffrey John Wolf",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
     "rank": 204
    },
    "p2": {
-    "name": "Milavsky",
-    "country": "",
+    "name": "Daniel Milavsky",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 307
    },
    "winner": 1,
    "sets": [
@@ -59926,16 +60083,16 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Dominko",
-    "country": "",
+    "name": "Sebastian Dominko",
+    "country": "Slovenia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 456
    },
    "p2": {
     "name": "Karl Poling",
-    "country": "USA Height / Weight: 185 cm / 76 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -59960,7 +60117,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Valentin Royer",
-    "country": "France Height / Weight: 188 cm / 83 kg",
+    "country": "France",
     "seed": "2",
     "winner": true,
     "roster": [],
@@ -59968,7 +60125,7 @@
    },
    "p2": {
     "name": "Timo Legout",
-    "country": "",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [
@@ -59995,7 +60152,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Mitchell Krueger",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -60003,7 +60160,7 @@
    },
    "p2": {
     "name": "Andres Andrade",
-    "country": "Ecuador Height / Weight: 180 cm / 73 kg",
+    "country": "Ecuador",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -60098,7 +60255,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jenson Brooksby",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "1",
     "winner": true,
     "roster": [
@@ -60205,7 +60362,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jeffrey John Wolf",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -60310,7 +60467,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Kaylan Bigun",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -60318,7 +60475,7 @@
    },
    "p2": {
     "name": "Andres Martin",
-    "country": "USA Height / Weight: 183 cm / 77 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -60353,7 +60510,7 @@
    },
    "p2": {
     "name": "Alexis Galarneau",
-    "country": "Canada Height / Weight: 180 cm / 79 kg",
+    "country": "Canada",
     "seed": "4",
     "winner": false,
     "roster": [
@@ -60379,12 +60536,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Milavsky",
-    "country": "",
+    "name": "Daniel Milavsky",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 307
    },
    "p2": {
     "name": "Wendelken",
@@ -60457,12 +60614,12 @@
    "draw": "Qualifying",
    "round": "Round of 16",
    "p1": {
-    "name": "Dominko",
-    "country": "",
+    "name": "Sebastian Dominko",
+    "country": "Slovenia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 456
    },
    "p2": {
     "name": "Benjamin Willwerth",
@@ -60491,7 +60648,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Timo Legout",
-    "country": "",
+    "country": "France",
     "seed": "1",
     "winner": true,
     "roster": [
@@ -60501,7 +60658,7 @@
    },
    "p2": {
     "name": "Andrew Fenty",
-    "country": "USA Height / Weight: 194 cm / 93 kg",
+    "country": "USA",
     "seed": "7",
     "winner": false,
     "roster": [],
@@ -60571,7 +60728,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Karl Poling",
-    "country": "USA Height / Weight: 185 cm / 76 kg",
+    "country": "USA",
     "seed": "6",
     "winner": true,
     "roster": [],
@@ -60686,7 +60843,7 @@
    },
    "p2": {
     "name": "Justin Boulais",
-    "country": "Canada Height / Weight: 183 cm / 77 kg",
+    "country": "Canada",
     "seed": "3",
     "winner": false,
     "roster": [
@@ -60795,7 +60952,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Andrew Fenty",
-    "country": "USA Height / Weight: 194 cm / 93 kg",
+    "country": "USA",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -60830,7 +60987,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Timo Legout",
-    "country": "",
+    "country": "France",
     "seed": "1",
     "winner": true,
     "roster": [
@@ -60983,7 +61140,7 @@
     "rank": 530
    },
    "p2": {
-    "name": "Kenta (2004) Miyoshi",
+    "name": "Kenta Miyoshi",
     "country": "Japan",
     "seed": "5",
     "winner": false,
@@ -61011,7 +61168,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Karl Poling",
-    "country": "USA Height / Weight: 185 cm / 76 kg",
+    "country": "USA",
     "seed": "6",
     "winner": true,
     "roster": [],
@@ -61086,12 +61243,12 @@
     "rank": null
    },
    "p2": {
-    "name": "De Minaur",
-    "country": "",
+    "name": "Alex De Minaur",
+    "country": "Australia",
     "seed": "5",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 9
    },
    "winner": 1,
    "sets": [
@@ -61111,20 +61268,20 @@
    "draw": "Main Draw",
    "round": "Semifinals",
    "p1": {
-    "name": "De Minaur",
-    "country": "",
+    "name": "Alex De Minaur",
+    "country": "Australia",
     "seed": "5",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 9
    },
    "p2": {
-    "name": "Zverev",
-    "country": "",
+    "name": "Alexander Zverev",
+    "country": "Germany",
     "seed": "1",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 1
    },
    "winner": 1,
    "sets": [
@@ -61156,12 +61313,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Medvedev",
-    "country": "",
+    "name": "Daniil Medvedev",
+    "country": "Russia",
     "seed": "3",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 5
    },
    "winner": 1,
    "sets": [
@@ -61181,12 +61338,12 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "De Minaur",
-    "country": "",
+    "name": "Alex De Minaur",
+    "country": "Australia",
     "seed": "5",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 9
    },
    "p2": {
     "name": "Berrettini",
@@ -61215,7 +61372,7 @@
    "round": "Final",
    "p1": {
     "name": "Alexander Zverev",
-    "country": "Germany Height / Weight: 198 cm / 90 kg",
+    "country": "Germany",
     "seed": "1",
     "winner": true,
     "roster": [],
@@ -61258,7 +61415,7 @@
    },
    "p2": {
     "name": "Tommy Paul",
-    "country": "USA Height / Weight: 185 cm / 82 kg",
+    "country": "USA",
     "seed": "7",
     "winner": false,
     "roster": [],
@@ -61282,20 +61439,20 @@
    "draw": "Main Draw",
    "round": "Final",
    "p1": {
-    "name": "Medvedev",
-    "country": "",
+    "name": "Daniil Medvedev",
+    "country": "Russia",
     "seed": "3",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 5
    },
    "p2": {
-    "name": "Mannarino",
-    "country": "",
+    "name": "Adrian Mannarino",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 59
    },
    "winner": 1,
    "sets": [
@@ -61345,7 +61502,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Alexander Zverev",
-    "country": "Germany Height / Weight: 198 cm / 90 kg",
+    "country": "Germany",
     "seed": "1",
     "winner": true,
     "roster": [],
@@ -61388,7 +61545,7 @@
    },
    "p2": {
     "name": "Lorenzo Musetti",
-    "country": "Italy Height / Weight: 185 cm / 75 kg",
+    "country": "Italy",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -61450,7 +61607,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Tommy Paul",
-    "country": "USA Height / Weight: 185 cm / 82 kg",
+    "country": "USA",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -61483,7 +61640,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Daniil Medvedev",
-    "country": "Russia Height / Weight: 198 cm / 83 kg",
+    "country": "Russia",
     "seed": "3",
     "winner": true,
     "roster": [],
@@ -61491,7 +61648,7 @@
    },
    "p2": {
     "name": "Cameron Norrie",
-    "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": false,
     "roster": [
@@ -61522,7 +61679,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Alex De Minaur",
-    "country": "Australia Height / Weight: 183 cm / 69 kg",
+    "country": "Australia",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -61556,12 +61713,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Mannarino",
-    "country": "",
+    "name": "Adrian Mannarino",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 59
    },
    "p2": {
     "name": "Mensik",
@@ -61623,7 +61780,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Lorenzo Musetti",
-    "country": "Italy Height / Weight: 185 cm / 75 kg",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -61656,7 +61813,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Daniil Medvedev",
-    "country": "Russia Height / Weight: 198 cm / 83 kg",
+    "country": "Russia",
     "seed": "3",
     "winner": true,
     "roster": [],
@@ -61697,7 +61854,7 @@
    },
    "p2": {
     "name": "Brandon Nakashima",
-    "country": "USA Height / Weight: 185 cm / 77 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -61763,7 +61920,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Cameron Norrie",
-    "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [
@@ -61773,7 +61930,7 @@
    },
    "p2": {
     "name": "Francisco Cerundolo",
-    "country": "Argentina Height / Weight: 185 cm / 78 kg",
+    "country": "Argentina",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -61798,7 +61955,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Alexander Zverev",
-    "country": "Germany Height / Weight: 198 cm / 90 kg",
+    "country": "Germany",
     "seed": "1",
     "winner": true,
     "roster": [],
@@ -61842,12 +61999,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Khachanov",
-    "country": "",
+    "name": "Karen Khachanov",
+    "country": "Russia",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 25
    },
    "winner": 1,
    "sets": [
@@ -61867,12 +62024,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Mannarino",
-    "country": "",
+    "name": "Adrian Mannarino",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 59
    },
    "p2": {
     "name": "Buse",
@@ -61905,7 +62062,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Tommy Paul",
-    "country": "USA Height / Weight: 185 cm / 82 kg",
+    "country": "USA",
     "seed": "7",
     "winner": true,
     "roster": [],
@@ -61980,12 +62137,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Arnaldi",
-    "country": "",
+    "name": "Matteo Arnaldi",
+    "country": "Italy",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 36
    },
    "winner": 1,
    "sets": [
@@ -62070,7 +62227,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Alex De Minaur",
-    "country": "Australia Height / Weight: 183 cm / 69 kg",
+    "country": "Australia",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -62139,20 +62296,20 @@
    "draw": "Qualifying",
    "round": "Quarterfinals",
    "p1": {
-    "name": "Mannarino",
-    "country": "",
+    "name": "Adrian Mannarino",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 59
    },
    "p2": {
-    "name": "Molcan",
-    "country": "",
+    "name": "Alex Molcan",
+    "country": "Slovakia",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 78
    },
    "winner": 1,
    "sets": [
@@ -62266,12 +62423,12 @@
    "draw": "Qualifying",
    "round": "Round of 16",
    "p1": {
-    "name": "Mannarino",
-    "country": "",
+    "name": "Adrian Mannarino",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 59
    },
    "p2": {
     "name": "Tirante",
@@ -62369,12 +62526,12 @@
    "draw": "Qualifying",
    "round": "Round of 16",
    "p1": {
-    "name": "Molcan",
-    "country": "",
+    "name": "Alex Molcan",
+    "country": "Slovakia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 78
    },
    "p2": {
     "name": "Medjedovic",
@@ -62410,12 +62567,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Vallejo",
-    "country": "",
+    "name": "Adolfo Daniel Vallejo",
+    "country": "Paraguay",
     "seed": "2",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 56
    },
    "winner": 1,
    "sets": [
@@ -62623,7 +62780,7 @@
    },
    "p2": {
     "name": "Vitaliy Sachko",
-    "country": "Ukraine Height / Weight: 183 cm / 68 kg",
+    "country": "Ukraine",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -62825,7 +62982,7 @@
    },
    "p2": {
     "name": "Eero Vasa",
-    "country": "Finland Height / Weight: 188 cm / 79 kg",
+    "country": "Finland",
     "seed": "",
     "winner": false,
     "roster": [
@@ -62889,7 +63046,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jerome Kym",
-    "country": "Switzerland Height / Weight: 198 cm / 87 kg",
+    "country": "Switzerland",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -63006,7 +63163,7 @@
    },
    "p2": {
     "name": "Milos Karol",
-    "country": "Slovakia Height / Weight: 198 cm / 90 kg",
+    "country": "Slovakia",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -63068,7 +63225,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Eero Vasa",
-    "country": "Finland Height / Weight: 188 cm / 79 kg",
+    "country": "Finland",
     "seed": "",
     "winner": true,
     "roster": [
@@ -63078,7 +63235,7 @@
    },
    "p2": {
     "name": "Vadym Ursu",
-    "country": "Ukraine Height / Weight: 180 cm / 71 kg",
+    "country": "Ukraine",
     "seed": "9",
     "winner": false,
     "roster": [],
@@ -63313,7 +63470,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Eero Vasa",
-    "country": "Finland Height / Weight: 188 cm / 79 kg",
+    "country": "Finland",
     "seed": "",
     "winner": true,
     "roster": [
@@ -63323,7 +63480,7 @@
    },
    "p2": {
     "name": "Andrej Martin",
-    "country": "Slovakia Height / Weight: 183 cm / 83 kg",
+    "country": "Slovakia",
     "seed": "6",
     "winner": false,
     "roster": [],
@@ -63352,7 +63509,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Vadym Ursu",
-    "country": "Ukraine Height / Weight: 180 cm / 71 kg",
+    "country": "Ukraine",
     "seed": "9",
     "winner": true,
     "roster": [],
@@ -63693,6 +63850,72 @@
   {
    "tournament": "te-charlottesville-challenger-2026",
    "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Kozlov",
+    "country": "",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": null
+   },
+   "p2": {
+    "name": "Murphy Cassone",
+    "country": "USA",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": 283
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-charlottesville-challenger-2026",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Maks Kasnikowski",
+    "country": "Poland",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 211
+   },
+   "p2": {
+    "name": "Liam Draxl",
+    "country": "Canada",
+    "seed": "8",
+    "winner": false,
+    "roster": [],
+    "rank": 168
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-charlottesville-challenger-2026",
+   "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
     "name": "James Trotter",
@@ -63733,7 +63956,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Andres Andrade",
-    "country": "Ecuador Height / Weight: 180 cm / 73 kg",
+    "country": "Ecuador",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -63817,7 +64040,7 @@
    },
    "p2": {
     "name": "Alexis Galarneau",
-    "country": "Canada Height / Weight: 180 cm / 79 kg",
+    "country": "Canada",
     "seed": "7",
     "winner": false,
     "roster": [
@@ -63844,7 +64067,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Marcos Giron",
-    "country": "USA Height / Weight: 180 cm / 77 kg",
+    "country": "USA",
     "seed": "1",
     "winner": true,
     "roster": [],
@@ -63922,7 +64145,7 @@
    },
    "p2": {
     "name": "Andrew Fenty",
-    "country": "USA Height / Weight: 194 cm / 93 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -63980,7 +64203,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Justin Boulais",
-    "country": "Canada Height / Weight: 183 cm / 77 kg",
+    "country": "Canada",
     "seed": "",
     "winner": true,
     "roster": [
@@ -63990,7 +64213,7 @@
    },
    "p2": {
     "name": "Jeffrey John Wolf",
-    "country": "USA Height / Weight: 183 cm / 79 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -64015,7 +64238,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Alastair Gray",
-    "country": "Great Britain Height / Weight: 188 cm / 73 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [
@@ -64025,7 +64248,7 @@
    },
    "p2": {
     "name": "Valentin Royer",
-    "country": "France Height / Weight: 188 cm / 83 kg",
+    "country": "France",
     "seed": "4",
     "winner": false,
     "roster": [],
@@ -64058,7 +64281,7 @@
    },
    "p2": {
     "name": "Andres Martin",
-    "country": "USA Height / Weight: 183 cm / 77 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -64083,7 +64306,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Michael Antonius",
-    "country": "",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -64236,7 +64459,7 @@
     "rank": 285
    },
    "p2": {
-    "name": "Kenta (2004) Miyoshi",
+    "name": "Kenta Miyoshi",
     "country": "Japan",
     "seed": "8",
     "winner": false,
@@ -64264,7 +64487,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Andres Martin",
-    "country": "USA Height / Weight: 183 cm / 77 kg",
+    "country": "USA",
     "seed": "6",
     "winner": true,
     "roster": [],
@@ -64299,7 +64522,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Justin Boulais",
-    "country": "Canada Height / Weight: 183 cm / 77 kg",
+    "country": "Canada",
     "seed": "9",
     "winner": true,
     "roster": [
@@ -64334,7 +64557,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Andrew Fenty",
-    "country": "USA Height / Weight: 194 cm / 93 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -64342,7 +64565,7 @@
    },
    "p2": {
     "name": "Mitchell Krueger",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "5",
     "winner": false,
     "roster": [],
@@ -64444,7 +64667,7 @@
    "draw": "Qualifying",
    "round": "1st Round",
    "p1": {
-    "name": "Kenta (2004) Miyoshi",
+    "name": "Kenta Miyoshi",
     "country": "Japan",
     "seed": "8",
     "winner": true,
@@ -64455,7 +64678,7 @@
    },
    "p2": {
     "name": "Dominick Mosejczuk",
-    "country": "",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [
@@ -64486,7 +64709,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Andres Martin",
-    "country": "USA Height / Weight: 183 cm / 77 kg",
+    "country": "USA",
     "seed": "6",
     "winner": true,
     "roster": [],
@@ -64560,7 +64783,7 @@
    },
    "p2": {
     "name": "Emile Hudd",
-    "country": "Great Britain Height: 204 cm",
+    "country": "Great Britain",
     "seed": "12",
     "winner": false,
     "roster": [],
@@ -64589,7 +64812,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Andrew Fenty",
-    "country": "USA Height / Weight: 194 cm / 93 kg",
+    "country": "USA",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -64597,7 +64820,7 @@
    },
    "p2": {
     "name": "Karl Poling",
-    "country": "USA Height / Weight: 185 cm / 76 kg",
+    "country": "USA",
     "seed": "11",
     "winner": false,
     "roster": [],
@@ -64626,7 +64849,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Mitchell Krueger",
-    "country": "USA Height / Weight: 188 cm / 82 kg",
+    "country": "USA",
     "seed": "5",
     "winner": true,
     "roster": [],
@@ -64828,7 +65051,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Justin Boulais",
-    "country": "Canada Height / Weight: 183 cm / 77 kg",
+    "country": "Canada",
     "seed": "9",
     "winner": true,
     "roster": [
@@ -64838,7 +65061,7 @@
    },
    "p2": {
     "name": "Joshua Sheehy",
-    "country": "USA Height / Weight: 188 cm / 80 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -64877,7 +65100,7 @@
    },
    "p2": {
     "name": "Felipe Meligeni Rodrigues Alves",
-    "country": "Brazil Height / Weight: 185 cm / 78 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -64947,7 +65170,7 @@
    },
    "p2": {
     "name": "Nikolas Sanchez Izquierdo",
-    "country": "Spain Height / Weight: 185 cm / 77 kg",
+    "country": "Spain",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -65009,7 +65232,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Igor Marcondes",
-    "country": "Brazil Height / Weight: 185 cm / 75 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -65017,7 +65240,7 @@
    },
    "p2": {
     "name": "Luis Felipe Miguel",
-    "country": "",
+    "country": "Brazil",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -65075,7 +65298,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Joao Lucas Reis Da Silva",
-    "country": "Brazil Height / Weight: 175 cm / 75 kg",
+    "country": "Brazil",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -65314,7 +65537,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Elmer Moller",
-    "country": "Denmark Height / Weight: 183 cm / 73 kg",
+    "country": "Denmark",
     "seed": "8",
     "winner": true,
     "roster": [],
@@ -65479,7 +65702,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Luis Felipe Miguel",
-    "country": "",
+    "country": "Brazil",
     "seed": "12",
     "winner": true,
     "roster": [],
@@ -65615,7 +65838,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Luis Felipe Miguel",
-    "country": "",
+    "country": "Brazil",
     "seed": "12",
     "winner": true,
     "roster": [],
@@ -65751,7 +65974,7 @@
    },
    "p2": {
     "name": "Jose Pereira",
-    "country": "Brazil Height / Weight: 180 cm / 74 kg",
+    "country": "Brazil",
     "seed": "10",
     "winner": false,
     "roster": [],
@@ -65844,7 +66067,7 @@
    "round": "2nd Round",
    "p1": {
     "name": "Nuno Borges",
-    "country": "Portugal Height / Weight: 185 cm / 75 kg",
+    "country": "Portugal",
     "seed": "",
     "winner": true,
     "roster": [
@@ -65854,7 +66077,7 @@
    },
    "p2": {
     "name": "Karen Khachanov",
-    "country": "Russia Height / Weight: 198 cm / 87 kg",
+    "country": "Russia",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -65869,6 +66092,43 @@
     [
      "6",
      "4"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-paris-2026",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Fritz",
+    "country": "",
+    "seed": "11",
+    "winner": true,
+    "roster": [],
+    "rank": null
+   },
+   "p2": {
+    "name": "Alex Molcan",
+    "country": "Slovakia",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": 78
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6(6)",
+     "7"
+    ],
+    [
+     "7",
+     "5"
+    ],
+    [
+     "7",
+     "6(5)"
     ]
    ],
    "live": false
@@ -65924,7 +66184,7 @@
    },
    "p2": {
     "name": "Daniil Medvedev",
-    "country": "Russia Height / Weight: 198 cm / 83 kg",
+    "country": "Russia",
     "seed": "4",
     "winner": false,
     "roster": [],
@@ -65957,7 +66217,7 @@
    },
    "p2": {
     "name": "Alex De Minaur",
-    "country": "Australia Height / Weight: 183 cm / 69 kg",
+    "country": "Australia",
     "seed": "8",
     "winner": false,
     "roster": [],
@@ -65982,7 +66242,7 @@
    "round": "2nd Round",
    "p1": {
     "name": "Lorenzo Musetti",
-    "country": "Italy Height / Weight: 185 cm / 75 kg",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -65990,7 +66250,7 @@
    },
    "p2": {
     "name": "Alexander Zverev",
-    "country": "Germany Height / Weight: 198 cm / 90 kg",
+    "country": "Germany",
     "seed": "1",
     "winner": false,
     "roster": [],
@@ -66015,7 +66275,7 @@
    "round": "2nd Round",
    "p1": {
     "name": "Tommy Paul",
-    "country": "USA Height / Weight: 185 cm / 82 kg",
+    "country": "USA",
     "seed": "12",
     "winner": true,
     "roster": [],
@@ -66082,12 +66342,12 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "Halys",
-    "country": "",
+    "name": "Quentin Halys",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 46
    },
    "p2": {
     "name": "Tiafoe",
@@ -66153,7 +66413,7 @@
    "round": "2nd Round",
    "p1": {
     "name": "Casper Ruud",
-    "country": "Norway Height / Weight: 183 cm / 77 kg",
+    "country": "Norway",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -66196,7 +66456,7 @@
    },
    "p2": {
     "name": "Cameron Norrie",
-    "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": false,
     "roster": [
@@ -66223,7 +66483,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jan-Lennard Struff",
-    "country": "Germany Height / Weight: 193 cm / 92 kg",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -66264,7 +66524,7 @@
    },
    "p2": {
     "name": "Benjamin Bonzi",
-    "country": "France Height / Weight: 185 cm / 76 kg",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -66330,7 +66590,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Tommy Paul",
-    "country": "USA Height / Weight: 185 cm / 82 kg",
+    "country": "USA",
     "seed": "12",
     "winner": true,
     "roster": [],
@@ -66408,7 +66668,7 @@
    },
    "p2": {
     "name": "Brandon Nakashima",
-    "country": "USA Height / Weight: 185 cm / 77 kg",
+    "country": "USA",
     "seed": "14",
     "winner": false,
     "roster": [],
@@ -66437,7 +66697,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Nuno Borges",
-    "country": "Portugal Height / Weight: 185 cm / 75 kg",
+    "country": "Portugal",
     "seed": "",
     "winner": true,
     "roster": [
@@ -66556,7 +66816,7 @@
    },
    "p2": {
     "name": "Francisco Cerundolo",
-    "country": "Argentina Height / Weight: 185 cm / 78 kg",
+    "country": "Argentina",
     "seed": "16",
     "winner": false,
     "roster": [],
@@ -66585,7 +66845,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Quentin Halys",
-    "country": "France Height / Weight: 191 cm / 78 kg",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -66657,7 +66917,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Karen Khachanov",
-    "country": "Russia Height / Weight: 198 cm / 87 kg",
+    "country": "Russia",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -66693,12 +66953,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Molcan",
-    "country": "",
+    "name": "Alex Molcan",
+    "country": "Slovakia",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 78
    },
    "p2": {
     "name": "Droguet",
@@ -66797,7 +67057,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Casper Ruud",
-    "country": "Norway Height / Weight: 183 cm / 77 kg",
+    "country": "Norway",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -66830,7 +67090,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Cameron Norrie",
-    "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [
@@ -66877,7 +67137,7 @@
    },
    "p2": {
     "name": "Sebastian Baez",
-    "country": "Argentina Height / Weight: 170 cm / 70 kg",
+    "country": "Argentina",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -66968,7 +67228,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Lorenzo Musetti",
-    "country": "Italy Height / Weight: 185 cm / 75 kg",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -67067,7 +67327,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Alex Molcan",
-    "country": "Slovakia Height / Weight: 178 cm / 73 kg",
+    "country": "Slovakia",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -67075,7 +67335,7 @@
    },
    "p2": {
     "name": "Nuno Borges",
-    "country": "Portugal Height / Weight: 185 cm / 75 kg",
+    "country": "Portugal",
     "seed": "4",
     "winner": false,
     "roster": [
@@ -67139,7 +67399,7 @@
    "round": "Round of 16",
    "p1": {
     "name": "Benjamin Bonzi",
-    "country": "France Height / Weight: 185 cm / 76 kg",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -67184,7 +67444,7 @@
    },
    "p2": {
     "name": "Sebastian Baez",
-    "country": "Argentina Height / Weight: 170 cm / 70 kg",
+    "country": "Argentina",
     "seed": "1",
     "winner": false,
     "roster": [],
@@ -67349,7 +67609,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Alex Molcan",
-    "country": "Slovakia Height / Weight: 178 cm / 73 kg",
+    "country": "Slovakia",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -67357,7 +67617,7 @@
    },
    "p2": {
     "name": "Daniel Altmaier",
-    "country": "Germany Height / Weight: 191 cm / 88 kg",
+    "country": "Germany",
     "seed": "10",
     "winner": false,
     "roster": [],
@@ -67382,7 +67642,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Nuno Borges",
-    "country": "Portugal Height / Weight: 185 cm / 75 kg",
+    "country": "Portugal",
     "seed": "4",
     "winner": true,
     "roster": [
@@ -67392,7 +67652,7 @@
    },
    "p2": {
     "name": "Adrian Mannarino",
-    "country": "France Height / Weight: 180 cm / 79 kg",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -67458,7 +67718,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Sebastian Baez",
-    "country": "Argentina Height / Weight: 170 cm / 70 kg",
+    "country": "Argentina",
     "seed": "1",
     "winner": true,
     "roster": [],
@@ -67524,7 +67784,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Benjamin Bonzi",
-    "country": "France Height / Weight: 185 cm / 76 kg",
+    "country": "France",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -67569,7 +67829,7 @@
    },
    "p2": {
     "name": "Aleksandar Kovacevic",
-    "country": "USA Height / Weight: 183 cm / 76 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -67705,7 +67965,7 @@
    },
    "p2": {
     "name": "Zachary Svajda",
-    "country": "",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -67843,7 +68103,7 @@
    },
    "p2": {
     "name": "Billy Harris",
-    "country": "Great Britain Height / Weight: 191 cm / 86 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -67934,7 +68194,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Charles Broom",
-    "country": "Great Britain Height / Weight: 178 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -68033,7 +68293,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Sho Shimabukuro",
-    "country": "Japan Height / Weight: 183 cm / 75 kg",
+    "country": "Japan",
     "seed": "2",
     "winner": true,
     "roster": [],
@@ -68107,7 +68367,7 @@
    },
    "p2": {
     "name": "Lloyd Harris",
-    "country": "RSA Height / Weight: 193 cm / 80 kg",
+    "country": "RSA",
     "seed": "3",
     "winner": false,
     "roster": [],
@@ -68164,12 +68424,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Imamura",
-    "country": "",
+    "name": "Masamichi Imamura",
+    "country": "Japan",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 437
    },
    "p2": {
     "name": "Leong",
@@ -68268,7 +68528,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Billy Harris",
-    "country": "Great Britain Height / Weight: 191 cm / 86 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -68276,7 +68536,7 @@
    },
    "p2": {
     "name": "Kuan-Shou Chen",
-    "country": "",
+    "country": "Chinese Taipei",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -68309,7 +68569,7 @@
    },
    "p2": {
     "name": "Keegan Smith",
-    "country": "USA Height / Weight: 198 cm / 93 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -68415,12 +68675,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Uchida",
-    "country": "",
+    "name": "Kaichi Uchida",
+    "country": "Japan",
     "seed": "11",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 401
    },
    "winner": 1,
    "sets": [
@@ -68530,12 +68790,12 @@
    "draw": "Qualifying",
    "round": "Round of 16",
    "p1": {
-    "name": "Imamura",
-    "country": "",
+    "name": "Masamichi Imamura",
+    "country": "Japan",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null
+    "rank": 437
    },
    "p2": {
     "name": "Erel",
@@ -68638,7 +68898,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Kaichi Uchida",
-    "country": "Japan Height / Weight: 180 cm / 74 kg",
+    "country": "Japan",
     "seed": "11",
     "winner": true,
     "roster": [],
@@ -68646,7 +68906,7 @@
    },
    "p2": {
     "name": "Alafia Ayeni",
-    "country": "USA Height / Weight: 191 cm / 82 kg",
+    "country": "USA",
     "seed": "",
     "winner": false,
     "roster": [
@@ -68747,7 +69007,7 @@
    },
    "p2": {
     "name": "Tin Chen",
-    "country": "Chinese Taipei Height: 178 cm",
+    "country": "Chinese Taipei",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -68941,7 +69201,7 @@
    },
    "p2": {
     "name": "Yan Cheng Chen",
-    "country": "",
+    "country": "Chinese Taipei",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -69176,7 +69436,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Genaro Alberto Olivieri",
-    "country": "Argentina Height / Weight: 175 cm / 73 kg",
+    "country": "Argentina",
     "seed": "2",
     "winner": true,
     "roster": [],
@@ -69283,7 +69543,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Hernan Casanova",
-    "country": "Argentina Height / Weight: 178 cm / 76 kg",
+    "country": "Argentina",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -69427,7 +69687,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Ryan Nijboer",
-    "country": "Netherlands Height / Weight: 180 cm / 77 kg",
+    "country": "Netherlands",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -69534,7 +69794,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Nicolas Kicker",
-    "country": "Argentina Height / Weight: 178 cm / 75 kg",
+    "country": "Argentina",
     "seed": "8",
     "winner": true,
     "roster": [],
@@ -69983,7 +70243,7 @@
    },
    "p2": {
     "name": "Arklon Huertas Del Pino",
-    "country": "Peru Weight: 87 kg",
+    "country": "Peru",
     "seed": "1",
     "winner": false,
     "roster": [],
@@ -70643,7 +70903,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Jay Clarke",
-    "country": "Great Britain Height / Weight: 188 cm / 82 kg",
+    "country": "Great Britain",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -70686,7 +70946,7 @@
    },
    "p2": {
     "name": "Calvin Hemery",
-    "country": "France Height / Weight: 191 cm / 83 kg",
+    "country": "France",
     "seed": "",
     "winner": false,
     "roster": [],
@@ -70755,12 +71015,12 @@
     "rank": null
    },
    "p2": {
-    "name": "Sciahbasi",
-    "country": "",
+    "name": "Matteo Sciahbasi",
+    "country": "Italy",
     "seed": "",
     "winner": false,
     "roster": [],
-    "rank": null
+    "rank": 873
    },
    "winner": 1,
    "sets": [
@@ -70997,7 +71257,7 @@
    "round": "1st Round",
    "p1": {
     "name": "Matteo Sciahbasi",
-    "country": "",
+    "country": "Italy",
     "seed": "",
     "winner": true,
     "roster": [],
@@ -71005,7 +71265,7 @@
    },
    "p2": {
     "name": "Arvid Nordquist",
-    "country": "Sweden Height / Weight: 185 cm / 84 kg",
+    "country": "Sweden",
     "seed": "10",
     "winner": false,
     "roster": [
