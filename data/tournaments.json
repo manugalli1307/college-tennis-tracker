@@ -1,5 +1,27 @@
 [
  {
+  "id": "atp-9410-2026",
+  "name": "Almaty ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "Kazakhstan",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.atptour.com/en/tournaments/almaty/9410/overview"
+ },
+ {
+  "id": "atp-7485-2026",
+  "name": "Brussels ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "Belgium",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.atptour.com/en/tournaments/brussels/7485/overview"
+ },
+ {
   "id": "atp-9814-2026",
   "name": "Cali Challenger",
   "category": "Challenger",
@@ -53,6 +75,17 @@
   "end": "2026-10-25",
   "status": "past",
   "url": "https://www.atptour.com/en/tournaments/lisbon/7742/overview"
+ },
+ {
+  "id": "atp-496-2026",
+  "name": "Lyon ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "France",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.atptour.com/en/tournaments/lyon/496/overview"
  },
  {
   "id": "m-itf-cro-2026-009",
@@ -218,6 +251,17 @@
   "end": "2026-10-25",
   "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m25-tamworth/aus/2026/m-itf-aus-2026-011/"
+ },
+ {
+  "id": "atp-328-2026",
+  "name": "Basel ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "Switzerland",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.atptour.com/en/tournaments/basel/328/overview"
  },
  {
   "id": "atp-7341-2026",
@@ -440,6 +484,17 @@
   "url": "https://www.atptour.com/en/tournaments/sioux-falls/2951/overview"
  },
  {
+  "id": "atp-337-2026",
+  "name": "Vienna ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "Austria",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.atptour.com/en/tournaments/vienna/337/overview"
+ },
+ {
   "id": "atp-444-2026",
   "name": "Bratislava Challenger",
   "category": "Challenger 100",
@@ -627,6 +682,17 @@
   "url": "https://www.itftennis.com/en/tournament/m25-valencia/esp/2026/m-itf-esp-2026-050/"
  },
  {
+  "id": "atp-352-2026",
+  "name": "Paris ATP",
+  "category": "ATP Masters 1000",
+  "tour": "ATP Tour",
+  "country": "France",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "status": "current",
+  "url": "https://www.atptour.com/en/tournaments/paris/352/overview"
+ },
+ {
   "id": "atp-2278-2026",
   "name": "Taipei Challenger",
   "category": "Challenger 100",
@@ -658,6 +724,17 @@
   "end": "2026-11-08",
   "status": "current",
   "url": "https://www.atptour.com/en/tournaments/villa-maria/2811/overview"
+ },
+ {
+  "id": "atp-429-2026",
+  "name": "Stockholm ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "Sweden",
+  "start": "2026-11-08",
+  "end": "2026-11-14",
+  "status": "upcoming",
+  "url": "https://www.atptour.com/en/tournaments/stockholm/429/overview"
  },
  {
   "id": "atp-3037-2026",
@@ -911,6 +988,17 @@
   "end": "2026-11-15",
   "status": "upcoming",
   "url": "https://www.atptour.com/en/tournaments/orleans/2273/overview"
+ },
+ {
+  "id": "atp-605-2026",
+  "name": "Nitto ATP Finals ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-11-15",
+  "end": "2026-11-22",
+  "status": "upcoming",
+  "url": "https://www.atptour.com/en/tournaments/nitto-atp-finals/605/overview"
  },
  {
   "id": "atp-637-2026",
@@ -1175,6 +1263,17 @@
   "end": "2026-11-29",
   "status": "upcoming",
   "url": "https://www.atptour.com/en/tournaments/ankara/3205/overview"
+ },
+ {
+  "id": "atp-8099-2026",
+  "name": "Davis Cup Finals ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.atptour.com/en/tournaments/davis-cup-finals/8099/overview"
  },
  {
   "id": "atp-9651-2026",

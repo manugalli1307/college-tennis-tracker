@@ -2536,11 +2536,13 @@
    ]
   },
   "p2": {
-   "name": "Alexander Kotzen",
+   "name": "James Weber",
    "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "university-of-georgia-james-weber"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -2567,7 +2569,7 @@
    "name": "Ryan Cozad",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -2579,19 +2581,15 @@
     "auburn-duje-markovina"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "1"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "7",
+    "6(2)"
    ]
   ],
   "live": false
@@ -2613,24 +2611,20 @@
    "name": "Dragos Cazacu",
    "country": "ROU",
    "seed": "3",
-   "winner": false,
+   "winner": true,
    "roster": [
     "university-of-oklahoma-dragos-cazacu"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "1",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "4",
+    "6"
    ]
   ],
   "live": false
@@ -2654,6 +2648,43 @@
    "seed": "",
    "winner": false,
    "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Dragos Cazacu",
+   "country": "ROU",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "university-of-oklahoma-dragos-cazacu"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -2923,7 +2954,7 @@
    "name": "Tiago Pires",
    "country": "FRA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "texas-a-m-university-tiago-pires",
     "clemson-tiago-pires"
@@ -2936,19 +2967,19 @@
    "winner": false,
    "roster": []
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "3"
    ],
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -2970,22 +3001,18 @@
    "name": "Mikael Arseneault",
    "country": "CAN",
    "seed": "7",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "6(4)",
+    "7"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "1",
+    "6"
    ]
   ],
   "live": false
@@ -3075,24 +3102,20 @@
    "name": "Viktor Markov",
    "country": "BUL",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "clemson-viktor-markov"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6(9)",
+    "7"
    ]
   ],
   "live": false
@@ -3111,11 +3134,14 @@
    ]
   },
   "p2": {
-   "name": "",
-   "country": "",
+   "name": "Tiago Pires",
+   "country": "FRA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "texas-a-m-university-tiago-pires",
+    "clemson-tiago-pires"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -3153,6 +3179,43 @@
    "roster": [
     "clemson-romain-gales"
    ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Viktor Markov",
+   "country": "BUL",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "clemson-viktor-markov"
+   ]
+  },
+  "p2": {
+   "name": "Daniel De Jonge",
+   "country": "NED",
+   "seed": "2",
+   "winner": false,
+   "roster": []
   },
   "winner": 0,
   "sets": [
@@ -3262,22 +3325,18 @@
    "name": "Bor Artnak",
    "country": "SLO",
    "seed": "6",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "0",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "3",
+    "6"
    ]
   ],
   "live": false
@@ -3297,24 +3356,24 @@
    "name": "Bryce Nakashima Nakashima",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "ohio-state-bryce-nakashima"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "3",
+    "6"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(6)"
    ],
    [
-    "",
-    ""
+    "4",
+    "6"
    ]
   ],
   "live": false
@@ -3448,6 +3507,43 @@
   "p2": {
    "name": "Rishvanth Krishna",
    "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Bryce Nakashima Nakashima",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "ohio-state-bryce-nakashima"
+   ]
+  },
+  "p2": {
+   "name": "",
+   "country": "",
    "seed": "",
    "winner": false,
    "roster": []
