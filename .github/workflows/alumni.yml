@@ -1,0 +1,31 @@
+name: Build alumni list
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  alumni:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Read the roster pages
+        run: python scraper/alumni.py | tee alumni_summary.txt
+      - name: Save the result
+        run: |
+          git config user.name "tennis-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          mkdir -p probes && mv alumni_summary.txt probes/alumni_summary.txt
+          git add data/alumni.csv data/alumni_log.json probes
+          git commit -m "Alumni list $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to save"
+          git pull --rebase -X theirs origin main
+          git push origin HEAD:main
