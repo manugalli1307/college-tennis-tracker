@@ -381,6 +381,8 @@ def main():
     cutoff = (today - timedelta(days=args.back_days)).isoformat()
     tournaments = dict(new_t)
     for tid, rec in old_t.items():
+        if rec.get("tour", "ITF") != "ITF" and tid not in tournaments:
+            continue  # ATP events only stay if they were read successfully this run
         if tid not in tournaments and rec["end"] >= cutoff and not args.only:
             # Recompute status from dates so old records age correctly
             st = itf.classify(date.fromisoformat(rec["start"]), date.fromisoformat(rec["end"]), today, 999, 999)

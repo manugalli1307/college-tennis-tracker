@@ -249,4 +249,6 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                     read_ok[tid] = True
         except Exception as e:
             print(f"    [!] problem: {str(e)[:150]}")
+    # Only keep events we actually read; empty shells would wrongly look like "no college players here".
+    records = {k: v for k, v in records.items() if k in read_ok}
     return records, read_ok, entries_by_t, matches_by_t
