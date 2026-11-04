@@ -74,13 +74,52 @@ def load_players(path: Path):
     return players
 
 
-def roster_ids_for(name: str, prepared, id_by_key):
-    """Roster ids matching a name from a draw or entry list ([] if none)."""
+ALUMNI_IDS = set()
+
+
+def roster_ids_for(name: str, prepared, id_by_key, strict: bool = False):
+    """Ids (current players and alumni) matching a name from a draw or entry list.
+    Alumni only count on a full-name match, since there are many more of them."""
     out = []
-    for rp, kind in itf.find_players(name, prepared):
+    for rp, kind in itf.find_players(name, prepared, strict):
         pid = id_by_key.get((rp.school, rp.player))
-        if pid and pid not in out:
-            out.append((pid, kind))
+        if not pid or any(o[0] == pid for o in out):
+            continue
+        if pid in ALUMNI_IDS and kind != "full name":
+            continue
+        out.append((pid, kind))
+    return out
+
+
+def load_alumni(path: Path, current_names):
+    """Former players from data/alumni.csv, minus anyone on a current roster
+    (transfers) and with each person listed once (latest school)."""
+    if not path.exists():
+        return []
+    best = {}
+    with open(path, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            name = (row.get("Player") or "").strip()
+            school = (row.get("School") or "").strip()
+            k = re.sub(r"[^a-z ]", "", tt.strip_accents(name).lower()).strip()
+            if not name or len(k.split()) < 2 or k in current_names:
+                continue
+            if k not in best or (row.get("Last season") or "") > (best[k].get("Last season") or ""):
+                best[k] = row
+    out = []
+    for row in best.values():
+        name, school = row["Player"].strip(), row["School"].strip()
+        out.append({
+            "id": slug(f"alumni {school} {name}"),
+            "name": name,
+            "school": school,
+            "team_rank": "",
+            "class": (row.get("Last class") or "").strip(),
+            "hometown": (row.get("Hometown") or "").strip(),
+            "alumni": True,
+            "grad": (row.get("Graduation year") or "").strip(),
+            "last_season": (row.get("Last season") or "").strip(),
+        })
     return out
 
 
@@ -196,7 +235,7 @@ def collect_matches(page, t, tid, prepared, id_by_key, debug):
                         "country": p["country"],
                         "seed": p["seed"].strip("[]"),
                         "winner": bool(p["winner"]),
-                        "roster": [pid for pid, kind in roster_ids_for(full, prepared, id_by_key)],
+                        "roster": [pid for pid, kind in roster_ids_for(full, prepared, id_by_key, strict=True)],
                     })
                 if not any(s and (s["name"] or s["roster"]) for s in sides):
                     continue  # empty slot in a later round
@@ -273,7 +312,12 @@ def main():
 
     today = date.today()
     players = load_players(Path(args.roster))
-    roster = tt.load_roster(args.roster)
+    current_names = {re.sub(r"[^a-z ]", "", tt.strip_accents(p["name"]).lower()).strip() for p in players}
+    alumni = load_alumni(DATA_DIR / "alumni.csv", current_names)
+    ALUMNI_IDS.update(a["id"] for a in alumni)
+    players = players + alumni
+    print(f"{len(alumni)} alumni loaded.")
+    roster = tt.load_roster(args.roster) + [tt.RosterPlayer(rank="", school=a["school"], player=a["name"]) for a in alumni]
     prepared = itf.prepare_roster(roster)
     id_by_key = {(p["school"], p["name"]): p["id"] for p in players}
     print(f"{len(players)} roster players. Today {today}; {args.back_days} days back, {args.ahead_days} ahead.\n")
@@ -436,7 +480,7 @@ def main():
     save_json("meta.json", {
         "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "window": {"back_days": args.back_days, "ahead_days": args.ahead_days},
-        "counts": {"players": len(players), "tournaments": len(tlist), "entries": len(entries), "matches": len(matches)},
+        "counts": {"players": len(players) - len(alumni), "alumni": len(alumni), "tournaments": len(tlist), "entries": len(entries), "matches": len(matches)},
     })
     print(f"\nSaved to {DATA_DIR}: {len(tlist)} tournaments, {len(entries)} entries, {len(matches)} matches.")
 

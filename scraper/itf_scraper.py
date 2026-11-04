@@ -174,14 +174,17 @@ def _match_kind(words: list[str], toks: list[str]):
     return None
 
 
-def find_players(text: str, prepared):
+def find_players(text: str, prepared, strict: bool = False):
+    """strict=True is for names we know are complete ('Diego Dedura-Palomero'):
+    only a full-name match counts, so a different person with the same surname
+    ('Mariano Dedura-Palomero') is never picked."""
     words = norm_words(text)
     if not words:
         return []
     hits = []
     for rp, toks in prepared:
         kind = _match_kind(words, toks)
-        if kind:
+        if kind and (not strict or kind == "full name"):
             hits.append((rp, kind))
     return hits
 

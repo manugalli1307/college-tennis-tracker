@@ -209,3 +209,13 @@ details.section > summary + * { margin-top: 12px; }
 .dm__s { font-size: 12px; font-weight: 700; color: var(--court); }
 .dm__sc { display: inline-flex; gap: 6px; font-variant-numeric: tabular-nums; font-weight: 700; }
 .dm__sc sup { font-size: 10px; }
+
+/* ---------- alumni ---------- */
+.tag--alum { background: var(--court); color: #fff; font-size: 11px; vertical-align: 2px; }
+.row--label { list-style: none; padding: 14px 0 4px; font-weight: 800; font-size: 13px; color: var(--court); letter-spacing: 0.04em; text-transform: uppercase; border-bottom: 1px solid var(--line); grid-template-columns: 1fr; }
+.dm__p--alum { background: rgba(30, 79, 122, 0.14); box-shadow: inset 4px 0 0 var(--court); color: var(--ink); }
+.dm__p--alum a { font-weight: 800; }
+.key { display: inline-block; width: 12px; height: 12px; border-radius: 2px; margin: 0 4px 0 12px; vertical-align: -1px; }
+.key:first-child { margin-left: 0; }
+.key--cur { background: var(--ball); }
+.key--alum { background: var(--court); }

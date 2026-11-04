@@ -80,10 +80,19 @@
   // ---------- data ----------
   function index() {
     DATA.draws = DATA.draws || {}; DATA.ranks = DATA.ranks || {};
+    DATA.allPlayers = DATA.players.slice();
+    DATA.players = DATA.allPlayers.filter(function (p) { return !p.alumni; });
+    DATA.alumniAll = DATA.allPlayers.filter(function (p) { return p.alumni; });
+    DATA.alumniTeams = {};
+    DATA.alumniAll.forEach(function (p) {
+      var k = slug(p.school);
+      var t = DATA.alumniTeams[k] || (DATA.alumniTeams[k] = { slug: k, school: p.school, players: [] });
+      t.players.push(p);
+    });
     DATA.playerById = {}; DATA.tById = {}; DATA.teams = {};
+    DATA.allPlayers.forEach(function (p) { DATA.playerById[p.id] = p; });
     DATA.entriesByT = {}; DATA.entriesByP = {}; DATA.matchesByT = {}; DATA.matchesByP = {};
     DATA.players.forEach(function (p) {
-      DATA.playerById[p.id] = p;
       var key = slug(p.school);
       var t = DATA.teams[key] || (DATA.teams[key] = { slug: key, school: p.school, rank: 999, players: [] });
       var r = parseInt(p.team_rank, 10);
@@ -125,8 +134,18 @@
       return "<span>" + setCell(a) + "–" + setCell(b) + "</span>";
     }).join("") + "</span>";
   }
+  function rkBadge(id, rank) {
+    var r = rank || (DATA.ranks[id] && DATA.ranks[id].rank);
+    return r ? ' <span class="rk" title="Current ATP singles ranking">ATP #' + esc(r) + "</span>" : "";
+  }
+  function alumTag(p) { return p && p.alumni ? ' <span class="tag tag--alum">Alumni</span>' : ""; }
+  function alumLabel(p) { return p.grad ? "Class of " + p.grad : p.last_season ? "Last season " + p.last_season : "Alumni"; }
+  function schoolLink(p) {
+    return p.alumni ? '<a href="#/alumni/' + esc(slug(p.school)) + '">' + esc(p.school) + " alumni</a>"
+      : '<a href="#/team/' + esc(slug(p.school)) + '">' + esc(p.school) + "</a>";
+  }
   function playerLink(p) {
-    return '<a href="#/player/' + esc(p.id) + '">' + esc(p.name) + "</a>";
+    return '<a href="#/player/' + esc(p.id) + '">' + esc(p.name) + "</a>" + rkBadge(p.id) + alumTag(p);
   }
   function tournamentLink(t) {
     return '<a href="#/tournament/' + esc(t.id) + '">' + esc(t.name) + "</a>";
@@ -135,7 +154,7 @@
     if (!o) return "<span class=\"muted\">Bye</span>";
     var name = esc(o.name || "TBD");
     if (o.roster && o.roster.length && DATA.playerById[o.roster[0]]) {
-      name = '<a href="#/player/' + esc(o.roster[0]) + '">' + name + "</a>";
+      name = '<a href="#/player/' + esc(o.roster[0]) + '">' + name + "</a>" + alumTag(DATA.playerById[o.roster[0]]);
     }
     var extra = [o.country, o.seed ? "seed " + o.seed : ""].filter(Boolean).join(", ");
     return name + (extra ? ' <span class="muted">(' + esc(extra) + ")</span>" : "") +
@@ -145,7 +164,7 @@
   // One row for a player in an event; match may be null (just entered)
   function playerRow(p, ent, hit, showEvent, t) {
     var who = '<div class="row__who">' + playerLink(p) +
-      '<div class="row__sub"><a href="#/team/' + esc(slug(p.school)) + '">' + esc(p.school) + "</a></div></div>";
+      '<div class="row__sub">' + schoolLink(p) + (p.alumni ? " · " + esc(alumLabel(p)) : "") + "</div></div>";
     var mid, right = "";
     if (hit) {
       var m = hit.m, me = hit.side === 1 ? m.p1 : m.p2, opp = hit.side === 1 ? m.p2 : m.p1;
@@ -178,20 +197,24 @@
   }
 
   // players = optional Set of ids to limit to; all = show every match not just the latest
-  function eventBlock(t, only, all, noHead) {
+  function eventBlock(t, only, all, noHead, mode) {
+    mode = mode || "current";
     var ids = [];
     (DATA.entriesByT[t.id] || []).forEach(function (e) { if (ids.indexOf(e.player) < 0) ids.push(e.player); });
     (DATA.matchesByT[t.id] || []).forEach(function (m) {
       ["p1", "p2"].forEach(function (k) { if (m[k]) m[k].roster.forEach(function (pid) { if (ids.indexOf(pid) < 0) ids.push(pid); }); });
     });
-    ids = ids.filter(function (id) { return DATA.playerById[id] && (!only || only[id]); });
+    ids = ids.filter(function (id) {
+      var pl = DATA.playerById[id];
+      return pl && (!only || only[id]) && (mode === "both" || (mode === "alumni") === !!pl.alumni);
+    });
     if (!ids.length) return "";
     ids.sort(function (a, b) {
       var A = DATA.playerById[a], B = DATA.playerById[b];
       return (parseInt(A.team_rank, 10) || 99) - (parseInt(B.team_rank, 10) || 99) || A.name.localeCompare(B.name);
     });
     var seen = [];
-    var rows = ids.map(function (pid) {
+    function rowFor(pid) {
       var p = DATA.playerById[pid], ent = entryFor(t.id, pid), hits = hitsFor(t.id, pid);
       if (!hits.length) return playerRow(p, ent, null, false, t);
       if (all) return hits.map(function (h) {
@@ -201,7 +224,9 @@
       }).join("");
       var live = hits.filter(function (h) { return h.m.live; })[0];
       return playerRow(p, ent, live || hits[hits.length - 1], false, t);
-    }).join("");
+    }
+    var cur = ids.filter(function (id) { return !DATA.playerById[id].alumni; }), alu = ids.filter(function (id) { return DATA.playerById[id].alumni; });
+    var rows = cur.map(rowFor).join("") + (alu.length ? (cur.length ? '<li class="row row--label">Alumni</li>' : "") + alu.map(rowFor).join("") : "");
     if (noHead) return '<section class="event"><ul class="rows">' + rows + "</ul></section>";
     return '<section class="event"><div class="event__head"><h3>' + tournamentLink(t) + "</h3>" + statusTag(t) +
       '<div class="event__meta"><span>' + esc(fmtRange(t.start, t.end)) + "</span><span>" + esc(t.category) + "</span>" +
@@ -272,7 +297,8 @@
     app.innerHTML = '<p class="crumbs"><a href="#/teams">Teams</a></p><h1>' + esc(team.school) + "</h1>" + followButton("t", team.slug) +
       (team.rank < 999 ? '<div class="facts"><span>Team ranking <b>' + team.rank + "</b></span><span><b>" + team.players.length + "</b> players</span></div>" : "") +
       '<div class="section"><h2>On tour</h2>' + (blocks || empty("No players from this team are in ITF, Challenger or ATP events in the last two weeks or the next three.")) + "</div>" +
-      '<div class="section"><h2>Roster</h2><ul class="grid">' + roster + "</ul></div>";
+      '<div class="section"><h2>Roster</h2><ul class="grid">' + roster + "</ul></div>" +
+      (DATA.alumniTeams[key] ? '<p class="section"><a href="#/alumni/' + esc(key) + '">' + esc(team.school) + " alumni on the pro tour (" + DATA.alumniTeams[key].players.length + ") →</a></p>" : "");
     bindFollow();
   }
 
@@ -289,17 +315,17 @@
     var upcoming = ts.filter(function (t) { return t.status === "upcoming"; }).sort(function (a, b) { return a.start.localeCompare(b.start); });
     var played = ts.filter(function (t) { return t.status !== "upcoming"; }).sort(function (a, b) { return b.start.localeCompare(a.start); });
     var only = {}; only[id] = true;
-    var html = '<p class="crumbs"><a href="#/team/' + esc(slug(p.school)) + '">' + esc(p.school) + "</a></p><h1>" + esc(p.name) + "</h1>" +
-      '<div class="facts">' + (p.class ? "<span><b>" + esc(p.class) + "</b></span>" : "") +
+    var html = '<p class="crumbs">' + schoolLink(p) + "</p><h1>" + esc(p.name) + alumTag(p) + "</h1>" +
+      '<div class="facts">' + (p.alumni ? "<span><b>" + esc(alumLabel(p)) + "</b></span>" : p.class ? "<span><b>" + esc(p.class) + "</b></span>" : "") +
       (p.hometown ? "<span>" + esc(p.hometown) + "</span>" : "") + "</div>";
     var rk = DATA.ranks[id];
     if (rk && rk.rank) html += '<div class="facts"><span>ATP singles ranking <b>#' + esc(rk.rank) + "</b></span></div>";
     html += followButton("p", id);
     if (w + l) html += '<p class="record"><b>' + w + "–" + l + '</b>in singles matches tracked on this site</p>';
     html += '<div class="section"><h2>Coming up</h2>' +
-      (upcoming.length ? upcoming.map(function (t) { return eventBlock(t, only); }).join("") : empty("Not on any published entry list yet.")) + "</div>";
+      (upcoming.length ? upcoming.map(function (t) { return eventBlock(t, only, null, false, "both"); }).join("") : empty("Not on any published entry list yet.")) + "</div>";
     html += '<div class="section"><h2>Playing and results</h2>' +
-      (played.length ? played.map(function (t) { return eventBlock(t, only, true); }).join("") : empty("No matches tracked yet.")) + "</div>";
+      (played.length ? played.map(function (t) { return eventBlock(t, only, true, false, "both"); }).join("") : empty("No matches tracked yet.")) + "</div>";
     app.innerHTML = html;
     bindFollow();
   }
@@ -340,14 +366,16 @@
     function side(o, won, sets, flip) {
       if (!o) return '<div class="dm__p"><span class="muted">Bye</span></div>';
       var hl = o.roster && o.roster.length && DATA.playerById[o.roster[0]];
+      var alum = hl && hl.alumni;
       var nm = hl ? '<a href="#/player/' + esc(o.roster[0]) + '">' + esc(o.name) + "</a>" : esc(o.name || "TBD");
-      var info = [o.seed ? "(" + esc(o.seed) + ")" : "", o.rank ? "ATP #" + esc(o.rank) : ""].filter(Boolean).join(" ");
-      return '<div class="dm__p' + (won ? " dm__p--w" : "") + (hl ? " dm__p--hl" : "") + '"><span class="dm__n">' + nm +
-        (hl ? ' <span class="dm__s">' + esc(DATA.playerById[o.roster[0]].school) + "</span>" : "") +
+      var rk2 = o.rank || (hl && DATA.ranks[o.roster[0]] && DATA.ranks[o.roster[0]].rank);
+      var info = [o.seed ? "(" + esc(o.seed) + ")" : "", rk2 ? "ATP #" + esc(rk2) : ""].filter(Boolean).join(" ");
+      return '<div class="dm__p' + (won ? " dm__p--w" : "") + (hl ? (alum ? " dm__p--alum" : " dm__p--hl") : "") + '"><span class="dm__n">' + nm +
+        (hl ? ' <span class="dm__s">' + esc(hl.school) + (alum ? " alumni" : "") + "</span>" : "") +
         (info ? ' <span class="muted">' + info + "</span>" : "") + '</span><span class="dm__sc">' +
         (sets || []).map(function (st) { return "<span>" + setCell(flip ? st[1] : st[0]) + "</span>"; }).join("") + "</span></div>";
     }
-    var html = '<div class="section"><h2>Draw</h2><p class="muted">College players are highlighted.</p>';
+    var html = '<div class="section"><h2>Draw</h2><p class="muted"><span class="key key--cur"></span> Current college player <span class="key key--alum"></span> Alumni</p>';
     groups.forEach(function (g) {
       html += '<h3 class="dr">' + esc((g.draw === "Qualifying" ? "Qualifying · " : "") + g.round) + '</h3><div class="dm-grid">' +
         g.list.map(function (m) {
@@ -361,7 +389,7 @@
   function pageTournament(id) {
     var t = DATA.tById[id];
     if (!t) return notFound("tournament");
-    var block = eventBlock(t, null, true, true);
+    var block = eventBlock(t, null, true, true, "both");
     var html = '<p class="crumbs"><a href="#/tournaments">Tournaments</a></p><h1>' + esc(t.name) + "</h1>" +
       '<div class="facts"><span><b>' + esc(fmtRange(t.start, t.end)) + "</b></span><span>" + esc(t.category) + "</span>" +
       (t.country ? "<span>" + esc(t.country) + "</span>" : "") + "<span>" + statusTag(t) + "</span>" +
@@ -371,6 +399,42 @@
       : "No roster players found in this event.")) + "</div>";
     html += drawHTML(t);
     app.innerHTML = html;
+  }
+
+  function alumniTour(a) { return a.players.filter(function (p) { return (DATA.entriesByP[p.id] || []).length; }).length; }
+  function pageAlumni() {
+    var list = Object.keys(DATA.alumniTeams).map(function (k) { return DATA.alumniTeams[k]; }).sort(function (a, b) {
+      var ra = DATA.teams[a.slug] ? DATA.teams[a.slug].rank : 999, rb = DATA.teams[b.slug] ? DATA.teams[b.slug].rank : 999;
+      return ra - rb || a.school.localeCompare(b.school);
+    });
+    app.innerHTML = "<h1>Alumni</h1><p class=\"lede\">Former players from the top 30 teams who are playing pro events. Kept apart from the current players.</p>" +
+      (list.length ? '<ul class="grid section">' + list.map(function (a) {
+        var n = alumniTour(a);
+        return '<li><a href="#/alumni/' + esc(a.slug) + '"><span><strong>' + esc(a.school) + '</strong></span><span class="muted">' +
+          (n ? n + " on tour" : plural(a.players.length, "alum")) + "</span></a></li>";
+      }).join("") + "</ul>" : empty("No alumni list yet."));
+  }
+  function pageAlumniTeam(key) {
+    var team = DATA.alumniTeams[key];
+    if (!team) return notFound("alumni team");
+    var only = {};
+    team.players.forEach(function (p) { only[p.id] = true; });
+    var order = { current: 0, upcoming: 1, past: 2 };
+    var events = DATA.tournaments.slice().sort(function (a, b) {
+      return order[a.status] - order[b.status] || (a.status === "past" ? b.start.localeCompare(a.start) : a.start.localeCompare(b.start));
+    });
+    var blocks = events.map(function (t) { return eventBlock(t, only, null, false, "alumni"); }).join("");
+    var roster = team.players.slice().sort(function (a, b) {
+      var ra = DATA.ranks[a.id] ? DATA.ranks[a.id].rank : 99999, rb = DATA.ranks[b.id] ? DATA.ranks[b.id].rank : 99999;
+      return ra - rb || a.name.localeCompare(b.name);
+    }).map(function (p) {
+      return '<li><a href="#/player/' + esc(p.id) + '"><strong>' + esc(p.name) + rkBadge(p.id) + '</strong><span class="muted">' + esc(alumLabel(p)) + "</span></a></li>";
+    }).join("");
+    app.innerHTML = '<p class="crumbs"><a href="#/alumni">Alumni</a></p><h1>' + esc(team.school) + " alumni</h1>" +
+      '<div class="facts"><span><b>' + team.players.length + "</b> alumni tracked</span>" +
+      (DATA.teams[key] ? '<span><a href="#/team/' + esc(key) + '">Current team →</a></span>' : "") + "</div>" +
+      '<div class="section"><h2>On tour</h2>' + (blocks || empty("No alumni from this school are in tracked events right now.")) + "</div>" +
+      '<div class="section"><h2>Alumni</h2><ul class="grid">' + roster + "</ul></div>";
   }
 
   function pageFollowing() {
@@ -387,7 +451,7 @@
     [["current", "Playing now"], ["upcoming", "Next up"], ["past", "Recent results"]].forEach(function (g) {
       var list = DATA.tournaments.filter(function (t) { return t.status === g[0] && (g[0] !== "past" || isRecent(t)); });
       if (g[0] === "past") list = list.slice().reverse();
-      var blocks = list.map(function (t) { return eventBlock(t, only); }).join("");
+      var blocks = list.map(function (t) { return eventBlock(t, only, null, false, "both"); }).join("");
       if (blocks) { shown = true; html += '<div class="section"><h2>' + g[1] + "</h2>" + blocks + "</div>"; }
     });
     if (!shown) html += empty("None of them are in an event right now or entered in the next three weeks.");
@@ -399,16 +463,23 @@
     app.innerHTML = html;
   }
 
+  var rankView = "current";
   function pageRanking() {
-    var list = DATA.players.map(function (p) { return { p: p, r: DATA.ranks[p.id] }; })
+    var base = rankView === "alumni" ? DATA.alumniAll : DATA.players;
+    var list = base.map(function (p) { return { p: p, r: DATA.ranks[p.id] }; })
       .filter(function (x) { return x.r && x.r.rank; })
       .sort(function (a, b) { return a.r.rank - b.r.rank; });
-    var html = "<h1>College ranking</h1><p class=\"lede\">Roster players by current ATP singles ranking. Only players we have seen in Challenger or ATP events so far have a ranking here; more fill in as the season goes.</p>";
+    var html = "<h1>College ranking</h1><p class=\"lede\">Players by current ATP singles ranking. Only players we have seen in Challenger or ATP events so far have a ranking here; more fill in as the season goes.</p>" +
+      '<div class="chips"><button type="button" data-rank="current" aria-pressed="' + (rankView === "current") + '">Current players</button>' +
+      '<button type="button" data-rank="alumni" aria-pressed="' + (rankView === "alumni") + '">Alumni</button></div>';
     html += list.length ? '<ol class="rank">' + list.map(function (x) {
       return '<li><span class="rank__n">#' + esc(x.r.rank) + '</span><a href="#/player/' + esc(x.p.id) + '"><strong>' + esc(x.p.name) +
-        '</strong></a><span class="muted">' + esc(x.p.school) + "</span></li>";
+        '</strong></a><span class="muted">' + esc(x.p.school) + (x.p.alumni ? " alumni" : "") + "</span></li>";
     }).join("") + "</ol>" : empty("No rankings yet. They appear after the next update.");
     app.innerHTML = html;
+    Array.prototype.forEach.call(app.querySelectorAll("[data-rank]"), function (b) {
+      b.addEventListener("click", function () { rankView = b.getAttribute("data-rank"); route(true); });
+    });
   }
 
   function notFound(what) {
@@ -431,6 +502,7 @@
     else if (page === "tournaments") pageTournaments();
     else if (page === "tournament") pageTournament(arg);
     else if (page === "following") pageFollowing();
+    else if (page === "alumni") { if (arg) pageAlumniTeam(arg); else pageAlumni(); }
     else if (page === "ranking") pageRanking();
     else pageHome();
     if (keepScroll !== true) window.scrollTo(0, 0);
@@ -446,12 +518,12 @@
       if (term.length < 2) return close();
       var words = term.split(" ");
       function hit(s) { var p = plain(s); return words.every(function (w) { return p.indexOf(w) >= 0; }); }
-      var pl = DATA.players.filter(function (p) { return hit(p.name + " " + p.school); }).slice(0, 8);
+      var pl = DATA.allPlayers.filter(function (p) { return hit(p.name + " " + p.school); }).slice(0, 8);
       var tm = teamList().filter(function (t) { return hit(t.school); }).slice(0, 5);
       var tn = DATA.tournaments.filter(function (t) { return hit(t.name + " " + t.country); }).slice(0, 6);
       var html = "";
       if (pl.length) html += '<li class="group">Players</li>' + pl.map(function (p) {
-        return '<li><a href="#/player/' + esc(p.id) + '">' + esc(p.name) + "<small>" + esc(p.school) + "</small></a></li>";
+        return '<li><a href="#/player/' + esc(p.id) + '">' + esc(p.name) + "<small>" + esc(p.school) + (p.alumni ? " alumni" : "") + "</small></a></li>";
       }).join("");
       if (tm.length) html += '<li class="group">Teams</li>' + tm.map(function (t) {
         return '<li><a href="#/team/' + esc(t.slug) + '">' + esc(t.school) + "</a></li>";

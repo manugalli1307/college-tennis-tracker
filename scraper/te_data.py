@@ -233,7 +233,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                         full = names.full(p)
                         if not full:
                             continue
-                        for pid, kind in roster_ids_for(full, prepared, id_by_key):
+                        for pid, kind in roster_ids_for(full, prepared, id_by_key, strict=True):
                             note_rank(names.cache, p["slug"], pid)
                             if not any(e["player"] == pid and e["section"] == section for e in ents):
                                 ents.append({"tournament": tid, "player": pid, "section": section, "match": kind})
@@ -242,7 +242,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                         sides, hit = [], False
                         for k, p in enumerate((m["p1"], m["p2"]), 1):
                             full = names.full(p)
-                            roster = [pid for pid, kind in roster_ids_for(full, prepared, id_by_key)] if full else []
+                            roster = [pid for pid, kind in roster_ids_for(full, prepared, id_by_key, strict=True)] if full else []
                             for pid in roster:
                                 note_rank(names.cache, p["slug"], pid)
                             hit = hit or bool(roster)
