@@ -402,6 +402,48 @@
   "match": "full name"
  },
  {
+  "tournament": "te-charlottesville-challenger-2026",
+  "player": "university-of-virginia-dylan-dietrich",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "player": "university-of-virginia-jack-kennedy",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "player": "university-of-virginia-andres-santamarta-roig",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "player": "university-of-virginia-jangjun-kim",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "player": "tcu-duncan-chan",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "player": "wake-forest-dominick-mosejczuk",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "player": "university-of-virginia-stiles-brockett",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
   "tournament": "m-itf-usa-2026-041",
   "player": "university-of-texas-at-austin-oliver-ojakaar",
   "section": "Main Draw",
@@ -822,9 +864,123 @@
   "match": "draw"
  },
  {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "university-of-texas-at-austin-gabriel-debru",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "lsu-erik-arutiunian",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "wake-forest-mees-rottgering",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "pepperdine-edward-winter",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "tcu-duncan-chan",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "ucla-spencer-johnson",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "lsu-daniil-ostapenkov",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "tcu-cooper-woestendick",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "player": "university-of-virginia-keegan-rice",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "player": "university-of-texas-at-austin-mariano-dedura-palomero",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "te-seoul-challenger-2026",
   "player": "university-of-virginia-jangjun-kim",
   "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "university-of-virginia-dylan-dietrich",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "wake-forest-mees-rottgering",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "lsu-daniil-ostapenkov",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "university-of-texas-at-austin-tomasz-berkieta",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "ohio-state-bryce-nakashima",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "ucla-spencer-johnson",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "tcu-duncan-chan",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "tcu-cooper-woestendick",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "player": "lsu-erik-arutiunian",
+  "section": "Qualifying",
   "match": "draw"
  }
 ]

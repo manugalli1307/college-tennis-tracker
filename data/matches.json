@@ -3698,6 +3698,673 @@
   "live": false
  },
  {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Semifinals",
+  "p1": {
+   "name": "Jenson Brooksby",
+   "country": "USA Height / Weight: 188 cm / 82 kg",
+   "seed": "1",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Gabriel Debru",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-texas-at-austin-gabriel-debru"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(14)",
+    "7"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Gabriel Debru",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-gabriel-debru"
+   ]
+  },
+  "p2": {
+   "name": "Erik Arutiunian",
+   "country": "Belarus",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "lsu-erik-arutiunian"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Darwin Blanch",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Mees Rottgering",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "wake-forest-mees-rottgering"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Gabriel Debru",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-gabriel-debru"
+   ]
+  },
+  "p2": {
+   "name": "Alex Rybakov",
+   "country": "USA Height / Weight: 185 cm / 68 kg",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Erik Arutiunian",
+   "country": "Belarus",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "lsu-erik-arutiunian"
+   ]
+  },
+  "p2": {
+   "name": "Igor Marcondes",
+   "country": "Brazil Height / Weight: 185 cm / 75 kg",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Mees Rottgering",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "wake-forest-mees-rottgering"
+   ]
+  },
+  "p2": {
+   "name": "Cosme Rolland De Ravel",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "7",
+    "6(2)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Gabriel Debru",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-gabriel-debru"
+   ]
+  },
+  "p2": {
+   "name": "Braden Shick",
+   "country": "USA",
+   "seed": "3",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Erik Arutiunian",
+   "country": "Belarus",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "lsu-erik-arutiunian"
+   ]
+  },
+  "p2": {
+   "name": "Andres Martin",
+   "country": "USA Height / Weight: 183 cm / 77 kg",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "7",
+    "6(6)"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Timo Legout",
+   "country": "",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Edward Winter",
+   "country": "Australia",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "pepperdine-edward-winter"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Mees Rottgering",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "wake-forest-mees-rottgering"
+   ]
+  },
+  "p2": {
+   "name": "Max Hans Rehberg",
+   "country": "Germany",
+   "seed": "8",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Erik Arutiunian",
+   "country": "Belarus",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "lsu-erik-arutiunian"
+   ]
+  },
+  "p2": {
+   "name": "Aidan McHugh",
+   "country": "Great Britain Height / Weight: 178 cm / 70 kg",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Gavin Young",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Duncan Chan",
+   "country": "Canada",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "tcu-duncan-chan"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Erik Arutiunian",
+   "country": "Belarus",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "lsu-erik-arutiunian"
+   ]
+  },
+  "p2": {
+   "name": "Spencer Johnson",
+   "country": "USA",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "ucla-spencer-johnson"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "1",
+    "6"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Albert Pedrico Kravtsov",
+   "country": "Spain",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Daniil Ostapenkov",
+   "country": "Belarus",
+   "seed": "12",
+   "winner": false,
+   "roster": [
+    "lsu-daniil-ostapenkov"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(2)"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Bor Artnak",
+   "country": "Slovenia",
+   "seed": "11",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Cooper Woestendick",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "tcu-cooper-woestendick"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(6)",
+    "7"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Duncan Chan",
+   "country": "Canada",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "tcu-duncan-chan"
+   ]
+  },
+  "p2": {
+   "name": "Roger Pascual Ferra",
+   "country": "Spain",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(4)"
+   ],
+   [
+    "2",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-fort-worth-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Sander Jong",
+   "country": "Netherlands",
+   "seed": "9",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Keegan Rice",
+   "country": "Canada",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-virginia-keegan-rice"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Valerio Aboian",
+   "country": "Argentina",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Diego Dedura-Palomero",
+   "country": "Germany",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "university-of-texas-at-austin-mariano-dedura-palomero"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(4)"
+   ],
+   [
+    "7",
+    "6(3)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Diego Dedura-Palomero",
+   "country": "Germany",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-mariano-dedura-palomero"
+   ]
+  },
+  "p2": {
+   "name": "Genaro Alberto Olivieri",
+   "country": "Argentina Height / Weight: 175 cm / 73 kg",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "7",
+    "6(3)"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "te-seoul-challenger-2026",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -3726,6 +4393,921 @@
    [
     "6",
     "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Dylan Dietrich",
+   "country": "Switzerland",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-virginia-dylan-dietrich"
+   ]
+  },
+  "p2": {
+   "name": "Liam Draxl",
+   "country": "Canada",
+   "seed": "5",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Semifinals",
+  "p1": {
+   "name": "Dylan Dietrich",
+   "country": "Switzerland",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-virginia-dylan-dietrich"
+   ]
+  },
+  "p2": {
+   "name": "Aidan Mayo",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Dylan Dietrich",
+   "country": "Switzerland",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-virginia-dylan-dietrich"
+   ]
+  },
+  "p2": {
+   "name": "Jeffrey John Wolf",
+   "country": "USA Height / Weight: 183 cm / 79 kg",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Aidan Mayo",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Mees Rottgering",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "wake-forest-mees-rottgering"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Liam Draxl",
+   "country": "Canada",
+   "seed": "5",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Daniil Ostapenkov",
+   "country": "Belarus",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "lsu-daniil-ostapenkov"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Dylan Dietrich",
+   "country": "Switzerland",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-virginia-dylan-dietrich"
+   ]
+  },
+  "p2": {
+   "name": "Jenson Brooksby",
+   "country": "USA Height / Weight: 188 cm / 82 kg",
+   "seed": "1",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Mees Rottgering",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "wake-forest-mees-rottgering"
+   ]
+  },
+  "p2": {
+   "name": "Kaylan Bigun",
+   "country": "USA Height / Weight: 183 cm / 79 kg",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "6(3)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Daniil Ostapenkov",
+   "country": "Belarus",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "lsu-daniil-ostapenkov"
+   ]
+  },
+  "p2": {
+   "name": "Ozan Baris",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Liam Draxl",
+   "country": "Canada",
+   "seed": "5",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Tomasz Berkieta",
+   "country": "Poland",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-texas-at-austin-tomasz-berkieta"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(8)"
+   ],
+   [
+    "7",
+    "6(1)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jenson Brooksby",
+   "country": "USA Height / Weight: 188 cm / 82 kg",
+   "seed": "1",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Bryce Nakashima Nakashima",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "ohio-state-bryce-nakashima"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Dylan Dietrich",
+   "country": "Switzerland",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-virginia-dylan-dietrich"
+   ]
+  },
+  "p2": {
+   "name": "Colton Smith",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Mees Rottgering",
+   "country": "Netherlands",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "wake-forest-mees-rottgering"
+   ]
+  },
+  "p2": {
+   "name": "Alexis Galarneau",
+   "country": "Canada Height / Weight: 180 cm / 79 kg",
+   "seed": "4",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Tomasz Berkieta",
+   "country": "Poland",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-tomasz-berkieta"
+   ]
+  },
+  "p2": {
+   "name": "Spencer Johnson",
+   "country": "USA",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "ucla-spencer-johnson"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Daniil Ostapenkov",
+   "country": "Belarus",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "lsu-daniil-ostapenkov"
+   ]
+  },
+  "p2": {
+   "name": "Gavin Young",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Benjamin Willwerth",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Duncan Chan",
+   "country": "Canada",
+   "seed": "9",
+   "winner": false,
+   "roster": [
+    "tcu-duncan-chan"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Andrew Fenty",
+   "country": "USA Height / Weight: 194 cm / 93 kg",
+   "seed": "7",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Cooper Woestendick",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "tcu-cooper-woestendick"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Tomasz Berkieta",
+   "country": "Poland",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-tomasz-berkieta"
+   ]
+  },
+  "p2": {
+   "name": "Erik Arutiunian",
+   "country": "Belarus",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "lsu-erik-arutiunian"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Spencer Johnson",
+   "country": "USA",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "ucla-spencer-johnson"
+   ]
+  },
+  "p2": {
+   "name": "Jonah Braswell",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-sioux-falls-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Daniil Ostapenkov",
+   "country": "Belarus",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "lsu-daniil-ostapenkov"
+   ]
+  },
+  "p2": {
+   "name": "Quinn Vandecasteele",
+   "country": "USA",
+   "seed": "8",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Marcos Giron",
+   "country": "USA Height / Weight: 180 cm / 77 kg",
+   "seed": "1",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Dylan Dietrich",
+   "country": "Switzerland",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-virginia-dylan-dietrich"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Clement Chidekh",
+   "country": "France",
+   "seed": "5",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Andres Santamarta Roig",
+   "country": "Spain",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-virginia-andres-santamarta-roig"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jack Kennedy",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-virginia-jack-kennedy"
+   ]
+  },
+  "p2": {
+   "name": "Hynek Barton",
+   "country": "Czech Republic",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "1",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Andres Martin",
+   "country": "USA Height / Weight: 183 cm / 77 kg",
+   "seed": "6",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Stiles Brockett",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-virginia-stiles-brockett"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Kenta (2004) Miyoshi",
+   "country": "Japan",
+   "seed": "8",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Dominick Mosejczuk",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "wake-forest-dominick-mosejczuk"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
+   ],
+   [
+    "5",
+    "7"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Aidan Mayo",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Duncan Chan",
+   "country": "Canada",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "tcu-duncan-chan"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Stiles Brockett",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-virginia-stiles-brockett"
+   ]
+  },
+  "p2": {
+   "name": "Emile Hudd",
+   "country": "Great Britain Height: 204 cm",
+   "seed": "12",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "5",
+    "7"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Qualifying",
+  "round": "1st Round",
+  "p1": {
+   "name": "Ozan Baris",
+   "country": "USA",
+   "seed": "7",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Jangjun Kim",
+   "country": "South Korea",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-virginia-jangjun-kim"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false

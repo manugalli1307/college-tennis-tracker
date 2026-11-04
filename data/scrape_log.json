@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:48:17+00:00",
+ "updated": "2026-11-04T14:15:30+00:00",
  "atp": [
   {
    "step": "event",
@@ -26,6 +26,33 @@
    "status": "past",
    "entries": 0,
    "matches": 4,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-florence-challenger-2026",
+   "name": "Florence Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-fort-worth-challenger-2026",
+   "name": "Fort Worth Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 17,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-guangzhou-challenger-2026",
+   "name": "Guangzhou Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 0,
    "data": true
   },
   {
@@ -66,6 +93,15 @@
   },
   {
    "step": "event",
+   "id": "te-guayaquil-challenger-2026",
+   "name": "Guayaquil Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 2,
+   "data": true
+  },
+  {
+   "step": "event",
    "id": "te-ningbo-challenger-2026",
    "name": "Ningbo Challenger",
    "status": "past",
@@ -84,9 +120,45 @@
   },
   {
    "step": "event",
+   "id": "te-sioux-falls-challenger-2026",
+   "name": "Sioux Falls Challenger",
+   "status": "past",
+   "entries": 0,
+   "matches": 19,
+   "data": true
+  },
+  {
+   "step": "event",
    "id": "te-vienna-2026",
    "name": "Vienna ATP",
    "status": "past",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-bratislava-challenger-2026",
+   "name": "Bratislava Challenger",
+   "status": "current",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-charlottesville-challenger-2026",
+   "name": "Charlottesville Challenger",
+   "status": "current",
+   "entries": 7,
+   "matches": 8,
+   "data": true
+  },
+  {
+   "step": "event",
+   "id": "te-costa-do-sauipe-challenger-2026",
+   "name": "Costa do Sauipe Challenger",
+   "status": "current",
    "entries": 0,
    "matches": 0,
    "data": true
@@ -111,6 +183,15 @@
   },
   {
    "step": "event",
+   "id": "te-villa-maria-challenger-2026",
+   "name": "Villa Maria Challenger",
+   "status": "current",
+   "entries": 0,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
    "id": "te-taranto-challenger-2026",
    "name": "Taranto Challenger",
    "status": "current",
@@ -120,7 +201,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 26
+   "count": 58
   }
  ]
 }

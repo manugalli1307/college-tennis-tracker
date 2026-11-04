@@ -33,6 +33,39 @@
   "url": "https://www.tennisexplorer.com/cali-challenger/2026/atp-men/"
  },
  {
+  "id": "te-florence-challenger-2026",
+  "name": "Florence Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/florence-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-fort-worth-challenger-2026",
+  "name": "Fort Worth Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/fort-worth-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-guangzhou-challenger-2026",
+  "name": "Guangzhou Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/guangzhou-challenger/2026/atp-men/"
+ },
+ {
   "id": "te-lisbon-challenger-2026",
   "name": "Lisbon Challenger",
   "category": "ATP Challenger",
@@ -242,6 +275,17 @@
   "url": "https://www.tennisexplorer.com/brest-challenger/2026/atp-men/"
  },
  {
+  "id": "te-guayaquil-challenger-2026",
+  "name": "Guayaquil Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/guayaquil-challenger/2026/atp-men/"
+ },
+ {
   "id": "m-itf-uzb-2026-001",
   "name": "M15 Fergana",
   "category": "M15",
@@ -429,6 +473,17 @@
   "url": "https://www.tennisexplorer.com/seoul-challenger/2026/atp-men/"
  },
  {
+  "id": "te-sioux-falls-challenger-2026",
+  "name": "Sioux Falls Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "status": "past",
+  "url": "https://www.tennisexplorer.com/sioux-falls-challenger/2026/atp-men/"
+ },
+ {
   "id": "te-vienna-2026",
   "name": "Vienna ATP",
   "category": "ATP Tour",
@@ -438,6 +493,39 @@
   "end": "2026-11-01",
   "status": "past",
   "url": "https://www.tennisexplorer.com/vienna/2026/atp-men/"
+ },
+ {
+  "id": "te-bratislava-challenger-2026",
+  "name": "Bratislava Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "status": "current",
+  "url": "https://www.tennisexplorer.com/bratislava-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-charlottesville-challenger-2026",
+  "name": "Charlottesville Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "status": "current",
+  "url": "https://www.tennisexplorer.com/charlottesville-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-costa-do-sauipe-challenger-2026",
+  "name": "Costa do Sauipe Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "status": "current",
+  "url": "https://www.tennisexplorer.com/costa-do-sauipe-challenger/2026/atp-men/"
  },
  {
   "id": "m-itf-tur-2026-027",
@@ -614,6 +702,17 @@
   "end": "2026-11-08",
   "status": "current",
   "url": "https://www.tennisexplorer.com/taipei-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-villa-maria-challenger-2026",
+  "name": "Villa Maria Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "status": "current",
+  "url": "https://www.tennisexplorer.com/villa-maria-challenger/2026/atp-men/"
  },
  {
   "id": "te-taranto-challenger-2026",
