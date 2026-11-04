@@ -68,6 +68,15 @@ EXTRACT_JS = """() => {
     });
   });
   if (out.length) return out;
+  // C) newer card layout (roster-card-item)
+  document.querySelectorAll('.roster-card-item').forEach(card => {
+    const nm = card.querySelector('.roster-card-item__title-link, .roster-card-item__title');
+    const basics = Array.from(card.querySelectorAll('.roster-player-card-profile-field__value--basic')).map(x => clean(x.textContent));
+    const cls = basics.find(b => /^(R-|RS-)?(Fr|So|Jr|Sr|Gr|Fresh|Soph|Junior|Senior|Grad)/i.test(b)) || '';
+    const h = card.querySelector('.roster-player-card-profile-field__value--hometown');
+    if (nm && cls) out.push({name: clean(nm.textContent), cls: cls, home: h ? clean(h.textContent) : '', how: 'cards2'});
+  });
+  if (out.length) return out;
   // B) "person cards"
   document.querySelectorAll('.s-person-card, .sidearm-roster-player').forEach(card => {
     const t = clean(card.textContent);
@@ -94,36 +103,71 @@ def class_rank(c):
     return {"fr": 1, "so": 2, "jr": 3, "sr": 4, "gr": 5, "5t": 5, "5y": 5}.get(w)
 
 
+SLUG_CACHE = {}
+
+
+async def discover_slug(page, host):
+    """Find the site's own address for men's tennis (some use 'mten' etc)."""
+    if host in SLUG_CACHE:
+        return SLUG_CACHE[host]
+    found = None
+    try:
+        await page.goto(f"https://{host}/", timeout=45000, wait_until="domcontentloaded")
+        await page.wait_for_timeout(2500)
+        links = await page.evaluate("""() => Array.from(document.querySelectorAll('a[href*="/sports/"]')).map(a => [a.textContent.trim(), a.getAttribute('href')])""")
+        for text, href in links:
+            m = re.search(r"/sports/([\w-]+)", href or "")
+            if m and re.search(r"men'?s?\W*tennis|^tennis$", text, re.I) and not re.search(r"women", text, re.I):
+                found = m.group(1)
+                break
+    except Exception:
+        pass
+    SLUG_CACHE[host] = found
+    return found
+
+
 async def fetch_season(ctx, host, season, log):
     page = await ctx.new_page()
     try:
-        for slug in SPORT_SLUGS:
+        slugs = list(SPORT_SLUGS)
+        tried_discovery = False
+        i = 0
+        while i < len(slugs):
+            slug = slugs[i]
+            i += 1
             url = f"https://{host}/sports/{slug}/roster/{season}"
-            try:
-                r = await page.goto(url, timeout=45000, wait_until="domcontentloaded")
-                status = r.status if r else 0
-                if status >= 400:
-                    continue
+            for attempt in range(3):
                 try:
-                    await page.wait_for_selector("table, .s-person-card, .sidearm-roster-player", state="attached", timeout=12000)
-                except Exception:
-                    pass
-                await page.wait_for_timeout(1200)
-                title = await page.title()
-                if "tennis" not in title.lower():
-                    continue
-                if "women" in title.lower():
-                    continue
-                rows = await page.evaluate(EXTRACT_JS)
-                log.append({"host": host, "season": season, "url": url, "status": status, "n": len(rows),
-                            "how": rows[0]["how"] if rows else "", "title": title[:70]})
-                if not rows:
-                    html = await page.content()
-                    return [], re.sub(r"<script.*?</script>|<style.*?</style>|<svg.*?</svg>", "", html, flags=re.S)
-                return rows, None
-            except Exception as e:
-                log.append({"host": host, "season": season, "url": url, "error": str(e)[:80]})
-        log.append({"host": host, "season": season, "n": 0, "note": "no working address"})
+                    r = await page.goto(url, timeout=45000, wait_until="domcontentloaded")
+                    status = r.status if r else 0
+                    if status >= 400:
+                        break
+                    try:
+                        await page.wait_for_selector("table, .s-person-card, .sidearm-roster-player, .roster-card-item", state="attached", timeout=15000 + attempt * 10000)
+                    except Exception:
+                        pass
+                    await page.wait_for_timeout(1500 + attempt * 2000)
+                    title = await page.title()
+                    if "tennis" not in title.lower() or "women" in title.lower():
+                        break
+                    rows = await page.evaluate(EXTRACT_JS)
+                    if not rows and attempt < 2:
+                        continue
+                    log.append({"host": host, "season": season, "url": url, "status": status, "n": len(rows),
+                                "how": rows[0]["how"] if rows else "", "title": title[:70], "tries": attempt + 1})
+                    if not rows:
+                        html = await page.content()
+                        return [], re.sub(r"<script.*?</script>|<style.*?</style>|<svg.*?</svg>", "", html, flags=re.S)
+                    return rows, None
+                except Exception as e:
+                    if attempt == 2:
+                        log.append({"host": host, "season": season, "url": url, "error": str(e)[:80]})
+            if i >= len(slugs) and not tried_discovery:
+                tried_discovery = True
+                d = await discover_slug(page, host)
+                if d and d not in slugs:
+                    slugs.append(d)
+        log.append({"host": host, "season": season, "n": 0, "note": "no working address", "discovered": SLUG_CACHE.get(host)})
         return [], None
     finally:
         await page.close()
@@ -136,7 +180,7 @@ async def main():
         for r in csv.DictReader(f):
             current.setdefault(r["School"], set()).add(key(r["Player"]))
     log, found, fails = [], {}, {}
-    sem = asyncio.Semaphore(5)
+    sem = asyncio.Semaphore(4)
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         ctx = await browser.new_context(user_agent=UA)
