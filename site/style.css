@@ -219,3 +219,36 @@ details.section > summary + * { margin-top: 12px; }
 .key:first-child { margin-left: 0; }
 .key--cur { background: var(--ball); }
 .key--alum { background: var(--court); }
+
+/* ---------- one-line matchup, bracket, small text ---------- */
+.small { font-size: 12px; }
+.vs { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+.vs__p { display: inline-flex; flex-direction: column; font-weight: 700; }
+.vs__p a { font-weight: 700; text-decoration: none; }
+.vs__p a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.vs__w > a { font-weight: 900; }
+.vs__x { color: var(--ink-2); font-size: 13px; align-self: center; }
+.bk { display: flex; gap: 28px; overflow-x: auto; padding: 8px 2px 18px; align-items: stretch; }
+.bk__col { display: flex; flex-direction: column; min-width: 270px; flex: 0 0 270px; }
+.bk__h { font-size: 15px; color: var(--ink-2); margin: 0 0 10px; }
+.bk__cards { flex: 1; display: flex; flex-direction: column; justify-content: space-around; gap: 10px; }
+.bk__card { position: relative; background: var(--panel); border: 1px solid var(--line); border-radius: 4px; }
+.bk__card--live { border-color: var(--ball); box-shadow: 0 0 0 2px var(--ball); }
+.bk__col + .bk__col .bk__card::before { content: ""; position: absolute; left: -15px; top: 50%; width: 14px; border-top: 2px solid var(--line); }
+.bk__p { display: flex; justify-content: space-between; gap: 8px; padding: 5px 9px; font-size: 14px; }
+.bk__p + .bk__p { border-top: 1px solid var(--line); }
+.bk__p:not(.bk__p--w) { color: var(--ink-2); }
+.bk__p--w .bk__n { font-weight: 800; color: var(--ink); }
+.bk__p--hl { background: rgba(217, 224, 33, 0.28); box-shadow: inset 4px 0 0 var(--ball); color: var(--ink); }
+.bk__p--alum { background: rgba(30, 79, 122, 0.14); box-shadow: inset 4px 0 0 var(--court); color: var(--ink); }
+.bk__p--hl a, .bk__p--alum a { font-weight: 800; }
+.bk__seed { font-size: 11px; font-weight: 800; color: var(--ink-2); margin-right: 5px; }
+.bk__sc { display: inline-flex; gap: 5px; font-variant-numeric: tabular-nums; font-weight: 700; }
+.bk__sc sup { font-size: 9px; }
+h3.dr { margin: 22px 0 6px; font-size: 18px; color: var(--ink-2); }
+
+.row--vs { grid-template-columns: minmax(0, 1fr) auto; }
+.vs__r { width: 100%; color: var(--ink-2); font-size: 13px; font-weight: 400; }
+.vs { gap: 2px 16px; }
+.vs__p { align-items: flex-start; }
+.vs__line { display: block; }

@@ -5,6 +5,7 @@
   var app = document.getElementById("main");
   var homeTab = null;
   var tourFilter = "all";
+  var homeView = "current";
   var FILTERS = [["all", "All"], ["M15", "M15"], ["M25", "M25"], ["challenger", "Challengers"], ["atp", "ATP Tour"]];
   function passes(t) {
     if (tourFilter === "all") return true;
@@ -156,8 +157,8 @@
     if (o.roster && o.roster.length && DATA.playerById[o.roster[0]]) {
       name = '<a href="#/player/' + esc(o.roster[0]) + '">' + name + "</a>" + alumTag(DATA.playerById[o.roster[0]]);
     }
-    var extra = [o.country, o.seed ? "seed " + o.seed : ""].filter(Boolean).join(", ");
-    return name + (extra ? ' <span class="muted">(' + esc(extra) + ")</span>" : "") +
+    var extra = [String(o.country || "").split(/\s+(?:Height|Weight|Age|Born)/)[0], o.seed ? "seed " + o.seed : ""].filter(Boolean).join(" · ");
+    return name + (extra ? ' <span class="muted small">' + esc(extra) + "</span>" : "") +
       (o.rank ? ' <span class="rk" title="Current ATP singles ranking">ATP #' + esc(o.rank) + "</span>" : "");
   }
 
@@ -181,6 +182,32 @@
         '<span class="entered">' + (sec ? "Entered in " + esc(sec.toLowerCase()) : "Entered") + "</span></div>";
     }
     return '<li class="row">' + who + mid + right + "</li>";
+  }
+
+  var ROUND_ORDER = ["round of 256", "round of 128", "round of 64", "round of 32", "round of 16", "1st round", "2nd round", "3rd round",
+    "quarter-finals", "quarterfinals", "semi-finals", "semifinals", "final"];
+  function roundIdx(m) {
+    var r = String(m.round || "").toLowerCase().replace(/^qualifying\s*/, "");
+    var i = ROUND_ORDER.indexOf(r);
+    return (m.draw === "Qualifying" ? -100 : 0) + (i < 0 ? 50 : i);
+  }
+  function teamRankOf(id) {
+    var p = DATA.playerById[id];
+    if (!p) return 9999;
+    return p.alumni ? 1000 : parseInt(p.team_rank, 10) || 999;
+  }
+  function isVs(m) { return !!(m.p1 && m.p2 && m.p1.roster.length && m.p2.roster.length && DATA.playerById[m.p1.roster[0]] && DATA.playerById[m.p2.roster[0]]); }
+  // Two college players facing each other: one line, both names the same size
+  function vsRow(m, t, showEvent) {
+    function side(o, won) {
+      var pl = DATA.playerById[o.roster[0]];
+      return '<span class="vs__p' + (won ? " vs__w" : "") + '"><span class="vs__line"><a href="#/player/' + esc(pl.id) + '">' + esc(o.name) + "</a>" + rkBadge(pl.id, o.rank) + alumTag(pl) +
+        '</span><span class="row__sub">' + schoolLink(pl) + "</span></span>";
+    }
+    return '<li class="row row--vs"><div class="row__who vs"><span class="round vs__r">' + (showEvent && t ? tournamentLink(t) + " · " : "") +
+      esc(m.draw === "Qualifying" ? "Qualifying " : "") + esc(m.round) + (m.live ? ' <span class="wl wl--live">Live</span>' : "") + "</span>" +
+      side(m.p1, m.winner === 1) + '<span class="vs__x">vs</span>' + side(m.p2, m.winner === 2) + "</div>" +
+      '<div class="result">' + setsHTML(m.sets, false, "") + "</div></li>";
   }
 
   function entryFor(tid, pid) {
@@ -217,13 +244,14 @@
     function rowFor(pid) {
       var p = DATA.playerById[pid], ent = entryFor(t.id, pid), hits = hitsFor(t.id, pid);
       if (!hits.length) return playerRow(p, ent, null, false, t);
-      if (all) return hits.map(function (h) {
+      function one(h) {
         if (seen.indexOf(h.m) >= 0) return "";
         seen.push(h.m);
-        return playerRow(p, ent, h, false, t);
-      }).join("");
+        return isVs(h.m) ? vsRow(h.m, t, false) : playerRow(p, ent, h, false, t);
+      }
+      if (all) return hits.map(one).join("");
       var live = hits.filter(function (h) { return h.m.live; })[0];
-      return playerRow(p, ent, live || hits[hits.length - 1], false, t);
+      return one(live || hits[hits.length - 1]);
     }
     var cur = ids.filter(function (id) { return !DATA.playerById[id].alumni; }), alu = ids.filter(function (id) { return DATA.playerById[id].alumni; });
     var rows = cur.map(rowFor).join("") + (alu.length ? (cur.length ? '<li class="row row--label">Alumni</li>' : "") + alu.map(rowFor).join("") : "");
@@ -245,23 +273,31 @@
       { id: "upcoming", label: "Next up", list: nxt, none: "No entry lists are published yet for roster players. Lists usually appear about two weeks before an event." },
       { id: "past", label: "Last two weeks", list: past, none: "No finished events in the last two weeks include roster players." }
     ];
-    function hasPlayers(t) { return eventBlock(t) !== ""; }
+    function hasPlayers(t) { return eventBlock(t, null, false, false, homeView) !== ""; }
     if (!homeTab) homeTab = tabs.filter(function (t) { return t.list.some(hasPlayers); })[0];
     homeTab = homeTab ? tabs.filter(function (t) { return t.id === homeTab.id; })[0] : tabs[0];
 
-    var live = cur.reduce(function (n, t) { return n + (DATA.entriesByT[t.id] || []).length; }, 0);
-    var upc = nxt.reduce(function (n, t) { return n + (DATA.entriesByT[t.id] || []).length; }, 0);
+    function curCount(t) {
+      return new Set((DATA.entriesByT[t.id] || []).map(function (e) { return e.player; }).filter(function (id) { return DATA.playerById[id] && !DATA.playerById[id].alumni; })).size;
+    }
+    var live = cur.reduce(function (n, t) { return n + curCount(t); }, 0);
+    var upc = nxt.reduce(function (n, t) { return n + curCount(t); }, 0);
     var html = '<section class="hero"><h1>Top college players,<br>pro tournaments</h1>' +
       '<p class="lede">Men from the top 30 Division I teams at ITF M15 and M25 events, ATP Challengers and the ATP Tour: who is playing now, who is entered next, and how they did.</p>' +
       '<div class="hero__count"><span><b>' + live + "</b>in events now</span><span><b>" + upc + "</b>entered in upcoming events</span><span><b>" +
       DATA.players.length + "</b>players on " + teamList().length + " teams</span></div></section>";
-    html += filterBar() + '<div class="tabs" role="tablist">' + tabs.map(function (t) {
+    html += '<div class="chips" role="group" aria-label="Who to show"><button type="button" data-view="current" aria-pressed="' + (homeView === "current") + '">College players</button>' +
+      '<button type="button" data-view="alumni" aria-pressed="' + (homeView === "alumni") + '">Alumni</button></div>' +
+      filterBar() + '<div class="tabs" role="tablist">' + tabs.map(function (t) {
       return '<button role="tab" data-tab="' + t.id + '" aria-selected="' + (t.id === homeTab.id) + '">' + t.label + "</button>";
     }).join("") + "</div>";
-    var blocks = homeTab.list.map(function (t) { return eventBlock(t); }).join("");
-    html += blocks || empty(homeTab.none);
+    var blocks = homeTab.list.map(function (t) { return eventBlock(t, null, false, false, homeView); }).join("");
+    html += blocks || empty(homeView === "alumni" ? "No alumni in this group of events right now." : homeTab.none);
     app.innerHTML = html;
     bindFilters();
+    Array.prototype.forEach.call(app.querySelectorAll("[data-view]"), function (b) {
+      b.addEventListener("click", function () { homeView = b.getAttribute("data-view"); pageHome(); });
+    });
     Array.prototype.forEach.call(app.querySelectorAll("[data-tab]"), function (b) {
       b.addEventListener("click", function () {
         homeTab = tabs.filter(function (t) { return t.id === b.getAttribute("data-tab"); })[0];
@@ -319,7 +355,15 @@
       '<div class="facts">' + (p.alumni ? "<span><b>" + esc(alumLabel(p)) + "</b></span>" : p.class ? "<span><b>" + esc(p.class) + "</b></span>" : "") +
       (p.hometown ? "<span>" + esc(p.hometown) + "</span>" : "") + "</div>";
     var rk = DATA.ranks[id];
-    if (rk && rk.rank) html += '<div class="facts"><span>ATP singles ranking <b>#' + esc(rk.rank) + "</b></span></div>";
+    if (rk) {
+      var bits = [];
+      if (rk.rank) bits.push("<span>ATP singles ranking <b>#" + esc(rk.rank) + "</b></span>");
+      else if (rk.unranked) bits.push("<span>ATP singles ranking <b>none yet</b></span>");
+      if (rk.country) bits.push("<span>" + esc(rk.country) + "</span>");
+      if (rk.height) bits.push("<span>Height <b>" + esc(rk.height) + " cm</b></span>");
+      if (rk.weight) bits.push("<span>Weight <b>" + esc(rk.weight) + " kg</b></span>");
+      if (bits.length) html += '<div class="facts">' + bits.join("") + "</div>";
+    }
     html += followButton("p", id);
     if (w + l) html += '<p class="record"><b>' + w + "–" + l + '</b>in singles matches tracked on this site</p>';
     html += '<div class="section"><h2>Coming up</h2>' +
@@ -353,43 +397,95 @@
     bindFilters();
   }
 
-  // The full draw, with college players highlighted
-  function drawHTML(t) {
-    var ms = DATA.draws[t.id];
-    if (!ms || !ms.length) return "";
-    var groups = [], idx = {};
-    ms.forEach(function (m) {
-      var key = m.draw + "|" + m.round;
-      if (idx[key] === undefined) { idx[key] = groups.length; groups.push({ draw: m.draw, round: m.round, list: [] }); }
-      groups[idx[key]].list.push(m);
+  function roundList(t) {
+    var ms = (DATA.matchesByT[t.id] || []).filter(function (m) {
+      return [m.p1, m.p2].some(function (o) { return o && o.roster.some(function (id) { return DATA.playerById[id]; }); });
     });
+    var groups = [], idx = {};
+    ms.slice().sort(function (a, b) { return roundIdx(a) - roundIdx(b); }).forEach(function (m) {
+      var k = m.draw + "|" + m.round;
+      if (idx[k] === undefined) { idx[k] = groups.length; groups.push({ label: (m.draw === "Qualifying" ? "Qualifying · " : "") + m.round, list: [] }); }
+      groups[idx[k]].list.push(m);
+    });
+    var html = "", seenIn = {};
+    groups.forEach(function (g) {
+      function best(m) { return Math.min.apply(null, [m.p1, m.p2].filter(Boolean).reduce(function (acc, o) { return acc.concat(o.roster.map(teamRankOf)); }, [9999])); }
+      g.list.sort(function (a, b) { return best(a) - best(b); });
+      var rows = g.list.map(function (m) {
+        if (isVs(m)) return vsRow(m, t, false);
+        return [1, 2].map(function (side) {
+          var me = side === 1 ? m.p1 : m.p2;
+          if (!me || !me.roster.length || !DATA.playerById[me.roster[0]]) return "";
+          seenIn[me.roster[0]] = true;
+          return playerRow(DATA.playerById[me.roster[0]], null, { m: m, side: side }, false, t);
+        }).join("");
+      }).join("");
+      html += '<h3 class="dr">' + esc(g.label) + '</h3><ul class="rows">' + rows + "</ul>";
+    });
+    // entered but no match yet
+    var entered = [];
+    (DATA.entriesByT[t.id] || []).forEach(function (e) {
+      var played = (DATA.matchesByT[t.id] || []).some(function (m) { return [m.p1, m.p2].some(function (o) { return o && o.roster.indexOf(e.player) >= 0; }); });
+      if (!played && entered.indexOf(e.player) < 0 && DATA.playerById[e.player]) entered.push(e.player);
+    });
+    entered.sort(function (a, b) { return teamRankOf(a) - teamRankOf(b); });
+    if (entered.length) {
+      html += '<h3 class="dr">' + (t.status === "upcoming" ? "Entered" : "On the draw") + '</h3><ul class="rows">' +
+        entered.map(function (id) { return playerRow(DATA.playerById[id], entryFor(t.id, id), null, false, t); }).join("") + "</ul>";
+    }
+    return html;
+  }
+
+  // The main draw as a bracket, college players highlighted. Later rounds fill in as results arrive.
+  function bracketHTML(t) {
+    var ms = (DATA.draws[t.id] || []).filter(function (m) { return m.draw === "Main Draw"; });
+    if (!ms.length) return "";
+    var byRound = {}, order = [];
+    ms.forEach(function (m, i) {
+      m._i = i;
+      var k = roundIdx(m);
+      if (!byRound[k]) { byRound[k] = []; order.push(k); }
+      byRound[k].push(m);
+    });
+    order.sort(function (a, b) { return a - b; });
+    // order each round by where its winners went next, so the bracket lines up
+    var posOf = {};
+    for (var r = order.length - 1; r >= 0; r--) {
+      var list = byRound[order[r]];
+      list.forEach(function (m) {
+        var w = m.winner === 1 ? m.p1 : m.winner === 2 ? m.p2 : null;
+        var parent = (w && posOf[w.name]) != null ? posOf[w.name] : 1e6 + m._i;
+        m._k = parent;
+      });
+      list.sort(function (a, b) { return a._k - b._k || a._i - b._i; });
+      posOf = {};
+      list.forEach(function (m, i) { [m.p1, m.p2].forEach(function (o) { if (o && o.name) posOf[o.name] = i; }); });
+    }
     function side(o, won, sets, flip) {
-      if (!o) return '<div class="dm__p"><span class="muted">Bye</span></div>';
-      var hl = o.roster && o.roster.length && DATA.playerById[o.roster[0]];
-      var alum = hl && hl.alumni;
-      var nm = hl ? '<a href="#/player/' + esc(o.roster[0]) + '">' + esc(o.name) + "</a>" : esc(o.name || "TBD");
-      var rk2 = o.rank || (hl && DATA.ranks[o.roster[0]] && DATA.ranks[o.roster[0]].rank);
-      var info = [o.seed ? "(" + esc(o.seed) + ")" : "", rk2 ? "ATP #" + esc(rk2) : ""].filter(Boolean).join(" ");
-      return '<div class="dm__p' + (won ? " dm__p--w" : "") + (hl ? (alum ? " dm__p--alum" : " dm__p--hl") : "") + '"><span class="dm__n">' + nm +
-        (hl ? ' <span class="dm__s">' + esc(hl.school) + (alum ? " alumni" : "") + "</span>" : "") +
-        (info ? ' <span class="muted">' + info + "</span>" : "") + '</span><span class="dm__sc">' +
+      if (!o) return '<div class="bk__p"><span class="muted">Bye</span></div>';
+      var pl = o.roster && o.roster.length && DATA.playerById[o.roster[0]];
+      var cls = pl ? (pl.alumni ? " bk__p--alum" : " bk__p--hl") : "";
+      var nm = pl ? '<a href="#/player/' + esc(pl.id) + '">' + esc(o.name) + "</a>" : esc(o.name || "TBD");
+      var rk2 = o.rank || (pl && DATA.ranks[pl.id] && DATA.ranks[pl.id].rank);
+      return '<div class="bk__p' + (won ? " bk__p--w" : "") + cls + '"><span class="bk__n">' + (o.seed ? '<span class="bk__seed">' + esc(o.seed) + "</span>" : "") + nm +
+        (pl ? ' <span class="dm__s">' + esc(pl.school) + (pl.alumni ? " alumni" : "") + "</span>" : "") +
+        (rk2 ? ' <span class="muted small">ATP #' + esc(rk2) + "</span>" : "") + '</span><span class="bk__sc">' +
         (sets || []).map(function (st) { return "<span>" + setCell(flip ? st[1] : st[0]) + "</span>"; }).join("") + "</span></div>";
     }
-    var html = '<div class="section"><h2>Draw</h2><p class="muted"><span class="key key--cur"></span> Current college player <span class="key key--alum"></span> Alumni</p>';
-    groups.forEach(function (g) {
-      html += '<h3 class="dr">' + esc((g.draw === "Qualifying" ? "Qualifying · " : "") + g.round) + '</h3><div class="dm-grid">' +
-        g.list.map(function (m) {
-          return '<div class="dm' + (m.live ? " dm--live" : "") + '">' + side(m.p1, m.winner === 1, m.sets, false) +
-            side(m.p2, m.winner === 2, m.sets, true) + "</div>";
-        }).join("") + "</div>";
-    });
-    return html + "</div>";
+    var cols = order.map(function (k) {
+      var list = byRound[k];
+      return '<div class="bk__col"><h3 class="bk__h">' + esc(list[0].round) + "</h3><div class=\"bk__cards\">" + list.map(function (m) {
+        return '<div class="bk__card' + (m.live ? " bk__card--live" : "") + '">' + side(m.p1, m.winner === 1, m.sets, false) + side(m.p2, m.winner === 2, m.sets, true) + "</div>";
+      }).join("") + "</div></div>";
+    }).join("");
+    return '<div class="section"><h2>Draw</h2><p class="muted"><span class="key key--cur"></span> Current college player <span class="key key--alum"></span> Alumni · main draw, filled in as matches finish</p>' +
+      '<div class="bk" role="group" aria-label="Main draw bracket">' + cols + "</div></div>";
   }
 
   function pageTournament(id) {
     var t = DATA.tById[id];
     if (!t) return notFound("tournament");
-    var block = eventBlock(t, null, true, true, "both");
+    var block = roundList(t);
     var html = '<p class="crumbs"><a href="#/tournaments">Tournaments</a></p><h1>' + esc(t.name) + "</h1>" +
       '<div class="facts"><span><b>' + esc(fmtRange(t.start, t.end)) + "</b></span><span>" + esc(t.category) + "</span>" +
       (t.country ? "<span>" + esc(t.country) + "</span>" : "") + "<span>" + statusTag(t) + "</span>" +
@@ -397,7 +493,7 @@
     html += '<div class="section">' + (block || empty(t.status === "upcoming"
       ? "No roster players are on the entry list yet. Lists usually appear about two weeks before the event."
       : "No roster players found in this event.")) + "</div>";
-    html += drawHTML(t);
+    html += bracketHTML(t);
     app.innerHTML = html;
   }
 

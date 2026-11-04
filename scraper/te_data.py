@@ -167,7 +167,7 @@ class Names:
         """Full 'Given Surname' for a player dict, or None if not known."""
         slug = p["slug"]
         entry = self.cache.get(slug)
-        stale = (entry is None or "rank" not in entry
+        stale = (entry is None or "rank" not in entry or "height" not in entry
                  or (date.today() - date.fromisoformat(entry.get("asof", "2000-01-01"))).days >= 7)
         if stale:
             if entry is None and not force and not self.possible(p["surname"]):
@@ -179,15 +179,19 @@ class Names:
                     h = soup.select_one("table.plDetail h3") or soup.select_one("h3")
                     raw = h.get_text(" ", strip=True) if h else ""
                     text = soup.get_text(" ", strip=True)
-                    cm = re.search(r"Country:\s*(.+?)\s+Age:", text)
+                    cm = re.search(r"Country:\s*([A-Za-z][A-Za-z .'\-]*?)\s+(?:Height|Weight|Age|Born|Current)", text)
                     rm = re.search(r"Current/Highest rank - singles:\s*(\d+)\.", text)
-                    self.cache[slug] = {"raw": raw, "country": cm.group(1) if cm else "",
+                    hm = re.search(r"Height\s*/\s*Weight:\s*(\d+)\s*cm(?:\s*/\s*(\d+)\s*kg)?", text) or re.search(r"Height:\s*(\d+)\s*cm", text)
+                    wm = re.search(r"(\d+)\s*kg", text)
+                    self.cache[slug] = {"raw": raw, "country": cm.group(1).strip() if cm else "",
                                         "rank": int(rm.group(1)) if rm else None,
+                                        "height": int(hm.group(1)) if hm else None,
+                                        "weight": int(hm.group(2)) if hm and hm.lastindex and hm.lastindex >= 2 and hm.group(2) else (int(wm.group(1)) if wm else None),
                                         "asof": date.today().isoformat()}
                 except Exception as e:
                     LOG.append({"step": "profile", "slug": slug, "error": str(e)[:100], "page": _note(self.page)})
         entry = self.cache.get(slug)
-        raw = (entry or {}).get("raw", "")
+        raw = re.sub(r"\s*\(\d{4}\)", "", (entry or {}).get("raw", "")).strip()   # "Miyoshi Kenta (2004)" -> without the birth year
         if not raw:
             return None
         sn = p["surname"].strip()
@@ -254,7 +258,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
 
                         def side_dict(s_, mp):
                             c = names.cache.get(mp["slug"], {})
-                            return {"name": s_["full"] or mp["surname"], "country": c.get("country", ""),
+                            return {"name": s_["full"] or mp["surname"], "country": clean_country(c.get("country", "")),
                                     "seed": mp["seed"], "winner": s_["winner"], "roster": s_["roster"],
                                     "rank": c.get("rank")}
                         item = {
@@ -297,7 +301,16 @@ def tt_roster(prepared):
     return out
 
 
+def clean_country(c):
+    """Old cache entries sometimes ran into 'Height / Weight: ...'."""
+    return re.split(r"\s+(?:Height|Weight|Age|Born)", c or "")[0].strip()
+
+
 def note_rank(cache, slug, pid):
     c = cache.get(slug) or {}
-    if c.get("rank"):
-        RANKS[pid] = {"rank": c["rank"], "asof": c.get("asof", "")}
+    info = {k: c[k] for k in ("rank", "height", "weight") if c.get(k)}
+    if c.get("country"):
+        info["country"] = clean_country(c["country"])
+    if info:
+        info["asof"] = c.get("asof", "")
+        RANKS[pid] = info

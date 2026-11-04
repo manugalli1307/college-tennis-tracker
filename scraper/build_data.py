@@ -26,6 +26,7 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
+import rankings_data
 import te_data
 import itf_scraper as itf
 import tennis_tracker as tt
@@ -426,6 +427,16 @@ def main():
             draws_by_t.update(drw)
         except Exception as e:
             print(f"[!] ATP section failed: {e}")
+
+        # Current ATP ranking for every roster player (cached, refreshed weekly)
+        print("\n" + "=" * 50 + "\nATP rankings for roster players\n" + "=" * 50)
+        rank_cache = load_json("rank_lookup.json", {})
+        try:
+            rankings_data.lookup(page, [x for x in players if not x.get("alumni")], rank_cache, te_data.RANKS)
+        except Exception as e:
+            print(f"[!] ranking lookup failed: {e}")
+        finally:
+            save_json("rank_lookup.json", rank_cache)
         browser.close()
 
     if not read_ok:
@@ -466,11 +477,17 @@ def main():
 
     draws = {t: v for t, v in old_d.items() if t in tournaments and t not in read_ok}
     draws.update({t: v for t, v in draws_by_t.items() if t in tournaments})
-    ranks = dict(old_r)
-    ranks.update(te_data.RANKS)
+    ranks = {k: dict(v) for k, v in old_r.items()}
+    for pid, info in te_data.RANKS.items():
+        cur = ranks.setdefault(pid, {})
+        cur.update(info)
+        if info.get("unranked"):
+            cur.pop("rank", None)
+        elif info.get("rank"):
+            cur.pop("unranked", None)
 
     tlist = sorted(tournaments.values(), key=lambda r: (r["start"], r["name"]))
-    save_json("scrape_log.json", {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "atp": te_data.LOG})
+    save_json("scrape_log.json", {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "atp": te_data.LOG, "ranks": rankings_data.LOG})
     save_json("players.json", players)
     save_json("tournaments.json", tlist)
     save_json("entries.json", entries)
