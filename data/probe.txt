@@ -1,5 +1,5 @@
 FAIL ATP site: Challenger draw: status 403, 263 characters, expected text MISSING
-OK   ATP site: calendar: status 200, 8120 characters, expected text found
-OK   Tennis Explorer: calendar: status 200, 21748 characters, expected text found
-OK   Tennis Explorer: draw: status 200, 5538 characters, expected text found
-OK   Tennis Explorer: player: status 200, 5482 characters, expected text found
+OK   ATP site: calendar: status 200, 8155 characters, expected text found
+OK   Tennis Explorer: calendar: status 200, 21774 characters, expected text found
+OK   Tennis Explorer: draw: status 200, 5564 characters, expected text found
+OK   Tennis Explorer: player: status 200, 5508 characters, expected text found
