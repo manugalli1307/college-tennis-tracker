@@ -1,8 +1,30 @@
 School,Player,Hometown,First season,Last season,Last class,Graduation year
-Auburn,Alejandro Moreno,"Knoxville, Tenn.",2022-23,2022-23,Freshman,
-Auburn,Billy Blaydes,"Windermere, England",2022-23,2022-23,Freshman,
+Auburn,Brandon Laubser,"Johannesburg, South Africa",2016-17,2016-17,Sophomore,
+Auburn,Lewis Edwards,"Brisbane, Australia",2016-17,2016-17,Freshman,
+Auburn,Olle Thestrup,"Vaxjo, Sweden",2016-17,2016-17,Sophomore,
+Auburn,Richie Sivalls,"Midland, Texas",2016-17,2016-17,Sophomore,
+Auburn,Alex Mascioli,"Wayne, Pa.",2017-18,2017-18,Freshman,
+Auburn,Carles Sarrio,"Valencia, Spain",2016-17,2017-18,Sophomore,
+Auburn,Lorenzo Rodriguez,"Buenos Aires, Argentina",2017-18,2017-18,Freshman,
+Auburn,Michael Durham,"Macon, Ga.",2016-17,2017-18,Sophomore,
+Auburn,Alex Rushin,"San Diego, Calif.",2017-18,2018-19,Sophomore,
+Auburn,Diego Chavarria,"San Jose, Costa Rica",2017-18,2018-19,Sophomore,
+Auburn,Filippo Mora,"Bergamo, Italy",2018-19,2018-19,Freshman,
+Auburn,Matteo DeVincentis,"Rome, Italy",2017-18,2018-19,Sophomore,
+Auburn,Tad Maclean,"Cornwall, England",2017-18,2018-19,Sophomore,
+Auburn,Anders Fry,"Roswell, Ga.",2018-19,2019-20,Sophomore,
+Auburn,Finn Murgett,"Holmfirth, Yorkshire, England",2019-20,2020-21,Sophomore,
+Auburn,Jackson Ross,"San Antonio, Texas",2020-21,2020-21,Freshman,
+Auburn,Jan Galka,"Warsaw, Poland",2020-21,2020-21,Sophomore,
+Auburn,Spencer Gray,"Boca Raton, Fla.",2019-20,2020-21,Sophomore,
+Auburn,Tim Dollman,"Cape Town, South Africa",2020-21,2020-21,Graduate Student,2021
+Auburn,Tyler Stice,"Atlanta, Ga.",2019-20,2020-21,Sophomore,
+Auburn,Josh Raab,"Woodstock, Ga.",2021-22,2021-22,Sophomore,
+Auburn,Maxwell Giddens,"Sylacauga, Ala.",2020-21,2021-22,Sophomore,
 Auburn,Nicholas Heng,"Madison, AL",2022-23,2022-23,Freshman,
-Auburn,Will Nolan,"Derbyshire, England",2022-23,2022-23,Sophomore,
+Auburn,Will Nolan,"Derbyshire, England",2021-22,2022-23,Sophomore,
+Auburn,Alejandro Moreno,"Knoxville, Tenn.",2022-23,2023-24,Sophomore,
+Auburn,Billy Blaydes,"Windermere, England",2022-23,2023-24,Sophomore,
 Baylor University,Juan Benitez,"Medellin, Colombia",2016-17,2016-17,So.,
 Baylor University,Luke Jong,"Rock Rapids, Iowa",2016-17,2016-17,Sr.,2017
 Baylor University,Max Tchoutakian,"Aix en Provence, France",2016-17,2016-17,Sr.,2017
@@ -50,12 +72,12 @@ Columbia,Christopher Grant,"Santa Barbara, Calif.",2016-17,2016-17,Sr.,2017
 Columbia,Miguel Alda,"Round Rock, Texas",2016-17,2016-17,Sr.,2017
 Columbia,Richard Pham,"Saratoga, Calif.",2016-17,2016-17,Sr.,2017
 Columbia,Shawn Hadavi,"Dobbs Ferry, N.Y.",2016-17,2016-17,Sr.,2017
-Columbia,Michal Rolski,"Kielczow, Poland / Oak Meadow (VT)/Wagner",2016-17,2017-18,Sr.,2018
-Columbia,Taiyo Hamanaka,"Eastchester, N.Y. / Eastchester",2016-17,2017-18,Sr.,2018
-Columbia,Jack Turchetta,"Pound Ridge, N.Y. / Brunswick School (Conn.)",2016-17,2018-19,Sr.,2019
-Columbia,Timothy Wang,"Novi, Mich. / Novi",2016-17,2018-19,Sr.,2019
-Columbia,Victor Pham,"Saratoga, Calif. / Menlo",2016-17,2018-19,Sr.,2019
-Columbia,William Matheson,"Auckland, N.Z. / Saint Kentigern College",2016-17,2018-19,Sr.,2019
+Columbia,Michal Rolski,"Kielczow, Poland",2016-17,2017-18,Sr.,2018
+Columbia,Taiyo Hamanaka,"Eastchester, N.Y.",2016-17,2017-18,Sr.,2018
+Columbia,Jack Turchetta,"Pound Ridge, N.Y.",2016-17,2018-19,Sr.,2019
+Columbia,Timothy Wang,"Novi, Mich.",2016-17,2018-19,Sr.,2019
+Columbia,Victor Pham,"Saratoga, Calif.",2016-17,2018-19,Sr.,2019
+Columbia,William Matheson,"Auckland, N.Z.",2016-17,2018-19,Sr.,2019
 Columbia,Adam Ambrozy,"St. Petersburg, Fla. / St. Petersburg",2017-18,2019-20,Sr.,2020
 Columbia,Alex Keyser,"Danville, Calif. / San Ramon Valley",2017-18,2019-20,Sr.,2020
 Columbia,Jackie Tang,Hong Kong / Hong Kong International,2017-18,2019-20,Sr.,2020
@@ -83,6 +105,10 @@ Columbia,Stanly Shukhman,"Livingston, N.J. / Livingston",2023-24,2025-26,Sr.,202
 Cornell,Muhammad Dossani,,2020-21,2020-21,Fr,
 Cornell,Samuel Paquette,,2020-21,2020-21,Fr,
 Cornell,Alafia Ayeni,,2017-18,2021-22,Sr,2022
+LSU,Ben Koch,,2020-21,2020-21,Freshman,
+LSU,Benjamin Ambrosio,,2020-21,2020-21,Freshman,
+LSU,Joao Graca,,2020-21,2020-21,Freshman,
+LSU,Ronald Hohmann,,2020-21,2020-21,Sophomore,
 Michigan State,Alexander Kim,"Milford, Mich.",2016-17,2016-17,So.,
 Michigan State,Doug Francken,"Brookfield, Wisc.",2016-17,2016-17,Fr.,
 Michigan State,Brett Forman,"Troy, Mich. / Troy",2016-17,2017-18,Sr.,2018
@@ -303,8 +329,6 @@ Stanford,Dean Stratakos,"Saratoga, Calif.",2018-19,2019-20,Sophomore,
 Stanford,Kento Perera,"Santa Barbara, Calif.",2017-18,2019-20,Redshirt Sophomore,
 Stanford,Sangeet Sridhar,"Scottsdale, Ariz.",2018-19,2019-20,Sophomore,
 Stanford,Tomas Kopczynski,"Delray Beach, Fla.",2018-19,2019-20,Sophomore,
-Stanford,Filip Kolasinski,"Warsaw, Poland",2019-20,2020-21,Sophomore,
-Stanford,Neel Rajesh,"Oyster Bay, N.Y.",2019-20,2020-21,Sophomore,
 Stanford,Tristan Boyer,"Altadena, Calif.",2020-21,2020-21,Freshman,
 Stanford,Alex Lee,"Oak Brook, Ill.",2020-21,2021-22,Sophomore,
 Stanford,Arthur Fery,"Wimbledon, United Kingdom",2020-21,2021-22,Sophomore,
@@ -312,8 +336,11 @@ Stanford,Aryan Chaudhary,"Santa Clara, Calif.",2020-21,2021-22,Sophomore,
 Stanford,Anders Matta,"Woodside, Calif.",2021-22,2022-23,Sophomore,
 Stanford,Isaac Gorelik,"Weston, Mass.",2022-23,2022-23,Graduate Student,2023
 Stanford,Max Basing,"Oxshott, United Kingdom",2021-22,2022-23,Sophomore,
-Stanford,Nishesh Basavareddy,"Carmel, Ind.",2022-23,2022-23,Freshman,
-Stanford,Samir Banerjee,"Basking Ridge, N.J.",2022-23,2022-23,Freshman,
+Stanford,Filip Kolasinski,"Warsaw, Poland",2019-20,2023-24,Graduate Student,2024
+Stanford,Harsh Hemang Parikh,"Tucson, Ariz.",2023-24,2023-24,Graduate Student,2024
+Stanford,Neel Rajesh,"Oyster Bay, N.Y.",2019-20,2023-24,Graduate Student,2024
+Stanford,Nishesh Basavareddy,"Carmel, Ind.",2022-23,2023-24,Sophomore,
+Stanford,Samir Banerjee,"Basking Ridge, N.J.",2022-23,2023-24,Sophomore,
 TCU,Cameron Norrie,"Auckland, New Zealand",2016-17,2016-17,Jr.,
 TCU,Gianni Mancini,"Irving, Texas",2016-17,2016-17,So.,
 TCU,Hudson Blake,"Phoenix, Ariz.",2016-17,2016-17,Sr.,2017
@@ -457,7 +484,7 @@ University of Florida,Togan Tokac,"Istanbul, Turkey / Gebze Tennis Club",2022-23
 University of Florida,Will Grant,"Boca Raton, Fla. / Laurel Springs",2019-20,2022-23,Jr.,
 University of Florida,Aidan Kim,"Milford, Mich.",2023-24,2023-24,Fr.,
 University of Florida,Mattia Akcan,"Milwaukee, Wis.",2023-24,2023-24,Fr.,
-University of Florida,Nate Bonetto,"Bend, Ore. / Oregon Connections Academy",2021-22,2023-24,Jr.,
+University of Florida,Nate Bonetto,"Bend, Ore.",2021-22,2023-24,Jr.,
 University of Florida,Ben Weintraub,Israel,2024-25,2024-25,Fr.,
 University of Florida,Bradley Paliska,"Lamorlaye, France / CNED",2024-25,2024-25,Gr.,2025
 University of Florida,JanMagnus Johnson,"Cape Coral, Fla.",2023-24,2024-25,R-Sr.,2025
@@ -552,10 +579,10 @@ University of Oklahoma,Rafa Izquierdo,"Galicia, Spain /",2018-19,2018-19,Fr.,
 University of Oklahoma,Spencer Papa,"Edmond, Okla. /",2016-17,2018-19,R-Sr.,2019
 University of Oklahoma,Stefano Tsorotiotis,"Libertyville, Ill. / Libertyville",2017-18,2018-19,So.,
 University of Oklahoma,Taine Bernhard,"Johannesburg, South Africa /",2018-19,2018-19,Fr.,
-University of Oklahoma,Jake Van Emburgh,"Belleair Beach, Fla.",2017-18,2020-21,Sr.,2021
-University of Oklahoma,Jochen Bertsch,"Mannheim, Germany",2016-17,2020-21,5th,2021
+University of Oklahoma,Jake Van Emburgh,"Belleair Beach, Fla. /",2017-18,2020-21,Sr.,2021
+University of Oklahoma,Jochen Bertsch,"Mannheim, Germany /",2016-17,2020-21,5th,2021
 University of Oklahoma,Jonathan Sheehy,"Arlington, Texas / Abilene Christian",2020-21,2020-21,Gr.,2021
-University of Oklahoma,Max Stewart,"Birmingham, England",2017-18,2020-21,Sr.,2021
+University of Oklahoma,Max Stewart,"Birmingham, England /",2017-18,2020-21,Sr.,2021
 University of Oklahoma,Mason Beiler,"New Port Richey, Fla. /",2018-19,2021-22,Sr.,2022
 University of Oklahoma,Matt Rodriguez,"Boca Raton, Fla. /",2018-19,2021-22,Sr.,2022
 University of Oklahoma,Welsh Hotard,"New Orleans, La. /",2020-21,2021-22,So.,
