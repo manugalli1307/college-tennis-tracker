@@ -186,10 +186,19 @@
 
   var ROUND_ORDER = ["round of 256", "round of 128", "round of 64", "round of 32", "round of 16", "1st round", "2nd round", "3rd round",
     "quarter-finals", "quarterfinals", "semi-finals", "semifinals", "final"];
+  var roundOfCache = {};
+  function hasRoundOf(tid) {
+    if (!(tid in roundOfCache)) {
+      roundOfCache[tid] = (DATA.matchesByT[tid] || []).concat(DATA.draws[tid] || []).some(function (x) { return /^(qualifying\s*)?round of/i.test(x.round || "") && x.draw !== "Qualifying"; });
+    }
+    return roundOfCache[tid];
+  }
   function roundIdx(m) {
     var r = String(m.round || "").toLowerCase().replace(/^qualifying\s*/, "");
     var i = ROUND_ORDER.indexOf(r);
-    return (m.draw === "Qualifying" ? -100 : 0) + (i < 0 ? 50 : i);
+    // Challenger/ATP draws call the opening round "1st Round" and the next "Round of 16"
+    if (r === "1st round" && hasRoundOf(m.tournament)) i = -0.5;
+    return (m.draw === "Qualifying" ? -100 : 0) + (i === -1 ? 50 : i);
   }
   function teamRankOf(id) {
     var p = DATA.playerById[id];
@@ -256,10 +265,10 @@
     var cur = ids.filter(function (id) { return !DATA.playerById[id].alumni; }), alu = ids.filter(function (id) { return DATA.playerById[id].alumni; });
     var rows = cur.map(rowFor).join("") + (alu.length ? (cur.length ? '<li class="row row--label">Former college tennis players</li>' : "") + alu.map(rowFor).join("") : "");
     if (noHead) return '<section class="event"><ul class="rows">' + rows + "</ul></section>";
-    return '<section class="event"><div class="event__head"><h3>' + tournamentLink(t) + "</h3>" + statusTag(t) +
+    return '<details class="event"' + (t.status === "current" ? " open" : "") + '><summary class="event__head"><h3>' + tournamentLink(t) + "</h3>" + statusTag(t) +
       '<div class="event__meta"><span>' + esc(fmtRange(t.start, t.end)) + "</span><span>" + esc(t.category) + "</span>" +
-      (t.country ? "<span>" + esc(t.country) + "</span>" : "") + "<span>" + plural(ids.length, "player") + "</span></div></div>" +
-      '<ul class="rows">' + rows + "</ul></section>";
+      (t.country ? "<span>" + esc(t.country) + "</span>" : "") + "<span>" + plural(ids.length, "player") + "</span></div></summary>" +
+      '<ul class="rows">' + rows + "</ul></details>";
   }
 
   function empty(msg) { return '<p class="empty">' + msg + "</p>"; }
@@ -408,7 +417,7 @@
       groups[idx[k]].list.push(m);
     });
     var html = "", seenIn = {};
-    groups.forEach(function (g) {
+    groups.forEach(function (g, gi) {
       function best(m) { return Math.min.apply(null, [m.p1, m.p2].filter(Boolean).reduce(function (acc, o) { return acc.concat(o.roster.map(teamRankOf)); }, [9999])); }
       g.list.sort(function (a, b) { return best(a) - best(b); });
       var rows = g.list.map(function (m) {
@@ -420,7 +429,7 @@
           return playerRow(DATA.playerById[me.roster[0]], null, { m: m, side: side }, false, t);
         }).join("");
       }).join("");
-      html += '<h3 class="dr">' + esc(g.label) + '</h3><ul class="rows">' + rows + "</ul>";
+      html += '<details class="rnd"' + (gi === groups.length - 1 ? " open" : "") + '><summary>' + esc(g.label) + ' <span class="muted small">' + plural(g.list.length, "match", "matches") + '</span></summary><ul class="rows">' + rows + "</ul></details>";
     });
     // entered but no match yet
     var entered = [];
@@ -430,56 +439,107 @@
     });
     entered.sort(function (a, b) { return teamRankOf(a) - teamRankOf(b); });
     if (entered.length) {
-      html += '<h3 class="dr">' + (t.status === "upcoming" ? "Entered" : "On the draw") + '</h3><ul class="rows">' +
-        entered.map(function (id) { return playerRow(DATA.playerById[id], entryFor(t.id, id), null, false, t); }).join("") + "</ul>";
+      html += '<details class="rnd"' + (!groups.length ? " open" : "") + '><summary>' + (t.status === "upcoming" ? "Entered" : "Waiting to play") + ' <span class="muted small">' + entered.length + '</span></summary><ul class="rows">' +
+        entered.map(function (id) { return playerRow(DATA.playerById[id], entryFor(t.id, id), null, false, t); }).join("") + "</ul></details>";
     }
     return html;
   }
 
-  // The main draw as a bracket, college players highlighted. Later rounds fill in as results arrive.
+  // The main draw as a real bracket: every round is drawn, rounds not played yet stay empty and fill in as results arrive.
   function bracketHTML(t) {
     var ms = (DATA.draws[t.id] || []).filter(function (m) { return m.draw === "Main Draw"; });
     if (!ms.length) return "";
-    var byRound = {}, order = [];
+    var byR = {}, keys = [];
     ms.forEach(function (m, i) {
       m._i = i;
       var k = roundIdx(m);
-      if (!byRound[k]) { byRound[k] = []; order.push(k); }
-      byRound[k].push(m);
+      if (!byR[k]) { byR[k] = []; keys.push(k); }
+      byR[k].push(m);
     });
-    order.sort(function (a, b) { return a - b; });
-    // order each round by where its winners went next, so the bracket lines up
-    var posOf = {};
-    for (var r = order.length - 1; r >= 0; r--) {
-      var list = byRound[order[r]];
-      list.forEach(function (m) {
-        var w = m.winner === 1 ? m.p1 : m.winner === 2 ? m.p2 : null;
-        var parent = (w && posOf[w.name]) != null ? posOf[w.name] : 1e6 + m._i;
-        m._k = parent;
-      });
-      list.sort(function (a, b) { return a._k - b._k || a._i - b._i; });
-      posOf = {};
-      list.forEach(function (m, i) { [m.p1, m.p2].forEach(function (o) { if (o && o.name) posOf[o.name] = i; }); });
+    keys.sort(function (a, b) { return a - b; });
+    var first = byR[keys[0]].length, size = 1;
+    while (size < first) size *= 2;
+    var nRounds = Math.round(Math.log(size) / Math.LN2) + 1;
+    function nameOf(d) { // d = rounds from the end
+      if (d === 0) return "Final";
+      if (d === 1) return "Semi-finals";
+      if (d === 2) return "Quarter-finals";
+      return "Round of " + Math.pow(2, d + 1);
+    }
+    function sideKey(o) { // draws sometimes give surname only, so compare on the last word
+      if (!o || !o.name) return null;
+      var w = plain(o.name).split(" "); return w[w.length - 1];
+    }
+    function winnerOf(m) { return m ? (m.winner === 1 ? m.p1 : m.winner === 2 ? m.p2 : null) : null; }
+    var rounds = [], i;
+    var ordered = /^m-itf/.test(t.id); // ITF lists matches in draw order; Tennis Explorer lists them in the order they were played
+    if (ordered) {
+      var r0 = byR[keys[0]].slice().sort(function (a, b) { return a._i - b._i; });
+      rounds.push(r0.concat(new Array(size - r0.length).fill(null)));
+      for (i = 1; i < nRounds; i++) {
+        var slots = new Array(size / Math.pow(2, i)).fill(null);
+        var prev = rounds[i - 1], posOf = {};
+        prev.forEach(function (m, j) { if (m) [m.p1, m.p2].forEach(function (o) { if (sideKey(o)) posOf[sideKey(o)] = j; }); });
+        var real = byR[keys[i]] || [], loose = [];
+        real.forEach(function (m) {
+          var ps = [sideKey(m.p1), sideKey(m.p2)].map(function (n) { return n in posOf ? posOf[n] : null; }).filter(function (x) { return x !== null; });
+          var slot = ps.length ? Math.floor(Math.min.apply(null, ps) / 2) : -1;
+          if (slot >= 0 && slot < slots.length && !slots[slot]) slots[slot] = m; else loose.push(m);
+        });
+        loose.forEach(function (m) { var f = slots.indexOf(null); if (f >= 0) slots[f] = m; });
+        rounds.push(slots);
+      }
+    } else {
+      // build from the latest round back so each match sits next to the match its winner played next
+      var top = keys.length - 1;
+      for (i = 0; i < nRounds; i++) rounds.push(new Array(size / Math.pow(2, i)).fill(null));
+      var topList = byR[keys[top]].slice().sort(function (a, b) { return a._i - b._i; });
+      var topIdx = top;
+      topList.forEach(function (m, j) { rounds[topIdx][j] = m; });
+      for (i = topIdx - 1; i >= 0; i--) {
+        var here = rounds[i], up = rounds[i + 1], left = (byR[keys[i]] || []).slice();
+        up.forEach(function (um, p) {
+          if (!um) return;
+          [um.p1, um.p2].forEach(function (o) {
+            var k = sideKey(o), n = 0;
+            for (n = 0; n < left.length; n++) {
+              if (sideKey(left[n].p1) === k || sideKey(left[n].p2) === k) {
+                var target = here[2 * p] ? 2 * p + 1 : 2 * p;
+                if (!here[target]) { here[target] = left[n]; left.splice(n, 1); }
+                break;
+              }
+            }
+          });
+        });
+        left.forEach(function (m) { var f = here.indexOf(null); if (f >= 0) here[f] = m; });
+      }
     }
     function side(o, won, sets, flip) {
-      if (!o) return '<div class="bk__p"><span class="muted">Bye</span></div>';
+      if (!o) return '<div class="bk__p bk__p--empty"><span class="bk__n">&nbsp;</span><span class="bk__sc"></span></div>';
       var pl = o.roster && o.roster.length && DATA.playerById[o.roster[0]];
       var cls = pl ? (pl.alumni ? " bk__p--alum" : " bk__p--hl") : "";
       var nm = pl ? '<a href="#/player/' + esc(pl.id) + '">' + esc(o.name) + "</a>" : esc(o.name || "TBD");
       var rk2 = o.rank || (pl && DATA.ranks[pl.id] && DATA.ranks[pl.id].rank);
-      return '<div class="bk__p' + (won ? " bk__p--w" : "") + cls + '"><span class="bk__n">' + (o.seed ? '<span class="bk__seed">' + esc(o.seed) + "</span>" : "") + nm +
+      return '<div class="bk__p' + (won ? " bk__p--w" : "") + cls + '"><span class="bk__n" title="' + esc(o.name || "") + '">' + (o.seed ? '<span class="bk__seed">' + esc(o.seed) + "</span>" : "") + nm +
         (pl ? ' <span class="dm__s">' + esc(pl.school) + (pl.alumni ? " alumni" : "") + "</span>" : "") +
         (rk2 ? ' <span class="muted small">ATP #' + esc(rk2) + "</span>" : "") + '</span><span class="bk__sc">' +
         (sets || []).map(function (st) { return "<span>" + setCell(flip ? st[1] : st[0]) + "</span>"; }).join("") + "</span></div>";
     }
-    var cols = order.map(function (k) {
-      var list = byRound[k];
-      return '<div class="bk__col"><h3 class="bk__h">' + esc(list[0].round) + "</h3><div class=\"bk__cards\">" + list.map(function (m) {
-        return '<div class="bk__card' + (m.live ? " bk__card--live" : "") + '">' + side(m.p1, m.winner === 1, m.sets, false) + side(m.p2, m.winner === 2, m.sets, true) + "</div>";
+    var cols = rounds.map(function (slots, r) {
+      var label = nameOf(nRounds - 1 - r);
+      return '<div class="bk__col"><h3 class="bk__h">' + esc(label) + '</h3><div class="bk__cards">' + slots.map(function (m, j) {
+        var inner;
+        if (m) {
+          inner = '<div class="bk__card' + (m.live ? " bk__card--live" : "") + '">' + side(m.p1, m.winner === 1, m.sets, false) + side(m.p2, m.winner === 2, m.sets, true) + "</div>";
+        } else {
+          var a = r > 0 ? winnerOf(rounds[r - 1][2 * j]) : null, b = r > 0 ? winnerOf(rounds[r - 1][2 * j + 1]) : null;
+          inner = '<div class="bk__card bk__card--tbd">' + side(a, false, null, false) + side(b, false, null, true) + "</div>";
+        }
+        return '<div class="bk__slot ' + (j % 2 ? "bk__slot--b" : "bk__slot--a") + (r === nRounds - 1 ? " bk__slot--last" : "") + '">' + inner + "</div>";
       }).join("") + "</div></div>";
     }).join("");
-    return '<div class="section"><h2>Draw</h2><p class="muted"><span class="key key--cur"></span> Current college player <span class="key key--alum"></span> Alumni · main draw, filled in as matches finish</p>' +
-      '<div class="bk" role="group" aria-label="Main draw bracket">' + cols + "</div></div>";
+    return '<details class="section" open><summary><h2>Draw</h2></summary><p class="muted"><span class="key key--cur"></span> Current college player <span class="key key--alum"></span> Former player · main draw, later rounds fill in as matches finish. Scroll sideways and down to see it all.</p>' +
+      '<div class="bk" role="group" aria-label="Main draw bracket">' + cols + "</div></details>";
   }
 
   function pageTournament(id) {
