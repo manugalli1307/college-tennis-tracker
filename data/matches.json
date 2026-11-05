@@ -1,5 +1,38 @@
 [
  {
+  "tournament": "m-itf-chn-2026-034",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Maxim Zhukov",
+   "country": "",
+   "seed": "6",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Stefan Storch",
+   "country": "AUS",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-texas-a-m-university-stefan-storch"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(7)"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-cro-2026-009",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -6213,7 +6246,7 @@
    "name": "Vuk Radjenovic",
    "country": "SRB",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-michigan-state-vuk-radjenovic"
    ]
@@ -6224,6 +6257,39 @@
    "seed": "",
    "winner": false,
    "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tur-2026-027",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Martin VAN DER MEERSCHEN",
+   "country": "BEL",
+   "seed": "4",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Vuk Radjenovic",
+   "country": "SRB",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-michigan-state-vuk-radjenovic"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -6778,39 +6844,6 @@
   "live": false
  },
  {
-  "tournament": "m-itf-chn-2026-034",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Maxim Zhukov",
-   "country": "",
-   "seed": "6",
-   "winner": true,
-   "roster": []
-  },
-  "p2": {
-   "name": "Stefan Storch",
-   "country": "AUS",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-texas-a-m-university-stefan-storch"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "7",
-    "6(7)"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
   "tournament": "m-itf-tun-2026-044",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -6895,10 +6928,47 @@
    "name": "Wissam Abderrahman",
    "country": "TUN",
    "seed": "",
+   "winner": true,
+   "roster": [
+    "ucf-wissam-abderrahman"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "1",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-044",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Wissam Abderrahman",
+   "country": "TUN",
+   "seed": "",
    "winner": false,
    "roster": [
     "ucf-wissam-abderrahman"
    ]
+  },
+  "p2": {
+   "name": "Toufik Sahtali",
+   "country": "ALG",
+   "seed": "",
+   "winner": false,
+   "roster": []
   },
   "winner": 0,
   "sets": [
@@ -7485,7 +7555,7 @@
    "name": "Aleksandre Bakshi",
    "country": "GEO",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-university-of-oklahoma-aleksandre-bakshi"
    ]
@@ -7496,6 +7566,76 @@
    "seed": "7",
    "winner": false,
    "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-031",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Oscar Weightman",
+   "country": "GBR",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-usc-oscar-weightman"
+   ]
+  },
+  "p2": {
+   "name": "Adrien Burdet",
+   "country": "SUI",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-031",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "John Bothma",
+   "country": "RSA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Aleksandre Bakshi",
+   "country": "GEO",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-oklahoma-aleksandre-bakshi"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -7517,7 +7657,7 @@
  {
   "tournament": "m-itf-egy-2026-031",
   "draw": "Main Draw",
-  "round": "2nd Round",
+  "round": "Quarter-finals",
   "p1": {
    "name": "Oscar Weightman",
    "country": "GBR",
@@ -7528,8 +7668,8 @@
    ]
   },
   "p2": {
-   "name": "Adrien Burdet",
-   "country": "SUI",
+   "name": "",
+   "country": "",
    "seed": "",
    "winner": false,
    "roster": []
@@ -8118,9 +8258,9 @@
   "draw": "Main Draw",
   "round": "Quarter-finals",
   "p1": {
-   "name": "",
-   "country": "",
-   "seed": "",
+   "name": "Alan Fernando Rubio Fierros",
+   "country": "MEX",
+   "seed": "3",
    "winner": false,
    "roster": []
   },
@@ -8478,22 +8618,22 @@
    "name": "Max Wiskandt",
    "country": "GER",
    "seed": "2",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "2"
    ],
    [
-    "",
-    ""
+    "5",
+    "7"
    ],
    [
-    "",
-    ""
+    "2",
+    "6"
    ]
   ],
   "live": false
@@ -8664,9 +8804,9 @@
    ]
   },
   "p2": {
-   "name": "",
-   "country": "",
-   "seed": "",
+   "name": "Max Wiskandt",
+   "country": "GER",
+   "seed": "2",
    "winner": false,
    "roster": []
   },
@@ -8809,24 +8949,20 @@
    "name": "Ioannis Xilas",
    "country": "GRE",
    "seed": "7",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-wake-forest-ioannis-xilas"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "0",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "1",
+    "6"
    ]
   ],
   "live": false
@@ -8886,6 +9022,43 @@
    "winner": false,
    "roster": [
     "alumni-university-of-florida-pablo-perez-ramos"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-015",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Andrej Nedic",
+   "country": "BIH",
+   "seed": "1",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "GRE",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
    ]
   },
   "winner": 0,

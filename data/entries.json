@@ -1,13 +1,13 @@
 [
  {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-michigan-state-vuk-radjenovic",
-  "section": "Qualifying",
-  "match": "full name"
+  "tournament": "m-itf-chn-2026-034",
+  "player": "alumni-texas-a-m-university-stefan-storch",
+  "section": "Main Draw",
+  "match": "draw"
  },
  {
-  "tournament": "m-itf-gre-2026-016",
-  "player": "alumni-nc-state-damien-salvestre",
+  "tournament": "m-itf-tur-2026-028",
+  "player": "alumni-michigan-state-vuk-radjenovic",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -79,6 +79,12 @@
  },
  {
   "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-smu-liam-krall",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
   "player": "alumni-university-of-georgia-ryan-colby",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
@@ -103,12 +109,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-051",
-  "player": "university-of-georgia-james-weber",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
   "player": "ucf-fadi-bidan",
   "section": "Qualifying",
   "match": "full name"
@@ -127,12 +127,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-051",
-  "player": "nc-state-lachlan-mcfadzean",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
   "player": "alumni-baylor-university-jacob-brumm",
   "section": "Qualifying",
   "match": "full name"
@@ -140,12 +134,6 @@
  {
   "tournament": "m-itf-usa-2026-051",
   "player": "alumni-michigan-state-max-sheldon",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-smu-liam-krall",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -223,6 +211,12 @@
  },
  {
   "tournament": "m-itf-usa-2026-049",
+  "player": "wake-forest-emanuel-ivanisevic",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-049",
   "player": "wake-forest-luca-pow",
   "section": "Qualifying",
   "match": "full name"
@@ -230,12 +224,6 @@
  {
   "tournament": "m-itf-usa-2026-049",
   "player": "tcu-oliver-bonding",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-049",
-  "player": "tcu-maximus-dussault",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -277,12 +265,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-049",
-  "player": "mississippi-state-segundo-goity-zapico",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-049",
   "player": "lsu-michael-bassem-sobhy",
   "section": "Qualifying",
   "match": "full name"
@@ -301,12 +283,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-049",
-  "player": "alumni-michigan-state-aristotelis-thanos",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-049",
   "player": "alumni-ohio-state-jack-anthrop",
   "section": "Qualifying",
   "match": "full name"
@@ -314,6 +290,12 @@
  {
   "tournament": "m-itf-usa-2026-049",
   "player": "alumni-smu-ofek-shimanov",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-049",
+  "player": "alumni-university-of-arizona-hiroki-sakagawa",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -385,7 +367,7 @@
  },
  {
   "tournament": "m-itf-can-2026-005",
-  "player": "usc-connor-church",
+  "player": "ucla-aadarsh-tripathi",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -504,12 +486,6 @@
   "match": "full name"
  },
  {
-  "tournament": "m-itf-tur-2026-029",
-  "player": "alumni-university-of-illinois-at-urbana-champaign-gabrielius-guzauskas",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
   "tournament": "m-itf-tha-2026-014",
   "player": "alumni-nc-state-fons-van-sambeek",
   "section": "Main Draw Direct Acceptance",
@@ -572,6 +548,12 @@
  {
   "tournament": "m-itf-usa-2026-046",
   "player": "ucf-nicolas-oliveira",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "player": "nc-state-william-manning",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -655,12 +637,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-046",
-  "player": "nc-state-william-manning",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-046",
   "player": "nc-state-lachlan-mcfadzean",
   "section": "Qualifying",
   "match": "full name"
@@ -679,7 +655,19 @@
  },
  {
   "tournament": "m-itf-usa-2026-046",
+  "player": "alumni-ohio-state-alexander-bernard",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
   "player": "alumni-university-of-georgia-santiago-giamichelle",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "player": "alumni-university-of-illinois-at-urbana-champaign-william-mroz",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -711,12 +699,6 @@
   "tournament": "m-itf-egy-2026-033",
   "player": "alumni-university-of-oklahoma-aleksandre-bakshi",
   "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-ind-2026-007",
-  "player": "alumni-wake-forest-siddhant-banthia",
-  "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
  {
@@ -788,6 +770,12 @@
  {
   "tournament": "m-itf-usa-2026-050",
   "player": "ohio-state-denis-petak",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-050",
+  "player": "mississippi-state-pepijn-bastiaansen",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -1856,12 +1844,6 @@
  {
   "tournament": "m-itf-usa-2026-048",
   "player": "alumni-university-of-georgia-tristan-mccormick",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-chn-2026-034",
-  "player": "alumni-texas-a-m-university-stefan-storch",
   "section": "Main Draw",
   "match": "draw"
  },
