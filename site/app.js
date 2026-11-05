@@ -493,6 +493,16 @@
         loose.forEach(function (m) { var f = slots.indexOf(null); if (f >= 0) slots[f] = m; });
         rounds.push(slots);
       }
+    } else if (ms.every(function (m) { return m.p1 && m.p2 && m.p1.slot != null && m.p2.slot != null; })) {
+      // the draw gave every player's first-round position, so each match has an exact place
+      for (i = 0; i < nRounds; i++) rounds.push(new Array(size / Math.pow(2, i)).fill(null));
+      keys.forEach(function (k, ki) {
+        byR[k].slice().sort(function (a, b) { return a._i - b._i; }).forEach(function (m) {
+          var j = Math.floor(Math.min(m.p1.slot, m.p2.slot) / Math.pow(2, ki + 1));
+          if (rounds[ki] && j < rounds[ki].length && !rounds[ki][j]) rounds[ki][j] = m;
+          else if (rounds[ki]) { var f = rounds[ki].indexOf(null); if (f >= 0) rounds[ki][f] = m; }
+        });
+      });
     } else {
       // build from the latest round back so each match sits next to the match its winner played next
       var top = keys.length - 1;
@@ -524,7 +534,7 @@
       var cls = pl ? (pl.alumni ? " bk__p--alum" : " bk__p--hl") : "";
       var nm = pl ? '<a href="#/player/' + esc(pl.id) + '">' + esc(o.name) + "</a>" : esc(o.name || "TBD");
       var rk2 = o.rank || (pl && DATA.ranks[pl.id] && DATA.ranks[pl.id].rank);
-      return '<div class="bk__p' + (won ? " bk__p--w" : "") + cls + '"><span class="bk__n" title="' + esc(o.name || "") + '">' + (o.seed ? '<span class="bk__seed">' + esc(o.seed) + "</span>" : "") + nm +
+      return '<div class="bk__p' + (won ? " bk__p--w" : "") + cls + '"><span class="bk__n" title="' + esc(o.name || "") + '">' + (o.seed ? '<span class="bk__seed">' + esc(o.seed) + "</span>" : "") + nm + (o.key ? ' <span class="bk__key">' + esc(o.key) + "</span>" : "") +
         (pl ? ' <span class="dm__s">' + esc(pl.school) + (pl.alumni ? " alumni" : "") + "</span>" : "") +
         (rk2 ? ' <span class="muted small">ATP #' + esc(rk2) + "</span>" : "") + '</span><span class="bk__sc">' +
         (sets || []).map(function (st) { return "<span>" + setCell(flip ? st[1] : st[0]) + "</span>"; }).join("") + "</span></div>";

@@ -120,11 +120,30 @@ def parse_event(soup):
     seen = set()
     dr = soup.select_one("#draw")
     if dr:
-        for a in dr.select('a[href^="/player/"]'):
+        for el in dr.find_all("div"):
+            a = el.find("a", href=re.compile(r"^/player/"))
+            if not a:
+                continue
+            st = el.get("style", "")
+            lm, tm = re.search(r"left:\s*(-?\d+)", st), re.search(r"top:\s*(-?\d+)", st)
+            tag = re.search(r"\[([^\]]+)\]", el.get_text(" ", strip=True))
             slug = a["href"].split("/player/")[1].strip("/")
+            rec = {"surname": a.get_text(" ", strip=True), "slug": slug, "seed": "",
+                   "left": int(lm.group(1)) if lm else None, "top": int(tm.group(1)) if tm else None,
+                   "tag": tag.group(1).strip() if tag else ""}
             if slug not in seen:
                 seen.add(slug)
-                draw.append({"surname": a.get_text(" ", strip=True), "slug": slug, "seed": ""})
+                draw.append(rec)
+            else:  # the same name shows again in later columns; keep the left-most (first-round) one
+                old = [p for p in draw if p["slug"] == slug][0]
+                if rec["left"] is not None and (old["left"] is None or rec["left"] < old["left"]):
+                    old.update(rec)
+        # first-round column = the left-most column; its rows, top to bottom, are the bracket order
+        lefts = [p["left"] for p in draw if p["left"] is not None]
+        if lefts:
+            col0 = sorted([p for p in draw if p["left"] == min(lefts)], key=lambda p: p["top"])
+            for i, p in enumerate(col0):
+                p["slot"] = i
     matches = []
     for tr in soup.select("table.result tr[id]"):
         mid = tr.get("id", "")
@@ -232,6 +251,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                 if not draw and not finished:
                     continue
                 any_data = True
+                dinfo = {p["slug"]: p for p in draw} if section == "Main Draw" else {}
                 if ev["status"] in ("upcoming", "current"):
                     for p in draw:
                         full = names.full(p)
@@ -258,9 +278,16 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
 
                         def side_dict(s_, mp):
                             c = names.cache.get(mp["slug"], {})
-                            return {"name": s_["full"] or mp["surname"], "country": clean_country(c.get("country", "")),
-                                    "seed": mp["seed"], "winner": s_["winner"], "roster": s_["roster"],
-                                    "rank": c.get("rank")}
+                            di = dinfo.get(mp["slug"], {})
+                            tag = di.get("tag", "")
+                            d = {"name": s_["full"] or mp["surname"], "country": clean_country(c.get("country", "")),
+                                 "seed": mp["seed"] or (tag if tag.isdigit() else ""), "winner": s_["winner"], "roster": s_["roster"],
+                                 "rank": c.get("rank")}
+                            if tag and not tag.isdigit():
+                                d["key"] = tag          # Q, WC, LL ...
+                            if di.get("slot") is not None:
+                                d["slot"] = di["slot"]  # first-round position in the bracket
+                            return d
                         item = {
                             "tournament": tid, "draw": section, "round": m["round"],
                             "p1": side_dict(sides[0], m["p1"]), "p2": side_dict(sides[1], m["p2"]),
@@ -269,6 +296,8 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                         alls.append(item)
                         if hit:
                             ms.append(item)
+                if section == "Main Draw" and ev["status"] in ("upcoming", "current"):
+                    alls.extend(_open_pairs(draw, finished, tid, alls, names, roster_ids_for, prepared, id_by_key))
             print(f"    {len(ents)} roster entr(ies), {len(ms)} roster match(es)")
             LOG.append({"step": "event", "id": tid, "name": ev["name"], "status": ev["status"],
                         "entries": len(ents), "matches": len(ms), "data": any_data})
@@ -290,6 +319,35 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
             LOG.append({"step": "event", "id": tid, "error": str(e)[:120]})
     LOG.append({"step": "profiles opened", "count": names.fetched})
     return records, read_ok, entries_by_t, matches_by_t, draws_by_t
+
+
+def _open_pairs(draw, finished, tid, alls, names, roster_ids_for, prepared, id_by_key):
+    """First-round pairs from the draw that have no result yet, so the bracket shows the whole draw."""
+    col0 = sorted([p for p in draw if p.get("slot") is not None], key=lambda p: p["slot"])
+    played = {frozenset((m["p1"]["slug"], m["p2"]["slug"])) for m in finished}
+    first = [m["round"] for m in finished if m.get("p1") and m["p1"]["slug"] in {p["slug"] for p in col0}
+             and m["p2"]["slug"] in {p["slug"] for p in col0}]
+    label = max(set(first), key=first.count) if first else "1st Round"
+    out = []
+
+    def side(p):
+        full = names.full(p) if names.possible(p["surname"]) else None
+        roster = [pid for pid, kind in roster_ids_for(full, prepared, id_by_key, strict=True)] if full else []
+        c = names.cache.get(p["slug"], {})
+        tag = p.get("tag", "")
+        d = {"name": full or p["surname"], "country": clean_country(c.get("country", "")), "seed": tag if tag.isdigit() else "",
+             "winner": False, "roster": roster, "rank": c.get("rank"), "slot": p["slot"]}
+        if tag and not tag.isdigit():
+            d["key"] = tag
+        return d
+
+    for i in range(0, len(col0) - 1, 2):
+        a, b = col0[i], col0[i + 1]
+        if frozenset((a["slug"], b["slug"])) in played:
+            continue
+        out.append({"tournament": tid, "draw": "Main Draw", "round": label, "p1": side(a), "p2": side(b),
+                    "winner": 0, "sets": [], "live": False})
+    return out
 
 
 def tt_roster(prepared):
