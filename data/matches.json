@@ -12657,22 +12657,14 @@
    "name": "William Mirarchi",
    "country": "ITA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "2",
+    "6"
    ]
   ],
   "live": false
@@ -12727,24 +12719,20 @@
    "name": "Dragos Cazacu",
    "country": "ROU",
    "seed": "3",
-   "winner": false,
+   "winner": true,
    "roster": [
     "university-of-oklahoma-dragos-cazacu"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "4",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "0",
+    "4"
    ]
   ],
   "live": false
@@ -12803,24 +12791,24 @@
    "name": "Max Sheldon",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-michigan-state-max-sheldon"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "3"
    ],
    [
-    "",
-    ""
+    "6(6)",
+    "7"
    ],
    [
-    "",
-    ""
+    "1",
+    "1"
    ]
   ],
   "live": false
@@ -12867,8 +12855,8 @@
   "draw": "Main Draw",
   "round": "Quarter-finals",
   "p1": {
-   "name": "",
-   "country": "",
+   "name": "William Mirarchi",
+   "country": "ITA",
    "seed": "",
    "winner": false,
    "roster": []
@@ -12904,6 +12892,43 @@
   "draw": "Main Draw",
   "round": "Quarter-finals",
   "p1": {
+   "name": "Anuj Watane",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Dragos Cazacu",
+   "country": "ROU",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "university-of-oklahoma-dragos-cazacu"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
    "name": "Felix Corwin",
    "country": "USA",
    "seed": "6",
@@ -12913,11 +12938,13 @@
    ]
   },
   "p2": {
-   "name": "",
-   "country": "",
+   "name": "Max Sheldon",
+   "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-michigan-state-max-sheldon"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -14694,7 +14721,7 @@
    "name": "Giovanni Branchetti",
    "country": "ARG",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-gonzaga-giovanni-branchetti"
    ]
@@ -14706,19 +14733,15 @@
    "winner": false,
    "roster": []
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "3"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -14841,24 +14864,20 @@
    "name": "Maxence Bertimon",
    "country": "FRA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-vcu-maxence-bertimon"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "4",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "5",
+    "7"
    ]
   ],
   "live": false
@@ -14871,7 +14890,7 @@
    "name": "Simone Massucco",
    "country": "ITA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -14881,6 +14900,43 @@
    "winner": false,
    "roster": [
     "alumni-pepperdine-adrian-oetzbach"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ita-2026-031",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Gianmarco Ferrari",
+   "country": "ITA",
+   "seed": "1",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Maxence Bertimon",
+   "country": "FRA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-vcu-maxence-bertimon"
    ]
   },
   "winner": 0,
@@ -15893,24 +15949,20 @@
    "name": "Mikael Arseneault",
    "country": "CAN",
    "seed": "7",
-   "winner": false,
+   "winner": true,
    "roster": [
     "kentucky-mikael-arseneault"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "2",
+    "6"
    ]
   ],
   "live": false
@@ -15923,7 +15975,7 @@
    "name": "Theodore Dean",
    "country": "USA",
    "seed": "6",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-california-theodore-dean"
    ]
@@ -15937,19 +15989,15 @@
     "clemson-romain-gales"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "3"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -16014,6 +16062,80 @@
    "roster": [
     "alumni-pepperdine-daniel-de-jonge"
    ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Mikael Arseneault",
+   "country": "CAN",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "kentucky-mikael-arseneault"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Theodore Dean",
+   "country": "USA",
+   "seed": "6",
+   "winner": false,
+   "roster": [
+    "alumni-california-theodore-dean"
+   ]
+  },
+  "p2": {
+   "name": "",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": []
   },
   "winner": 0,
   "sets": [
@@ -17335,7 +17457,7 @@
    "name": "Bryce Nakashima",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "ohio-state-bryce-nakashima"
    ]
@@ -17349,19 +17471,19 @@
     "texas-a-m-university-togan-tokac"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "5",
+    "7"
    ],
    [
-    "",
-    ""
+    "6",
+    "4"
    ],
    [
-    "",
-    ""
+    "6",
+    "1"
    ]
   ],
   "live": false
@@ -17383,24 +17505,20 @@
    "name": "Kaylan Bigun",
    "country": "USA",
    "seed": "7",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-ucla-kaylan-bigun"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "3",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "4",
+    "6"
    ]
   ],
   "live": false
@@ -17422,22 +17540,22 @@
    "name": "Aidan Mchugh",
    "country": "GBR",
    "seed": "4",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "3"
    ],
    [
-    "",
-    ""
+    "6(5)",
+    "7"
    ],
    [
-    "",
-    ""
+    "3",
+    "6"
    ]
   ],
   "live": false
@@ -17497,6 +17615,45 @@
    "winner": false,
    "roster": [
     "texas-a-m-university-bor-artnak"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Bryce Nakashima",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "ohio-state-bryce-nakashima"
+   ]
+  },
+  "p2": {
+   "name": "Kaylan Bigun",
+   "country": "USA",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-ucla-kaylan-bigun"
    ]
   },
   "winner": 0,
@@ -18088,7 +18245,7 @@
    "name": "Luka Talan Lopatic",
    "country": "SLO",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-university-of-oklahoma-luka-talan-lopatic"
    ]
@@ -18100,19 +18257,19 @@
    "winner": false,
    "roster": []
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "3",
+    "6"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(3)"
    ],
    [
-    "",
-    ""
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -18131,11 +18288,13 @@
    ]
   },
   "p2": {
-   "name": "",
-   "country": "",
+   "name": "Luka Talan Lopatic",
+   "country": "SLO",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-university-of-oklahoma-luka-talan-lopatic"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -28118,6 +28277,48 @@
    [
     "6",
     "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-charlottesville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Max Hans Rehberg",
+   "country": "Germany",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 248,
+   "slot": 18
+  },
+  "p2": {
+   "name": "Daniel Milavsky",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-harvard-daniel-milavsky"
+   ],
+   "rank": 307,
+   "key": "Q",
+   "slot": 17
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(2)",
+    "7"
+   ],
+   [
+    "7",
+    "5"
+   ],
+   [
+    "7",
+    "5"
    ]
   ],
   "live": false
