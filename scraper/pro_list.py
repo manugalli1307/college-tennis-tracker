@@ -48,9 +48,9 @@ def parse_stints(text):
     return out
 
 
-def read_list():
+def read_list(path=None):
     rows = []
-    for line in RAW.read_text(encoding="utf-8").splitlines():
+    for line in (path or RAW).read_text(encoding="utf-8").splitlines():
         p = line.split("\t")
         if len(p) < 4 or not p[0].strip().isdigit():
             continue

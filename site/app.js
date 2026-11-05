@@ -292,7 +292,7 @@
     var live = cur.reduce(function (n, t) { return n + curCount(t); }, 0);
     var upc = nxt.reduce(function (n, t) { return n + curCount(t); }, 0);
     var html = '<section class="hero"><h1>Top college players,<br>pro tournaments</h1>' +
-      '<p class="lede">Men from the top 30 Division I teams at ITF M15 and M25 events, ATP Challengers and the ATP Tour: who is playing now, who is entered next, and how they did.</p>' +
+      '<p class="lede">Men from the top 30 Division I teams, plus other college players who hold an ATP ranking, at ITF M15 and M25 events, ATP Challengers and the ATP Tour: who is playing now, who is entered next, and how they did.</p>' +
       '<div class="hero__count"><span><b>' + live + "</b>in events now</span><span><b>" + upc + "</b>entered in upcoming events</span><span><b>" +
       DATA.players.length + "</b>players on " + teamList().length + " teams</span></div></section>";
     html += '<div class="chips" role="group" aria-label="Who to show"><button type="button" data-view="current" aria-pressed="' + (homeView === "current") + '">College players</button>' +
@@ -316,12 +316,16 @@
   }
 
   function pageTeams() {
-    app.innerHTML = "<h1>Teams</h1><p class=\"lede\">The top 30 Division I men's teams, by team ranking.</p>" +
-      '<ul class="grid section">' + teamList().map(function (t) {
-        var active = t.players.filter(function (p) { return (DATA.entriesByP[p.id] || []).length; }).length;
-        return '<li><a href="#/team/' + esc(t.slug) + '"><span><span class="num">' + (t.rank < 999 ? t.rank + " " : "") + "</span><strong>" +
-          esc(t.school) + '</strong></span><span class="muted">' + (active ? active + " on tour" : plural(t.players.length, "player")) + "</span></a></li>";
-      }).join("") + "</ul>";
+    function card(t) {
+      var active = t.players.filter(function (p) { return (DATA.entriesByP[p.id] || []).length; }).length;
+      return '<li><a href="#/team/' + esc(t.slug) + '"><span><span class="num">' + (t.rank < 999 ? t.rank + " " : "") + "</span><strong>" +
+        esc(t.school) + '</strong></span><span class="muted">' + (active ? active + " on tour" : plural(t.players.length, "player")) + "</span></a></li>";
+    }
+    var all = teamList(), top = all.filter(function (t) { return t.rank < 999; }), more = all.filter(function (t) { return t.rank >= 999; });
+    more.sort(function (a, b) { return b.players.length - a.players.length || a.school.localeCompare(b.school); });
+    app.innerHTML = "<h1>Teams</h1><p class=\"lede\">The top 30 Division I men's teams by team ranking, plus other schools that have a player with an ATP ranking.</p>" +
+      '<div class="section"><h2>Top 30 teams</h2><ul class="grid">' + top.map(card).join("") + "</ul></div>" +
+      (more.length ? '<details class="section"><summary><h2>Other schools (' + more.length + ")</h2></summary><ul class=\"grid\">" + more.map(card).join("") + "</ul></details>" : "");
   }
 
   function pageTeam(key) {
