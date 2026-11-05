@@ -1,59 +1,5 @@
 [
  {
-  "tournament": "m-itf-can-2026-004",
-  "player": "ucla-aadarsh-tripathi",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "alumni-baylor-university-oskar-brostrom-poulsen",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "texas-a-m-university-tiago-pires",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "clemson-tiago-pires",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "clemson-marko-mesarovic",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "clemson-romain-gales",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "cornell-rodrigo-fernandes",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "clemson-viktor-markov",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-can-2026-004",
-  "player": "alumni-pepperdine-daniel-de-jonge",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-tur-2026-028",
   "player": "alumni-michigan-state-vuk-radjenovic",
   "section": "Qualifying",
@@ -231,12 +177,6 @@
   "tournament": "m-itf-egy-2026-032",
   "player": "alumni-university-of-texas-at-austin-pierre-yves-bailly",
   "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-032",
-  "player": "alumni-wake-forest-saud-alhogbani",
-  "section": "Qualifying",
   "match": "full name"
  },
  {
@@ -756,12 +696,6 @@
   "match": "full name"
  },
  {
-  "tournament": "m-itf-bol-2026-002",
-  "player": "alumni-university-of-georgia-salvador-price",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
   "tournament": "m-itf-egy-2026-033",
   "player": "alumni-usc-oscar-weightman",
   "section": "Main Draw Direct Acceptance",
@@ -919,12 +853,6 @@
  },
  {
   "tournament": "m-itf-gre-2026-017",
-  "player": "alumni-wake-forest-melios-efstathiou",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-gre-2026-017",
   "player": "alumni-wake-forest-ioannis-xilas",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
@@ -962,12 +890,6 @@
  {
   "tournament": "m-itf-tun-2026-046",
   "player": "usc-branko-djuric",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-046",
-  "player": "alumni-tcu-pedro-vives",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -1363,12 +1285,6 @@
  },
  {
   "tournament": "m-itf-gbr-2026-007",
-  "player": "alumni-university-of-arizona-jared-horwood",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-gbr-2026-007",
   "player": "alumni-university-of-florida-pablo-perez-ramos",
   "section": "Main Draw",
   "match": "draw"
@@ -1676,12 +1592,6 @@
  {
   "tournament": "m-itf-usa-2026-040",
   "player": "lsu-olaf-pieczkowski",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-040",
-  "player": "alumni-smu-xavier-calvelo",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -2034,6 +1944,60 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-can-2026-004",
+  "player": "ucla-aadarsh-tripathi",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "alumni-baylor-university-oskar-brostrom-poulsen",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "texas-a-m-university-tiago-pires",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-tiago-pires",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-marko-mesarovic",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-romain-gales",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "cornell-rodrigo-fernandes",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "clemson-viktor-markov",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "alumni-pepperdine-daniel-de-jonge",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-mex-2026-010",
   "player": "alumni-baylor-university-matias-soto",
   "section": "Main Draw",
@@ -2089,12 +2053,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-047",
-  "player": "alumni-baylor-university-alexandru-chirita",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-047",
   "player": "baylor-university-erik-schiessl",
   "section": "Main Draw",
   "match": "draw"
@@ -2126,12 +2084,6 @@
  {
   "tournament": "m-itf-gre-2026-015",
   "player": "alumni-university-of-texas-at-austin-gilles-arnaud-bailly",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-gre-2026-015",
-  "player": "alumni-wake-forest-melios-efstathiou",
   "section": "Main Draw",
   "match": "draw"
  },

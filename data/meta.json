@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T22:15:06+00:00",
+ "updated": "2026-11-05T01:07:20+00:00",
  "window": {
   "back_days": 14,
   "ahead_days": 21
  },
  "counts": {
   "players": 276,
-  "alumni": 660,
+  "alumni": 154,
   "tournaments": 106,
-  "entries": 431,
-  "matches": 415
+  "entries": 423,
+  "matches": 417
  }
 }

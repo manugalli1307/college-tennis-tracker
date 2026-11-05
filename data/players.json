@@ -2208,72 +2208,6 @@
   "hometown": "Hungary"
  },
  {
-  "id": "alumni-auburn-brandon-laubser",
-  "name": "Brandon Laubser",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Johannesburg, South Africa",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-auburn-lewis-edwards",
-  "name": "Lewis Edwards",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "Brisbane, Australia",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-auburn-olle-thestrup",
-  "name": "Olle Thestrup",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Vaxjo, Sweden",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-auburn-richie-sivalls",
-  "name": "Richie Sivalls",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Midland, Texas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-auburn-alex-mascioli",
-  "name": "Alex Mascioli",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "Wayne, Pa.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-smu-carles-sarrio",
-  "name": "Carles Sarrio",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Valencia, Spain / Auburn",
-  "alumni": true,
-  "grad": "2020",
-  "last_season": "2019-20"
- },
- {
   "id": "alumni-auburn-lorenzo-rodriguez",
   "name": "Lorenzo Rodriguez",
   "school": "Auburn",
@@ -2283,83 +2217,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2017-18"
- },
- {
-  "id": "alumni-auburn-michael-durham",
-  "name": "Michael Durham",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Macon, Ga.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-auburn-alex-rushin",
-  "name": "Alex Rushin",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "San Diego, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-auburn-diego-chavarria",
-  "name": "Diego Chavarria",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "San Jose, Costa Rica",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-auburn-filippo-mora",
-  "name": "Filippo Mora",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "Bergamo, Italy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-auburn-matteo-devincentis",
-  "name": "Matteo DeVincentis",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Rome, Italy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-auburn-tad-maclean",
-  "name": "Tad Maclean",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Cornwall, England",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-auburn-anders-fry",
-  "name": "Anders Fry",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Roswell, Ga.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
  },
  {
   "id": "alumni-auburn-finn-murgett",
@@ -2373,50 +2230,6 @@
   "last_season": "2020-21"
  },
  {
-  "id": "alumni-auburn-jackson-ross",
-  "name": "Jackson Ross",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "San Antonio, Texas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-auburn-jan-galka",
-  "name": "Jan Galka",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Warsaw, Poland",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-auburn-spencer-gray",
-  "name": "Spencer Gray",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Boca Raton, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-auburn-tim-dollman",
-  "name": "Tim Dollman",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Graduate Student",
-  "hometown": "Cape Town, South Africa",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
   "id": "alumni-auburn-tyler-stice",
   "name": "Tyler Stice",
   "school": "Auburn",
@@ -2426,50 +2239,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2020-21"
- },
- {
-  "id": "alumni-auburn-josh-raab",
-  "name": "Josh Raab",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Woodstock, Ga.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-auburn-maxwell-giddens",
-  "name": "Maxwell Giddens",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Sylacauga, Ala.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-auburn-nicholas-heng",
-  "name": "Nicholas Heng",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "Madison, AL",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-auburn-will-nolan",
-  "name": "Will Nolan",
-  "school": "Auburn",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Derbyshire, England",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
  },
  {
   "id": "alumni-auburn-alejandro-moreno",
@@ -2494,138 +2263,6 @@
   "last_season": "2023-24"
  },
  {
-  "id": "alumni-baylor-university-juan-benitez",
-  "name": "Juan Benitez",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Medellin, Colombia",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-baylor-university-luke-jong",
-  "name": "Luke Jong",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Rock Rapids, Iowa",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-baylor-university-max-tchoutakian",
-  "name": "Max Tchoutakian",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Aix en Provence, France",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-baylor-university-sam-may",
-  "name": "Sam May",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Waco, Texas",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-baylor-university-tyler-stayer",
-  "name": "Tyler Stayer",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Highland Park, Texas",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-baylor-university-akos-kotorman",
-  "name": "Akos Kotorman",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Budapest, Hungary / Diana HS",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-baylor-university-bjoern-petersen",
-  "name": "Bjoern Petersen",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Eckernfoerde, Germany / Internatsgymnasium Louisenlund",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-baylor-university-jimmy-bendeck",
-  "name": "Jimmy Bendeck",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Hollywood, Fla. / Family Tree HS",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-baylor-university-johannes-schretter",
-  "name": "Johannes Schretter",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Graz, Austria / BORG Monsberger",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-baylor-university-kyrylo-tsygura",
-  "name": "Kyrylo Tsygura",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "North Potomac, Md. / IMG Academy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-baylor-university-roy-smith",
-  "name": "Roy Smith",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "New Haven, Connecticut / Cooperative Arts & Humanities HS",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-baylor-university-will-little",
-  "name": "Will Little",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Joplin, Mo. / College Heights Christian School",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
   "id": "alumni-baylor-university-jenson-brooksby",
   "name": "Jenson Brooksby",
   "school": "Baylor University",
@@ -2635,61 +2272,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2019-20"
- },
- {
-  "id": "alumni-baylor-university-alex-garcia",
-  "name": "Alex Garcia",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Leon, Spain / I.E.S. López de Mendoza",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-baylor-university-charlie-broom",
-  "name": "Charlie Broom",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Hertfordshire, England / St. Albans School",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-baylor-university-constantin-frantzen",
-  "name": "Constantin Frantzen",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Augsburg, Germany / Stadtische Robert-Bosch Fachoberschule",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-baylor-university-joseph-chen",
-  "name": "Joseph Chen",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Taipei, Taiwan / National Nanke Experimental H.S.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-baylor-university-nick-stachowiak",
-  "name": "Nick Stachowiak",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Cary, N.C. / Middle Creek H.S.",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
  },
  {
   "id": "alumni-baylor-university-rahul-dhokia",
@@ -2714,50 +2296,6 @@
   "last_season": "2020-21"
  },
  {
-  "id": "alumni-baylor-university-sebastian-nothhaft",
-  "name": "Sebastian Nothhaft",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Hong Kong, China / Kurpfalz Gymnasium Mannheim",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-baylor-university-spencer-furman",
-  "name": "Spencer Furman",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Seattle, Wash. / Sammamish H.S.",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-baylor-university-adrian-boitan",
-  "name": "Adrian Boitan",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Constanta, Romania / Constanta School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-baylor-university-cole-gromley",
-  "name": "Cole Gromley",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Johns Creek, Ga. / Johns Creek HS",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
   "id": "alumni-baylor-university-jacob-brumm",
   "name": "Jacob Brumm",
   "school": "Baylor University",
@@ -2780,17 +2318,6 @@
   "last_season": "2021-22"
  },
  {
-  "id": "alumni-baylor-university-sven-lah",
-  "name": "Sven Lah",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Ptuj, Slovenia / Gimnazija Ptuj",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
   "id": "alumni-baylor-university-finn-bass",
   "name": "Finn Bass",
   "school": "Baylor University",
@@ -2802,61 +2329,6 @@
   "last_season": "2022-23"
  },
  {
-  "id": "alumni-baylor-university-juan-pablo-grassi-mazzuchi",
-  "name": "Juan Pablo Grassi Mazzuchi",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Mar del Plata, Argentina / SEADEA",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-baylor-university-christopher-frantzen",
-  "name": "Christopher Frantzen",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Augsburg, Germany / Kurpfalz Gymnasium Mannheim",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-baylor-university-ethan-muza",
-  "name": "Ethan Muza",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Pittsburgh, Pa. / 21st Century Cyber Charter",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-baylor-university-martin-breysach",
-  "name": "Martin Breysach",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Strasbourg, France / CNED Strasbourg",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-baylor-university-tadeas-paroulek",
-  "name": "Tadeas Paroulek",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Prague, Czech Republic / Gymnasium Educanet",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
   "id": "alumni-baylor-university-imran-daniel-hazli",
   "name": "Imran Daniel Hazli",
   "school": "Baylor University",
@@ -2865,17 +2337,6 @@
   "hometown": "Kuala Lumpur, Malaysia",
   "alumni": true,
   "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-baylor-university-justin-braverman",
-  "name": "Justin Braverman",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Naples, Fla. / Community School of Naples",
-  "alumni": true,
-  "grad": "2025",
   "last_season": "2024-25"
  },
  {
@@ -2912,50 +2373,6 @@
   "last_season": "2024-25"
  },
  {
-  "id": "alumni-baylor-university-quintan-van-wijk",
-  "name": "Quintan Van Wijk",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Willemstad, Curacao",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-baylor-university-alexandru-chirita",
-  "name": "Alexandru Chirita",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Romania",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-baylor-university-arman-zamani",
-  "name": "Arman Zamani",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Frisco, Texas",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-baylor-university-blake-anderson",
-  "name": "Blake Anderson",
-  "school": "Baylor University",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Prosper, Texas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2025-26"
- },
- {
   "id": "alumni-baylor-university-luc-koenig",
   "name": "Luc Koenig",
   "school": "Baylor University",
@@ -2965,292 +2382,6 @@
   "alumni": true,
   "grad": "2026",
   "last_season": "2025-26"
- },
- {
-  "id": "alumni-columbia-christopher-grant",
-  "name": "Christopher Grant",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Santa Barbara, Calif.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-columbia-miguel-alda",
-  "name": "Miguel Alda",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Round Rock, Texas",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-columbia-richard-pham",
-  "name": "Richard Pham",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Saratoga, Calif.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-columbia-shawn-hadavi",
-  "name": "Shawn Hadavi",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Dobbs Ferry, N.Y.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-columbia-michal-rolski",
-  "name": "Michal Rolski",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Kielczow, Poland",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-columbia-taiyo-hamanaka",
-  "name": "Taiyo Hamanaka",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Eastchester, N.Y.",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-columbia-jack-turchetta",
-  "name": "Jack Turchetta",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Pound Ridge, N.Y.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-columbia-timothy-wang",
-  "name": "Timothy Wang",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Novi, Mich.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-columbia-victor-pham",
-  "name": "Victor Pham",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Saratoga, Calif.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-columbia-william-matheson",
-  "name": "William Matheson",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Auckland, N.Z.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-wake-forest-adam-ambrozy",
-  "name": "Adam Ambrozy",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "St. Petersburg, Fla. / St. Petersburg",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-columbia-alex-keyser",
-  "name": "Alex Keyser",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Danville, Calif. / San Ramon Valley",
-  "alumni": true,
-  "grad": "2020",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-columbia-jackie-tang",
-  "name": "Jackie Tang",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Hong Kong / Hong Kong International",
-  "alumni": true,
-  "grad": "2020",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-columbia-keshav-vellodi",
-  "name": "Keshav Vellodi",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Pittsford, N.Y. / Laurel Springs",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-columbia-jack-lin",
-  "name": "Jack Lin",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Markham, Ontario, Canada / Bill Crothers Secondary",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-columbia-jason-lui",
-  "name": "Jason Lui",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Bellevue, Wash. / Newport",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-columbia-rian-pandole",
-  "name": "Rian Pandole",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Mumbai, India / HR College of Commerce & Economics",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-columbia-austen-huang",
-  "name": "Austen Huang",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Elk Grove, Calif. / Jesuit HS of Sacramento",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-columbia-ben-gollin",
-  "name": "Ben Gollin",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Solana Beach, Calif. / La Jolla Country Day",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-columbia-ritik-sundaram",
-  "name": "Ritik Sundaram",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "St. Louis, Mo. / Florida Virtual",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-columbia-roey-tabet",
-  "name": "Roey Tabet",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Beirut, Lebanon / Collège Louise Wegmann",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-columbia-anand-saluja",
-  "name": "Anand Saluja",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Brookfield, Wis. / Brookfield Academy",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-columbia-roko-horvat",
-  "name": "Roko Horvat",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Zagreb, Croatia / Private Sports and Grammar School Franjo Bucar",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-columbia-alex-kotzen",
-  "name": "Alex Kotzen",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "New York, N.Y. / Newark Academy",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-columbia-henry-ruger",
-  "name": "Henry Ruger",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Philadelphia, Pa. / Germantown Friends School",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-columbia-ishaan-ravichander",
-  "name": "Ishaan Ravichander",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Belle Mead, N.J. / Montgomery High School / Laurel Springs",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
  },
  {
   "id": "alumni-columbia-theo-winegar",
@@ -3275,28 +2406,6 @@
   "last_season": "2024-25"
  },
  {
-  "id": "alumni-columbia-jayden-templeman",
-  "name": "Jayden Templeman",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Springville, Utah / King City Secondary",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-columbia-max-westphal",
-  "name": "Max Westphal",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Paris, France / CNED",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-columbia-michael-zheng",
   "name": "Michael Zheng",
   "school": "Columbia",
@@ -3306,61 +2415,6 @@
   "alumni": true,
   "grad": "2026",
   "last_season": "2025-26"
- },
- {
-  "id": "alumni-columbia-nicolas-kotzen",
-  "name": "Nicolas Kotzen",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Short Hills, N.J. / Newark Academy",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-columbia-sachin-palta",
-  "name": "Sachin Palta",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Forest Hills, N.Y. / The Kew-Forest School",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-columbia-stanly-shukhman",
-  "name": "Stanly Shukhman",
-  "school": "Columbia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Livingston, N.J. / Livingston",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-cornell-muhammad-dossani",
-  "name": "Muhammad Dossani",
-  "school": "Cornell",
-  "team_rank": "",
-  "class": "Fr",
-  "hometown": "",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-cornell-samuel-paquette",
-  "name": "Samuel Paquette",
-  "school": "Cornell",
-  "team_rank": "",
-  "class": "Fr",
-  "hometown": "",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
  },
  {
   "id": "alumni-cornell-alafia-ayeni",
@@ -3374,39 +2428,6 @@
   "last_season": "2021-22"
  },
  {
-  "id": "alumni-lsu-ben-koch",
-  "name": "Ben Koch",
-  "school": "LSU",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-lsu-benjamin-ambrosio",
-  "name": "Benjamin Ambrosio",
-  "school": "LSU",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-lsu-joao-graca",
-  "name": "Joao Graca",
-  "school": "LSU",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
   "id": "alumni-michigan-state-ronald-hohmann",
   "name": "Ronald Hohmann",
   "school": "Michigan State",
@@ -3416,259 +2437,6 @@
   "alumni": true,
   "grad": "2024",
   "last_season": "2023-24"
- },
- {
-  "id": "alumni-michigan-state-alexander-kim",
-  "name": "Alexander Kim",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Milford, Mich.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-michigan-state-doug-francken",
-  "name": "Doug Francken",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Brookfield, Wisc.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-michigan-state-brett-forman",
-  "name": "Brett Forman",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Troy, Mich. / Troy",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-michigan-state-davis-wong",
-  "name": "Davis Wong",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "West Bloomfield, Mich. / West Bloomfield",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-michigan-state-jasper-koenen",
-  "name": "Jasper Koenen",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Baton Rouge, La. / St. Charles East, St. Charles, Ill.",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-michigan-state-michael-dube",
-  "name": "Michael Dube",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Livonia, Mich. / Detroit Catholic Central",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-michigan-state-billy-shisler",
-  "name": "Billy Shisler",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Naples, Fla. / Gulf Coast",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-michigan-state-colin-harvey",
-  "name": "Colin Harvey",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Lake Forest, Ill. / Stevenson",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-michigan-state-ivan-rakic",
-  "name": "Ivan Rakic",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Ann Arbor, Mich. / Pioneer",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-michigan-state-drew-keene",
-  "name": "Drew Keene",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Corpus Christi, Texas / Veteran Memorial",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-michigan-state-john-carlin",
-  "name": "John Carlin",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Ft Myers, Fla. / Fort Myers",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-michigan-state-carson-gates",
-  "name": "Carson Gates",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Kansas City, Mo. / Staley High School",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-smu-jack-winkler",
-  "name": "Jack Winkler",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "Birmingham, Mich. / Michigan State",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-michigan-state-jarreau-campbell",
-  "name": "Jarreau Campbell",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Bloomfield Hills, Mich. / Brother Rice",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-michigan-state-josh-mukherjee",
-  "name": "Josh Mukherjee",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Bloomfield Hills, Mich. / Bloomfield Hills",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-michigan-state-nick-williams",
-  "name": "Nick Williams",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Cincinnati, Ohio / Seven Hills High School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-michigan-state-anthony-pero",
-  "name": "Anthony Pero",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Brooklyn, Mich. / Cabrini",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-michigan-state-kazuki-matsuno",
-  "name": "Kazuki Matsuno",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Chicago, Ill. / Laurel Springs",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-michigan-state-graydon-lair",
-  "name": "Graydon Lair",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Tulsa, Okla. / Tucker Tennis Academy",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-michigan-state-luke-baylis",
-  "name": "Luke Baylis",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Clarkston, Mich. / Clarkston",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-michigan-state-reed-crocker",
-  "name": "Reed Crocker",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Kalamazoo, Mich. / Loy Norrix",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-michigan-state-sebastien-collard",
-  "name": "Sebastien Collard",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Gatineau, Quebec, Canada / Académie les Estacades",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-michigan-state-josh-portnoy",
-  "name": "Josh Portnoy",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Okemos, Mich. / Okemos",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
  },
  {
   "id": "alumni-michigan-state-max-sheldon",
@@ -3688,17 +2456,6 @@
   "team_rank": "",
   "class": "R-Sr.",
   "hometown": "Athens, Greece /",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-michigan-state-david-saye",
-  "name": "David Saye",
-  "school": "Michigan State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Charlotte, N.C. / Smith Stearns Tennis Academy",
   "alumni": true,
   "grad": "2026",
   "last_season": "2025-26"
@@ -3726,39 +2483,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-mississippi-state-mate-cutura",
-  "name": "Mate Cutura",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Posusje, Herzegovina / Tyler [TX] Junior College",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-mississippi-state-simon-baudry",
-  "name": "Simon Baudry",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Bordeaux, France / Bordeaux High School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-mississippi-state-vaughn-hunter",
-  "name": "Vaughn Hunter",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Johannesburg, South Africa / Tyler [TX] JC",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
   "id": "alumni-mississippi-state-arvid-nordquist",
   "name": "Arvid Nordquist",
   "school": "Mississippi State",
@@ -3770,56 +2494,12 @@
   "last_season": "2017-18"
  },
  {
-  "id": "alumni-mississippi-state-hunter-harrison",
-  "name": "Hunter Harrison",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Little Rock, AR / Pulaski Academy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-mississippi-state-niclas-braun",
-  "name": "Niclas Braun",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Berlin, Germany / Leonardo da Vinci Schule",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
   "id": "alumni-mississippi-state-nuno-borges",
   "name": "Nuno Borges",
   "school": "Mississippi State",
   "team_rank": "",
   "class": "Sr.",
   "hometown": "Maia, Porto, Portugal / Escola Secundaria Da Maia",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-mississippi-state-strahinja-rakic",
-  "name": "Strahinja Rakic",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Belgrade, Serbia / Peta Ekonomska Skola Rakovica",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-mississippi-state-trevor-foshey",
-  "name": "Trevor Foshey",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "St. Cloud, FL / St. Cloud HS",
   "alumni": true,
   "grad": "2019",
   "last_season": "2018-19"
@@ -3856,39 +2536,6 @@
   "alumni": true,
   "grad": "2021",
   "last_season": "2020-21"
- },
- {
-  "id": "alumni-mississippi-state-nicolas-ocana",
-  "name": "Nicolas Ocana",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Montreal, Canada / Ecole Secondaire St. Gabriel",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-mississippi-state-stedman-strickland",
-  "name": "Stedman Strickland",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Jackson, MS / Madison [MS] St. Joseph / Delta State",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-mississippi-state-alberto-colas",
-  "name": "Alberto Colas",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Zaragoza, Spain / CIDEAD Secondary School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
  },
  {
   "id": "alumni-mississippi-state-bautista-vilicich",
@@ -3935,39 +2582,6 @@
   "last_season": "2022-23"
  },
  {
-  "id": "alumni-mississippi-state-gregor-ramskogler",
-  "name": "Gregor Ramskogler",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Reichraming, Austria / SSM Salzburg",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-mississippi-state-patrick-lazo",
-  "name": "Patrick Lazo",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Alpharetta, Ga. / Alpharetta / Georgia State",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-mississippi-state-seth-richey",
-  "name": "Seth Richey",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "R-So.",
-  "hometown": "Memphis, Tenn. / Memphis University School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
   "id": "alumni-mississippi-state-carles-hernandez",
   "name": "Carles Hernandez",
   "school": "Mississippi State",
@@ -3998,17 +2612,6 @@
   "hometown": "Bijeljina, Bosnia and Herzegovina / Presbyterian",
   "alumni": true,
   "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-mississippi-state-radomir-tomic",
-  "name": "Radomir Tomic",
-  "school": "Mississippi State",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Zvornik, Bosnia and Herzegovina / Gimazija Sveti Sava Boegrad",
-  "alumni": true,
-  "grad": "",
   "last_season": "2024-25"
  },
  {
@@ -4067,105 +2670,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-nc-state-chris-mikrovas",
-  "name": "Chris Mikrovas",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Athens, Greece / ACS Athens / null",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-nc-state-nick-horton",
-  "name": "Nick Horton",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Sydney, Australia / Barker College / null",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-nc-state-paul-spencer",
-  "name": "Paul Spencer",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Princeton, N.J. / Montgomery",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-nc-state-sean-burnette",
-  "name": "Sean Burnette",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Wesley Chapel, Fla. / Saddlebrook",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-nc-state-morgan-lohan",
-  "name": "Morgan Lohan",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Tramore, Ireland / Ardscoil Na Mara",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-nc-state-georgiy-malyshev",
-  "name": "Georgiy Malyshev",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Kirov, Russia / Rg Maroltingergasse 69-71 / null",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-nc-state-igor-saveljic",
-  "name": "Igor Saveljic",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Podgorica, Montenegro / Gimnazija Crnjanski",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-nc-state-ivan-saveljic",
-  "name": "Ivan Saveljic",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Podgorica, Montenegro / Gimnazija Crnjanski",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-nc-state-michael-ogden",
-  "name": "Michael Ogden",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Salisbury, N.C. / Salisbury HS / null",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
   "id": "alumni-nc-state-alexis-galarneau",
   "name": "Alexis Galarneau",
   "school": "NC State",
@@ -4175,61 +2679,6 @@
   "alumni": true,
   "grad": "2021",
   "last_season": "2020-21"
- },
- {
-  "id": "alumni-nc-state-robert-turzak",
-  "name": "Robert Turzak",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Košice, Slovakia / Gymnazium Trebisouska",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-nc-state-tadas-babelis",
-  "name": "Tadas Babelis",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Vilnius, Lithuania / Vilnius Ozo Gimnazija",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-nc-state-tristan-smith",
-  "name": "Tristan Smith",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Wilmington, N.C. / Laurel Springs",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-nc-state-collin-shick",
-  "name": "Collin Shick",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Greensboro, N.C. / Laurel Springs",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-nc-state-joseph-schrader",
-  "name": "Joseph Schrader",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Brevard, N.C. / Brevard HS",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
  },
  {
   "id": "alumni-nc-state-martins-rocens",
@@ -4243,45 +2692,12 @@
   "last_season": "2021-22"
  },
  {
-  "id": "alumni-nc-state-rafa-izquierdo-luque",
-  "name": "Rafa Izquierdo Luque",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Santiago de Compostella, Spain / Oklahoma",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-nc-state-yannai-barkai",
-  "name": "Yannai Barkai",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Kiryat Ono, Israel / Ben Zvi",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
   "id": "alumni-nc-state-damien-salvestre",
   "name": "Damien Salvestre",
   "school": "NC State",
   "team_rank": "",
   "class": "Jr.",
   "hometown": "Marseille, France /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-nc-state-joseph-wayand",
-  "name": "Joseph Wayand",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Cary, N.C. /",
   "alumni": true,
   "grad": "",
   "last_season": "2023-24"
@@ -4342,138 +2758,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-nc-state-miko-lapalme",
-  "name": "Miko Lapalme",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Montreal, Canada / null",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-nc-state-nikolay-nedelchev",
-  "name": "Nikolay Nedelchev",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Razgrad, Bulgaria /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-nc-state-noah-gabriel",
-  "name": "Noah Gabriel",
-  "school": "NC State",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "S-Hertogenbosch, Netherlands /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-ohio-state-charles-shewalter",
-  "name": "Charles Shewalter",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-So.",
-  "hometown": "Bexley, Ohio",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-ohio-state-chris-diaz",
-  "name": "Chris Diaz",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Columbus, Ohio",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-ohio-state-ralf-steinbach",
-  "name": "Ralf Steinbach",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Halle, Germany",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-ohio-state-herkko-pollanen",
-  "name": "Herkko Pollanen",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Helsinki, Finland",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-ohio-state-hugo-feo",
-  "name": "Hugo Feo",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Montreal, Canada",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-ohio-state-joseph-thomas",
-  "name": "Joseph Thomas",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Fr.",
-  "hometown": "Canton, Ohio",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-ohio-state-matt-mendez",
-  "name": "Matt Mendez",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Mount Pleasant, S.C.",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-ohio-state-mikael-torpegaard",
-  "name": "Mikael Torpegaard",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Virum, Denmark",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-ohio-state-riley-reist",
-  "name": "Riley Reist",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Hamilton, Ohio",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
   "id": "alumni-ohio-state-alex-kobelt",
   "name": "Alex Kobelt",
   "school": "Ohio State",
@@ -4483,72 +2767,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2018-19"
- },
- {
-  "id": "alumni-ohio-state-hunter-tubert",
-  "name": "Hunter Tubert",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Huntington, W.V.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-ohio-state-jj-wolf",
-  "name": "JJ Wolf",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Cincinnati, Ohio",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-ohio-state-martin-joyce",
-  "name": "Martin Joyce",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Hinsdale, Ill.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-ohio-state-jj-mercer",
-  "name": "JJ Mercer",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Fr.",
-  "hometown": "Huntington, W.V.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-ohio-state-jacob-wareti",
-  "name": "Jacob Wareti",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Columbus, Ohio",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-ohio-state-john-mcnally",
-  "name": "John McNally",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Cincinnati, Ohio",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
  },
  {
   "id": "alumni-ohio-state-kyle-seelig",
@@ -4562,39 +2780,6 @@
   "last_season": "2020-21"
  },
  {
-  "id": "alumni-ohio-state-lancelot-carnello",
-  "name": "Lancelot Carnello",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Stockholm, Sweden",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-ohio-state-jake-emburgh",
-  "name": "Jake Emburgh",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Belleair Beach, Fla.",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-ohio-state-matej-vocel",
-  "name": "Matej Vocel",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Prague, Czech Republic",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
   "id": "alumni-ohio-state-james-trotter",
   "name": "James Trotter",
   "school": "Ohio State",
@@ -4606,34 +2791,12 @@
   "last_season": "2022-23"
  },
  {
-  "id": "alumni-ohio-state-andrew-lutschaunig",
-  "name": "Andrew Lutschaunig",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Richboro, Pa.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
   "id": "alumni-ohio-state-cannon-kingsley",
   "name": "Cannon Kingsley",
   "school": "Ohio State",
   "team_rank": "",
   "class": "5th",
   "hometown": "Northport, N.Y.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-ohio-state-jj-tracy",
-  "name": "JJ Tracy",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Hilton Head, S.C.",
   "alumni": true,
   "grad": "2024",
   "last_season": "2023-24"
@@ -4650,61 +2813,6 @@
   "last_season": "2023-24"
  },
  {
-  "id": "alumni-ohio-state-robert-cash",
-  "name": "Robert Cash",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "New Albany, Ohio",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-ohio-state-chris-li",
-  "name": "Chris Li",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Lima, Peru",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-ohio-state-declan-galligan",
-  "name": "Declan Galligan",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "West Des Moines, Iowa",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-ohio-state-reece-yakubov",
-  "name": "Reece Yakubov",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Columbus, Ohio",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-georgia-will-jansen",
-  "name": "Will Jansen",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "London, United Kingdom",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
   "id": "alumni-ohio-state-alexander-bernard",
   "name": "Alexander Bernard",
   "school": "Ohio State",
@@ -4713,17 +2821,6 @@
   "hometown": "Bonita Springs, Florida",
   "alumni": true,
   "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-ohio-state-jp-day",
-  "name": "JP Day",
-  "school": "Ohio State",
-  "team_rank": "",
-  "class": "R-So.",
-  "hometown": "San Diego, California",
-  "alumni": true,
-  "grad": "",
   "last_season": "2025-26"
  },
  {
@@ -4749,193 +2846,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-pepperdine-gabriel-sidney",
-  "name": "Gabriel Sidney",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Curitiba, Parana, Brazil",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-pepperdine-guilherme-galvao",
-  "name": "Guilherme Galvao",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Sao Paulo, Brazil",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-pepperdine-guilherme-hadlich",
-  "name": "Guilherme Hadlich",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Balne&aacute;rio Cambori&uacute;, Brazil",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-pepperdine-jack-van-slyke",
-  "name": "Jack Van Slyke",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Toronto, Ontario, Canada",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-pepperdine-stefan-menichella",
-  "name": "Stefan Menichella",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Santa Barbara, Calif.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-pepperdine-tom-hill",
-  "name": "Tom Hill",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Birmingham, England",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-florida-brian-berdusco",
-  "name": "Brian Berdusco",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Bradenton, Fla.",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-pepperdine-dane-esses",
-  "name": "Dane Esses",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Houston, Texas / Memorial HS",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-pepperdine-dennis-uspensky",
-  "name": "Dennis Uspensky",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Atlantic Beach, N.Y. / Laurel Springs HS (Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-pepperdine-lautaro-pane",
-  "name": "Lautaro Pane",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Puerto Madryn, Argentina / SEADEA",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-pepperdine-max-mendelsohn",
-  "name": "Max Mendelsohn",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Little Rock, Ark. /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-pepperdine-nicholas-baez",
-  "name": "Nicholas Baez",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Somis, Calif. / Laurel Springs HS (Calif.)",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-pepperdine-pedro-iamachkine",
-  "name": "Pedro Iamachkine",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Lima, Peru / Nebraska HS",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-pepperdine-yusuf-khamis",
-  "name": "Yusuf Khamis",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Cairo, Egypt /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-pepperdine-felipe-galvao",
-  "name": "Felipe Galvao",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Sao Paulo, Brazil",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-pepperdine-matias-sborowitz",
-  "name": "Matias Sborowitz",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Santiago, RM, Chile",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-pepperdine-scotland-garapedian",
-  "name": "Scotland Garapedian",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Agoura Hills, Calif.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
   "id": "alumni-pepperdine-adrian-oetzbach",
   "name": "Adrian Oetzbach",
   "school": "Pepperdine",
@@ -4956,61 +2866,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2020-21"
- },
- {
-  "id": "alumni-pepperdine-pawel-jankowiak",
-  "name": "Pawel Jankowiak",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Poznan, Poland",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-pepperdine-tom-grosjean",
-  "name": "Tom Grosjean",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Boca Raton, Florida",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-pepperdine-andrew-rogers",
-  "name": "Andrew Rogers",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Brentwood, Tenn.",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-pepperdine-corrado-summaria",
-  "name": "Corrado Summaria",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Cosenza, Italy",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-pepperdine-enrique-luque-rico",
-  "name": "Enrique Luque Rico",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Cordoba, Spain",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
  },
  {
   "id": "alumni-pepperdine-daniel-de-jonge",
@@ -5035,50 +2890,6 @@
   "last_season": "2022-23"
  },
  {
-  "id": "alumni-smu-eric-hadigian",
-  "name": "Eric Hadigian",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "Sacramento, Calif. / Pepperdine/Gonzaga",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-pepperdine-max-wuelfing",
-  "name": "Max Wuelfing",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Manhattan Beach, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-pepperdine-tim-zeitvogel",
-  "name": "Tim Zeitvogel",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Baden-Baden, Germany",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-pepperdine-george-davis",
-  "name": "George Davis",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "London, England",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
   "id": "alumni-pepperdine-pietro-fellin",
   "name": "Pietro Fellin",
   "school": "Pepperdine",
@@ -5088,50 +2899,6 @@
   "alumni": true,
   "grad": "2024",
   "last_season": "2023-24"
- },
- {
-  "id": "alumni-pepperdine-robert-shelton",
-  "name": "Robert Shelton",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Lancaster, Pa.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-pepperdine-tyler-davis",
-  "name": "Tyler Davis",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Redlands, Calif.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-pepperdine-chris-papa",
-  "name": "Chris Papa",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Cypress, Calif.",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-pepperdine-linus-carlsson-halldin",
-  "name": "Linus Carlsson Halldin",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Stockholm, Sweden",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
  },
  {
   "id": "alumni-pepperdine-zach-stephens",
@@ -5145,358 +2912,6 @@
   "last_season": "2024-25"
  },
  {
-  "id": "alumni-pepperdine-maxi-homberg",
-  "name": "Maxi Homberg",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Freising, Germany",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-pepperdine-robin-boeckli",
-  "name": "Robin Boeckli",
-  "school": "Pepperdine",
-  "team_rank": "",
-  "class": "R-Fr.",
-  "hometown": "Zürich, Switzerland",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-smu-eladio-fabregas",
-  "name": "Eladio Fabregas",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "FR",
-  "hometown": "Galicia, Spain / null",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-smu-roberto-rosales",
-  "name": "Roberto Rosales",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SO",
-  "hometown": "Geneva, Switzerland / International School of Geneva",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-smu-rory-samuels",
-  "name": "Rory Samuels",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Savannah, Texas / Illinois State",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-smu-andrew-buhelos",
-  "name": "Andrew Buhelos",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SO",
-  "hometown": "Burr Ridge, Ill. / Hinsdale Central",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-smu-avery-pennywell",
-  "name": "Avery Pennywell",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SO",
-  "hometown": "Dallas, Texas / The Oakridge School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-smu-ethan-leon",
-  "name": "Ethan Leon",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "FR",
-  "hometown": "Woodhaven, N.Y. / Beacon School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-smu-michael-smith",
-  "name": "Michael Smith",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "JR",
-  "hometown": "Houston, Texas / The Kinkaid School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-smu-blaise-fagan",
-  "name": "Blaise Fagan",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "St. Louis, Mo. / Kirkwood",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-smu-clarke-wilson",
-  "name": "Clarke Wilson",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "Mississauga, Ontario, Canada / Furman",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-smu-jan-simon-vrbsky",
-  "name": "Jan-Simon Vrbsky",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Darmstadt, Germany / Kurpfalz Gymnasium Mannheim",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-smu-juan-jose-bianchi",
-  "name": "Juan Jose Bianchi",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SO",
-  "hometown": "Oralndo, Fla. / Olympia",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-smu-kyle-sillman",
-  "name": "Kyle Sillman",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SO",
-  "hometown": "Manhattan Beach, Calif. / Mira Costa",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-smu-tomas-vaise",
-  "name": "Tomas Vaise",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Telsiai, Lithuania / Siauliai University Gymnasium",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-smu-caleb-chakravarthi",
-  "name": "Caleb Chakravarthi",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Irvine, Calif. / Illinois",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-smu-eddie-ross",
-  "name": "Eddie Ross",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Charleston, S.C. / International Connections Academy",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-smu-ivan-thamma",
-  "name": "Ivan Thamma",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "San Diego, California / UC Davis",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-smu-jack-kite",
-  "name": "Jack Kite",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Carmel, Ind. / Brebeuf Jesuit Prep",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-smu-antonio-muniz-hidalgo",
-  "name": "Antonio Muniz-Hidalgo",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "Barcelona, Spain / South Florida",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-smu-blaine-hovenier",
-  "name": "Blaine Hovenier",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "Los Angeles, Calif. / UCLA",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-smu-jordi-redelijk",
-  "name": "Jordi Redelijk",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Windermere, Fla. / University Of Nebraska High School",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-smu-kyle-pham",
-  "name": "Kyle Pham",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Newport Beach, Calif. / Corona Del Mar",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-smu-pranav-kumar",
-  "name": "Pranav Kumar",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "Plano, Texas / Texas A&M",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-smu-adam-neff",
-  "name": "Adam Neff",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Bradenton, Florida / UNC",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-smu-alex-yang",
-  "name": "Alex Yang",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "Plainsboro, NJ / NYU",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-smu-callaway-clark",
-  "name": "Callaway Clark",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Dallas, Texas / The Episcopal School of Dallas",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-smu-hughes-peus",
-  "name": "Hughes Peus",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "FR",
-  "hometown": "Palos Verdes Estates, CA / Leeway Academy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-smu-huntley-allen",
-  "name": "Huntley Allen",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "Mount Pleasant, S.C. / International Connections Academy",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-smu-john-zisette",
-  "name": "John Zisette",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Manhattan Beach, Calif. / Laurel Springs",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-smu-julian-steinhausen",
-  "name": "Julian Steinhausen",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Los Angeles, Calif. / Gorman Learning Center",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-smu-kale-mize",
-  "name": "Kale Mize",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "FR",
-  "hometown": "Tulsa, OK / Mizzou Online",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
   "id": "alumni-smu-liam-krall",
   "name": "Liam Krall",
   "school": "SMU",
@@ -5508,56 +2923,12 @@
   "last_season": "2023-24"
  },
  {
-  "id": "alumni-smu-eli-susser",
-  "name": "Eli Susser",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Corpus Christi, Texas / Highland Park High",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-smu-liam-sunkel",
-  "name": "Liam Sunkel",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Aspen, Colo. / Evert Tennis Academy",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-smu-louis-cloud",
-  "name": "Louis Cloud",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "San Antonio, Texas / San Antonio Christian High",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-smu-ofek-shimanov",
   "name": "Ofek Shimanov",
   "school": "SMU",
   "team_rank": "",
   "class": "FR",
   "hometown": "Ramla, Israel /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-smu-xavier-calvelo",
-  "name": "Xavier Calvelo",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "FR",
-  "hometown": "Las Vegas, Nevada /",
   "alumni": true,
   "grad": "",
   "last_season": "2024-25"
@@ -5574,28 +2945,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-smu-alex-stafford",
-  "name": "Alex Stafford",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "GR",
-  "hometown": "San Diego, Calif. / Torrey Pines High",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-smu-jerry-barton",
-  "name": "Jerry Barton",
-  "school": "SMU",
-  "team_rank": "",
-  "class": "SR",
-  "hometown": "Bedford, Texas / Furman",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
   "id": "alumni-smu-trevor-svajda",
   "name": "Trevor Svajda",
   "school": "SMU",
@@ -5605,171 +2954,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2025-26"
- },
- {
-  "id": "alumni-stanford-michael-genender",
-  "name": "Michael Genender",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Los Angeles, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-stanford-sameer-kumar",
-  "name": "Sameer Kumar",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Carmel, Ind.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-stanford-eric-fomba",
-  "name": "Eric Fomba",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Graduate Student",
-  "hometown": "Paris, France",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-stanford-jack-barber",
-  "name": "Jack Barber",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Redshirt Sophomore",
-  "hometown": "La Jolla, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-stanford-nikita-demir",
-  "name": "Nikita Demir",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Bethesda, Md.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-stanford-william-genesen",
-  "name": "William Genesen",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Tulsa, Okla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-stanford-axel-geller",
-  "name": "Axel Geller",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Buenos Aires, Argentina",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-stanford-sam-turchetta",
-  "name": "Sam Turchetta",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Pound Ridge, New York",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-stanford-timothy-sah",
-  "name": "Timothy Sah",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "San Diego, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-stanford-alexandre-rotsaert",
-  "name": "Alexandre Rotsaert",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Boca Raton, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-stanford-christian-kontaxis",
-  "name": "Christian Kontaxis",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Redshirt Sophomore",
-  "hometown": "Rancho Mirage, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-stanford-dean-stratakos",
-  "name": "Dean Stratakos",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Saratoga, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-stanford-kento-perera",
-  "name": "Kento Perera",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Redshirt Sophomore",
-  "hometown": "Santa Barbara, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-stanford-sangeet-sridhar",
-  "name": "Sangeet Sridhar",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Scottsdale, Ariz.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-stanford-tomas-kopczynski",
-  "name": "Tomas Kopczynski",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Delray Beach, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
  },
  {
   "id": "alumni-stanford-tristan-boyer",
@@ -5783,17 +2967,6 @@
   "last_season": "2020-21"
  },
  {
-  "id": "alumni-stanford-alex-lee",
-  "name": "Alex Lee",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Oak Brook, Ill.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
   "id": "alumni-stanford-arthur-fery",
   "name": "Arthur Fery",
   "school": "Stanford",
@@ -5805,39 +2978,6 @@
   "last_season": "2021-22"
  },
  {
-  "id": "alumni-stanford-aryan-chaudhary",
-  "name": "Aryan Chaudhary",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Santa Clara, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-stanford-anders-matta",
-  "name": "Anders Matta",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Woodside, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-stanford-isaac-gorelik",
-  "name": "Isaac Gorelik",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Graduate Student",
-  "hometown": "Weston, Mass.",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
   "id": "alumni-stanford-max-basing",
   "name": "Max Basing",
   "school": "Stanford",
@@ -5847,39 +2987,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2022-23"
- },
- {
-  "id": "alumni-stanford-filip-kolasinski",
-  "name": "Filip Kolasinski",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Graduate Student",
-  "hometown": "Warsaw, Poland",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-stanford-harsh-hemang-parikh",
-  "name": "Harsh Hemang Parikh",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Graduate Student",
-  "hometown": "Tucson, Ariz.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-stanford-neel-rajesh",
-  "name": "Neel Rajesh",
-  "school": "Stanford",
-  "team_rank": "",
-  "class": "Graduate Student",
-  "hometown": "Oyster Bay, N.Y.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
  },
  {
   "id": "alumni-stanford-nishesh-basavareddy",
@@ -5915,89 +3022,12 @@
   "last_season": "2016-17"
  },
  {
-  "id": "alumni-tcu-gianni-mancini",
-  "name": "Gianni Mancini",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Irving, Texas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-tcu-hudson-blake",
-  "name": "Hudson Blake",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Phoenix, Ariz.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-tcu-jerry-lopez",
-  "name": "Jerry Lopez",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Vallarta, Mexico",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-tcu-trey-daniel",
-  "name": "Trey Daniel",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Overland Park, Kan.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-tcu-guillermo-nunez",
-  "name": "Guillermo Nuñez",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Santiago, Chile",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-tcu-trevor-johnson",
-  "name": "Trevor Johnson",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Las Vegas, Nev.",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
   "id": "alumni-tcu-alex-rybakov",
   "name": "Alex Rybakov",
   "school": "TCU",
   "team_rank": "",
   "class": "Sr.",
   "hometown": "Coral Springs, Fla.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-tcu-reese-stalder",
-  "name": "Reese Stalder",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Costa Mesa, Calif.",
   "alumni": true,
   "grad": "2019",
   "last_season": "2018-19"
@@ -6014,67 +3044,12 @@
   "last_season": "2020-21"
  },
  {
-  "id": "alumni-tcu-bertus-kruger",
-  "name": "Bertus Kruger",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Johannesburg, South Africa",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-tcu-eduardo-roldan",
-  "name": "Eduardo Roldan",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Mexico City, Mexico",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-tcu-juan-martin",
-  "name": "Juan Martín",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "General Villegas, Argentina",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-tcu-max-kurzban",
-  "name": "Max Kurzban",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Overland Park, Kan.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
   "id": "alumni-tcu-juan-carlos-aguilar",
   "name": "Juan Carlos Aguilar",
   "school": "TCU",
   "team_rank": "",
   "class": "Gr.",
   "hometown": "La Paz, Bolivia",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-tcu-tim-ruehl",
-  "name": "Tim Ruehl",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Waldshut-Tiengen, Germany",
   "alumni": true,
   "grad": "2022",
   "last_season": "2021-22"
@@ -6102,17 +3077,6 @@
   "last_season": "2022-23"
  },
  {
-  "id": "alumni-tcu-jake-fearnley",
-  "name": "Jake Fearnley",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Edinburgh, Scotland",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
   "id": "alumni-university-of-texas-at-austin-sebastian-gorzny",
   "name": "Sebastian Gorzny",
   "school": "University of Texas at Austin",
@@ -6124,56 +3088,12 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-tcu-tomas-jirousek",
-  "name": "Tomas Jirousek",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Prague, Czech Republic",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-tcu-jack-pinnington",
-  "name": "Jack Pinnington",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Ashtead, England",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-tcu-lui-maxted",
   "name": "Lui Maxted",
   "school": "TCU",
   "team_rank": "",
   "class": "Sr.",
   "hometown": "Worthing, England",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-tcu-luke-swan",
-  "name": "Luke Swan",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Wichita, Kan.",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-tcu-pedro-vives",
-  "name": "Pedro Vives",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Palma de Mallorca, Spain",
   "alumni": true,
   "grad": "2025",
   "last_season": "2024-25"
@@ -6190,67 +3110,12 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-tcu-filip-apltauer",
-  "name": "Filip Apltauer",
-  "school": "TCU",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Prague, Czech Republic",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-texas-a-m-university-austin-abbrat",
-  "name": "Austin Abbrat",
-  "school": "Texas A&M University",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Spring, Texas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-texas-a-m-university-guido-marson",
-  "name": "Guido Marson",
-  "school": "Texas A&M University",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Pordenone, Italy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-texas-a-m-university-kenner-taylor",
-  "name": "Kenner Taylor",
-  "school": "Texas A&M University",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "Houston, Texas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
   "id": "alumni-texas-a-m-university-noah-schachter",
   "name": "Noah Schachter",
   "school": "Texas A&M University",
   "team_rank": "",
   "class": "Sophomore",
   "hometown": "Wesley Chapel, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-texas-a-m-university-pierce-rollins",
-  "name": "Pierce Rollins",
-  "school": "Texas A&M University",
-  "team_rank": "",
-  "class": "Freshman",
-  "hometown": "Tulsa, Okla.",
   "alumni": true,
   "grad": "",
   "last_season": "2019-20"
@@ -6267,226 +3132,6 @@
   "last_season": "2019-20"
  },
  {
-  "id": "alumni-ucf-alan-rubio",
-  "name": "Alan Rubio",
-  "school": "UCF",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Hermosillo, Mexico",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-ucf-gabriel-decamps",
-  "name": "Gabriel Decamps",
-  "school": "UCF",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Sao Paulo, Brazil",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-ucf-mikhail-sokolovskiy",
-  "name": "Mikhail Sokolovskiy",
-  "school": "UCF",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Moscow, Russia",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-ucf-vasyl-kiselyov",
-  "name": "Vasyl Kiselyov",
-  "school": "UCF",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Crimea, Ukraine",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-ucf-bogdan-pavel",
-  "name": "Bogdan Pavel",
-  "school": "UCF",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Pitesti, Romania",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-florida-janmagnus-johnson",
-  "name": "JanMagnus Johnson",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Cape Coral, Fla.",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-ucf-manoel-alencar",
-  "name": "Manoel Alencar",
-  "school": "UCF",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "Brazil",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-ucf-trey-hilderbrand",
-  "name": "Trey Hilderbrand",
-  "school": "UCF",
-  "team_rank": "",
-  "class": "Sophomore",
-  "hometown": "San Antonio, Texas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-usc-david-laser",
-  "name": "David Laser",
-  "school": "USC",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Glencoe, Ill.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-usc-nick-crystal",
-  "name": "Nick Crystal",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Waccabuc, N.Y.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-usc-rob-bellamy",
-  "name": "Rob Bellamy",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Pacific Palisades, Calif.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-usc-henry-ji",
-  "name": "Henry Ji",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Rancho Santa Fe, Calif.",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-usc-jens-sweaney",
-  "name": "Jens Sweaney",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Newcastle, NSW, Australia",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-usc-mateusz-smolicki",
-  "name": "Mateusz Smolicki",
-  "school": "USC",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Warsaw, Poland",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-usc-thibault-forget",
-  "name": "Thibault Forget",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Rennes, France",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-usc-jack-jaede",
-  "name": "Jack Jaede",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Brisbane, Queensland",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-usc-jake-devine",
-  "name": "Jake DeVine",
-  "school": "USC",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Seattle, Wash.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-usc-laurens-verboven",
-  "name": "Laurens Verboven",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Overpelt, Belgium",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-usc-logan-smith",
-  "name": "Logan Smith",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Carlsbad, Calif.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-usc-tanner-smith",
-  "name": "Tanner Smith",
-  "school": "USC",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Long Beach, Calif.",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
   "id": "alumni-usc-brandon-holt",
   "name": "Brandon Holt",
   "school": "USC",
@@ -6496,28 +3141,6 @@
   "alumni": true,
   "grad": "2020",
   "last_season": "2019-20"
- },
- {
-  "id": "alumni-usc-rae-lan",
-  "name": "Rae Lan",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "San Diego, Calif.",
-  "alumni": true,
-  "grad": "2020",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-usc-colter-smith",
-  "name": "Colter Smith",
-  "school": "USC",
-  "team_rank": "",
-  "class": "R-Fr.",
-  "hometown": "Long Beach, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
  },
  {
   "id": "alumni-usc-daniel-cukierman",
@@ -6531,50 +3154,6 @@
   "last_season": "2020-21"
  },
  {
-  "id": "alumni-usc-mor-bulis",
-  "name": "Mor Bulis",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Petach Tikva, Israel",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-usc-riley-smith",
-  "name": "Riley Smith",
-  "school": "USC",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Long Beach, Calif.",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-usc-jake-sands",
-  "name": "Jake Sands",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Los Angeles, Calif.",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-usc-paul-barretto",
-  "name": "Paul Barretto",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Tiburon, Calif.",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
   "id": "alumni-usc-ryder-jackson",
   "name": "Ryder Jackson",
   "school": "USC",
@@ -6584,28 +3163,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2021-22"
- },
- {
-  "id": "alumni-usc-sean-holt",
-  "name": "Sean Holt",
-  "school": "USC",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Rolling Hills, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-usc-bradley-frye",
-  "name": "Bradley Frye",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Overland Park, Kansas",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
  },
  {
   "id": "alumni-usc-learner-tien",
@@ -6628,50 +3185,6 @@
   "alumni": true,
   "grad": "2025",
   "last_season": "2024-25"
- },
- {
-  "id": "alumni-usc-wojtek-marek",
-  "name": "Wojtek Marek",
-  "school": "USC",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Bytom, Poland",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-usc-lodewijk-weststrate",
-  "name": "Lodewijk Weststrate",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Voorschoten, Netherlands",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-usc-niroop-vallabhaneni",
-  "name": "Niroop Vallabhaneni",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Paradise Valley, Ariz.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-usc-samuel-rubell",
-  "name": "Samuel Rubell",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Miami Beach, Fla.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
  },
  {
   "id": "alumni-wake-forest-stefan-dostanic",
@@ -6718,17 +3231,6 @@
   "last_season": "2024-25"
  },
  {
-  "id": "alumni-usc-tristan-bradley",
-  "name": "Tristan Bradley",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Chadds Ford, Pa.",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-usc-volodymyr-iakubenko",
   "name": "Volodymyr Iakubenko",
   "school": "USC",
@@ -6738,215 +3240,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2024-25"
- },
- {
-  "id": "alumni-usc-jack-mccarthy",
-  "name": "Jack McCarthy",
-  "school": "USC",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Gold Coast, Australia",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-university-of-arizona-andres-reyes",
-  "name": "Andres Reyes",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Obregón City, Mexico",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-arizona-augustus-ge",
-  "name": "Augustus Ge",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Phoenix, Ariz.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-arizona-oliver-plaskett",
-  "name": "Oliver Plaskett",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Birmingham, England",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-arizona-shoki-kasahara",
-  "name": "Shoki Kasahara",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Singapore",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-arizona-will-adkisson",
-  "name": "Will Adkisson",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Hurst, Texas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-arizona-will-kneale",
-  "name": "Will Kneale",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Melbourne, Australia",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-arizona-shoti-meparidze",
-  "name": "Shoti Meparidze",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Tbilisi, Georgia.",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-arizona-trent-botha",
-  "name": "Trent Botha",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Cape Town, South Africa",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-arizona-aaro-pollanen",
-  "name": "Aaro Pollanen",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Helsinki, Finland",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-arizona-jonas-maier",
-  "name": "Jonas Maier",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Hamburg, Germany",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-arizona-stewart-block",
-  "name": "Stewart Block",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Bradenton, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-arizona-jack-ninteman",
-  "name": "Jack Ninteman",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Tualatin, Ore.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-arizona-alejandro-reguant",
-  "name": "Alejandro Reguant",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Barcelona, Spain",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-arizona-igor-karpovets",
-  "name": "Igor Karpovets",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Kiev, Ukraine",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-arizona-carlos-hassey",
-  "name": "Carlos Hassey",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Surprise, Ariz.",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-arizona-conner-olsen",
-  "name": "Conner Olsen",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Orono, Minnesota",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-arizona-filip-malbasic",
-  "name": "Filip Malbasic",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Stockholm, Sweden",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-arizona-jett-middleton",
-  "name": "Jett Middleton",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Columbine Valley, Colo.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
  },
  {
   "id": "alumni-university-of-arizona-dominique-rolland",
@@ -6971,17 +3264,6 @@
   "last_season": "2022-23"
  },
  {
-  "id": "alumni-university-of-arizona-jared-horwood",
-  "name": "Jared Horwood",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Toronto, Ontario, Canada",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
   "id": "alumni-university-of-arizona-jonas-ziverts",
   "name": "Jonas Ziverts",
   "school": "University of Arizona",
@@ -6991,17 +3273,6 @@
   "alumni": true,
   "grad": "2023",
   "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-arizona-gustaf-strom",
-  "name": "Gustaf Strom",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Stockholm, Sweden",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
  },
  {
   "id": "alumni-university-of-arizona-herman-hoeyeraal",
@@ -7015,28 +3286,6 @@
   "last_season": "2023-24"
  },
  {
-  "id": "alumni-university-of-arizona-nick-lagaev",
-  "name": "Nick Lagaev",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Vaughn, Ontario, Canada",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-arizona-casper-christensen",
-  "name": "Casper Christensen",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Oslo, Norway",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-university-of-arizona-colton-smith",
   "name": "Colton Smith",
   "school": "University of Arizona",
@@ -7045,39 +3294,6 @@
   "hometown": "Tenino, Wash.",
   "alumni": true,
   "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-arizona-eric-padgham",
-  "name": "Eric Padgham",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Brisbane, Australia",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-arizona-inaki-cabrera-bello",
-  "name": "Iñaki Cabrera Bello",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Barcelona, Spain",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-arizona-santiago-padilla-cote",
-  "name": "Santiago Padilla Cote",
-  "school": "University of Arizona",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Plantation, Fla.",
-  "alumni": true,
-  "grad": "",
   "last_season": "2024-25"
  },
  {
@@ -7092,83 +3308,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-university-of-florida-elliott-orkin",
-  "name": "Elliott Orkin",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Marietta, Ga. / Eaton Academy",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-florida-joseph-guillin",
-  "name": "Joseph Guillin",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Paris, France /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-florida-maxx-lipman",
-  "name": "Maxx Lipman",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Brentwood, Tenn. / Brentwood H.S.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-florida-chase-perez-blanco",
-  "name": "Chase Perez-Blanco",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Miami, Fla. / Gulliver Prep",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-florida-jordan-belga",
-  "name": "Jordan Belga",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Boca Raton, Fla. / Florida Virtual School",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-florida-joshua-wardell",
-  "name": "Joshua Wardell",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Fort Myers, Fla. / Florida Virtual School",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-florida-stephen-madonia",
-  "name": "Stephen Madonia",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Bradenton, Fla. / IMG Academy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
   "id": "alumni-university-of-florida-alfredo-perez",
   "name": "Alfredo Perez",
   "school": "University of Florida",
@@ -7178,39 +3317,6 @@
   "alumni": true,
   "grad": "2019",
   "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-florida-mcclain-kessler",
-  "name": "McClain Kessler",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Calhoun, Ga. / Calhoun High School",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-florida-greysen-cacciatore",
-  "name": "Greysen Cacciatore",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Gainesville, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-florida-harrison-cacciatore",
-  "name": "Harrison Cacciatore",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Gainesville, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
  },
  {
   "id": "alumni-university-of-florida-oliver-crawford",
@@ -7246,28 +3352,6 @@
   "last_season": "2020-21"
  },
  {
-  "id": "alumni-university-of-florida-abdullah-shelbayh",
-  "name": "Abdullah Shelbayh",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Amman, Jordan",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-florida-andy-andrade",
-  "name": "Andy Andrade",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Bradenton, Fla.",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
   "id": "alumni-university-of-florida-ben-shelton",
   "name": "Ben Shelton",
   "school": "University of Florida",
@@ -7285,39 +3369,6 @@
   "team_rank": "",
   "class": "Sr.",
   "hometown": "Cascais, Portugal",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-florida-josh-goodger",
-  "name": "Josh Goodger",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Wallington, England",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-florida-mattias-siimar",
-  "name": "Mattias Siimar",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Tallinn, Estonia",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-florida-sam-riffice",
-  "name": "Sam Riffice",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Orlando, Fla.",
   "alumni": true,
   "grad": "2022",
   "last_season": "2021-22"
@@ -7354,105 +3405,6 @@
   "alumni": true,
   "grad": "2026",
   "last_season": "2025-26"
- },
- {
-  "id": "alumni-university-of-florida-lukas-greif",
-  "name": "Lukas Greif",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Newburgh, Ind. / Laurel Springs",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-florida-olek-orlikowski",
-  "name": "Olek Orlikowski",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Lódz, Poland / Miejski Klub Tenisowy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-florida-will-grant",
-  "name": "Will Grant",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Boca Raton, Fla. / Laurel Springs",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-florida-mattia-akcan",
-  "name": "Mattia Akcan",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Milwaukee, Wis.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-florida-nate-bonetto",
-  "name": "Nate Bonetto",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Bend, Ore.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-florida-ben-weintraub",
-  "name": "Ben Weintraub",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Israel",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-florida-bradley-paliska",
-  "name": "Bradley Paliska",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Lamorlaye, France / CNED",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-florida-niels-villard",
-  "name": "Niels Villard",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Meaux, France",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-florida-rafael-segado",
-  "name": "Rafael Segado",
-  "school": "University of Florida",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Cartagena,Spain",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
  },
  {
   "id": "alumni-university-of-florida-adhithya-ganesan",
@@ -7499,127 +3451,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-university-of-georgia-andy-martinez",
-  "name": "Andy Martinez",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Atlanta, Ga. / Woodward Academy",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-georgia-wayne-montgomery",
-  "name": "Wayne Montgomery",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Somerset West, South Africa / Paul Roos Gimnasium",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-georgia-emil-reinberg",
-  "name": "Emil Reinberg",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Atlanta, Ga. / Laurel Springs",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-georgia-jan-zielinski",
-  "name": "Jan Zielinski",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Warsaw, Poland / Sopocka Akademic Tenisowa",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-georgia-walker-duncan",
-  "name": "Walker Duncan",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Atlanta, Ga. / Laurel Springs",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-georgia-alex-phillips",
-  "name": "Alex Phillips",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Peachtree City, Ga. / Ogburn School",
-  "alumni": true,
-  "grad": "2020",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-georgia-robert-loeb",
-  "name": "Robert Loeb",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Hilton Head, S.C. / Hilton Head Prep",
-  "alumni": true,
-  "grad": "2020",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-georgia-samuel-dromsky",
-  "name": "Samuel Dromsky",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Augusta, Ga. / Lakeside High School",
-  "alumni": true,
-  "grad": "2020",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-georgia-alex-diaz",
-  "name": "Alex Diaz",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Athens, Ga. / Monsignor Donovan",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-oklahoma-baptiste-anselmo",
-  "name": "Baptiste Anselmo",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Aix-en Provence, France / Georgia",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-georgia-billy-rowe",
-  "name": "Billy Rowe",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Coronado, Calif.",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
   "id": "alumni-university-of-georgia-tyler-zink",
   "name": "Tyler Zink",
   "school": "University of Georgia",
@@ -7629,17 +3460,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-georgia-erik-grevelius",
-  "name": "Erik Grevelius",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Stockholm, Sweden",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
  },
  {
   "id": "alumni-university-of-georgia-hamish-stewart",
@@ -7653,17 +3473,6 @@
   "last_season": "2021-22"
  },
  {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-mathis-debru",
-  "name": "Mathis Debru",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Grenoble, France",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-university-of-georgia-tristan-mccormick",
   "name": "Tristan McCormick",
   "school": "University of Georgia",
@@ -7673,28 +3482,6 @@
   "alumni": true,
   "grad": "2022",
   "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-georgia-blake-croyder",
-  "name": "Blake Croyder",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Marietta, Ga.",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-georgia-britton-johnston",
-  "name": "Britton Johnston",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Snellville, Ga.",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
  },
  {
   "id": "alumni-university-of-georgia-ethan-quinn",
@@ -7719,122 +3506,12 @@
   "last_season": "2022-23"
  },
  {
-  "id": "alumni-university-of-georgia-teodor-giusca",
-  "name": "Teodor Giusca",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Bucharest, Romania",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-georgia-trent-bryde",
-  "name": "Trent Bryde",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Suwanee, Ga.",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-georgia-cyrus-mahjoob",
-  "name": "Cyrus Mahjoob",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Rockville, Md.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-georgia-davis-taylor",
-  "name": "Davis Taylor",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Brookhaven, Ga.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-georgia-filipe-costa",
-  "name": "Filipe Costa",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "São Paulo, Brazil",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-georgia-miguel-perez-pena",
-  "name": "Miguel Perez Peña",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Castellon de la Plana, Spain",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-georgia-niels-ratiu",
-  "name": "Niels Ratiu",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Liège, Belgium",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-university-of-georgia-oscar-pinto-sansano",
   "name": "Oscar Pinto Sansano",
   "school": "University of Georgia",
   "team_rank": "",
   "class": "Sr.",
   "hometown": "Castellón de la Plana, Spain",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-georgia-parker-jacques",
-  "name": "Parker Jacques",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Huntsville, Ala.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-georgia-parker-mariencheck",
-  "name": "Parker Mariencheck",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Raleigh, N.C.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-georgia-thomas-paulsell",
-  "name": "Thomas Paulsell",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Seattle, Wash.",
   "alumni": true,
   "grad": "2025",
   "last_season": "2024-25"
@@ -7851,28 +3528,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-university-of-georgia-derrick-chen",
-  "name": "Derrick Chen",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Cambridge, United Kingdom",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-university-of-georgia-salvador-price",
-  "name": "Salvador Price",
-  "school": "University of Georgia",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Bogotá, Colombia",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2025-26"
- },
- {
   "id": "alumni-university-of-georgia-santiago-giamichelle",
   "name": "Santiago Giamichelle",
   "school": "University of Georgia",
@@ -7882,83 +3537,6 @@
   "alumni": true,
   "grad": "2026",
   "last_season": "2025-26"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-alex-jesse",
-  "name": "Alex Jesse",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Mequon, Wis.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-julian-childers",
-  "name": "Julian Childers",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Matteson, Ill.",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-kris-ortega",
-  "name": "Kris Ortega",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Homer Glenn, Ill.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-aleks-vukic",
-  "name": "Aleks Vukic",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Sydney, Australia",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-aron-hiltzik",
-  "name": "Aron Hiltzik",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Wilmette, Ill.",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-pablo-landa",
-  "name": "Pablo Landa",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Dallas, Texas",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-pengxuan-jiang",
-  "name": "Pengxuan Jiang",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Tian Jin, China",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
  },
  {
   "id": "alumni-university-of-illinois-at-urbana-champaign-keenan-mayo",
@@ -7972,166 +3550,12 @@
   "last_season": "2018-19"
  },
  {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-gui-gomes",
-  "name": "Gui Gomes",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Newport Beach, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-aleks-kovacevic",
-  "name": "Aleks Kovacevic",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "New York, N.Y.",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-alex-bancila",
-  "name": "Alex Bancila",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "R-Fr.",
-  "hometown": "Lake Bluff, Ill.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-fletcher-scott",
-  "name": "Fletcher Scott",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Lawrence, Kan.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-noe-khlif",
-  "name": "Noe Khlif",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Marseille, France",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-vuk-budic",
-  "name": "Vuk Budic",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Chicago, Ill.",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-zeke-clark",
-  "name": "Zeke Clark",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Tulsa, Okla.",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-alex-brown",
-  "name": "Alex Brown",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Urbandale, Iowa",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-kweisi-kenyatte",
-  "name": "Kweisi Kenyatte",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Detroit, Mich.",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-olivier-stuart",
-  "name": "Olivier Stuart",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Biarritz, France",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-siphosothando-montsi",
-  "name": "Siphosothando Montsi",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "East London, South Africa",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-nic-meister",
-  "name": "Nic Meister",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Chicago, Ill.",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-alex-petrov",
-  "name": "Alex Petrov",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "New York City, N.Y.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
   "id": "alumni-university-of-illinois-at-urbana-champaign-hunter-heck",
   "name": "Hunter Heck",
   "school": "University of Illinois at Urbana-Champaign",
   "team_rank": "",
   "class": "Sr.",
   "hometown": "New Brighton, Minn.",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-lucas-horve",
-  "name": "Lucas Horve",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Forsyth, Ill.",
   "alumni": true,
   "grad": "2024",
   "last_season": "2023-24"
@@ -8170,17 +3594,6 @@
   "last_season": "2024-25"
  },
  {
-  "id": "alumni-university-of-illinois-at-urbana-champaign-max-mroz",
-  "name": "Max Mroz",
-  "school": "University of Illinois at Urbana-Champaign",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Bradenton, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-university-of-illinois-at-urbana-champaign-hayden-jones",
   "name": "Hayden Jones",
   "school": "University of Illinois at Urbana-Champaign",
@@ -8214,72 +3627,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-university-of-oklahoma-alex-ghilea",
-  "name": "Alex Ghilea",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Neamt, Romania",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-oklahoma-andrew-harris",
-  "name": "Andrew Harris",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Melbourne, Australia",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-oklahoma-arnaud-restifo",
-  "name": "Arnaud Restifo",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Nice, France",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-oklahoma-florin-bragusi",
-  "name": "Florin Bragusi",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Ramnicu Valcea, Romania",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-oklahoma-james-davis",
-  "name": "James Davis",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Barnstaple, England",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-oklahoma-mason-bridegan",
-  "name": "Mason Bridegan",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Broken Arrow, Okla.",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
   "id": "alumni-university-of-oklahoma-aleksandre-bakshi",
   "name": "Aleksandre Bakshi",
   "school": "University of Oklahoma",
@@ -8291,138 +3638,6 @@
   "last_season": "2018-19"
  },
  {
-  "id": "alumni-university-of-oklahoma-ferran-calvo",
-  "name": "Ferran Calvo",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Valencia, Spain /",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-oklahoma-rafa-izquierdo",
-  "name": "Rafa Izquierdo",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Galicia, Spain /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-oklahoma-spencer-papa",
-  "name": "Spencer Papa",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Edmond, Okla. /",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-oklahoma-stefano-tsorotiotis",
-  "name": "Stefano Tsorotiotis",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Libertyville, Ill. / Libertyville",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-oklahoma-taine-bernhard",
-  "name": "Taine Bernhard",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Johannesburg, South Africa /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-oklahoma-jake-van-emburgh",
-  "name": "Jake Van Emburgh",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Belleair Beach, Fla. /",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-oklahoma-jochen-bertsch",
-  "name": "Jochen Bertsch",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Mannheim, Germany /",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-oklahoma-jonathan-sheehy",
-  "name": "Jonathan Sheehy",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Arlington, Texas / Abilene Christian",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-oklahoma-max-stewart",
-  "name": "Max Stewart",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Birmingham, England /",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-oklahoma-mason-beiler",
-  "name": "Mason Beiler",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "New Port Richey, Fla. /",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-oklahoma-matt-rodriguez",
-  "name": "Matt Rodriguez",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Boca Raton, Fla. /",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-oklahoma-welsh-hotard",
-  "name": "Welsh Hotard",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "New Orleans, La. /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
   "id": "alumni-university-of-oklahoma-jip-van-assendelft",
   "name": "Jip van Assendelft",
   "school": "University of Oklahoma",
@@ -8431,17 +3646,6 @@
   "hometown": "Capelle aan den IJssel, the Netherlands /",
   "alumni": true,
   "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-oklahoma-siphos-montsi",
-  "name": "Siphos Montsi",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "East London, South Africa /",
-  "alumni": true,
-  "grad": "2023",
   "last_season": "2022-23"
  },
  {
@@ -8467,39 +3671,6 @@
   "last_season": "2023-24"
  },
  {
-  "id": "alumni-university-of-oklahoma-mark-mandlik",
-  "name": "Mark Mandlik",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "5th",
-  "hometown": "Delray Beach, Fla. /",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-oklahoma-nathan-han",
-  "name": "Nathan Han",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Tulsa, Okla. /",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-oklahoma-hank-trondson",
-  "name": "Hank Trondson",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Nashville, Tenn. /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-university-of-oklahoma-jordan-hasson",
   "name": "Jordan Hasson",
   "school": "University of Oklahoma",
@@ -8522,50 +3693,6 @@
   "last_season": "2024-25"
  },
  {
-  "id": "alumni-university-of-oklahoma-oscar-lacides",
-  "name": "Oscar Lacides",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Paris, France /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-oklahoma-vojtech-petr",
-  "name": "Vojtech Petr",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Trojanovice, Czech Republic /",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-oklahoma-bruno-nhavene",
-  "name": "Bruno Nhavene",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Maputo, Mozambique / Cowley County CC",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-university-of-oklahoma-luis-alvarez",
-  "name": "Luis Alvarez",
-  "school": "University of Oklahoma",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Mexico City, Mexico /",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
- },
- {
   "id": "alumni-university-of-oklahoma-luka-talan-lopatic",
   "name": "Luka Talan Lopatic",
   "school": "University of Oklahoma",
@@ -8577,127 +3704,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-university-of-san-diego-armin-rostami",
-  "name": "Armin Rostami",
-  "school": "University of San Diego",
-  "team_rank": "",
-  "class": "So",
-  "hometown": "",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-george-goldhoff",
-  "name": "George Goldhoff",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Irvine, Calif. / Advantage Tennis Academy",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-wake-forest-julian-zlobinsky",
-  "name": "Julian Zlobinsky",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Greenvale, N.Y. / North Shore",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-william-jou",
-  "name": "William Jou",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Houston, Texas / Memorial HS",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-adrian-ortiz",
-  "name": "Adrian Ortiz",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Ensenada, Mexico / Preparatoria Abierta del Estado",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-john-mee",
-  "name": "John Mee",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Highland Park, Texas / Spring Creek Academy",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-colin-markes",
-  "name": "Colin Markes",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Austin, Texas / Westwood",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-harrison-scott",
-  "name": "Harrison Scott",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Calgary, Alberta (Canada) / National Sport School",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-johnny-goodwin",
-  "name": "Johnny Goodwin",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Mission Hills, Kansas / Kansas City Christian School",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-leonardo-telles",
-  "name": "Leonardo Telles",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Sao Paulo, Brazil / Colégio Dimensão",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-rodrigo-banzer",
-  "name": "Rodrigo Banzer",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "La Paz, Bolivia / Athletic Study Center",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
   "id": "alumni-university-of-texas-at-austin-christian-sigsgaard",
   "name": "Christian Sigsgaard",
   "school": "University of Texas at Austin",
@@ -8707,94 +3713,6 @@
   "alumni": true,
   "grad": "2020",
   "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-yuya-ito",
-  "name": "Yuya Ito",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Yokohama, Japan / St. Peter's College (Australia)",
-  "alumni": true,
-  "grad": "2020",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-jacob-bullard",
-  "name": "Jacob Bullard",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Calabasas, Calif. / Calabasas",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-leighton-allen",
-  "name": "Leighton Allen",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Austin, Texas / Laurel Springs School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-payton-holden",
-  "name": "Payton Holden",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Austin, Texas / Austin Tennis Academy",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-richard-ciamarra",
-  "name": "Richard Ciamarra",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Southington, Conn. / Xavier",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-chih-chi-huang",
-  "name": "Chih Chi Huang",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Vancouver, B.C., Canada / Vancouver Learning Network",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-nevin-arimilli",
-  "name": "Nevin Arimilli",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Austin, Texas / St. Stephen's Episcopal School",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-calvin-wang",
-  "name": "Calvin Wang",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Laguna Beach, Calif. / Laurel Springs School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
  },
  {
   "id": "alumni-university-of-texas-at-austin-cleeve-harper",
@@ -8814,28 +3732,6 @@
   "team_rank": "",
   "class": "Sr.",
   "hometown": "Greenwich, Conn. / Laurel Springs School",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-eshan-talluri",
-  "name": "Eshan Talluri",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "San Diego, Calif. / Torrey Pines",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-evin-mcdonald",
-  "name": "Evin McDonald",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Bethesda, Md. / Whitman",
   "alumni": true,
   "grad": "2024",
   "last_season": "2023-24"
@@ -8863,17 +3759,6 @@
   "last_season": "2023-24"
  },
  {
-  "id": "alumni-university-of-texas-at-austin-siem-woldeab",
-  "name": "Siem Woldeab",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "La Mesa, Calif. / Helix",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
   "id": "alumni-university-of-texas-at-austin-pierre-yves-bailly",
   "name": "Pierre-Yves Bailly",
   "school": "University of Texas at Austin",
@@ -8882,17 +3767,6 @@
   "hometown": "Bilzen, Belgium / Het Heilig Graf",
   "alumni": true,
   "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-university-of-texas-at-austin-rahul-sachdev",
-  "name": "Rahul Sachdev",
-  "school": "University of Texas at Austin",
-  "team_rank": "",
-  "class": "R-Fr.",
-  "hometown": "Cary, N.C. / Laurel Springs School",
-  "alumni": true,
-  "grad": "",
   "last_season": "2024-25"
  },
  {
@@ -8929,50 +3803,6 @@
   "last_season": "2025-26"
  },
  {
-  "id": "alumni-wake-forest-maksim-kan",
-  "name": "Maksim Kan",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Cleveland, Ohio",
-  "alumni": true,
-  "grad": "2017",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-wake-forest-patrick-hannity",
-  "name": "Patrick Hannity",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Cold Spring Harbor, N.Y.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2016-17"
- },
- {
-  "id": "alumni-wake-forest-christian-seraphim",
-  "name": "Christian Seraphim",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Munich, Germany / Otto-von-Taube-Gymnasium",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
-  "id": "alumni-wake-forest-ian-dempster",
-  "name": "Ian Dempster",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Plano, Texas / Brookhaven",
-  "alumni": true,
-  "grad": "2018",
-  "last_season": "2017-18"
- },
- {
   "id": "alumni-wake-forest-skander-mansouri",
   "name": "Skander Mansouri",
   "school": "Wake Forest",
@@ -8982,17 +3812,6 @@
   "alumni": true,
   "grad": "2018",
   "last_season": "2017-18"
- },
- {
-  "id": "alumni-wake-forest-alan-gadjiev",
-  "name": "Alan Gadjiev",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Tashkent, Uzbekistan / ES International School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
  },
  {
   "id": "alumni-wake-forest-borna-gojo",
@@ -9006,61 +3825,6 @@
   "last_season": "2018-19"
  },
  {
-  "id": "alumni-wake-forest-matej-cintl",
-  "name": "Matej Cintl",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Cheb, Czech Republic / Gymnázium Cheb",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-wake-forest-petros-chrysochos",
-  "name": "Petros Chrysochos",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Larnaca, Cyprus / American Academy of Larnaca",
-  "alumni": true,
-  "grad": "2019",
-  "last_season": "2018-19"
- },
- {
-  "id": "alumni-wake-forest-bar-botzer",
-  "name": "Bar Botzer",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Tel Aviv, Israel / Rotberg High School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-wake-forest-brant-fenno",
-  "name": "Brant Fenno",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Mount Pleasant, S.C. / Porter-Gaud School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2019-20"
- },
- {
-  "id": "alumni-wake-forest-charles-parry",
-  "name": "Charles Parry",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Palm Beach Gardens, Fla. / Oxbridge Academy",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
   "id": "alumni-wake-forest-henri-squire",
   "name": "Henri Squire",
   "school": "Wake Forest",
@@ -9070,116 +3834,6 @@
   "alumni": true,
   "grad": "",
   "last_season": "2020-21"
- },
- {
-  "id": "alumni-wake-forest-jack-parry",
-  "name": "Jack Parry",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Palm Beach Gardens, Fla. / Oxbridge Academy",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-wake-forest-morgan-dill",
-  "name": "Morgan Dill",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Coral Gables, Fla. / Laurel Springs School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-wake-forest-ryan-mueller",
-  "name": "Ryan Mueller",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Boston, Mass. / Antigua International School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-wake-forest-sean-patrick",
-  "name": "Sean Patrick",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "R-Sr.",
-  "hometown": "Cold Spring Harbor, N.Y. / Laurel Springs School",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-wake-forest-yuval-solomon",
-  "name": "Yuval Solomon",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Melville, N.Y. / Plainview Old-Bethpage John F. Kennedy",
-  "alumni": true,
-  "grad": "2021",
-  "last_season": "2020-21"
- },
- {
-  "id": "alumni-wake-forest-ben-draper",
-  "name": "Ben Draper",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Ashtead, England / Reed’s School",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-wake-forest-eduardo-nava",
-  "name": "Eduardo Nava",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Northridge, Calif. / California Iq Academy",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-wake-forest-jakob-schnaitter",
-  "name": "Jakob Schnaitter",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Wasserburg am Inn, Germany / Luitpold Gymnasium Wasserburg",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-wake-forest-robert-maciag",
-  "name": "Robert Maciag",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "R-Jr.",
-  "hometown": "Sterling, Va. / Dominion High School",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-wake-forest-rrezart-cungu",
-  "name": "Rrezart Cungu",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Ulcinj, Montenegro / Bratstvo-jedinstvo",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
  },
  {
   "id": "alumni-wake-forest-siddhant-banthia",
@@ -9204,28 +3858,6 @@
   "last_season": "2021-22"
  },
  {
-  "id": "alumni-wake-forest-tayte-dupree",
-  "name": "Tayte Dupree",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Washington, D.C. / The Potomac School",
-  "alumni": true,
-  "grad": "2022",
-  "last_season": "2021-22"
- },
- {
-  "id": "alumni-wake-forest-adam-duan",
-  "name": "Adam Duan",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Delray Beach, Florida",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
   "id": "alumni-wake-forest-bozo-barun",
   "name": "Božo Barun",
   "school": "Wake Forest",
@@ -9237,78 +3869,12 @@
   "last_season": "2022-23"
  },
  {
-  "id": "alumni-wake-forest-juan-lopez-de-azcona",
-  "name": "Juan Lopez de Azcona",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Madrid, Spain",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-wake-forest-jurabek-karimov",
-  "name": "Jurabek Karimov",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Tashkent, Uzbekistan",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-wake-forest-melios-efstathiou",
-  "name": "Melios Efstathiou",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Limassol, Cyprus",
-  "alumni": true,
-  "grad": "2023",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-wake-forest-togan-makzume",
-  "name": "Togan Makzume",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Istanbul, Turkey",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2022-23"
- },
- {
-  "id": "alumni-wake-forest-emmett-potter",
-  "name": "Emmett Potter",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Calgary, Canada",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
   "id": "alumni-wake-forest-filippo-moroni",
   "name": "Filippo Moroni",
   "school": "Wake Forest",
   "team_rank": "",
   "class": "Sr.",
   "hometown": "Valenza, Italy",
-  "alumni": true,
-  "grad": "2024",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-wake-forest-holden-koons",
-  "name": "Holden Koons",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "York, Pa.",
   "alumni": true,
   "grad": "2024",
   "last_season": "2023-24"
@@ -9325,61 +3891,6 @@
   "last_season": "2023-24"
  },
  {
-  "id": "alumni-wake-forest-saud-alhogbani",
-  "name": "Saud Alhogbani",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Riyadh, Saudia Arabia",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2023-24"
- },
- {
-  "id": "alumni-wake-forest-dylan-chang",
-  "name": "Dylan Chang",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Miami, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-ernesto-requena",
-  "name": "Ernesto Requena",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Jr.",
-  "hometown": "Cochabamba, Bolivia",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-franco-capalbo",
-  "name": "Franco Capalbo",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Buenos Aires, Argentina",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-harry-thursfield",
-  "name": "Harry Thursfield",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "London, England",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
   "id": "alumni-wake-forest-ioannis-xilas",
   "name": "Ioannis Xilas",
   "school": "Wake Forest",
@@ -9389,82 +3900,5 @@
   "alumni": true,
   "grad": "2025",
   "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-jamieson-nathan",
-  "name": "Jamieson Nathan",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Canberra, Australia",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-luciano-tacchi",
-  "name": "Luciano Tacchi",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Gr.",
-  "hometown": "Bella Vista, Argentina",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-martin-mazev",
-  "name": "Martin Mazev",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Yorba Linda, Calif.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-nikola-parichkov",
-  "name": "Nikola Parichkov",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Fr.",
-  "hometown": "Brandon, Fla.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-noah-hahn",
-  "name": "Noah Hahn",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Greenboro, N.C. / Bangkok, Thailand",
-  "alumni": true,
-  "grad": "2025",
-  "last_season": "2024-25"
- },
- {
-  "id": "alumni-wake-forest-ariel-zauber",
-  "name": "Ariel Zauber",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "So.",
-  "hometown": "Great Neck, N.Y.",
-  "alumni": true,
-  "grad": "",
-  "last_season": "2025-26"
- },
- {
-  "id": "alumni-wake-forest-dk-suresh-ekambaram",
-  "name": "DK Suresh Ekambaram",
-  "school": "Wake Forest",
-  "team_rank": "",
-  "class": "Sr.",
-  "hometown": "Chennai, India",
-  "alumni": true,
-  "grad": "2026",
-  "last_season": "2025-26"
  }
 ]

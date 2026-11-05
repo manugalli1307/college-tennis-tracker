@@ -326,7 +326,8 @@
  },
  "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi": {
   "country": "Japan",
-  "asof": "2026-11-04"
+  "asof": "2026-11-04",
+  "rank": 422
  },
  "university-of-virginia-stiles-brockett": {
   "country": "USA",
@@ -1447,5 +1448,560 @@
   "country": "Hungary",
   "asof": "2026-11-04",
   "rank": 887
+ },
+ "alumni-auburn-lorenzo-rodriguez": {
+  "country": "Argentina",
+  "asof": "2026-11-04",
+  "rank": 517
+ },
+ "alumni-auburn-finn-murgett": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 791
+ },
+ "alumni-auburn-tyler-stice": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1699
+ },
+ "alumni-auburn-alejandro-moreno": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1787
+ },
+ "alumni-auburn-billy-blaydes": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 1047
+ },
+ "alumni-baylor-university-rahul-dhokia": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 1571
+ },
+ "alumni-baylor-university-ryan-dickerson": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 743
+ },
+ "alumni-baylor-university-jacob-brumm": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1225
+ },
+ "alumni-baylor-university-finn-bass": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 1185
+ },
+ "alumni-baylor-university-imran-daniel-hazli": {
+  "country": "Malaysia",
+  "asof": "2026-11-04",
+  "rank": 1734
+ },
+ "alumni-baylor-university-luis-jose-nakamine": {
+  "country": "Peru",
+  "asof": "2026-11-04",
+  "rank": 1817
+ },
+ "alumni-baylor-university-marko-miladinovic": {
+  "country": "Serbia",
+  "asof": "2026-11-04",
+  "rank": 893
+ },
+ "alumni-baylor-university-oskar-brostrom-poulsen": {
+  "country": "Denmark",
+  "asof": "2026-11-04",
+  "rank": 719
+ },
+ "alumni-baylor-university-luc-koenig": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 1212
+ },
+ "alumni-columbia-theo-winegar": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1519
+ },
+ "alumni-columbia-hugo-hashimoto": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1026
+ },
+ "alumni-michigan-state-ronald-hohmann": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 933
+ },
+ "alumni-michigan-state-max-sheldon": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1286
+ },
+ "alumni-michigan-state-aristotelis-thanos": {
+  "country": "Greece",
+  "asof": "2026-11-04",
+  "rank": 1043
+ },
+ "alumni-michigan-state-vuk-radjenovic": {
+  "country": "Serbia",
+  "asof": "2026-11-04",
+  "rank": 1159
+ },
+ "alumni-mississippi-state-isaac-becroft": {
+  "country": "New Zealand",
+  "asof": "2026-11-04",
+  "rank": 533
+ },
+ "alumni-mississippi-state-jonas-hartenstein": {
+  "country": "Germany",
+  "asof": "2026-11-04",
+  "rank": 1862
+ },
+ "alumni-mississippi-state-giovanni-oradini": {
+  "country": "Italy",
+  "asof": "2026-11-04",
+  "rank": 674
+ },
+ "alumni-mississippi-state-bautista-vilicich": {
+  "country": "Argentina",
+  "asof": "2026-11-04",
+  "rank": 1151
+ },
+ "alumni-mississippi-state-davide-tortora": {
+  "country": "Italy",
+  "asof": "2026-11-04",
+  "rank": 868
+ },
+ "alumni-mississippi-state-florian-broska": {
+  "country": "Germany",
+  "asof": "2026-11-04",
+  "rank": 320
+ },
+ "alumni-mississippi-state-ewen-lumsden": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 1193
+ },
+ "alumni-mississippi-state-carles-hernandez": {
+  "country": "Spain",
+  "asof": "2026-11-04",
+  "rank": 749
+ },
+ "alumni-mississippi-state-nemanja-malesevic": {
+  "country": "Bosnia and Herzeg.",
+  "asof": "2026-11-04",
+  "rank": 1398
+ },
+ "alumni-mississippi-state-dusan-milanovic": {
+  "country": "Serbia",
+  "asof": "2026-11-04",
+  "rank": 1767
+ },
+ "alumni-mississippi-state-benito-sanchez-martinez": {
+  "country": "Germany",
+  "asof": "2026-11-04",
+  "rank": 901
+ },
+ "alumni-mississippi-state-mario-martinez-serrano": {
+  "country": "Spain",
+  "asof": "2026-11-04",
+  "rank": 1634
+ },
+ "alumni-mississippi-state-michal-novansky": {
+  "country": "Slovakia",
+  "asof": "2026-11-04",
+  "rank": 2160
+ },
+ "alumni-mississippi-state-niccolo-baroni": {
+  "country": "Italy",
+  "asof": "2026-11-04",
+  "rank": 1244
+ },
+ "alumni-mississippi-state-petar-jovanovic": {
+  "country": "Montenegro",
+  "asof": "2026-11-04",
+  "rank": 1534
+ },
+ "alumni-nc-state-martins-rocens": {
+  "country": "Latvia",
+  "asof": "2026-11-04",
+  "rank": 1842
+ },
+ "alumni-nc-state-damien-salvestre": {
+  "country": "France",
+  "asof": "2026-11-04",
+  "rank": 1455
+ },
+ "alumni-nc-state-fons-van-sambeek": {
+  "country": "Netherlands",
+  "asof": "2026-11-04",
+  "rank": 967
+ },
+ "alumni-ohio-state-alex-kobelt": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1873
+ },
+ "alumni-ohio-state-kyle-seelig": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1919
+ },
+ "alumni-ohio-state-cannon-kingsley": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 590
+ },
+ "alumni-ohio-state-alexander-bernard": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1554
+ },
+ "alumni-ohio-state-jack-anthrop": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 629
+ },
+ "alumni-ohio-state-loren-byers": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1610
+ },
+ "alumni-pepperdine-adrian-oetzbach": {
+  "country": "Germany",
+  "asof": "2026-11-04",
+  "rank": 512
+ },
+ "alumni-pepperdine-guy-den-ouden": {
+  "country": "Netherlands",
+  "asof": "2026-11-04",
+  "rank": 316
+ },
+ "alumni-pepperdine-pietro-fellin": {
+  "country": "Italy",
+  "asof": "2026-11-04",
+  "rank": 594
+ },
+ "alumni-pepperdine-zach-stephens": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 1094
+ },
+ "alumni-smu-liam-krall": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1222
+ },
+ "alumni-smu-ofek-shimanov": {
+  "country": "Israel",
+  "asof": "2026-11-04",
+  "rank": 902
+ },
+ "alumni-smu-alex-finkelstein": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 2219
+ },
+ "alumni-stanford-max-basing": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 259
+ },
+ "alumni-stanford-samir-banerjee": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 554
+ },
+ "alumni-tcu-juan-carlos-aguilar": {
+  "country": "Canada",
+  "asof": "2026-11-04",
+  "rank": 1398
+ },
+ "alumni-tcu-luc-fomba": {
+  "country": "France",
+  "asof": "2026-11-04",
+  "rank": 1195
+ },
+ "alumni-texas-a-m-university-noah-schachter": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1092
+ },
+ "alumni-texas-a-m-university-stefan-storch": {
+  "country": "Australia",
+  "asof": "2026-11-04",
+  "rank": 1374
+ },
+ "alumni-usc-brandon-holt": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1284
+ },
+ "alumni-usc-daniel-cukierman": {
+  "country": "Israel",
+  "asof": "2026-11-04",
+  "rank": 1378
+ },
+ "alumni-usc-ryder-jackson": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 2082
+ },
+ "alumni-university-of-georgia-ryan-colby": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 648
+ },
+ "alumni-wake-forest-stefan-dostanic": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 303
+ },
+ "alumni-usc-karl-lee": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1659
+ },
+ "alumni-usc-oscar-weightman": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 799
+ },
+ "alumni-usc-volodymyr-iakubenko": {
+  "country": "Ukraine",
+  "asof": "2026-11-04",
+  "rank": 990
+ },
+ "alumni-university-of-arizona-dominique-rolland": {
+  "country": "France",
+  "asof": "2026-11-04",
+  "rank": 1696
+ },
+ "alumni-university-of-arizona-hiroki-sakagawa": {
+  "country": "Japan",
+  "asof": "2026-11-04",
+  "rank": 1842
+ },
+ "alumni-university-of-arizona-jonas-ziverts": {
+  "country": "Sweden",
+  "asof": "2026-11-04",
+  "rank": 1116
+ },
+ "alumni-university-of-arizona-herman-hoeyeraal": {
+  "country": "Norway",
+  "asof": "2026-11-04",
+  "rank": 659
+ },
+ "alumni-university-of-florida-alfredo-perez": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1524
+ },
+ "alumni-university-of-florida-oliver-crawford": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 319
+ },
+ "alumni-university-of-florida-blaise-bicknell": {
+  "country": "Jamaica",
+  "asof": "2026-11-04",
+  "rank": 436
+ },
+ "alumni-university-of-florida-johannes-ingildsen": {
+  "country": "Denmark",
+  "asof": "2026-11-04",
+  "rank": 1287
+ },
+ "alumni-university-of-florida-duarte-vale": {
+  "country": "Portugal",
+  "asof": "2026-11-04",
+  "rank": 1280
+ },
+ "alumni-university-of-florida-axel-nefve": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 961
+ },
+ "alumni-university-of-florida-borys-zgola": {
+  "country": "Poland",
+  "asof": "2026-11-04",
+  "rank": 1291
+ },
+ "alumni-university-of-florida-adhithya-ganesan": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 870
+ },
+ "alumni-university-of-florida-pablo-perez-ramos": {
+  "country": "Spain",
+  "asof": "2026-11-04",
+  "rank": 915
+ },
+ "alumni-university-of-florida-tanapatt-nirundorn": {
+  "country": "Thailand",
+  "asof": "2026-11-04",
+  "rank": 1647
+ },
+ "alumni-university-of-georgia-hamish-stewart": {
+  "country": "Great Britain",
+  "asof": "2026-11-04",
+  "rank": 435
+ },
+ "alumni-university-of-georgia-ethan-quinn": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 64
+ },
+ "alumni-university-of-georgia-oscar-pinto-sansano": {
+  "country": "Spain",
+  "asof": "2026-11-04",
+  "rank": 2160
+ },
+ "alumni-university-of-georgia-arda-azkara": {
+  "country": "Turkey",
+  "asof": "2026-11-04",
+  "rank": 693
+ },
+ "alumni-university-of-georgia-santiago-giamichelle": {
+  "country": "Argentina",
+  "asof": "2026-11-04",
+  "rank": 1259
+ },
+ "alumni-university-of-illinois-at-urbana-champaign-keenan-mayo": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1242
+ },
+ "alumni-university-of-illinois-at-urbana-champaign-gabrielius-guzauskas": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 2160
+ },
+ "alumni-university-of-illinois-at-urbana-champaign-karlis-ozolins": {
+  "country": "Latvia",
+  "asof": "2026-11-04",
+  "rank": 735
+ },
+ "alumni-university-of-illinois-at-urbana-champaign-hayden-jones": {
+  "country": "Australia",
+  "asof": "2026-11-04",
+  "rank": 906
+ },
+ "alumni-university-of-illinois-at-urbana-champaign-william-mroz": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1610
+ },
+ "alumni-university-of-oklahoma-aleksandre-bakshi": {
+  "country": "Georgia",
+  "asof": "2026-11-04",
+  "rank": 1099
+ },
+ "alumni-university-of-oklahoma-jip-van-assendelft": {
+  "country": "Netherlands",
+  "asof": "2026-11-04",
+  "rank": 1776
+ },
+ "alumni-university-of-oklahoma-alex-martinez": {
+  "country": "Spain",
+  "asof": "2026-11-04",
+  "rank": 400
+ },
+ "alumni-university-of-oklahoma-justin-schlageter": {
+  "country": "Germany",
+  "asof": "2026-11-04",
+  "rank": 1271
+ },
+ "alumni-university-of-oklahoma-jordan-hasson": {
+  "country": "Israel",
+  "asof": "2026-11-04",
+  "rank": 951
+ },
+ "alumni-university-of-oklahoma-orel-kimhi": {
+  "country": "Israel",
+  "asof": "2026-11-04",
+  "rank": 725
+ },
+ "alumni-university-of-oklahoma-luka-talan-lopatic": {
+  "country": "Slovenia",
+  "asof": "2026-11-04",
+  "rank": 861
+ },
+ "alumni-university-of-texas-at-austin-christian-sigsgaard": {
+  "country": "Denmark",
+  "asof": "2026-11-04",
+  "rank": 1293
+ },
+ "alumni-university-of-texas-at-austin-cleeve-harper": {
+  "country": "Canada",
+  "asof": "2026-11-04",
+  "rank": 1758
+ },
+ "alumni-university-of-texas-at-austin-eliot-spizzirri": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 214
+ },
+ "alumni-university-of-texas-at-austin-micah-braswell": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 1112
+ },
+ "alumni-university-of-texas-at-austin-pierre-yves-bailly": {
+  "country": "Belgium",
+  "asof": "2026-11-04",
+  "rank": 927
+ },
+ "alumni-university-of-texas-at-austin-evan-burnett": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 2003
+ },
+ "alumni-university-of-texas-at-austin-kalin-ivanovski": {
+  "country": "North Macedonia",
+  "asof": "2026-11-04",
+  "rank": 715
+ },
+ "alumni-wake-forest-skander-mansouri": {
+  "country": "Tunisia",
+  "asof": "2026-11-04",
+  "rank": 1302
+ },
+ "alumni-wake-forest-henri-squire": {
+  "country": "Germany",
+  "asof": "2026-11-04",
+  "rank": 312
+ },
+ "alumni-wake-forest-siddhant-banthia": {
+  "country": "India",
+  "asof": "2026-11-04",
+  "rank": 1210
+ },
+ "alumni-wake-forest-taha-baadi": {
+  "country": "Canada",
+  "asof": "2026-11-04",
+  "rank": 658
+ },
+ "alumni-wake-forest-bozo-barun": {
+  "country": "Croatia",
+  "asof": "2026-11-04",
+  "rank": 1258
+ },
+ "alumni-wake-forest-filippo-moroni": {
+  "country": "Italy",
+  "asof": "2026-11-04",
+  "rank": 1028
+ },
+ "alumni-wake-forest-matthew-thomson": {
+  "country": "USA",
+  "asof": "2026-11-04",
+  "rank": 974
+ },
+ "alumni-wake-forest-ioannis-xilas": {
+  "country": "Greece",
+  "asof": "2026-11-04",
+  "rank": 502
  }
 }
