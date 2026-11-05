@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:36:20+00:00",
+ "updated": "2026-11-05T16:26:16+00:00",
  "atp": [
   {
    "step": "event",
@@ -7,7 +7,7 @@
    "name": "Almaty ATP",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 7,
    "data": true
   },
   {
@@ -16,7 +16,7 @@
    "name": "Brussels ATP",
    "status": "past",
    "entries": 0,
-   "matches": 4,
+   "matches": 15,
    "data": true
   },
   {
@@ -25,7 +25,7 @@
    "name": "Cali Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 4,
+   "matches": 13,
    "data": true
   },
   {
@@ -34,7 +34,7 @@
    "name": "Florence Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 0,
+   "matches": 3,
    "data": true
   },
   {
@@ -43,7 +43,7 @@
    "name": "Fort Worth Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 40,
+   "matches": 49,
    "data": true
   },
   {
@@ -52,7 +52,7 @@
    "name": "Guangzhou Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 3,
+   "matches": 14,
    "data": true
   },
   {
@@ -61,7 +61,7 @@
    "name": "Lisbon Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 1,
+   "matches": 17,
    "data": true
   },
   {
@@ -70,7 +70,7 @@
    "name": "Lyon ATP",
    "status": "past",
    "entries": 0,
-   "matches": 5,
+   "matches": 9,
    "data": true
   },
   {
@@ -79,7 +79,7 @@
    "name": "Basel ATP",
    "status": "past",
    "entries": 0,
-   "matches": 5,
+   "matches": 19,
    "data": true
   },
   {
@@ -88,7 +88,7 @@
    "name": "Brest Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 6,
+   "matches": 20,
    "data": true
   },
   {
@@ -97,7 +97,7 @@
    "name": "Guayaquil Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 5,
+   "matches": 8,
    "data": true
   },
   {
@@ -106,7 +106,7 @@
    "name": "Ningbo Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 1,
+   "matches": 9,
    "data": true
   },
   {
@@ -115,7 +115,7 @@
    "name": "Seoul Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 4,
+   "matches": 12,
    "data": true
   },
   {
@@ -124,7 +124,7 @@
    "name": "Sioux Falls Challenger",
    "status": "past",
    "entries": 0,
-   "matches": 30,
+   "matches": 43,
    "data": true
   },
   {
@@ -133,7 +133,7 @@
    "name": "Vienna ATP",
    "status": "past",
    "entries": 0,
-   "matches": 7,
+   "matches": 10,
    "data": true
   },
   {
@@ -141,8 +141,8 @@
    "id": "te-bratislava-challenger-2026",
    "name": "Bratislava Challenger",
    "status": "current",
-   "entries": 3,
-   "matches": 5,
+   "entries": 7,
+   "matches": 11,
    "data": true
   },
   {
@@ -150,8 +150,8 @@
    "id": "te-charlottesville-challenger-2026",
    "name": "Charlottesville Challenger",
    "status": "current",
-   "entries": 20,
-   "matches": 22,
+   "entries": 37,
+   "matches": 34,
    "data": true
   },
   {
@@ -159,8 +159,8 @@
    "id": "te-costa-do-sauipe-challenger-2026",
    "name": "Costa do Sauipe Challenger",
    "status": "current",
-   "entries": 0,
-   "matches": 0,
+   "entries": 5,
+   "matches": 7,
    "data": true
   },
   {
@@ -168,8 +168,8 @@
    "id": "te-paris-2026",
    "name": "Paris ATP",
    "status": "current",
-   "entries": 6,
-   "matches": 10,
+   "entries": 15,
+   "matches": 24,
    "data": true
   },
   {
@@ -177,8 +177,8 @@
    "id": "te-taipei-challenger-2026",
    "name": "Taipei Challenger",
    "status": "current",
-   "entries": 2,
-   "matches": 2,
+   "entries": 8,
+   "matches": 13,
    "data": true
   },
   {
@@ -186,8 +186,8 @@
    "id": "te-villa-maria-challenger-2026",
    "name": "Villa Maria Challenger",
    "status": "current",
-   "entries": 0,
-   "matches": 0,
+   "entries": 6,
+   "matches": 8,
    "data": true
   },
   {
@@ -195,13 +195,13 @@
    "id": "te-taranto-challenger-2026",
    "name": "Taranto Challenger",
    "status": "current",
-   "entries": 4,
-   "matches": 5,
+   "entries": 10,
+   "matches": 11,
    "data": true
   },
   {
    "step": "profiles opened",
-   "count": 1
+   "count": 161
   }
  ],
  "ranks": [
