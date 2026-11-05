@@ -2407,6 +2407,12 @@
  },
  {
   "tournament": "te-costa-do-sauipe-challenger-2026",
+  "player": "alumni-tennessee-younes-lalami",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-costa-do-sauipe-challenger-2026",
   "player": "alumni-tennessee-tech-rafael-tosetto",
   "section": "Qualifying",
   "match": "full name"
@@ -5366,6 +5372,12 @@
  {
   "tournament": "te-guayaquil-challenger-2026",
   "player": "alumni-university-of-georgia-tristan-mccormick",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "player": "alumni-tennessee-younes-lalami",
   "section": "Qualifying",
   "match": "draw"
  },
