@@ -1,7 +1,49 @@
 [
  {
-  "tournament": "m-itf-chn-2026-034",
-  "player": "alumni-texas-a-m-university-stefan-storch",
+  "tournament": "m-itf-aus-2026-012",
+  "player": "alumni-mississippi-state-isaac-becroft",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-aus-2026-012",
+  "player": "alumni-university-of-illinois-at-urbana-champaign-hayden-jones",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-aus-2026-012",
+  "player": "alumni-university-of-arizona-herman-hoeyeraal",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "player": "alumni-university-of-florida-blaise-bicknell",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "player": "alumni-ohio-state-alexander-bernard",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "player": "alumni-baylor-university-jacob-brumm",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "player": "wake-forest-kacper-szymkowiak",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "player": "alumni-texas-a-m-university-noah-schachter",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -1746,24 +1788,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-aus-2026-012",
-  "player": "alumni-mississippi-state-isaac-becroft",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-aus-2026-012",
-  "player": "alumni-university-of-illinois-at-urbana-champaign-hayden-jones",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-aus-2026-012",
-  "player": "alumni-university-of-arizona-herman-hoeyeraal",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-tur-2026-027",
   "player": "alumni-michigan-state-vuk-radjenovic",
   "section": "Main Draw",
@@ -1848,6 +1872,12 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-chn-2026-034",
+  "player": "alumni-texas-a-m-university-stefan-storch",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-tun-2026-044",
   "player": "ucf-wissam-abderrahman",
   "section": "Main Draw",
@@ -1856,36 +1886,6 @@
  {
   "tournament": "m-itf-tun-2026-044",
   "player": "alumni-mississippi-state-benito-sanchez-martinez",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "player": "alumni-university-of-florida-blaise-bicknell",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "player": "alumni-ohio-state-alexander-bernard",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "player": "alumni-baylor-university-jacob-brumm",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "player": "wake-forest-kacper-szymkowiak",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "player": "alumni-texas-a-m-university-noah-schachter",
   "section": "Main Draw",
   "match": "draw"
  },
