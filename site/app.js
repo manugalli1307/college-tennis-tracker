@@ -345,8 +345,8 @@
     }).join("");
     app.innerHTML = '<p class="crumbs"><a href="#/teams">Teams</a></p><h1>' + esc(team.school) + "</h1>" + followButton("t", team.slug) +
       (team.rank < 999 ? '<div class="facts"><span>Team ranking <b>' + team.rank + "</b></span><span><b>" + team.players.length + "</b> players</span></div>" : "") +
-      '<div class="section"><h2>On tour</h2>' + (blocks || empty("No players from this team are in ITF, Challenger or ATP events in the last two weeks or the next three.")) + "</div>" +
       '<div class="section"><h2>Roster</h2><ul class="grid">' + roster + "</ul></div>" +
+      '<div class="section"><h2>On tour</h2>' + (blocks || empty("No players from this team are in ITF, Challenger or ATP events in the last two weeks or the next three.")) + "</div>" +
       (DATA.alumniTeams[key] ? '<p class="section"><a href="#/alumni/' + esc(key) + '">' + esc(team.school) + " former college tennis players (" + DATA.alumniTeams[key].players.length + ") →</a></p>" : "");
     bindFollow();
   }
