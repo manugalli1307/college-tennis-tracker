@@ -1,168 +1,453 @@
-School,Player,Hometown,First season,Last season,Last class,Graduation year,ATP rank
-Auburn,Lorenzo Rodriguez,"Buenos Aires, Argentina",2017-18,2017-18,Freshman,,517
-Auburn,Finn Murgett,"Holmfirth, Yorkshire, England",2019-20,2020-21,Sophomore,,791
-Auburn,Tyler Stice,"Atlanta, Ga.",2019-20,2020-21,Sophomore,,1699
-Auburn,Alejandro Moreno,"Knoxville, Tenn.",2022-23,2023-24,Sophomore,,1787
-Auburn,Billy Blaydes,"Windermere, England",2022-23,2023-24,Sophomore,,1047
-Baylor University,Jenson Brooksby,"Sacramento, Calif. / Laurel Springs H.S.",2019-20,2019-20,Fr.,,94
-Baylor University,Rahul Dhokia,"Leicester, England / Leicester Grammar School",2019-20,2020-21,Fr.,,1571
-Baylor University,Ryan Dickerson,"Marlton, N.J. / Moorestown H.S.",2019-20,2020-21,Sr.,2021,743
-Baylor University,Jacob Brumm,"Rancho Santa Fe, Calif. / Torrey Pines HS",2021-22,2021-22,Gr.,2022,1225
-Baylor University,Matias Soto,"Copiapo, Chile / Colegio Olimpo",2017-18,2021-22,Sr.,2022,260
-Baylor University,Finn Bass,"Rock, Cornwall, United Kingdom / Millfield School",2018-19,2022-23,Sr.,2023,1185
-Baylor University,Imran Daniel Hazli,"Kuala Lumpur, Malaysia",2024-25,2024-25,Fr.,,1734
-Baylor University,Luis Jose Nakamine,"Trujillo, Peru",2024-25,2024-25,Fr.,,1817
-Baylor University,Marko Miladinovic,"Belgrade, Serbia / Crnjanski",2021-22,2024-25,Sr.,2025,893
-Baylor University,Oskar Brostrom Poulsen,"Helsingor, Denmark / Falkonergårdens Gymnasium og HF",2023-24,2024-25,Sr.,2025,719
-Baylor University,Luc Koenig,"Durban, South Africa",2022-23,2025-26,Sr.,2026,1212
-Columbia,Theo Winegar,"Osprey, Fla. / Pine View School",2021-22,2023-24,Sr.,2024,1519
-Columbia,Hugo Hashimoto,"San Jose, Calif. / California Connections Academy",2022-23,2024-25,Sr.,2025,1026
-Columbia,Michael Zheng,"Montville, N.J. / Delbarton School/Dwight School",2023-24,2025-26,Sr.,2026,100
-Cornell,Alafia Ayeni,,2017-18,2021-22,Sr,2022,434
-LSU,Ronald Hohmann,,2020-21,2020-21,Sophomore,,933
-Michigan State,Ronald Hohmann,"Oyster Bay, N.Y. / Laurel Springs",2023-24,2023-24,Gr.,2024,933
-Michigan State,Max Sheldon,"Arlington Heights, Ill. / John Hersey",2021-22,2024-25,Sr.,2025,1286
-Michigan State,Aristotelis Thanos,"Athens, Greece /",2022-23,2025-26,R-Sr.,2026,1043
-Michigan State,Matthew Forbes,"Raleigh, N.C. / Laurel Springs",2024-25,2025-26,So.,,944
-Michigan State,Ozan Baris,"Okemos, Mich. / Okemos",2022-23,2025-26,Sr.,2026,397
-Michigan State,Vuk Radjenovic,"Belgrade, Serbia / Milutin Milankovic",2024-25,2025-26,So.,,1159
-Mississippi State,Arvid Nordquist,"Västerljung, Sweden /",2017-18,2017-18,Fr.,,657
-Mississippi State,Nuno Borges,"Maia, Porto, Portugal / Escola Secundaria Da Maia",2016-17,2018-19,Sr.,2019,49
-Mississippi State,Isaac Becroft,"Wellington, New Zealand / Wellington College",2019-20,2019-20,Fr.,,533
-Mississippi State,Jonas Hartenstein,"Berlin, Germany / Evangelische Schule Frohnau",2019-20,2019-20,Fr.,,1862
-Mississippi State,Giovanni Oradini,"Rovereto, Italy / Istituto Voltaire",2016-17,2020-21,Sr.,2021,674
-Mississippi State,Bautista Vilicich,"Balcarce, Argentina / Santa Rosa de Lima",2021-22,2021-22,Fr.,,1151
-Mississippi State,Davide Tortora,"Verona, Italy / Liceo Parini di Cecina",2019-20,2021-22,Jr.,,868
-Mississippi State,Florian Broska,"Eitelborn, Germany / Gymnasium im Kannenbäckerland",2017-18,2021-22,Gr.,2022,320
-Mississippi State,Ewen Lumsden,"Glasgow, Scotland / Beaconhurst School / Washington",2022-23,2022-23,Gr.,2023,1193
-Mississippi State,Carles Hernandez,"Crevillent, Spain / Cidead a Madrid",2020-21,2023-24,Sr.,2024,749
-Mississippi State,Nemanja Malesevic,"Banja Luka, Bosnia and Herzegovina / Srednjoskolski Centar Apeiron",2020-21,2023-24,Sr.,2024,1398
-Mississippi State,Dusan Milanovic,"Bijeljina, Bosnia and Herzegovina / Presbyterian",2023-24,2024-25,Sr.,2025,1767
-Mississippi State,Benito Sanchez Martinez,"Potsdam, Germany / Carl-Friedrich-Gauss Schule",2022-23,2025-26,Sr.,2026,901
-Mississippi State,Mario Martinez Serrano,"Zaragoza, Spain / Troy",2024-25,2025-26,Sr.,2026,1634
-Mississippi State,Michal Novansky,"Trnava, Slovakia / Stredna sportova skola Jozefa Herdu",2022-23,2025-26,Sr.,2026,2160
-Mississippi State,Niccolo Baroni,"Viareggio, Italy / University of Pisa",2024-25,2025-26,So.,,1244
-Mississippi State,Petar Jovanovic,"Podgorica, Montenegro / Gymnasium Slobodan Skerovic",2022-23,2025-26,Sr.,2026,1534
-NC State,Alexis Galarneau,"Laval, Canada / Academie les Estacades",2016-17,2020-21,5th,2021,195
-NC State,Martins Rocens,"Riga, Latvia / Riga School of Commerce",2019-20,2021-22,Jr.,,1842
-NC State,Damien Salvestre,"Marseille, France /",2021-22,2023-24,Jr.,,1455
-NC State,Robin Catry,"Lille, France / EABJM Lille",2019-20,2023-24,Sr.,2024,656
-NC State,Braden Shick,"Greensboro, N.C. / Laurel Springs",2020-21,2024-25,Sr.,2025,205
-NC State,Fons Van Sambeek,"Veldhoven, Netherlands / null",2021-22,2024-25,Sr.,2025,967
-NC State,Luca Staeheli,"Wollerau, Switzerland / null",2021-22,2024-25,Sr.,2025,449
-NC State,Martin Borisiouk,"Minsk, Belarus /",2022-23,2025-26,Sr.,2026,726
-Ohio State,Alex Kobelt,"New Albany, Ohio",2016-17,2018-19,R-Jr.,,1873
-Ohio State,Kyle Seelig,"Hatfield, Pa.",2016-17,2020-21,Gr.,2021,1919
-Ohio State,James Trotter,"Hyogo, Japan",2018-19,2022-23,R-Sr.,2023,542
-Ohio State,Cannon Kingsley,"Northport, N.Y.",2019-20,2023-24,5th,2024,590
-Ohio State,Justin Boulais,"Oakville, Ontario",2019-20,2023-24,5th,2024,439
-Ohio State,Alexander Bernard,"Bonita Springs, Florida",2022-23,2025-26,Sr.,2026,1554
-Ohio State,Jack Anthrop,"Orlando, Florida",2021-22,2025-26,Sr.,2026,629
-Ohio State,Loren Byers,"Greensburg, Pennsylvania",2025-26,2025-26,Gr.,2026,1610
-Pepperdine,Adrian Oetzbach,"Velbert, North Rhine-Westphalia, Germany",2018-19,2020-21,Gr.,2021,512
-Pepperdine,Guy Den Ouden,Netherlands,2020-21,2020-21,Fr.,,316
-Pepperdine,Daniel De Jonge,"Vlissingen, Netherlands",2019-20,2022-23,Gr.,2023,569
-Pepperdine,Eero Vasa,"Turku, Finland",2021-22,2022-23,Gr.,2023,478
-Pepperdine,Pietro Fellin,"Milan, Italy",2019-20,2023-24,Sr.,2024,594
-Pepperdine,Zach Stephens,"Dubai, United Arab Emirates",2023-24,2024-25,So.,,1094
-SMU,Liam Krall,"Bronxville, N.Y. / Bronxville",2020-21,2023-24,SR,2024,1222
-SMU,Ofek Shimanov,"Ramla, Israel /",2024-25,2024-25,FR,,902
-SMU,Alex Finkelstein,"Raynham, Mass. / Brown",2025-26,2025-26,GR,2026,2219
-SMU,Trevor Svajda,"San Diego, Calif. / Connections Academy",2023-24,2025-26,JR,,481
-Stanford,Tristan Boyer,"Altadena, Calif.",2020-21,2020-21,Freshman,,207
-Stanford,Arthur Fery,"Wimbledon, United Kingdom",2020-21,2021-22,Sophomore,,32
-Stanford,Max Basing,"Oxshott, United Kingdom",2021-22,2022-23,Sophomore,,259
-Stanford,Nishesh Basavareddy,"Carmel, Ind.",2022-23,2023-24,Sophomore,,128
-Stanford,Samir Banerjee,"Basking Ridge, N.J.",2022-23,2023-24,Sophomore,,554
-TCU,Cameron Norrie,"Auckland, New Zealand",2016-17,2016-17,Jr.,,45
-TCU,Alex Rybakov,"Coral Springs, Fla.",2016-17,2018-19,Sr.,2019,641
-TCU,Alastair Gray,"Twickenham, England",2016-17,2020-21,Jr.,,270
-TCU,Juan Carlos Aguilar,"La Paz, Bolivia",2021-22,2021-22,Gr.,2022,1398
-TCU,Luc Fomba,"Paris, France",2018-19,2022-23,Sr.,2023,1195
-TCU,Sander Jong,"Amsterdam, The Netherlands",2018-19,2022-23,Sr.,2023,393
-TCU,Sebastian Gorzny,"Austin, Texas",2022-23,2023-24,So.,,403
-TCU,Lui Maxted,"Worthing, England",2021-22,2024-25,Sr.,2025,428
-TCU,Cosme Rolland De Ravel,"Fontaine Les Dijon, France",2025-26,2025-26,Sr.,2026,580
-TCU,Julian Alonso,"Bradenton, Fla.",2023-24,2025-26,Jr.,,1290
-Texas A&M University,Noah Schachter,"Wesley Chapel, Fla.",2019-20,2019-20,Sophomore,,1092
-Texas A&M University,Stefan Storch,"Melbourne, Australia",2019-20,2019-20,Freshman,,1374
-USC,Brandon Holt,"Rolling Hills, Calif.",2016-17,2019-20,Sr.,2020,1284
-USC,Daniel Cukierman,"Tel Aviv, Israel",2017-18,2020-21,Sr.,2021,1378
-USC,Ryder Jackson,"Nicasio, Calif.",2019-20,2021-22,Jr.,,2082
-USC,Learner Tien,"Irvine, Calif.",2022-23,2022-23,Fr.,,19
-USC,Ryan Colby,"Alexandria, Va.",2021-22,2022-23,So.,,648
-USC,Stefan Dostanic,"Irvine, Calif.",2019-20,2023-24,5th,2024,303
-USC,Karl Lee,"Sacramento, Calif.",2022-23,2024-25,Sr.,2025,1659
-USC,Oscar Weightman,"London, England, UK",2023-24,2024-25,Jr.,,799
-USC,Peter Makk,"Budapest, Hungary",2021-22,2024-25,Sr.,2025,537
-USC,Volodymyr Iakubenko,"Kiev, Ukraine",2023-24,2024-25,So.,,990
-University of Arizona,Dominique Rolland,"Calabasas, California",2022-23,2022-23,Fr.,,1696
-University of Arizona,Hiroki Sakagawa,"Inzai, Chiba, Japan",2019-20,2022-23,Sr.,2023,1842
-University of Arizona,Jonas Ziverts,"Solna, Sweden",2018-19,2022-23,5th,2023,1116
-University of Arizona,Herman Hoeyeraal,"Oslo, Norway",2020-21,2023-24,Sr.,2024,659
-University of Arizona,Colton Smith,"Tenino, Wash.",2021-22,2024-25,Sr.,2025,218
-University of Arizona,Jay Friend,"Tokyo, Japan",2022-23,2025-26,Sr.,2026,252
-University of Florida,Alfredo Perez,"Havana, Cuba / Coral Gables High School",2016-17,2018-19,Sr.,2019,1524
-University of Florida,Oliver Crawford,"Spartanburg, S.C.",2017-18,2019-20,Jr.,,319
-University of Florida,Blaise Bicknell,"Miami, Fla.",2019-20,2020-21,So.,,436
-University of Florida,Johannes Ingildsen,"Copenhagen, Denmark",2016-17,2020-21,R-Sr.,2021,1287
-University of Florida,Ben Shelton,"Gainesville, Fla.",2020-21,2021-22,So.,,4
-University of Florida,Duarte Vale,"Cascais, Portugal",2017-18,2021-22,Sr.,2022,1280
-University of Florida,Axel Nefve,"Delray Beach, Fla. / Laurel Springs",2022-23,2022-23,Gr.,2023,961
-University of Florida,Borys Zgola,"Poznan, Poland / Sopocka Akademia Tenisowa",2022-23,2022-23,Fr.,,1291
-University of Florida,Jonah Braswell,"Sarasota, Fla. / IMG Academy",2022-23,2022-23,Fr.,,1469
-University of Florida,Togan Tokac,"Istanbul, Turkey / Gebze Tennis Club",2022-23,2022-23,Fr.,,1526
-University of Florida,Aidan Kim,"Milford, Mich.",2023-24,2023-24,Fr.,,639
-University of Florida,Adhithya Ganesan,"Clarksburg, Md.",2023-24,2025-26,Jr.,,870
-University of Florida,Lorenzo Claverie,"Caracas, Venezuela",2025-26,2025-26,Sr.,2026,819
-University of Florida,Pablo Perez Ramos,"Canary Island, Spain",2025-26,2025-26,R-Sr.,2026,915
-University of Florida,Tanapatt Nirundorn,"Bangkok, Thailand / Hilton Head, S.C.",2022-23,2025-26,Sr.,2026,1647
-University of Georgia,Tyler Zink,"Bradenton, Fla. / IMG Academy",2019-20,2020-21,So.,,441
-University of Georgia,Hamish Stewart,"Glasgow, Scotland",2021-22,2021-22,Gr.,2022,435
-University of Georgia,Tristan McCormick,"Berwyn, PA",2021-22,2021-22,Gr.,2022,635
-University of Georgia,Ethan Quinn,"Fresno, Calif.",2021-22,2022-23,R-Fr.,,64
-University of Georgia,Philip Henning,"Bloemfontein, South Africa",2018-19,2022-23,5th,2023,236
-University of Georgia,Oscar Pinto Sansano,"Castellón de la Plana, Spain",2024-25,2024-25,Sr.,2025,2160
-University of Georgia,Ryan Colby,"Alexandria, Va.",2023-24,2024-25,Sr.,2025,648
-University of Georgia,Arda Azkara,"Izmir, Turkey",2024-25,2025-26,Gr.,2026,693
-University of Georgia,Santiago Giamichelle,"Buenos Aires, Argentina",2025-26,2025-26,Sr.,2026,1259
-University of Illinois at Urbana-Champaign,Keenan Mayo,"Long Beach, Calif.",2018-19,2018-19,Fr.,,1242
-University of Illinois at Urbana-Champaign,Hunter Heck,"New Brighton, Minn.",2020-21,2023-24,Sr.,2024,602
-University of Illinois at Urbana-Champaign,Oliver Okonkwo,"Maidenhead, Berkshire",2022-23,2023-24,Gr.,2024,964
-University of Illinois at Urbana-Champaign,Gabrielius Guzauskas,"Hinsdale, Ill.",2021-22,2024-25,R-Jr.,,2160
-University of Illinois at Urbana-Champaign,Karlis Ozolins,"Salaspils, Latvia",2021-22,2024-25,Sr.,2025,735
-University of Illinois at Urbana-Champaign,Gabriel Debru,"Grenoble, France",2025-26,2025-26,Fr.,,556
-University of Illinois at Urbana-Champaign,Hayden Jones,"Gold Coast, Australia",2025-26,2025-26,Fr.,,906
-University of Illinois at Urbana-Champaign,Kenta Miyoshi,"Tokyo, Japan",2022-23,2025-26,Sr.,2026,422
-University of Illinois at Urbana-Champaign,Tyler Bowers,"Bloomington, Ill.",2022-23,2025-26,R-Jr.,,1526
-University of Illinois at Urbana-Champaign,William Mroz,"Bradenton, Fla.",2021-22,2025-26,Sr.,2026,1610
-University of Oklahoma,Adrian Oetzbach,"Velbert, Germany",2016-17,2017-18,So.,,512
-University of Oklahoma,Aleksandre Bakshi,"Tbilisi, Georgia / Green School",2017-18,2018-19,Sr.,2019,1099
-University of Oklahoma,Jip van Assendelft,"Capelle aan den IJssel, the Netherlands /",2022-23,2022-23,Fr.,,1776
-University of Oklahoma,Alex Martinez,"Sant Andreu de Llavaneres, Spain /",2019-20,2023-24,5th,2024,400
-University of Oklahoma,Justin Schlageter,"Albbruck, Germany /",2019-20,2023-24,5th,2024,1271
-University of Oklahoma,Jordan Hasson,"Zikhron Ya'akov, Israel /",2021-22,2024-25,Sr.,2025,951
-University of Oklahoma,Orel Kimhi,"Jerusalem, Israel /",2024-25,2024-25,Fr.,,725
-University of Oklahoma,Luka Talan Lopatic,"Ljubljana, Slovenia /",2025-26,2025-26,Fr.,,861
-University of Texas at Austin,Christian Sigsgaard,"Naestved, Denmark / Zealand Business School",2016-17,2019-20,Sr.,2020,1293
-University of Texas at Austin,Cleeve Harper,"Calgary, Alberta, Canada / Hilton Head Prep (S.C.)",2018-19,2023-24,R-Sr.,2024,1758
-University of Texas at Austin,Eliot Spizzirri,"Greenwich, Conn. / Laurel Springs School",2019-20,2023-24,Sr.,2024,214
-University of Texas at Austin,Gilles-Arnaud Bailly,"Bilzen, Belgium / Atlas College",2023-24,2023-24,Fr.,,484
-University of Texas at Austin,Micah Braswell,"Sarasota, Fla. / Florida Virtual School",2020-21,2023-24,Sr.,2024,1112
-University of Texas at Austin,Pierre-Yves Bailly,"Bilzen, Belgium / Het Heilig Graf",2021-22,2024-25,Sr.,2025,927
-University of Texas at Austin,Timo Legout,"Paris, France / Van Dongen",2023-24,2024-25,R-Fr.,,338
-University of Texas at Austin,Evan Burnett,"Woodside, Calif. / Menlo School",2023-24,2025-26,So.,,2003
-University of Texas at Austin,Jonah Braswell,"Sarasota, Fla. / IMG Academy",2023-24,2025-26,Sr.,2026,1469
-University of Texas at Austin,Kalin Ivanovski,"Skopje, North Macedonia / Nova School",2025-26,2025-26,Fr.,,715
-University of Texas at Austin,Sebastian Gorzny,"Austin, Texas / Connections Academy",2024-25,2025-26,Sr.,2026,403
-Wake Forest,Skander Mansouri,"Tunis, Tunisia / Pierre-Mendès-France",2016-17,2017-18,Sr.,2018,1302
-Wake Forest,Borna Gojo,"Split, Croatia / Marko Antun De Dominis",2016-17,2018-19,Jr.,,133
-Wake Forest,Henri Squire,"Düsseldorf, Germany /",2019-20,2020-21,So.,,312
-Wake Forest,Siddhant Banthia,"Pune, India / St. Vincent's",2018-19,2021-22,Sr.,2022,1210
-Wake Forest,Taha Baadi,"Montreal, Canada / Tennis Canada",2019-20,2021-22,Jr.,,658
-Wake Forest,Božo Barun,Croatia,2022-23,2022-23,Fr.,,1258
-Wake Forest,Filippo Moroni,"Valenza, Italy",2020-21,2023-24,Sr.,2024,1028
-Wake Forest,Matthew Thomson,"Winston-Salem, N.C.",2019-20,2023-24,Gr.,2024,974
-Wake Forest,Ioannis Xilas,"Athens, Greece",2024-25,2024-25,Gr.,2025,502
-Wake Forest,Stefan Dostanic,"Irvine, Calif.",2024-25,2024-25,Gr.,2025,303
-Wake Forest,Charlie Robertson,"Dundee, Scotland",2024-25,2025-26,So.,,905
+School,Player,Hometown,First season,Last season,Last class,Graduation year,ATP rank,Colleges
+University of Florida,Ben Shelton,"Gainesville, Fla.",2020-21,2021-22,So.,,4,Florida 2020-22
+University of Virginia,Rafael Jodar,,2025-26,2025-26,,,10,Virginia 2025
+University of Virginia,Brandon Nakashima,,2019-20,2019-20,,,18,Virginia 2019
+USC,Learner Tien,"Irvine, Calif.",2023-24,2023-24,Fr.,,19,USC 2023
+University of South Carolina,Francisco Cerundolo,,2017-18,2017-18,,,20,South Carolina 2017-18
+Texas A&M University,Valentin Vacherot,,2017-18,2019-20,,,27,Texas A&M 2017-20
+Stanford,Arthur Fery,"Wimbledon, United Kingdom",2021-22,2022-23,Sophomore,,32,Stanford 2021-23
+TCU,Cameron Norrie,"Auckland, New Zealand",2014-15,2016-17,Jr.,,45,TCU 2014-17
+Mississippi State,Nuno Borges,"Maia, Porto, Portugal / Escola Secundaria Da Maia",2016-17,2018-19,Sr.,2019,49,Mississippi State 2016-19
+USC,Yannick Hanfmann,,2011-12,2014-15,,,58,USC 2011-15
+University of Georgia,Ethan Quinn,"Fresno, Calif.",2022-23,2022-23,R-Fr.,,64,Georgia 2022-23
+Texas A&M University,Arthur Rinderknech,,2014-15,2017-18,,,68,Texas A&M 2014-18
+North Carolina,Rinky Hijikata,,2020-21,2020-21,,,83,North Carolina 2020-21
+University of Illinois at Urbana-Champaign,Aleksandar Kovacevic,,2016-17,2020-21,,,84,Illinois 2016-21
+UCLA,Marcos Giron,,2011-12,2013-14,,,89,UCLA 2011-14
+TCU,Jacob Fearnley,,2019-20,2023-24,,,90,TCU 2019-24
+Baylor University,Jenson Brooksby,"Sacramento, Calif. / Laurel Springs H.S.",2019-20,2019-20,Fr.,,94,
+University of South Carolina,Toby Samuel,,2020-21,2023-24,,,97,South Carolina 2020-24
+Tennessee,Adam Walton,,2017-18,2021-22,,,98,Tennessee 2017-22
+Columbia,Michael Zheng,"Montville, N.J. / Delbarton School/Dwight School",2022-23,2025-26,Sr.,2026,100,Columbia 2022-26
+University of Illinois at Urbana-Champaign,Aleksandar Vukic,,2014-15,2017-18,,,127,Illinois 2014-18
+Stanford,Nishesh Basavareddy,"Carmel, Ind.",2022-23,2023-24,Sophomore,,128,Stanford 2022-24
+Washington,Clement Chidekh,,2021-22,2021-22,,,131,Washington 2021-22
+Wake Forest,Borna Gojo,"Split, Croatia / Marko Antun De Dominis",2017-18,2018-19,Jr.,,133,Wake Forest 2017-19
+Texas A&M University,Patrick Kypson,,2018-19,2018-19,,,158,Texas A&M 2018
+Kentucky,Liam Draxl,,2019-20,2022-23,,,168,Kentucky 2019-23
+Kentucky,Gabriel Diallo,,2019-20,2021-22,,,169,Kentucky 2019-22
+University of Virginia,Chris Rodesch,,2021-22,2023-24,,,179,Virginia 2021-24
+TCU,Jack Pinnington Jones,,2023-24,2024-25,,,190,TCU 2023-25
+University of Virginia,Inaki Montes-De La Torre,,2021-22,2023-24,,,191,Virginia 2021-24
+UCLA,Keegan Smith,,2017-18,2020-21,,,192,UCLA 2017-21
+NC State,Alexis Galarneau,"Laval, Canada / Academie les Estacades",2016-17,2020-21,5th,2021,195,NC State 2016-21
+Hawaii,Andre Ilagan,,2018-19,2022-23,,,200,Hawaii 2018-23
+Ohio State,J.J. Wolf,,2017-18,2018-19,,,204,Ohio State 2017-19
+NC State,Braden Shick,"Greensboro, N.C. / Laurel Springs",2021-22,2024-25,Sr.,2025,205,NC State 2021-25
+Stanford,Tristan Boyer,"Altadena, Calif.",2021-22,2021-22,Freshman,,207,Stanford 2021
+Louisville,Federico Agustin Gomez,,2015-16,2018-19,,,208,"ASA Miami 2015-17, Louisville 2017-19"
+University of Texas at Austin,Eliot Spizzirri,"Greenwich, Conn. / Laurel Springs School",2020-21,2023-24,Sr.,2024,214,Texas 2020-24
+University of Arizona,Colton Smith,"Tenino, Wash.",2021-22,2024-25,Sr.,2025,218,Arizona 2021-25
+University of Georgia,Philip Henning,"Bloemfontein, South Africa",2019-20,2022-23,5th,2023,236,Georgia 2019-23
+UCLA,Mackenzie McDonald,,2013-14,2015-16,,,242,UCLA 2013-16
+University of Arizona,Jay Friend,"Tokyo, Japan",2022-23,2025-26,Sr.,2026,252,Arizona 2022-26
+Stanford,Max Basing,"Oxshott, United Kingdom",2021-22,2024-25,Sophomore,,259,Stanford 2021-25
+Baylor University,Matias Soto,"Copiapo, Chile / Colegio Olimpo",2018-19,2021-22,Sr.,2022,260,Baylor 2018-22
+Baylor University,Charles Broom,,2016-17,2020-21,,,264,"Dartmouth 2016-20, Baylor 2020-21"
+University of San Diego,August Holmgren,,2017-18,2021-22,,,267,San Diego 2017-22
+TCU,Alastair Gray,"Twickenham, England",2017-18,2020-21,Jr.,,270,TCU 2017-21
+Cornell,Radu Mihai Papoe,,2021-22,2024-25,,,280,Cornell 2021-25
+University of Virginia,Alexander Ritschard,,2014-15,2016-17,,,282,Virginia 2014-17
+Arizona State,Murphy Cassone,,2021-22,2023-24,,,283,Arizona State 2021-24
+California,Carl Emil Overbeck,,2021-22,2024-25,,,301,California 2021-25
+Wake Forest,Stefan Dostanic,"Irvine, Calif.",2019-20,2024-25,Gr.,2025,303,"USC 2019-24, Wake Forest 2025"
+Harvard,Daniel Milavsky,,2021-22,2024-25,,,307,Harvard 2021-25
+University of Florida,Abdullah Shelbayh,,2021-22,2021-22,,,311,Florida 2021-22
+Wake Forest,Henri Squire,"Düsseldorf, Germany /",2020-21,2020-21,So.,,312,Wake Forest 2020-21
+Pepperdine,Guy Den Ouden,Netherlands,2021-22,2021-22,Fr.,,316,Pepperdine 2021
+University of Florida,Oliver Crawford,"Spartanburg, S.C.",2017-18,2019-20,Jr.,,319,Florida 2017-20
+Mississippi State,Florian Broska,"Eitelborn, Germany / Gymnasium im Kannenbäckerland",2017-18,2021-22,Gr.,2022,320,Mississippi State 2017-22
+Florida State,Lucas Poullain,,2016-17,2018-19,,,327,Florida State 2016-19
+Tennessee,Giles Hussey,,2015-16,2020-21,,,330,"Georgia State 2015-19, Tennessee 2019-21"
+University of Texas at Austin,Timo Legout,"Paris, France / Van Dongen",2024-25,2024-25,R-Fr.,,338,Texas 2024-25
+Nevada,Moez Echargui,,2011-12,2014-15,,,349,Nevada 2011-15
+Arizona State,Michael Geerts,,2017-18,2017-18,,,356,Arizona State 2017-18
+Georgia Tech,Andres Martin,,2019-20,2023-24,,,359,Georgia Tech 2019-24
+University of South Carolina,Paul Jubb,,2017-18,2019-20,,,362,South Carolina 2017-20
+UTSA,Tiago Torres,,2021-22,2024-25,,,378,UTSA 2021-25
+Texas A&M University,Raphael Perot,,2020-21,2023-24,,,379,Texas A&M 2020-24
+Florida State,Aziz Dougaz,,2015-16,2018-19,,,380,Florida State 2015-19
+Jacksonville State,Ivan Marrero Curbelo,,2022-23,2023-24,,,386,"Saint Leo 2022-23, Jacksonville State 2023-24"
+TCU,Sander Jong,"Amsterdam, The Netherlands",2018-19,2022-23,Sr.,2023,393,TCU 2018-23
+Michigan State,Ozan Baris,"Okemos, Mich. / Okemos",2022-23,2025-26,Sr.,2026,397,Michigan State 2022-26
+University of Oklahoma,Alex Martinez,"Sant Andreu de Llavaneres, Spain /",2020-21,2023-24,5th,2024,400,Oklahoma 2020-24
+University of Texas at Austin,Sebastian Gorzny,"Austin, Texas / Connections Academy",2022-23,2025-26,Sr.,2026,403,"TCU 2022-24, Texas 2024-26"
+Texas Tech,Olle Wallin,,2021-22,2023-24,,,416,"Charlotte 2021, Texas Tech 2021-24"
+Saint Marys California,Arthur Weber,,2014-15,2014-15,,,419,Saint Marys California 2014-15
+University of Illinois at Urbana-Champaign,Kenta Miyoshi,"Tokyo, Japan",2022-23,2025-26,Sr.,2026,422,Illinois 2022-26
+Alabama,Enzo Aguiard,,2021-22,2024-25,,,427,Alabama 2021-25
+TCU,Lui Maxted,"Worthing, England",2021-22,2024-25,Sr.,2025,428,TCU 2021-25
+Kentucky,Alafia Ayeni,,2018-19,2022-23,,,434,"Cornell 2018-22, Kentucky 2022-23"
+University of Georgia,Hamish Stewart,"Glasgow, Scotland",2017-18,2021-22,Gr.,2022,435,"Tulane 2017-21, Georgia 2021-22"
+Tennessee,Blaise Bicknell,"Miami, Fla.",2019-20,2022-23,,,436,"Florida 2019-21, Tennessee 2022-23"
+Ohio State,Justin Boulais,"Oakville, Ontario",2019-20,2023-24,5th,2024,439,Ohio State 2019-24
+Oklahoma State,Tyler Zink,"Bradenton, Fla. / IMG Academy",2019-20,2023-24,,,441,"Georgia 2019-21, Oklahoma State 2021-24"
+Wake Forest,Dhakshineswar Suresh,,2023-24,2025-26,,,448,"Georgia Gwinnett 2023, Wake Forest 2023-26"
+NC State,Luca Staeheli,"Wollerau, Switzerland / null",2021-22,2024-25,Sr.,2025,449,NC State 2021-25
+Wichita State,Murkel Dellien,,2017-18,2020-21,,,450,Wichita State 2017-21
+Duke,Garrett Johns,,2020-21,2023-24,,,451,Duke 2020-24
+North Carolina,Karl Poling,,2018-19,2023-24,,,453,"Princeton 2018-22, North Carolina 2022-24"
+University of Notre Dame,Sebastian Dominko,,2022-23,2025-26,,,456,Notre Dame 2022-26
+Washburn,Ivan Ivanov,,2023-24,2024-25,,,465,Washburn 2023-25
+Tennessee,Emile Hudd,,2018-19,2022-23,,,466,"Oklahoma State 2018-21, Tennessee 2021-23"
+UCLA,Evan Zhu,,2016-17,2017-18,,,467,UCLA 2016-18
+Oregon,Quinn Vandecasteele,,2021-22,2023-24,,,472,Oregon 2021-24
+Pepperdine,Eero Vasa,"Turku, Finland",2018-19,2022-23,Gr.,2023,478,"UCF 2018, Cornell 2018-20, Pepperdine 2021-23"
+SMU,Trevor Svajda,"San Diego, Calif. / Connections Academy",2023-24,2025-26,JR,,481,
+University of Texas at Austin,Gilles Arnaud Bailly,"Bilzen, Belgium / Atlas College",2024-25,2024-25,Fr.,,484,Texas 2024
+Cornell,Colin Sinclair,,2013-14,2016-17,,,485,Cornell 2013-17
+VCU,Matisse Bobichon,,2021-22,2023-24,,,487,"Oklahoma State 2021, VCU 2021-24"
+Nebraska,Anton Shepp,,2021-22,2024-25,,,488,"Texas Arlington 2021-23, Nebraska 2023-25"
+Michigan,Andrew Fenty,,2018-19,2022-23,,,489,Michigan 2018-23
+Kentucky,Antoine Ghibaudo,,2025-26,2025-26,,,492,Kentucky 2025-26
+Tennessee,Luca Wiedenmann,,2016-17,2020-21,,,495,Tennessee 2016-21
+UTSA,Alan Magadan,,2020-21,2023-24,,,496,"Tyler JC (TX) 2020-21, UTSA 2022-24"
+Wake Forest,Ioannis Xilas,"Athens, Greece",2024-25,2024-25,Gr.,2025,502,Wake Forest 2024-25
+Kentucky,Millen Hurrion,,2018-19,2021-22,,,503,"Gardner-Webb 2018-19, Kentucky 2019-22"
+Miami (FL),Christian Langmo,,2014-15,2017-18,,,508,Miami (FL) 2014-18
+Tennessee,Johannus Monday,,2020-21,2023-24,,,509,Tennessee 2020-24
+Pepperdine,Adrian Oetzbach,"Velbert, Germany",2017-18,2020-21,,,512,"Oklahoma 2017-18, Pepperdine 2018-21"
+Auburn,Lorenzo Rodriguez,"Buenos Aires, Argentina",2017-18,2017-18,Freshman,,517,
+UCLA,Kaylan Bigun,,2025-26,2025-26,,,523,UCLA 2025
+Michigan,Gavin Young,,2021-22,2024-25,,,530,"Minnesota 2021, Michigan 2021-25"
+Oklahoma State,Isaac Becroft,"Wellington, New Zealand / Wellington College",2019-20,2024-25,,,533,"Mississippi State 2019-20, Loyola Marymount 2021, Oklahoma State 2022-25"
+Washington,Cesar Bouchelaghem,,2022-23,2024-25,,,535,Washington 2022-25
+USC,Peter Makk,"Budapest, Hungary",2021-22,2024-25,Sr.,2025,537,USC 2021-25
+Alabama,Filip Jeff Planinsek,,2021-22,2024-25,,,539,Alabama 2021-25
+UCLA,Patrick Zahraj,,2019-20,2022-23,,,540,UCLA 2019-23
+Ohio State,James Trotter,"Hyogo, Japan",2018-19,2022-23,R-Sr.,2023,542,Ohio State 2018-23
+Michigan,Nino Ehrenschneider,,2020-21,2023-24,,,545,Michigan 2020-24
+UCF,Yassine Dlimi,,2023-24,2025-26,,,549,UCF 2023-26
+Stanford,Samir Banerjee,"Basking Ridge, N.J.",2022-23,2025-26,Sophomore,,554,Stanford 2022-26
+University of Illinois at Urbana-Champaign,Gabriel Debru,"Grenoble, France",2025-26,2025-26,Fr.,,556,
+North Carolina,Ryan Seggerman,,2017-18,2022-23,,,563,"Princeton 2017-22, North Carolina 2022-23"
+Pepperdine,Daniel De Jonge,"Vlissingen, Netherlands",2020-21,2022-23,Gr.,2023,569,Pepperdine 2020-23
+TCU,Cosme Rolland De Ravel,"Fontaine Les Dijon, France",2022-23,2025-26,Sr.,2026,580,"Old Dominion 2022-25, TCU 2025-26"
+University of South Carolina,Lucas Andrade Da Silva,,2022-23,2025-26,,,581,South Carolina 2022-26
+TCU,Pedro Vives Marcos,,2021-22,2024-25,,,588,TCU 2021-25
+Tennessee,Shunsuke Mitsui,,2021-22,2024-25,,,589,Tennessee 2021-25
+Ohio State,Cannon Kingsley,"Northport, N.Y.",2019-20,2023-24,5th,2024,590,Ohio State 2019-24
+Pepperdine,Pietro Fellin,"Milan, Italy",2020-21,2023-24,Sr.,2024,594,Pepperdine 2020-24
+Ole Miss,John Hallquist Lithen,,2021-22,2023-24,,,596,Ole Miss 2021-24
+University of Illinois at Urbana-Champaign,Hunter Heck,"New Brighton, Minn.",2020-21,2023-24,Sr.,2024,602,Illinois 2020-24
+Duke,Andreja Petrovic,,2019-20,2024-25,,,613,"North Dakota 2019-20, Florida State 2021-23, Duke 2024-25"
+Duke,Pedro Rodenas,,2022-23,2025-26,,,623,Duke 2022-26
+Santa Clara,Guillaume Dalmasso,,2021-22,2023-24,,,628,Santa Clara 2021-24
+Ohio State,Jack Anthrop,"Orlando, Florida",2022-23,2025-26,Sr.,2026,629,Ohio State 2022-26
+University of Georgia,Tristan McCormick,"Berwyn, PA",2017-18,2021-22,Gr.,2022,635,"Notre Dame 2017-21, Georgia 2021-22"
+University of South Carolina,Casey Hoole,,2022-23,2024-25,,,637,South Carolina 2022-25
+Auburn,Conner Huertas del Pino,,2013-14,2016-17,,,638,"ETSU 2013-15, Auburn 2015-17"
+University of Florida,Aidan Kim,"Milford, Mich.",2023-24,2023-24,Fr.,,639,
+TCU,Alex Rybakov,"Coral Springs, Fla.",2016-17,2018-19,Sr.,2019,641,TCU 2016-19
+Utah State,Kai Wehnelt,,2014-15,2016-17,,,643,"Hawaii 2014-16, Utah State 2016-17"
+University of Georgia,Ryan Colby,"Alexandria, Va.",2021-22,2024-25,Sr.,2025,648,"USC 2021-23, Georgia 2023-25"
+UCF,Alan Fernando Rubio Fierros,,2018-19,2021-22,,,650,UCF 2018-22
+NC State,Robin Catry,"Lille, France / EABJM Lille",2019-20,2023-24,Sr.,2024,656,NC State 2019-24
+Mississippi State,Arvid Nordquist,"Västerljung, Sweden /",2018-19,2018-19,Fr.,,657,Mississippi State 2018
+Kentucky,Taha Baadi,"Montreal, Canada / Tennis Canada",2020-21,2023-24,,,658,"Wake Forest 2020-22, Kentucky 2022-24"
+University of Arizona,Herman Hoeyeraal,"Oslo, Norway",2021-22,2023-24,Sr.,2024,659,Arizona 2021-24
+Arizona State,Maxwell Mckennon,,2021-22,2023-24,,,671,Arizona State 2021-24
+Oklahoma State,Chase Ferguson,,2018-19,2022-23,,,672,"USF 2018-22, Oklahoma State 2022-23"
+Mississippi State,Giovanni Oradini,"Rovereto, Italy / Istituto Voltaire",2017-18,2020-21,Sr.,2021,674,Mississippi State 2017-21
+Miami (FL),Dan Martin,,2017-18,2022-23,,,682,"Dartmouth 2017-20, Miami (FL) 2021-23"
+Texas Tech,Franco Ribero,,2019-20,2022-23,,,683,Texas Tech 2019-23
+University of Georgia,Arda Azkara,"Izmir, Turkey",2021-22,2025-26,Gr.,2026,693,"New Mexico 2021-24, Georgia 2025-26"
+Georgia Tech,Keshav Chopra,,2019-20,2023-24,,,694,Georgia Tech 2019-24
+USF,Alberto Barroso Campos,,2015-16,2018-19,,,712,"Saint Leo 2015-16, USF 2016-19"
+University of Texas at Austin,Kalin Ivanovski,"Skopje, North Macedonia / Nova School",2025-26,2025-26,Fr.,,715,Texas 2026
+Baylor University,Oskar Brostrom Poulsen,"Helsingor, Denmark / Falkonergårdens Gymnasium og HF",2021-22,2024-25,Sr.,2025,719,"Middle Tennessee 2021-23, Baylor 2023-25"
+University of Oklahoma,Orel Kimhi,"Jerusalem, Israel /",2024-25,2024-25,Fr.,,725,
+NC State,Martin Borisiouk,"Minsk, Belarus /",2023-24,2025-26,Sr.,2026,726,NC State 2023-26
+Northern Arizona,Tim Handel,,2015-16,2018-19,,,730,Northern Arizona 2015-19
+Toledo,Pawit Sornlaksup,,2019-20,2023-24,,,731,"ASA Miami 2019-21, Toledo 2021-24"
+University of Illinois at Urbana-Champaign,Karlis Ozolins,"Salaspils, Latvia",2023-24,2024-25,Sr.,2025,735,Illinois 2023-25
+Yale,Vignesh Gogineni,,2023-24,2025-26,,,737,Yale 2023-26
+Clemson,Manuel Plunger,,2025-26,2025-26,,,738,Clemson 2025-26
+Northwestern,Strong Kirchheimer,,2013-14,2016-17,,,741,Northwestern 2013-17
+Carleton,Leo Vithoontien,,2017-18,2020-21,,,742,Carleton 2017-21
+Baylor University,Ryan Dickerson,"Marlton, N.J. / Moorestown H.S.",2016-17,2020-21,Sr.,2021,743,"Duke 2016-19, Baylor 2019-21"
+Bryant,Matt Kuhar,,2014-15,2018-19,,,747,Bryant 2014-19
+Mississippi State,Carles Hernandez,"Crevillent, Spain / Cidead a Madrid",2021-22,2023-24,Sr.,2024,749,Mississippi State 2021-24
+Omaha,Matt Hulme,,2017-18,2021-22,,,751,"Coastal Georgia 2017-19, Omaha 2019-22"
+UC Irvine,Noah Zamora,,2021-22,2024-25,,,752,UC Irvine 2021-25
+Indianapolis,Arklon Huertas Del Pino Cordova,,2014-15,2016-17,,,755,"Ohio Dominican 2014-15, Indianapolis 2015-17"
+Cornell,Evan Bynoe,,2017-18,2021-22,,,758,Cornell 2017-22
+Abilene Christian,Joshua Sheehy,,2016-17,2018-19,,,763,Abilene Christian 2016-19
+NC State,Rafael Izquierdo Luque,,2019-20,2021-22,,,769,"Oklahoma 2019, NC State 2019-22"
+Michigan,Patrick Maloney,,2018-19,2022-23,,,773,Michigan 2018-23
+Memphis,Conor Gannon,,2021-22,2024-25,,,777,"Tennessee 2021-22, Memphis 2022-25"
+Auburn,Finn Murgett,"Holmfirth, Yorkshire, England",2020-21,2023-24,Sophomore,,791,Auburn 2020-24
+USC,Oscar Weightman,"London, England, UK",2024-25,2024-25,Jr.,,799,USC 2024-25
+Nebraska,Calvin Mueller,,2021-22,2024-25,,,801,Nebraska 2021-25
+Florida State,Alex Knaff,,2016-17,2020-21,,,808,Florida State 2016-21
+Miami (FL),Jesse Flores,,2013-14,2016-17,,,810,"UCF 2013-15, Miami (FL) 2015-17"
+Arkansas,Alexandre Reco,,2018-19,2021-22,,,811,Arkansas 2018-22
+Tennessee Tech,Rafael Tosetto,,2018-19,2021-22,,,817,Tennessee Tech 2018-22
+University of Florida,Lorenzo Claverie,"Caracas, Venezuela",2025-26,2025-26,Sr.,2026,819,Florida 2026
+Western Michigan,Jannik Opitz,,2016-17,2020-21,,,820,Western Michigan 2016-21
+Minnesota,Felix Corwin,,2014-15,2017-18,,,825,Minnesota 2014-18
+VCU,Charles Bertimon,,2020-21,2022-23,,,826,VCU 2020-23
+Texas A&M University,Giulio Perego,,2021-22,2024-25,,,827,Texas A&M 2021-25
+University of Oklahoma,Luis Carlos Alvarez,,2022-23,2025-26,,,842,Oklahoma 2022-26
+Utah State,Stijn Paardekooper,,2021-22,2023-24,,,845,"St. Bonaventure 2021-22, Utah State 2022-24"
+Oregon,Joshua Charlton,,2018-19,2022-23,,,851,Oregon 2018-23
+Louisville,Etienne Donnet,,2020-21,2023-24,,,855,"Oklahoma State 2020-21, Louisville 2021-24"
+University of Oklahoma,Luka Talan Lopatic,"Ljubljana, Slovenia /",2025-26,2025-26,Fr.,,861,Oklahoma 2026
+Ole Miss,Nikola Slavic,,2019-20,2023-24,,,865,Ole Miss 2019-24
+USF,Davide Tortora,"Verona, Italy / Liceo Parini di Cecina",2019-20,2023-24,,,868,"Mississippi State 2019-22, USF 2022-24"
+California,Theodore Dean,,2021-22,2024-25,,,869,"Yale 2021-24, California 2024-25"
+University of Florida,Adhithya Ganesan,"Clarksburg, Md.",2024-25,2025-26,Jr.,,870,Florida 2024-26
+UCSB,Nicolas Moreno De Alboran,,2015-16,2018-19,,,875,UCSB 2015-19
+Tennessee,Filip Pieczonka,,2023-24,2023-24,,,876,Tennessee 2023-24
+USF,Alvin Nicholas Tudorica,,2020-21,2023-24,,,877,USF 2020-24
+Memphis,Ryan Peniston,,2014-15,2017-18,,,886,Memphis 2014-18
+Texas A&M University,Jerry Roddick,,2021-22,2024-25,,,888,"UCF 2021-22, Texas A&M 2022-25"
+University of Florida,William Grant,,2020-21,2022-23,,,890,Florida 2020-23
+Baylor University,Marko Miladinovic,"Belgrade, Serbia / Crnjanski",2022-23,2024-25,Sr.,2025,893,Baylor 2022-25
+California,Yuta Kikuchi,,2018-19,2022-23,,,894,California 2018-23
+Florida State,Marcus Walters,,2017-18,2020-21,,,898,"Tyler JC (TX) 2017-19, Florida State 2020-21"
+Mississippi State,Benito Sanchez Martinez,"Potsdam, Germany / Carl-Friedrich-Gauss Schule",2022-23,2025-26,Sr.,2026,901,Mississippi State 2022-26
+SMU,Ofek Shimanov,"Ramla, Israel /",2024-25,2024-25,FR,,902,
+Pepperdine,Maximilian Homberg,,2022-23,2025-26,,,903,Pepperdine 2022-26
+Wake Forest,Charlie Robertson,"Dundee, Scotland",2024-25,2025-26,So.,,905,
+University of Illinois at Urbana-Champaign,Hayden Jones,"Gold Coast, Australia",2025-26,2025-26,Fr.,,906,
+Virginia Tech,Ryan Fishback,,2021-22,2023-24,,,908,Virginia Tech 2021-24
+California,Qian Sun,,2024-25,2024-25,,,910,California 2024
+West Florida,Nicolas Barrientos,,2005-06,2007-08,,,913,West Florida 2005-08
+University of Florida,Pablo Perez Ramos,"Canary Island, Spain",2022-23,2025-26,R-Sr.,2026,915,"NJIT 2022-25, Florida 2025-26"
+Middle Tennessee,Francisco Rocha,,2018-19,2022-23,,,923,Middle Tennessee 2018-23
+University of Texas at Austin,Pierre Yves Bailly,"Bilzen, Belgium / Het Heilig Graf",2022-23,2024-25,Sr.,2025,927,Texas 2022-25
+Louisville,Natan Rodrigues,,2022-23,2024-25,,,930,Louisville 2022-25
+Ohio State,Christopher Li,,2021-22,2024-25,,,931,"North Carolina 2021-23, Tennessee 2023-24, Ohio State 2024-25"
+Michigan State,Ronald Hohmann,"Oyster Bay, N.Y. / Laurel Springs",2019-20,2023-24,Gr.,2024,933,"LSU 2019-23, Michigan State 2023-24"
+University of San Diego,Iiro Vasa,,2022-23,2024-25,,,936,San Diego 2022-25
+Alabama,Jeremy Gschwendtner,,2019-20,2020-21,,,941,Alabama 2019-21
+Saint Marys California,James Watt,,2019-20,2022-23,,,943,Saint Marys California 2019-23
+Michigan State,Matthew Forbes,"Raleigh, N.C. / Laurel Springs",2024-25,2025-26,So.,,944,
+USF,Peter Bertran,,2014-15,2017-18,,,946,"Georgia 2014-15, USF 2015-18"
+Oregon,Vlad Cristian Breazu,,2023-24,2025-26,,,947,Oregon 2023-26
+University of Oklahoma,Jordan Hasson,"Zikhron Ya'akov, Israel /",2021-22,2024-25,Sr.,2025,951,Oklahoma 2021-25
+Georgia Gwinnett,Aleksa Ciric,,2022-23,2023-24,,,958,Georgia Gwinnett 2022-24
+University of Virginia,Jeffrey Von Der Schulenburg,,2021-22,2023-24,,,959,Virginia 2021-24
+University of Florida,Axel Nefve,"Delray Beach, Fla. / Laurel Springs",2018-19,2022-23,Gr.,2023,961,"Notre Dame 2018-22, Florida 2022-23"
+Arizona State,Justin Roberts,,2014-15,2018-19,,,962,"USF 2014-17, Arizona State 2018-19"
+University of Illinois at Urbana-Champaign,Oliver Okonkwo,"Maidenhead, Berkshire",2018-19,2023-24,Gr.,2024,964,"Iowa 2018-21, Illinois 2023-24"
+NC State,Fons Van Sambeek,"Veldhoven, Netherlands / null",2021-22,2024-25,Sr.,2025,967,NC State 2021-25
+Indianapolis,Tom Zeuch,,2019-20,2023-24,,,969,Indianapolis 2019-24
+Wake Forest,Matthew Thomson,"Winston-Salem, N.C.",2019-20,2023-24,Gr.,2024,974,Wake Forest 2019-24
+Western Michigan,Maik Steiner,,2014-15,2017-18,,,975,Western Michigan 2014-18
+Weber State,Kris Van Wyk,,2016-17,2020-21,,,979,Weber State 2016-21
+VCU,Maxence Bertimon,,2019-20,2022-23,,,982,"Georgia Gwinnett 2019-20, VCU 2021-23"
+Michigan,Jason Jung,,2007-08,2010-11,,,984,Michigan 2007-11
+Miami (FL),Adria Soriano Barrera,,2017-18,2020-21,,,985,Miami (FL) 2017-21
+Oklahoma State,Mathieu Scaglia,,2016-17,2019-20,,,987,Oklahoma State 2016-20
+Oral Roberts,Ezequiel Monferrer,,2021-22,2022-23,,,989,Oral Roberts 2021-23
+USC,Volodymyr Iakubenko,"Kiev, Ukraine",2023-24,2024-25,So.,,990,USC 2023-25
+Texas A&M University,Hady Habib,,2016-17,2019-20,,,999,Texas A&M 2016-20
+Tennessee,Scott Jones,,2016-17,2018-19,,,1014,Tennessee 2016-19
+Florida State,Luis Felipe Miguel,,2022-23,2025-26,,,1024,"Liberty 2022-24, Tulsa 2024-25, Florida State 2025-26"
+University of Georgia,William Jansen,,2023-24,2025-26,,,1025,"North Carolina 2023-24, Ohio State 2024-25, Georgia 2025-26"
+Columbia,Hugo Hashimoto,"San Jose, Calif. / California Connections Academy",2021-22,2024-25,Sr.,2025,1026,Columbia 2021-25
+Wake Forest,Filippo Moroni,"Valenza, Italy",2021-22,2023-24,Sr.,2024,1028,Wake Forest 2021-24
+USF,Hugo Car,,2021-22,2025-26,,,1029,"Northwestern Ohio 2021-22, Eastern Florida 2022-24, USF 2025-26"
+Michigan,Michael Zhu,,2011-12,2014-15,,,1033,Michigan 2011-15
+Western Michigan,Benjamin Thomas George,,2020-21,2023-24,,,1039,Western Michigan 2020-24
+Michigan State,Aristotelis Thanos,"Athens, Greece /",2024-25,2025-26,R-Sr.,2026,1043,Michigan State 2024-26
+North Carolina,Roan Jones,,2022-23,2025-26,,,1044,"Alabama 2022-25, North Carolina 2025-26"
+Oklahoma State,Dominik Kellovsky,,2019-20,2020-21,,,1045,"Arizona State 2019, Oklahoma State 2019-21"
+Auburn,Billy Blaydes,"Windermere, England",2023-24,2025-26,Sophomore,,1047,Auburn 2023-26
+Pepperdine,Christopher Papa,,2019-20,2024-25,,,1049,"San Diego Christian 2019-22, Pepperdine 2024-25"
+UCF,Liam Branger,,2023-24,2024-25,,,1057,UCF 2023-25
+Miami (FL),Vladislav Melnic,,2019-20,2023-24,,,1059,"Cornell 2019-23, Miami (FL) 2023-24"
+LSU,Chen Dong,,2020-21,2023-24,,,1073,"Georgia Tech 2020-22, LSU 2022-24"
+Tennessee,Younes Lalami,,2020-21,2023-24,,,1077,"Old Dominion 2020-23, Tennessee 2023-24"
+University of Virginia,Ammar Alhogbani,,2016-17,2017-18,,,1079,Virginia 2016-18
+UCLA,Jorge Plans,,2021-22,2023-24,,,1083,"Clemson 2021-23, UCLA 2023-24"
+Florida State,Benjamin Lock,,2012-13,2015-16,,,1085,Florida State 2012-16
+University of South Carolina,James Story,,2019-20,2023-24,,,1088,"Memphis 2019-21, South Carolina 2021-24"
+Texas A&M University,Noah Schachter,"Wesley Chapel, Fla.",2018-19,2022-23,Sophomore,,1092,Texas A&M 2018-23
+Pepperdine,Zach Stephens,"Dubai, United Arab Emirates",2024-25,2024-25,So.,,1094,Pepperdine 2024-25
+University of Oklahoma,Aleksandre Bakshi,"Tbilisi, Georgia / Green School",2016-17,2018-19,Sr.,2019,1099,"Texas A&M 2016-17, Oklahoma 2017-19"
+Tulane,Rafael De Alba,,2020-21,2023-24,,,1102,Tulane 2020-24
+Elon,Veljko Krstic,,2022-23,2025-26,,,1107,Elon 2022-26
+UCSB,Gianluca Brunkow,,2021-22,2024-25,,,1108,UCSB 2021-25
+University of Texas at Austin,Micah Braswell,"Sarasota, Fla. / Florida Virtual School",2020-21,2023-24,Sr.,2024,1112,Texas 2020-24
+LSU,Julien Penzlin,,2021-22,2024-25,,,1115,"Portland 2021-22, LSU 2022-25"
+University of Arizona,Jonas Eriksson Ziverts,,2019-20,2022-23,,,1116,Arizona 2019-23
+Clemson,Edoardo cherie Ligniere,,2025-26,2025-26,,,1121,Clemson 2025-26
+Loyola Marymount,Yassine Smiej,,2018-19,2023-24,,,1123,"Concordia (CA) 2018-21, Loyola Marymount 2022-24"
+Tulsa,Kody Pearson,,2018-19,2022-23,,,1124,Tulsa 2018-23
+Stanford,Alex Chang,,2021-22,2025-26,,,1131,"California 2021-25, Stanford 2025-26"
+Drake,Jeremy Schifris,,2021-22,2023-24,,,1139,"Tulane 2021, Drake 2021-24"
+Georgia State,Mihai Razvan Marinescu,,2021-22,2021-22,,,1148,Georgia State 2021
+Texas Arlington,Bautista Vilicich,"Balcarce, Argentina / Santa Rosa de Lima",2022-23,2022-23,,,1151,"Mississippi State 2022, Texas Arlington 2022-23"
+Miami (FL),Adrien Burdet,,2021-22,2023-24,,,1155,"Arkansas 2021-23, Miami (FL) 2023-24"
+Michigan State,Vuk Radjenovic,"Belgrade, Serbia / Milutin Milankovic",2025-26,2025-26,So.,,1159,Michigan State 2025-26
+LSU,Matias Ponce De Leon Gomila,,2022-23,2025-26,,,1182,"Alabama 2022-25, LSU 2025-26"
+Baylor University,Finn Bass,"Rock, Cornwall, United Kingdom / Millfield School",2019-20,2022-23,Sr.,2023,1185,Baylor 2019-23
+USC,Wojciech Marek,,2022-23,2022-23,,,1188,USC 2022-23
+New Mexico,Daniil Kakhniuk,,2021-22,2024-25,,,1189,New Mexico 2021-25
+Mississippi State,Ewen Lumsden,"Glasgow, Scotland / Beaconhurst School / Washington",2018-19,2022-23,Gr.,2023,1193,"Washington 2018-22, Mississippi State 2022-23"
+TCU,Luc Fomba,"Paris, France",2018-19,2022-23,Sr.,2023,1195,TCU 2018-23
+California,Siddhant Banthia,"Pune, India / St. Vincent's",2019-20,2022-23,,,1210,"Wake Forest 2019-22, California 2022-23"
+Baylor University,Luc Koenig,"Durban, South Africa",2023-24,2025-26,Sr.,2026,1212,Baylor 2023-26
+Ole Miss,Noah Schlagenhauf,,2023-24,2025-26,,,1220,Ole Miss 2023-26
+SMU,Liam Krall,"Bronxville, N.Y. / Bronxville",2021-22,2023-24,SR,2024,1222,SMU 2021-24
+Baylor University,Jacob Brumm,"Rancho Santa Fe, Calif. / Torrey Pines HS",2017-18,2021-22,Gr.,2022,1225,"California 2017-21, Baylor 2021-22"
+Tulane,Billy Suarez,,2020-21,2023-24,,,1229,Tulane 2020-24
+Southern Miss,Dakotah Bobo,,2022-23,2023-24,,,1230,"LSU 2022, Southern Miss 2022-24"
+UNC Wilmington,Reece Falck,,2021-22,2023-24,,,1233,"Fresno State 2021, UNC Wilmington 2021-24"
+North Carolina,Joshua Peck,,2016-17,2020-21,,,1236,North Carolina 2016-21
+UCLA,Gage Brymer,,2013-14,2016-17,,,1239,UCLA 2013-17
+Loyola Marymount,Keenan Mayo,"Long Beach, Calif.",2018-19,2019-20,,,1242,"Illinois 2018-19, Loyola Marymount 2019-20"
+Mississippi State,Niccolo Baroni,"Viareggio, Italy / University of Pisa",2024-25,2025-26,So.,,1244,
+Arkansas,Bozo Barun,Croatia,2022-23,2024-25,,,1258,"Wake Forest 2022-23, Arkansas 2023-25"
+University of Georgia,Santiago Giamichelle,"Buenos Aires, Argentina",2022-23,2025-26,Sr.,2026,1259,"Texas Arlington 2022-23, UCF 2023-25, Georgia 2025-26"
+Nevada,Youssef Kadiri Hassani,,2022-23,2024-25,,,1263,"Oregon 2022, Nevada 2022-25"
+Oklahoma State,Alessio Basile,,2022-23,2025-26,,,1265,Oklahoma State 2022-26
+University of Oklahoma,Justin Schlageter,"Albbruck, Germany /",2020-21,2023-24,5th,2024,1271,Oklahoma 2020-24
+Boise State,James Van Herzeele,,2022-23,2024-25,,,1278,Boise State 2022-25
+Denver,Matthew Summers,,2017-18,2021-22,,,1279,Denver 2017-22
+University of Florida,Duarte Vale,"Cascais, Portugal",2017-18,2021-22,Sr.,2022,1280,Florida 2017-22
+Desert,Elijah Strode,,2020-21,2021-22,,,1282,Desert 2020-22
+USC,Brandon Holt,"Rolling Hills, Calif.",2016-17,2019-20,Sr.,2020,1284,USC 2016-20
+Michigan State,Max Sheldon,"Arlington Heights, Ill. / John Hersey",2021-22,2024-25,Sr.,2025,1286,Michigan State 2021-25
+LSU,Boris Arias,,2012-13,2015-16,,,1287,LSU 2012-16
+University of Florida,Johannes Ingildsen,"Copenhagen, Denmark",2016-17,2020-21,R-Sr.,2021,1287,Florida 2016-21
+TCU,Julian Alonso,"Bradenton, Fla.",2023-24,2025-26,Jr.,,1290,
+Grand Canyon,Borys Zgola,"Poznan, Poland / Sopocka Akademia Tenisowa",2023-24,2024-25,,,1291,"Florida 2023-24, Grand Canyon 2025"
+University of Texas at Austin,Christian Sigsgaard,"Naestved, Denmark / Zealand Business School",2016-17,2019-20,Sr.,2020,1293,Texas 2016-20
+North Carolina,Diego Jarry Fillol,,2021-22,2024-25,,,1301,"Saint Marys California 2021-24, North Carolina 2024-25"
+Wake Forest,Skander Mansouri,"Tunis, Tunisia / Pierre-Mendès-France",2014-15,2017-18,Sr.,2018,1302,Wake Forest 2014-18
+UCSB,Lucca Liu,,2022-23,2025-26,,,1307,UCSB 2022-26
+San Diego State,Bora Sengul,,2020-21,2023-24,,,1309,"Penn State 2020-22, San Diego State 2022-24"
+St. Johns,Diogo Marques,,2018-19,2022-23,,,1310,"East Carolina 2018-20, Stetson 2021-22, St. Johns 2022-23"
+Ole Miss,Marcel Kamrowski,,2022-23,2024-25,,,1312,"Middle Tennessee 2022-24, Ole Miss 2025"
+Barry,Adam Lynch,,2022-23,2025-26,,,1313,Barry 2022-26
+Duke,Remy Dugardin,,2024-25,2024-25,,,1322,Duke 2024-25
+USF,Roberto Cid Subervi,,2014-15,2015-16,,,1343,USF 2014-16
+Alabama,Matic Dimic,,2024-25,2024-25,,,1368,Alabama 2024
+University of South Carolina,Thando Longwe-Smit,,2020-21,2023-24,,,1370,South Carolina 2020-24
+Texas A&M University,Stefan Storch,"Melbourne, Australia",2019-20,2019-20,Freshman,,1374,
+USC,Daniel Cukierman,"Tel Aviv, Israel",2018-19,2020-21,Sr.,2021,1378,USC 2018-21
+LSU,Stefan Latinovic,,2019-20,2023-24,,,1378,"Wichita State 2019-22, LSU 2022-24"
+Georgetown,Jake Fellows,,2021-22,2024-25,,,1388,Georgetown 2021-25
+Kentucky,Enzo Wallart,,2016-17,2018-19,,,1390,Kentucky 2016-19
+TCU,Juan Carlos Aguilar,"La Paz, Bolivia",2017-18,2021-22,Gr.,2022,1398,"Texas A&M 2017-21, TCU 2021-22"
+Mississippi State,Nemanja Malesevic,"Banja Luka, Bosnia and Herzegovina / Srednjoskolski Centar Apeiron",2020-21,2023-24,Sr.,2024,1398,Mississippi State 2020-24
+UNC Wilmington,Harold Huens,,2022-23,2024-25,,,1400,UNC Wilmington 2022-25
+Arizona State,Shu Matsuoka,,2022-23,2025-26,,,1407,"Middle Tennessee 2022-25, Arizona State 2025-26"
+Arkansas,Arthur Bellegy,,2019-20,2024-25,,,1422,"Cerritos 2019-20, Irvine Valley 2021-22, Westcliff 2022-23, New Mexico 2023-24, Arkansas 2024-25"
+Charlotte,Frederic Schlossmann,,2020-21,2024-25,,,1446,"Austin Peay 2020-22, Charlotte 2024-25"
+Texas A&M University,Damien Salvestre,"Marseille, France /",2021-22,2024-25,,,1455,"NC State 2021-24, Texas A&M 2025"
+Tennessee,Alexander Kotzen,,2019-20,2024-25,,,1459,"Columbia 2019-24, Tennessee 2024-25"
+Charlotte,Ivan Dreycopp,,2022-23,2025-26,,,1461,Charlotte 2022-26
+Arizona State,Nathan Ponwith,,2016-17,2020-21,,,1463,"Georgia 2016-18, Arizona State 2018-21"
+University of Texas at Austin,Jonah Braswell,"Sarasota, Fla. / IMG Academy",2022-23,2025-26,Sr.,2026,1469,"Florida 2022-23, Texas 2023-26"
+UCSB,Diogo Morais,,2023-24,2025-26,,,1480,"Georgia State 2023-24, UCSB 2024-26"
+Charlotte,Vasco Leote Prata,,2022-23,2025-26,,,1494,Charlotte 2022-26
+North Carolina,Henry Lieberman,,2018-19,2022-23,,,1496,"Charlotte 2018-21, North Carolina 2021-23"
+Kentucky,Parth Aggarwal,,2017-18,2019-20,,,1509,"Eastern Kentucky 2017-18, Kentucky 2018-20"
+Florida State,Guy Orly Iradukunda,,2014-15,2017-18,,,1519,"Seminole State 2014-16, Florida State 2016-18"
+Columbia,Theo Winegar,"Osprey, Fla. / Pine View School",2021-22,2023-24,Sr.,2024,1519,
+Duke,Theodore Winegar,,2021-22,2024-25,,,1519,"Columbia 2021-24, Duke 2024-25"
+University of Florida,Alfredo Perez,"Havana, Cuba / Coral Gables High School",2015-16,2018-19,Sr.,2019,1524,Florida 2015-19
+Northern Kentucky,Jody Maginley,,2013-14,2015-16,,,1526,Northern Kentucky 2013-16
+University of Florida,Togan Tokac,"Istanbul, Turkey / Gebze Tennis Club",2022-23,2022-23,Fr.,,1526,
+University of Illinois at Urbana-Champaign,Tyler Bowers,"Bloomington, Ill.",2022-23,2025-26,R-Jr.,,1526,
+Mississippi State,Petar Jovanovic,"Podgorica, Montenegro / Gymnasium Slobodan Skerovic",2022-23,2025-26,Sr.,2026,1534,Mississippi State 2022-26
+North Carolina,Logan Zapp,,2020-21,2025-26,,,1536,North Carolina 2020-26
+Pepperdine,Sebastian Fanselow,,2009-10,2012-13,,,1539,Pepperdine 2009-13
+Gonzaga,Giovanni Branchetti,,2022-23,2025-26,,,1553,"Northwestern Ohio 2022-23, San Francisco 2023-24, Gonzaga 2024-26"
+Ohio State,Alexander Bernard,"Bonita Springs, Florida",2022-23,2025-26,Sr.,2026,1554,Ohio State 2022-26
+Vanderbilt,Nathan Cox,,2022-23,2025-26,,,1567,Vanderbilt 2022-26
+UC Irvine,Rahul Dhokia,"Leicester, England / Leicester Grammar School",2019-20,2023-24,,,1571,"Baylor 2019-21, Texas A&M 2021-23, UC Irvine 2023-24"
+Tulsa,Reiya Komagata,,2022-23,2025-26,,,1575,"Cowley County (KS) 2022-24, Tulsa 2024-26"
+ETSU,Frazier Rengifo,,2017-18,2021-22,,,1587,ETSU 2017-22
+Northern Arizona,Piotr Galus,,2021-22,2024-25,,,1588,"Purdue 2021-22, Northern Arizona 2022-25"
+Delaware,Karol Malirz,,2021-22,2024-25,,,1592,"Georgia College 2021-23, Delaware 2023-25"
+Loyola Marymount,Jose Dominguez Alonso,,2017-18,2021-22,,,1594,"Arkansas 2017-21, Loyola Marymount 2021-22"
+Ohio State,Loren Byers,"Greensburg, Pennsylvania",2025-26,2025-26,Gr.,2026,1610,
+University of Virginia,Thai-Son Kwiatkowski,,2014-15,2016-17,,,1610,Virginia 2014-17
+University of Illinois at Urbana-Champaign,William Mroz,"Bradenton, Fla.",2022-23,2025-26,Sr.,2026,1610,Illinois 2022-26
+Bucknell,Amar Tahirovic,,2022-23,2025-26,,,1620,Bucknell 2022-26
+Arizona State,Mathis Bondaz,,2022-23,2025-26,,,1631,"Texas A&M 2022, VCU 2023-24, Arizona State 2024-26"
+Keiser,Didrik Liljekvist,,2022-23,2025-26,,,1634,Keiser 2022-26
+Mississippi State,Mario Martinez Serrano,"Zaragoza, Spain / Troy",2022-23,2025-26,Sr.,2026,1634,"Troy 2022-24, Mississippi State 2024-26"
+Princeton,Fnu Nidunjianzan,,2022-23,2025-26,,,1647,Princeton 2022-26
+University of Florida,Tanapatt Nirundorn,"Bangkok, Thailand / Hilton Head, S.C.",2022-23,2025-26,Sr.,2026,1647,Florida 2022-26
+Florida State,Corey Craig,,2022-23,2025-26,,,1659,"Boston University 2022-24, Florida State 2024-26"
+USC,Karl Kazuma Lee,,2021-22,2024-25,,,1659,"UCLA 2021-22, USC 2022-25"
+UCF,Mehdi Benchakroun,,2022-23,2025-26,,,1659,UCF 2022-26
+UNLV,Courtney John Lock,,2014-15,2017-18,,,1666,"Louisville 2014-16, UNLV 2016-18"
+South Carolina State,Novak Novakovic,,2022-23,2025-26,,,1667,South Carolina State 2022-26
+University of Illinois at Urbana-Champaign,Alexander Petrov,,2021-22,2023-24,,,1688,Illinois 2021-24
+UCSB,Dominique Rolland,"Calabasas, California",2023-24,2025-26,,,1696,"Arizona 2023-24, UCSB 2024-26"
+Auburn,Tyler Stice,"Atlanta, Ga.",2019-20,2023-24,Sophomore,,1699,Auburn 2019-24
+Washington,Jim Hendrikx,,2021-22,2023-24,,,1718,"Samford 2021-22, Washington 2022-24"
+University of South Carolina,Connor Thomson,,2019-20,2024-25,,,1734,South Carolina 2019-25
+Michigan,Evan King,,2009-10,2012-13,,,1734,Michigan 2009-13
+SMU,Nathaniel Lammons,,2012-13,2015-16,,,1734,SMU 2012-16
+University of Texas at Austin,Cleeve Harper,"Calgary, Alberta, Canada / Hilton Head Prep (S.C.)",2019-20,2023-24,R-Sr.,2024,1758,Texas 2019-24
+Mississippi State,Dusan Milanovic,"Bijeljina, Bosnia and Herzegovina / Presbyterian",2021-22,2024-25,Sr.,2025,1767,"Presbyterian 2021-23, Mississippi State 2023-25"
+Rice,Kabeer Kapasi,,2022-23,2025-26,,,1767,Rice 2022-26
+Drake,Oliver Johansson,,2019-20,2022-23,,,1767,Drake 2019-23
+Old Dominion,Brandon Perez,,2019-20,2022-23,,,1776,"Virginia Tech 2019-20, Nebraska 2020-21, Old Dominion 2022-23"
+Indiana,Jip Van Assendelft,"Capelle aan den IJssel, the Netherlands /",2022-23,2025-26,,,1776,"Oklahoma 2022-23, Boise State 2023-24, Indiana 2024-26"
+Norfolk State,Adam Kaczmarek,,2022-23,2022-23,,,1787,Norfolk State 2022-23
+Tennessee,Alejandro Moreno,"Knoxville, Tenn.",2022-23,2025-26,,,1787,"Auburn 2022-24, Tennessee 2024-26"
+UCLA,Karue Sell,,2012-13,2015-16,,,1787,UCLA 2012-16
+Baylor University,Luis Jose Nakamine,"Trujillo, Peru",2024-25,2024-25,Fr.,,1817,
+Georgia Gwinnett,Alexis Gurmendi,,2020-21,2023-24,,,1842,Georgia Gwinnett 2020-24
+UC Irvine,Hiroki Sakagawa,"Inzai, Chiba, Japan",2019-20,2025-26,,,1842,"Arizona 2019-23, UC Irvine 2023-26"
+Desert,Marco Alvarez,,2020-21,2021-22,,,1842,Desert 2020-22
+NC State,Martins Rocens,"Riga, Latvia / Riga School of Commerce",2019-20,2021-22,Jr.,,1842,NC State 2019-22
+Nebraska,Matthew Shearer,,2021-22,2025-26,,,1842,"Tyler JC (TX) 2021-22, William Carey 2022-25, Nebraska 2025-26"
+UAB,Roman Postolka,,2018-19,2022-23,,,1842,UAB 2018-23
+Hawaii,Azuma Visaya,,2022-23,2025-26,,,1862,"UCLA 2022-25, Hawaii 2025-26"
+North Florida,Jonas Pelle Hartenstein,,2019-20,2023-24,,,1862,"Mississippi State 2019-20, North Florida 2021-24"
+UNLV,Alex Kobelt,"New Albany, Ohio",2017-18,2020-21,,,1873,"Ohio State 2017-19, UNLV 2019-21"
+University of Illinois at Urbana-Champaign,Ezekiel Clark,,2017-18,2020-21,,,1877,Illinois 2017-21
+Virginia Tech,Hugo Maia,,2020-21,2023-24,,,1877,Virginia Tech 2020-24
+UCLA,Jeffrey Fradkin,,2021-22,2023-24,,,1903,UCLA 2021-24
+West Florida,Tomas Jordi Leston,,2022-23,2024-25,,,1903,"McKendree 2022-23, West Florida 2023-25"
+Boise State,Blake Bayldon,,2017-18,2020-21,,,1919,"Barry 2017-19, Boise State 2019-21"
+Kentucky,François Musitelli,,2016-17,2021-22,,,1919,"Grand Canyon 2016-17, Old Dominion 2017-21, Kentucky 2021-22"
+Purdue,Gergely Madarasz,,2015-16,2017-18,,,1919,Purdue 2015-18
+Toledo,Hanamichi Carvajal,,2021-22,2025-26,,,1919,"Cowley County (KS) 2021-23, Toledo 2024-26"
+Ohio State,Kyle Seelig,"Hatfield, Pa.",2016-17,2020-21,Gr.,2021,1919,Ohio State 2016-21
+University of Georgia,Mateo Barreiros Reyes,,2019-20,2019-20,,,1919,Georgia 2019
+Harvard,Valdemar Frederik Pape,,2022-23,2025-26,,,1919,Harvard 2022-26
+Louisville,Will Mayew,,2022-23,2024-25,,,1919,Louisville 2022-25
+Georgia Southern,Aaron James Williams,,2023-24,2024-25,,,2003,Georgia Southern 2023-25
+Alabama State,David Jeanne-Grandinot,,2022-23,2024-25,,,2003,Alabama State 2022-25
+University of Texas at Austin,Evan Burnett,"Woodside, Calif. / Menlo School",2023-24,2025-26,So.,,2003,
+Lipscomb,Facundo Perlov,,2022-23,2025-26,,,2003,"Lees-McRae 2022-23, Lipscomb 2023-26"
+Nebraska,Joan Torres Espinosa,,2023-24,2025-26,,,2003,"Texas Arlington 2023-24, Nebraska 2024-26"
+Middle Tennessee,Karim Al-Amin,,2023-24,2025-26,,,2003,"New Orleans 2023, Middle Tennessee 2023-26"
+Hawaii Pacific,Petr Michnev,,2010-11,2013-14,,,2003,Hawaii Pacific 2010-14
+Idaho,Chetanna Amadike,,2022-23,2025-26,,,2082,"Alabama A&M 2022-24, Idaho 2024-26"
+Middle Tennessee,Freddy Murray,,2022-23,2025-26,,,2082,"UNC Asheville 2022-25, Middle Tennessee 2025-26"
+Utah,Gonzalo Zeitune,,2025-26,2025-26,,,2082,Utah 2025
+Delaware,Ids Waterbolk,,2019-20,2023-24,,,2082,"Carson-Newman 2019-23, Delaware 2023-24"
+Wisconsin,Michael Minasyan,,2022-23,2025-26,,,2082,Wisconsin 2022-26
+San Francisco,Moritz Hoffmann,,2021-22,2023-24,,,2082,"Arizona State 2021-22, San Francisco 2022-24"
+Liberty,Nicaise Muamba,,2018-19,2021-22,,,2082,"Tennessee 2018, Liberty 2018-22"
+North Georgia,Robin Eldin,,2022-23,2024-25,,,2082,North Georgia 2022-25
+California,Ryder Jackson,"Nicasio, Calif.",2019-20,2023-24,,,2082,"USC 2019-22, California 2022-24"
+Catawba,Thomas Kostka,,2025-26,2025-26,,,2082,Catawba 2025
+University of Illinois at Urbana-Champaign,Gabrielius Guzauskas,"Hinsdale, Ill.",2021-22,2024-25,R-Jr.,,2160,Illinois 2021-25
+Boise State,Idriss Haddouch,,2023-24,2025-26,,,2160,Boise State 2023-26
+Ole Miss,Isac Stroemberg,,2023-24,2025-26,,,2160,Ole Miss 2023-26
+Mississippi State,Michal Novansky,"Trnava, Slovakia / Stredna sportova skola Jozefa Herdu",2023-24,2025-26,Sr.,2026,2160,Mississippi State 2023-26
+University of Georgia,Oscar Pinto Sansano,"Castellón de la Plana, Spain",2024-25,2024-25,Sr.,2025,2160,
+Middle Tennessee,Stijn Slump,,2018-19,2022-23,,,2160,Middle Tennessee 2018-23
+Lee (TN),Wihan Van Der Merwe,,2021-22,2024-25,,,2160,Lee (TN) 2021-25
+SMU,Alex Finkelstein,"Raynham, Mass. / Brown",2021-22,2025-26,GR,2026,2219,"Columbia 2021-22, Brown 2023-25, SMU 2025-26"
+Pepperdine,Petr Iamachkine,,2014-15,2017-18,,,2246,Pepperdine 2014-18
+California,Tiago Silva,,2023-24,2025-26,,,2246,"Pacific 2023-25, California 2025-26"
+Washburn,Tim Hammes,,2021-22,2024-25,,,2246,Washburn 2021-25
+ETSU,Milledge Cossu,,2020-21,2023-24,,,2271,"Purdue 2020-23, ETSU 2023-24"
+Lander,Nick Beamish,,2020-21,2023-24,,,2288,"Texas Arlington 2020-21, Lander 2021-24"
+Auburn,William Nolan,,2021-22,2024-25,,,2288,Auburn 2021-25
+Miami (FL),Oren Vasser,,2018-19,2021-22,,,2300,"William & Mary 2018-20, Miami (FL) 2020-22"

@@ -120,6 +120,7 @@ def load_alumni(path: Path, current_names):
             "alumni": True,
             "grad": (row.get("Graduation year") or "").strip(),
             "last_season": (row.get("Last season") or "").strip(),
+            "colleges": (row.get("Colleges") or "").strip(),
         })
     return out
 

@@ -140,7 +140,7 @@
     return r ? ' <span class="rk" title="Current ATP singles ranking">ATP #' + esc(r) + "</span>" : "";
   }
   function alumTag(p) { return p && p.alumni ? ' <span class="tag tag--alum">Alumni</span>' : ""; }
-  function alumLabel(p) { return p.grad ? "Class of " + p.grad : p.last_season ? "Last season " + p.last_season : "Alumni"; }
+  function alumLabel(p) { return p.colleges ? p.colleges : p.grad ? "Class of " + p.grad : p.last_season ? "Last season " + p.last_season : "Alumni"; }
   function schoolLink(p) {
     return p.alumni ? '<a href="#/alumni/' + esc(slug(p.school)) + '">' + esc(p.school) + " alumni</a>"
       : '<a href="#/team/' + esc(slug(p.school)) + '">' + esc(p.school) + "</a>";
@@ -362,7 +362,7 @@
     var only = {}; only[id] = true;
     var html = '<p class="crumbs">' + schoolLink(p) + "</p><h1>" + esc(p.name) + alumTag(p) + "</h1>" +
       '<div class="facts">' + (p.alumni ? "<span><b>" + esc(alumLabel(p)) + "</b></span>" : p.class ? "<span><b>" + esc(p.class) + "</b></span>" : "") +
-      (p.hometown ? "<span>" + esc(p.hometown) + "</span>" : "") + "</div>";
+      (p.hometown ? "<span>" + esc(p.hometown) + "</span>" : "") + (p.colleges ? "<span>College: <b>" + esc(p.colleges) + "</b></span>" : "") + "</div>";
     var rk = DATA.ranks[id];
     if (rk) {
       var bits = [];
@@ -563,12 +563,17 @@
       var ra = DATA.teams[a.slug] ? DATA.teams[a.slug].rank : 999, rb = DATA.teams[b.slug] ? DATA.teams[b.slug].rank : 999;
       return ra - rb || a.school.localeCompare(b.school);
     });
-    app.innerHTML = "<h1>Former college tennis players</h1><p class=\"lede\">Former players from the top 30 teams who hold an ATP ranking. Kept apart from the current players.</p>" +
-      (list.length ? '<ul class="grid section">' + list.map(function (a) {
-        var n = alumniTour(a);
-        return '<li><a href="#/alumni/' + esc(a.slug) + '"><span><strong>' + esc(a.school) + '</strong></span><span class="muted">' +
-          (n ? n + " on tour" : plural(a.players.length, "alum")) + "</span></a></li>";
-      }).join("") + "</ul>" : empty("No alumni list yet."));
+    function card(a) {
+      var n = alumniTour(a);
+      return '<li><a href="#/alumni/' + esc(a.slug) + '"><span><strong>' + esc(a.school) + '</strong></span><span class="muted">' +
+        (n ? n + " on tour · " : "") + plural(a.players.length, "player") + "</span></a></li>";
+    }
+    var top = list.filter(function (a) { return DATA.teams[a.slug]; }), more = list.filter(function (a) { return !DATA.teams[a.slug]; });
+    more.sort(function (a, b) { return b.players.length - a.players.length || a.school.localeCompare(b.school); });
+    app.innerHTML = "<h1>Former college tennis players</h1><p class=\"lede\">Former college players who hold an ATP ranking, grouped by the school they played for last. Kept apart from the current players.</p>" +
+      (top.length ? '<div class="section"><h2>Top 30 teams</h2><ul class="grid">' + top.map(card).join("") + "</ul></div>" : "") +
+      (more.length ? '<details class="section"><summary><h2>Other schools (' + more.length + ")</h2></summary><ul class=\"grid\">" + more.map(card).join("") + "</ul></details>" : "") +
+      (list.length ? "" : empty("No alumni list yet."));
   }
   function pageAlumniTeam(key) {
     var team = DATA.alumniTeams[key];
