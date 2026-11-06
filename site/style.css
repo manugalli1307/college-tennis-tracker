@@ -228,11 +228,11 @@ details.section > summary + * { margin-top: 12px; }
 .vs__p a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .vs__w > a { font-weight: 900; }
 .vs__x { color: var(--ink-2); font-size: 13px; align-self: center; }
-.bk { display: flex; gap: 28px; overflow: auto; max-height: 85vh; padding: 8px 2px 18px; align-items: stretch; }
+.bk { display: flex; gap: 28px; overflow-x: auto; padding: 8px 2px 18px; align-items: stretch; }
 .bk__col { display: flex; flex-direction: column; min-width: 290px; flex: 0 0 290px; }
 .bk__h { font-size: 15px; color: var(--ink-2); margin: 0 0 10px; position: sticky; top: 0; background: var(--paper); z-index: 1; }
-.bk__cards { flex: 1; display: flex; flex-direction: column; }
-.bk__slot { flex: 1 1 0; min-height: 74px; display: flex; align-items: center; position: relative; padding: 4px 0; }
+.bk__cards { height: calc(var(--n, 16) * 84px); display: flex; flex-direction: column; }
+.bk__slot { flex: 1 1 0; min-height: 0; display: flex; align-items: center; position: relative; padding: 4px 0; }
 .bk__card { position: relative; background: var(--panel); border: 1px solid var(--line); border-radius: 4px; width: 100%; }
 .bk__card--live { border-color: var(--ball); box-shadow: 0 0 0 2px var(--ball); }
 .bk__card--tbd { border-style: dashed; }

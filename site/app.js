@@ -552,8 +552,8 @@
         return '<div class="bk__slot ' + (j % 2 ? "bk__slot--b" : "bk__slot--a") + (r === nRounds - 1 ? " bk__slot--last" : "") + '">' + inner + "</div>";
       }).join("") + "</div></div>";
     }).join("");
-    return '<details class="section" open><summary><h2>Draw</h2></summary><p class="muted"><span class="key key--cur"></span> Current college player <span class="key key--alum"></span> Former player · main draw, later rounds fill in as matches finish. Scroll sideways and down to see it all.</p>' +
-      '<div class="bk" role="group" aria-label="Main draw bracket">' + cols + "</div></details>";
+    return '<details class="section" open><summary><h2>Draw</h2></summary><p class="muted"><span class="key key--cur"></span> Current college player <span class="key key--alum"></span> Former player · main draw, later rounds fill in as matches finish. Scroll sideways to see every round.</p>' +
+      '<div class="bk" style="--n:' + size + '" role="group" aria-label="Main draw bracket">' + cols + "</div></details>";
   }
 
   function pageTournament(id) {
