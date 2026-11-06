@@ -1476,42 +1476,6 @@
   "match": "full name"
  },
  {
-  "tournament": "m-itf-bol-2026-002",
-  "player": "auburn-duje-markovina",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-002",
-  "player": "miami-fl-salvador-price",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-002",
-  "player": "alumni-wichita-state-murkel-dellien",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-002",
-  "player": "alumni-baylor-university-ryan-dickerson",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-002",
-  "player": "alumni-etsu-frazier-rengifo",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-002",
-  "player": "alumni-north-georgia-robin-eldin",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
   "tournament": "m-itf-egy-2026-033",
   "player": "california-fryderyk-lechno-wasiutynski",
   "section": "Main Draw Direct Acceptance",
@@ -3194,6 +3158,66 @@
  {
   "tournament": "te-taranto-challenger-2026",
   "player": "alumni-nevada-moez-echargui",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-university-of-south-carolina-toby-samuel",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-wake-forest-borna-gojo",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-university-of-virginia-inaki-montes-de-la-torre",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-texas-tech-olle-wallin",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-tcu-jacob-fearnley",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-university-of-south-carolina-toby-samuel",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-wake-forest-borna-gojo",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-university-of-virginia-inaki-montes-de-la-torre",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-texas-tech-olle-wallin",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-tcu-jacob-fearnley",
   "section": "Qualifying",
   "match": "full name"
  },

@@ -726,6 +726,17 @@
   "url": "https://www.tennisexplorer.com/taranto-challenger/2026/atp-men/"
  },
  {
+  "id": "te-stockholm-2026",
+  "name": "Stockholm ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-11-08",
+  "end": "2026-11-14",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/stockholm/2026/atp-men/"
+ },
+ {
   "id": "m-itf-tur-2026-028",
   "name": "M15 Antalya",
   "category": "M15",
