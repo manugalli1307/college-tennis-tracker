@@ -1,71 +1,5 @@
 [
  {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-tennessee-blaise-bicknell",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "clemson-matisse-farzam",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-ucla-jeffrey-fradkin",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-texas-a-m-university-noah-schachter",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-usf-alvin-nicholas-tudorica",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-ohio-state-alexander-bernard",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-vanderbilt-nathan-cox",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-baylor-university-jacob-brumm",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-bryant-matt-kuhar",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "wake-forest-kacper-szymkowiak",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-ber-2026-001",
-  "player": "alumni-georgia-tech-keshav-chopra",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-tur-2026-028",
   "player": "alumni-ucf-yassine-dlimi",
   "section": "Main Draw Direct Acceptance",
@@ -3992,6 +3926,72 @@
  {
   "tournament": "m-itf-tun-2026-043",
   "player": "alumni-washington-cesar-bouchelaghem",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-tennessee-blaise-bicknell",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "clemson-matisse-farzam",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-ucla-jeffrey-fradkin",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-texas-a-m-university-noah-schachter",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-usf-alvin-nicholas-tudorica",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-ohio-state-alexander-bernard",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-vanderbilt-nathan-cox",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-baylor-university-jacob-brumm",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-bryant-matt-kuhar",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "wake-forest-kacper-szymkowiak",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ber-2026-001",
+  "player": "alumni-georgia-tech-keshav-chopra",
   "section": "Main Draw",
   "match": "draw"
  },
