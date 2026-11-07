@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:05:48+00:00",
+ "updated": "2026-11-07T22:03:10+00:00",
  "atp": [
   {
    "step": "event",
@@ -169,7 +169,7 @@
    "name": "Paris ATP",
    "status": "current",
    "entries": 15,
-   "matches": 28,
+   "matches": 29,
    "data": true
   },
   {
@@ -204,7 +204,7 @@
    "id": "te-stockholm-2026",
    "name": "Stockholm ATP",
    "status": "upcoming",
-   "entries": 10,
+   "entries": 9,
    "matches": 0,
    "data": true
   },
@@ -213,7 +213,7 @@
    "id": "te-brisbane-4-challenger-2026",
    "name": "Brisbane 4 Challenger",
    "status": "upcoming",
-   "entries": 16,
+   "entries": 18,
    "matches": 0,
    "data": true
   },
@@ -222,9 +222,9 @@
    "id": "te-hersonissos-5-challenger-2026",
    "name": "Hersonissos 5 Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 10,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -249,27 +249,27 @@
    "id": "te-matsuyama-challenger-2026",
    "name": "Matsuyama Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 3,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
    "id": "te-monastir-challenger-2026",
    "name": "Monastir Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 10,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
    "id": "te-orleans-challenger-2026",
    "name": "Orleans Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 5,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -282,7 +282,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 6
+   "count": 14
   }
  ],
  "ranks": [

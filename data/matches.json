@@ -1,20 +1,49 @@
 [
  {
-  "tournament": "m-itf-ber-2026-002",
+  "tournament": "m-itf-tun-2026-043",
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
-   "name": "Blaise Bicknell",
-   "country": "JAM",
-   "seed": "1",
-   "winner": true,
+   "name": "Yassine Smiej",
+   "country": "MAR",
+   "seed": "",
+   "winner": false,
    "roster": [
-    "alumni-tennessee-blaise-bicknell"
+    "alumni-loyola-marymount-yassine-smiej"
    ]
   },
   "p2": {
-   "name": "Aydan Gomez Osorio",
-   "country": "CUW",
+   "name": "Nicolas Tepmahc",
+   "country": "FRA",
+   "seed": "7",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "0",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-043",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Kris van Wyk",
+   "country": "RSA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-weber-state-kris-van-wyk"
+   ]
+  },
+  "p2": {
+   "name": "David Petrovic",
+   "country": "BIH",
    "seed": "",
    "winner": false,
    "roster": []
@@ -22,38 +51,36 @@
   "winner": 1,
   "sets": [
    [
-    "4",
-    "6"
+    "6",
+    "0"
    ],
    [
     "6",
     "1"
-   ],
-   [
-    "6",
-    "2"
    ]
   ],
   "live": false
  },
  {
-  "tournament": "m-itf-ber-2026-002",
+  "tournament": "m-itf-tun-2026-043",
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
-   "name": "Volodymyr Gurenko",
-   "country": "CAN",
+   "name": "Fnu Nidunjianzan",
+   "country": "CHN",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-princeton-fnu-nidunjianzan"
+   ]
   },
   "p2": {
-   "name": "Alexander Bernard",
-   "country": "USA",
+   "name": "Giovanni Ciocca",
+   "country": "ITA",
    "seed": "",
    "winner": true,
    "roster": [
-    "alumni-ohio-state-alexander-bernard"
+    "lipscomb-giovanni-ciocca"
    ]
   },
   "winner": 2,
@@ -63,30 +90,131 @@
     "6"
    ],
    [
-    "4",
+    "1",
     "6"
    ]
   ],
   "live": false
  },
  {
-  "tournament": "m-itf-ber-2026-002",
+  "tournament": "m-itf-tun-2026-043",
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
-   "name": "Pedro Petroski Rocha",
-   "country": "BRA",
+   "name": "Benito Sanchez Martinez",
+   "country": "GER",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-mississippi-state-benito-sanchez-martinez"
+   ]
+  },
+  "p2": {
+   "name": "Cesar Bouchelaghem",
+   "country": "FRA",
+   "seed": "2",
+   "winner": false,
+   "roster": [
+    "alumni-washington-cesar-bouchelaghem"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-043",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Toufik Sahtali",
+   "country": "ALG",
+   "seed": "6",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Kris van Wyk",
+   "country": "RSA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-weber-state-kris-van-wyk"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-043",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Giovanni Ciocca",
+   "country": "ITA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "lipscomb-giovanni-ciocca"
+   ]
+  },
+  "p2": {
+   "name": "Lilian Marmousez",
+   "country": "FRA",
+   "seed": "4",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-043",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Louis Larue",
+   "country": "FRA",
    "seed": "",
    "winner": false,
    "roster": []
   },
   "p2": {
-   "name": "Jacob Brumm",
-   "country": "USA",
-   "seed": "8",
+   "name": "Benito Sanchez Martinez",
+   "country": "GER",
+   "seed": "",
    "winner": true,
    "roster": [
-    "alumni-baylor-university-jacob-brumm"
+    "alumni-mississippi-state-benito-sanchez-martinez"
    ]
   },
   "winner": 2,
@@ -96,652 +224,63 @@
     "6"
    ],
    [
-    "2",
+    "0",
     "6"
    ]
   ],
   "live": false
  },
  {
-  "tournament": "m-itf-ber-2026-002",
+  "tournament": "m-itf-tun-2026-043",
   "draw": "Main Draw",
-  "round": "1st Round",
+  "round": "Quarter-finals",
   "p1": {
-   "name": "Alvin Nicholas Tudorica",
-   "country": "CAN",
-   "seed": "4",
+   "name": "Kris van Wyk",
+   "country": "RSA",
+   "seed": "",
    "winner": false,
    "roster": [
-    "alumni-usf-alvin-nicholas-tudorica"
+    "alumni-weber-state-kris-van-wyk"
    ]
   },
   "p2": {
-   "name": "Kaipo Marshall",
-   "country": "BAR",
-   "seed": "",
+   "name": "Lilian Marmousez",
+   "country": "FRA",
+   "seed": "4",
    "winner": true,
    "roster": []
   },
   "winner": 2,
   "sets": [
    [
-    "6",
-    "4"
-   ],
-   [
-    "4",
+    "1",
     "6"
    ],
    [
-    "5",
-    "7"
+    "0",
+    "6"
    ]
   ],
   "live": false
  },
  {
-  "tournament": "m-itf-ber-2026-002",
+  "tournament": "m-itf-tun-2026-043",
   "draw": "Main Draw",
-  "round": "1st Round",
+  "round": "Quarter-finals",
   "p1": {
-   "name": "Nathan Cox",
-   "country": "USA",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-vanderbilt-nathan-cox"
-   ]
-  },
-  "p2": {
-   "name": "John Chin",
-   "country": "JAM",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "3",
-    "6"
-   ],
-   [
-    "6",
-    "4"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Rohan SACHDEV",
-   "country": "USA",
-   "seed": "",
-   "winner": true,
-   "roster": []
-  },
-  "p2": {
-   "name": "Justin Roberts",
-   "country": "BAH",
+   "name": "Tuncay Duran",
+   "country": "TUR",
    "seed": "5",
    "winner": false,
-   "roster": [
-    "alumni-arizona-state-justin-roberts"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "7",
-    "6(6)"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Kacper Szymkowiak",
-   "country": "POL",
-   "seed": "7",
-   "winner": true,
-   "roster": [
-    "wake-forest-kacper-szymkowiak"
-   ]
-  },
-  "p2": {
-   "name": "Stephen Slocombe",
-   "country": "BAR",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "2"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Juan Sebastian Dominguez Collado",
-   "country": "GUA",
-   "seed": "",
-   "winner": false,
    "roster": []
   },
   "p2": {
-   "name": "Matt Kuhar",
-   "country": "USA",
-   "seed": "3",
-   "winner": true,
-   "roster": [
-    "alumni-bryant-matt-kuhar"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "2",
-    "6"
-   ],
-   [
-    "0",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Noah Schachter",
-   "country": "USA",
-   "seed": "6",
-   "winner": true,
-   "roster": [
-    "alumni-texas-a-m-university-noah-schachter"
-   ]
-  },
-  "p2": {
-   "name": "Tyler Mercier",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "6",
-    "1"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Jeffrey Fradkin",
-   "country": "USA",
+   "name": "Benito Sanchez Martinez",
+   "country": "GER",
    "seed": "",
    "winner": true,
    "roster": [
-    "alumni-ucla-jeffrey-fradkin"
-   ]
-  },
-  "p2": {
-   "name": "Alexander Bravo",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "7",
-    "6(1)"
-   ],
-   [
-    "6",
-    "2"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Niels Peter Van Noord",
-   "country": "CAN",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Keshav Chopra",
-   "country": "USA",
-   "seed": "2",
-   "winner": true,
-   "roster": [
-    "alumni-georgia-tech-keshav-chopra"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "3",
-    "6"
-   ],
-   [
-    "1",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Blaise Bicknell",
-   "country": "JAM",
-   "seed": "1",
-   "winner": true,
-   "roster": [
-    "alumni-tennessee-blaise-bicknell"
-   ]
-  },
-  "p2": {
-   "name": "Kian Vakili",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "0"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Alexander Bernard",
-   "country": "USA",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-ohio-state-alexander-bernard"
-   ]
-  },
-  "p2": {
-   "name": "Jacob Brumm",
-   "country": "USA",
-   "seed": "8",
-   "winner": false,
-   "roster": [
-    "alumni-baylor-university-jacob-brumm"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Kaipo Marshall",
-   "country": "BAR",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Nathan Cox",
-   "country": "USA",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-vanderbilt-nathan-cox"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "6(5)",
-    "7"
-   ],
-   [
-    "6",
-    "4"
-   ],
-   [
-    "1",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Kacper Szymkowiak",
-   "country": "POL",
-   "seed": "7",
-   "winner": true,
-   "roster": [
-    "wake-forest-kacper-szymkowiak"
-   ]
-  },
-  "p2": {
-   "name": "Carel Aubriel Ngounoue",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "0"
-   ],
-   [
-    "6",
-    "1"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Drew Van Orderlain",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Matt Kuhar",
-   "country": "USA",
-   "seed": "3",
-   "winner": true,
-   "roster": [
-    "alumni-bryant-matt-kuhar"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "2",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Noah Schachter",
-   "country": "USA",
-   "seed": "6",
-   "winner": false,
-   "roster": [
-    "alumni-texas-a-m-university-noah-schachter"
-   ]
-  },
-  "p2": {
-   "name": "Gray Voelzke",
-   "country": "USA",
-   "seed": "",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "2",
-    "6"
-   ],
-   [
-    "5",
-    "7"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Jeffrey Fradkin",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-ucla-jeffrey-fradkin"
-   ]
-  },
-  "p2": {
-   "name": "Keshav Chopra",
-   "country": "USA",
-   "seed": "2",
-   "winner": true,
-   "roster": [
-    "alumni-georgia-tech-keshav-chopra"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "3",
-    "6"
-   ],
-   [
-    "2",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Blaise Bicknell",
-   "country": "JAM",
-   "seed": "1",
-   "winner": true,
-   "roster": [
-    "alumni-tennessee-blaise-bicknell"
-   ]
-  },
-  "p2": {
-   "name": "Alexander Bernard",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-ohio-state-alexander-bernard"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "1"
-   ],
-   [
-    "6",
-    "1"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Nathan Cox",
-   "country": "USA",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-vanderbilt-nathan-cox"
-   ]
-  },
-  "p2": {
-   "name": "Rohan SACHDEV",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "6",
-    "2"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Kacper Szymkowiak",
-   "country": "POL",
-   "seed": "7",
-   "winner": true,
-   "roster": [
-    "wake-forest-kacper-szymkowiak"
-   ]
-  },
-  "p2": {
-   "name": "Matt Kuhar",
-   "country": "USA",
-   "seed": "3",
-   "winner": false,
-   "roster": [
-    "alumni-bryant-matt-kuhar"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-ber-2026-002",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Gray Voelzke",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Keshav Chopra",
-   "country": "USA",
-   "seed": "2",
-   "winner": true,
-   "roster": [
-    "alumni-georgia-tech-keshav-chopra"
+    "alumni-mississippi-state-benito-sanchez-martinez"
    ]
   },
   "winner": 2,
@@ -7171,303 +6710,6 @@
    [
     "5",
     "5"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Yassine Smiej",
-   "country": "MAR",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-loyola-marymount-yassine-smiej"
-   ]
-  },
-  "p2": {
-   "name": "Nicolas Tepmahc",
-   "country": "FRA",
-   "seed": "7",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "0",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Kris van Wyk",
-   "country": "RSA",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-weber-state-kris-van-wyk"
-   ]
-  },
-  "p2": {
-   "name": "David Petrovic",
-   "country": "BIH",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "0"
-   ],
-   [
-    "6",
-    "1"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Fnu Nidunjianzan",
-   "country": "CHN",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-princeton-fnu-nidunjianzan"
-   ]
-  },
-  "p2": {
-   "name": "Giovanni Ciocca",
-   "country": "ITA",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "lipscomb-giovanni-ciocca"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "2",
-    "6"
-   ],
-   [
-    "1",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Benito Sanchez Martinez",
-   "country": "GER",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-mississippi-state-benito-sanchez-martinez"
-   ]
-  },
-  "p2": {
-   "name": "Cesar Bouchelaghem",
-   "country": "FRA",
-   "seed": "2",
-   "winner": false,
-   "roster": [
-    "alumni-washington-cesar-bouchelaghem"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "6",
-    "4"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Toufik Sahtali",
-   "country": "ALG",
-   "seed": "6",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Kris van Wyk",
-   "country": "RSA",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-weber-state-kris-van-wyk"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "2",
-    "6"
-   ],
-   [
-    "0",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Giovanni Ciocca",
-   "country": "ITA",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "lipscomb-giovanni-ciocca"
-   ]
-  },
-  "p2": {
-   "name": "Lilian Marmousez",
-   "country": "FRA",
-   "seed": "4",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "0",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Louis Larue",
-   "country": "FRA",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Benito Sanchez Martinez",
-   "country": "GER",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-mississippi-state-benito-sanchez-martinez"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "0",
-    "6"
-   ],
-   [
-    "0",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Kris van Wyk",
-   "country": "RSA",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-weber-state-kris-van-wyk"
-   ]
-  },
-  "p2": {
-   "name": "Lilian Marmousez",
-   "country": "FRA",
-   "seed": "4",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "1",
-    "6"
-   ],
-   [
-    "0",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-tun-2026-043",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Tuncay Duran",
-   "country": "TUR",
-   "seed": "5",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Benito Sanchez Martinez",
-   "country": "GER",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-mississippi-state-benito-sanchez-martinez"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "2",
-    "6"
    ]
   ],
   "live": false
@@ -14557,6 +13799,764 @@
    ],
    [
     "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Blaise Bicknell",
+   "country": "JAM",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-tennessee-blaise-bicknell"
+   ]
+  },
+  "p2": {
+   "name": "Aydan Gomez Osorio",
+   "country": "CUW",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Volodymyr Gurenko",
+   "country": "CAN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Alexander Bernard",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-alexander-bernard"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Pedro Petroski Rocha",
+   "country": "BRA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Jacob Brumm",
+   "country": "USA",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-baylor-university-jacob-brumm"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "0",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Alvin Nicholas Tudorica",
+   "country": "CAN",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-usf-alvin-nicholas-tudorica"
+   ]
+  },
+  "p2": {
+   "name": "Kaipo Marshall",
+   "country": "BAR",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "4",
+    "6"
+   ],
+   [
+    "5",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Nathan Cox",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-vanderbilt-nathan-cox"
+   ]
+  },
+  "p2": {
+   "name": "John Chin",
+   "country": "JAM",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Rohan SACHDEV",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Justin Roberts",
+   "country": "BAH",
+   "seed": "5",
+   "winner": false,
+   "roster": [
+    "alumni-arizona-state-justin-roberts"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "6(6)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Kacper Szymkowiak",
+   "country": "POL",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "wake-forest-kacper-szymkowiak"
+   ]
+  },
+  "p2": {
+   "name": "Stephen Slocombe",
+   "country": "BAR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Juan Sebastian Dominguez Collado",
+   "country": "GUA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Matt Kuhar",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-bryant-matt-kuhar"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Noah Schachter",
+   "country": "USA",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-texas-a-m-university-noah-schachter"
+   ]
+  },
+  "p2": {
+   "name": "Tyler Mercier",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jeffrey Fradkin",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ucla-jeffrey-fradkin"
+   ]
+  },
+  "p2": {
+   "name": "Alexander Bravo",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(1)"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Niels Peter Van Noord",
+   "country": "CAN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Keshav Chopra",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-georgia-tech-keshav-chopra"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Blaise Bicknell",
+   "country": "JAM",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-tennessee-blaise-bicknell"
+   ]
+  },
+  "p2": {
+   "name": "Kian Vakili",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Alexander Bernard",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-ohio-state-alexander-bernard"
+   ]
+  },
+  "p2": {
+   "name": "Jacob Brumm",
+   "country": "USA",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-baylor-university-jacob-brumm"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Kaipo Marshall",
+   "country": "BAR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Nathan Cox",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-vanderbilt-nathan-cox"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(5)",
+    "7"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "1",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Kacper Szymkowiak",
+   "country": "POL",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "wake-forest-kacper-szymkowiak"
+   ]
+  },
+  "p2": {
+   "name": "Carel Aubriel Ngounoue",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Drew Van Orderlain",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Matt Kuhar",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-bryant-matt-kuhar"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Noah Schachter",
+   "country": "USA",
+   "seed": "6",
+   "winner": false,
+   "roster": [
+    "alumni-texas-a-m-university-noah-schachter"
+   ]
+  },
+  "p2": {
+   "name": "Gray Voelzke",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "5",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Jeffrey Fradkin",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-ucla-jeffrey-fradkin"
+   ]
+  },
+  "p2": {
+   "name": "Keshav Chopra",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-georgia-tech-keshav-chopra"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Blaise Bicknell",
+   "country": "JAM",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-tennessee-blaise-bicknell"
+   ]
+  },
+  "p2": {
+   "name": "Alexander Bernard",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-ohio-state-alexander-bernard"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Nathan Cox",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-vanderbilt-nathan-cox"
+   ]
+  },
+  "p2": {
+   "name": "Rohan SACHDEV",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Kacper Szymkowiak",
+   "country": "POL",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "wake-forest-kacper-szymkowiak"
+   ]
+  },
+  "p2": {
+   "name": "Matt Kuhar",
+   "country": "USA",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "alumni-bryant-matt-kuhar"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-ber-2026-002",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Gray Voelzke",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Keshav Chopra",
+   "country": "USA",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-georgia-tech-keshav-chopra"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "2",
     "6"
    ]
   ],
@@ -30023,6 +30023,47 @@
    [
     "6",
     "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-paris-2026",
+  "draw": "Main Draw",
+  "round": "Semifinals",
+  "p1": {
+   "name": "Ben Shelton",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-ben-shelton"
+   ],
+   "rank": 4,
+   "slot": 14
+  },
+  "p2": {
+   "name": "Luca Van Assche",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 47,
+   "slot": 3
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false

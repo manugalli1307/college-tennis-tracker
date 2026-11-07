@@ -748,6 +748,17 @@
   "url": "https://www.tennisexplorer.com/brisbane-4-challenger/2026/atp-men/"
  },
  {
+  "id": "te-hersonissos-5-challenger-2026",
+  "name": "Hersonissos 5 Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/hersonissos-5-challenger/2026/atp-men/"
+ },
+ {
   "id": "m-itf-tur-2026-028",
   "name": "M15 Antalya",
   "category": "M15",
@@ -922,6 +933,39 @@
   "end": "2026-11-15",
   "status": "upcoming",
   "url": "https://www.itftennis.com/en/tournament/m25-vale-do-lobo/por/2026/m-itf-por-2026-015/"
+ },
+ {
+  "id": "te-matsuyama-challenger-2026",
+  "name": "Matsuyama Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/matsuyama-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-monastir-challenger-2026",
+  "name": "Monastir Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/monastir-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-orleans-challenger-2026",
+  "name": "Orleans Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/orleans-challenger/2026/atp-men/"
  },
  {
   "id": "m-itf-esp-2026-052",
