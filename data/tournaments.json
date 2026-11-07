@@ -737,6 +737,17 @@
   "url": "https://www.tennisexplorer.com/stockholm/2026/atp-men/"
  },
  {
+  "id": "te-brisbane-4-challenger-2026",
+  "name": "Brisbane 4 Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/brisbane-4-challenger/2026/atp-men/"
+ },
+ {
   "id": "m-itf-tur-2026-028",
   "name": "M15 Antalya",
   "category": "M15",

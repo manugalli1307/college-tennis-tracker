@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:04:21+00:00",
+ "updated": "2026-11-07T12:05:48+00:00",
  "atp": [
   {
    "step": "event",
@@ -151,7 +151,7 @@
    "name": "Charlottesville Challenger",
    "status": "current",
    "entries": 37,
-   "matches": 38,
+   "matches": 39,
    "data": true
   },
   {
@@ -169,7 +169,7 @@
    "name": "Paris ATP",
    "status": "current",
    "entries": 15,
-   "matches": 27,
+   "matches": 28,
    "data": true
   },
   {
@@ -213,9 +213,9 @@
    "id": "te-brisbane-4-challenger-2026",
    "name": "Brisbane 4 Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 16,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -282,7 +282,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 1
+   "count": 6
   }
  ],
  "ranks": [
