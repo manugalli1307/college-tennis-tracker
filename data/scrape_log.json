@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:52:31+00:00",
+ "updated": "2026-11-08T22:01:37+00:00",
  "atp": [
   {
    "step": "event",
@@ -240,7 +240,7 @@
    "id": "te-lima-3-challenger-2026",
    "name": "Lima 3 Challenger",
    "status": "upcoming",
-   "entries": 1,
+   "entries": 4,
    "matches": 0,
    "data": true
   },
@@ -282,7 +282,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 3
+   "count": 1
   }
  ],
  "ranks": [

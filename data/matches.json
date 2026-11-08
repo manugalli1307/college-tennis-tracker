@@ -1020,218 +1020,6 @@
   "live": false
  },
  {
-  "tournament": "m-itf-esp-2026-050",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Carles Hernandez",
-   "country": "ESP",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-mississippi-state-carles-hernandez"
-   ]
-  },
-  "p2": {
-   "name": "Marcel Zielinski",
-   "country": "POL",
-   "seed": "",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "4",
-    "6"
-   ],
-   [
-    "3",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Alex Marti Pujolras",
-   "country": "ESP",
-   "seed": "7",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Alberto Barroso Campos",
-   "country": "ESP",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-usf-alberto-barroso-campos"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "4",
-    "6"
-   ],
-   [
-    "4",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Luka Talan Lopatic",
-   "country": "SLO",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-oklahoma-luka-talan-lopatic"
-   ]
-  },
-  "p2": {
-   "name": "Sergi Fita Juan",
-   "country": "ESP",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "7",
-    "6(3)"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Alberto Barroso Campos",
-   "country": "ESP",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-usf-alberto-barroso-campos"
-   ]
-  },
-  "p2": {
-   "name": "Alejandro Manzanera Pertusa",
-   "country": "ESP",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "3",
-    "6"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Luka Talan Lopatic",
-   "country": "SLO",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-oklahoma-luka-talan-lopatic"
-   ]
-  },
-  "p2": {
-   "name": "Miguel Damas",
-   "country": "ESP",
-   "seed": "2",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "7",
-    "6(3)"
-   ],
-   [
-    "6",
-    "4"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Alberto Barroso Campos",
-   "country": "ESP",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-usf-alberto-barroso-campos"
-   ]
-  },
-  "p2": {
-   "name": "Luka Talan Lopatic",
-   "country": "SLO",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-oklahoma-luka-talan-lopatic"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "4",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
   "tournament": "m-itf-cro-2026-009",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -18261,6 +18049,218 @@
    [
     "6",
     "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Carles Hernandez",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-carles-hernandez"
+   ]
+  },
+  "p2": {
+   "name": "Marcel Zielinski",
+   "country": "POL",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Alex Marti Pujolras",
+   "country": "ESP",
+   "seed": "7",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Alberto Barroso Campos",
+   "country": "ESP",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-usf-alberto-barroso-campos"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "4",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Luka Talan Lopatic",
+   "country": "SLO",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luka-talan-lopatic"
+   ]
+  },
+  "p2": {
+   "name": "Sergi Fita Juan",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Alberto Barroso Campos",
+   "country": "ESP",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-usf-alberto-barroso-campos"
+   ]
+  },
+  "p2": {
+   "name": "Alejandro Manzanera Pertusa",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Luka Talan Lopatic",
+   "country": "SLO",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luka-talan-lopatic"
+   ]
+  },
+  "p2": {
+   "name": "Miguel Damas",
+   "country": "ESP",
+   "seed": "2",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Alberto Barroso Campos",
+   "country": "ESP",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-usf-alberto-barroso-campos"
+   ]
+  },
+  "p2": {
+   "name": "Luka Talan Lopatic",
+   "country": "SLO",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luka-talan-lopatic"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "4",
+    "6"
    ]
   ],
   "live": false

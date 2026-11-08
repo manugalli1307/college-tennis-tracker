@@ -84,24 +84,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-esp-2026-050",
-  "player": "alumni-mississippi-state-carles-hernandez",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "player": "alumni-usf-alberto-barroso-campos",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "player": "alumni-university-of-oklahoma-luka-talan-lopatic",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-tur-2026-028",
   "player": "alumni-ucf-yassine-dlimi",
   "section": "Main Draw Direct Acceptance",
@@ -1184,72 +1166,6 @@
  {
   "tournament": "m-itf-mas-2026-002",
   "player": "alumni-lee-tn-wihan-van-der-merwe",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "ole-miss-stefano-d-agostino",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-auburn-finn-murgett",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-texas-a-m-university-giulio-perego",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-weber-state-kris-van-wyk",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-oklahoma-state-mathieu-scaglia",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-miami-fl-adrien-burdet",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-usc-wojciech-marek",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-mississippi-state-ewen-lumsden",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-arkansas-bozo-barun",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-barry-adam-lynch",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-047",
-  "player": "alumni-alabama-matic-dimic",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -3606,6 +3522,24 @@
   "match": "full name"
  },
  {
+  "tournament": "te-lima-3-challenger-2026",
+  "player": "alumni-lsu-boris-arias",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-lima-3-challenger-2026",
+  "player": "alumni-west-florida-nicolas-barrientos",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-lima-3-challenger-2026",
+  "player": "alumni-utsa-alan-magadan",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
   "tournament": "te-matsuyama-challenger-2026",
   "player": "alumni-ucla-keegan-smith",
   "section": "Main Draw",
@@ -5672,6 +5606,24 @@
  {
   "tournament": "m-itf-gre-2026-015",
   "player": "alumni-university-of-florida-pablo-perez-ramos",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "player": "alumni-mississippi-state-carles-hernandez",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "player": "alumni-usf-alberto-barroso-campos",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "player": "alumni-university-of-oklahoma-luka-talan-lopatic",
   "section": "Main Draw",
   "match": "draw"
  },
