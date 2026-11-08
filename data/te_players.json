@@ -3174,5 +3174,29 @@
   "height": null,
   "weight": null,
   "asof": "2026-11-08"
+ },
+ "alcaraz-5ab70": {
+  "raw": "Alcaraz Carlos",
+  "country": "Spain",
+  "rank": 3,
+  "height": 185,
+  "weight": 72,
+  "asof": "2026-11-08"
+ },
+ "shevchenko-3bd40": {
+  "raw": "Shevchenko Alexander",
+  "country": "Kazakhstan",
+  "rank": 107,
+  "height": 185,
+  "weight": 70,
+  "asof": "2026-11-08"
+ },
+ "burdet": {
+  "raw": "Burdet Adrien",
+  "country": "Switzerland",
+  "rank": 1155,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-08"
  }
 }

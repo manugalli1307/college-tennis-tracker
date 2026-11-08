@@ -84,6 +84,24 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-esp-2026-050",
+  "player": "alumni-mississippi-state-carles-hernandez",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "player": "alumni-usf-alberto-barroso-campos",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-esp-2026-050",
+  "player": "alumni-university-of-oklahoma-luka-talan-lopatic",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-tur-2026-028",
   "player": "alumni-ucf-yassine-dlimi",
   "section": "Main Draw Direct Acceptance",
@@ -3151,6 +3169,18 @@
  },
  {
   "tournament": "te-stockholm-2026",
+  "player": "alumni-university-of-south-carolina-toby-samuel",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-wake-forest-borna-gojo",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-stockholm-2026",
   "player": "alumni-usc-yannick-hanfmann",
   "section": "Main Draw",
   "match": "full name"
@@ -3350,6 +3380,12 @@
  {
   "tournament": "te-hersonissos-5-challenger-2026",
   "player": "alumni-arkansas-alexandre-reco",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-hersonissos-5-challenger-2026",
+  "player": "alumni-miami-fl-adrien-burdet",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -5636,24 +5672,6 @@
  {
   "tournament": "m-itf-gre-2026-015",
   "player": "alumni-university-of-florida-pablo-perez-ramos",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "player": "alumni-mississippi-state-carles-hernandez",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "player": "alumni-usf-alberto-barroso-campos",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-esp-2026-050",
-  "player": "alumni-university-of-oklahoma-luka-talan-lopatic",
   "section": "Main Draw",
   "match": "draw"
  },

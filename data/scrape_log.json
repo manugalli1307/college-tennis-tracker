@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T12:10:03+00:00",
+ "updated": "2026-11-08T20:52:31+00:00",
  "atp": [
   {
    "step": "event",
@@ -169,7 +169,7 @@
    "name": "Paris ATP",
    "status": "current",
    "entries": 15,
-   "matches": 29,
+   "matches": 30,
    "data": true
   },
   {
@@ -204,8 +204,8 @@
    "id": "te-stockholm-2026",
    "name": "Stockholm ATP",
    "status": "current",
-   "entries": 9,
-   "matches": 5,
+   "entries": 11,
+   "matches": 9,
    "data": true
   },
   {
@@ -222,7 +222,7 @@
    "id": "te-hersonissos-5-challenger-2026",
    "name": "Hersonissos 5 Challenger",
    "status": "upcoming",
-   "entries": 10,
+   "entries": 11,
    "matches": 0,
    "data": true
   },
@@ -282,7 +282,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 12
+   "count": 3
   }
  ],
  "ranks": [
