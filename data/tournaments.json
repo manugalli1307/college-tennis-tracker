@@ -645,7 +645,7 @@
   "country": "MEX",
   "start": "2026-11-02",
   "end": "2026-11-07",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m25-guadalajara/mex/2026/m-itf-mex-2026-010/"
  },
  {
@@ -733,7 +733,7 @@
   "country": "",
   "start": "2026-11-08",
   "end": "2026-11-14",
-  "status": "upcoming",
+  "status": "current",
   "url": "https://www.tennisexplorer.com/stockholm/2026/atp-men/"
  },
  {
@@ -757,6 +757,28 @@
   "end": "2026-11-15",
   "status": "upcoming",
   "url": "https://www.tennisexplorer.com/hersonissos-5-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-knoxville-challenger-2026",
+  "name": "Knoxville Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/knoxville-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-lima-3-challenger-2026",
+  "name": "Lima 3 Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/lima-3-challenger/2026/atp-men/"
  },
  {
   "id": "m-itf-tur-2026-028",

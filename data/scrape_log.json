@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:03:10+00:00",
+ "updated": "2026-11-08T12:10:03+00:00",
  "atp": [
   {
    "step": "event",
@@ -151,7 +151,7 @@
    "name": "Charlottesville Challenger",
    "status": "current",
    "entries": 37,
-   "matches": 39,
+   "matches": 40,
    "data": true
   },
   {
@@ -203,9 +203,9 @@
    "step": "event",
    "id": "te-stockholm-2026",
    "name": "Stockholm ATP",
-   "status": "upcoming",
+   "status": "current",
    "entries": 9,
-   "matches": 0,
+   "matches": 5,
    "data": true
   },
   {
@@ -231,18 +231,18 @@
    "id": "te-knoxville-challenger-2026",
    "name": "Knoxville Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 34,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
    "id": "te-lima-3-challenger-2026",
    "name": "Lima 3 Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 1,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -282,7 +282,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 14
+   "count": 12
   }
  ],
  "ranks": [
