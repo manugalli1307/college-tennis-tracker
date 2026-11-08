@@ -410,6 +410,42 @@
     bindFilters();
   }
 
+  // Who is still alive in the main draw, and what round they play next.
+  function stillIn(t) {
+    var norm = function (r) { return String(r || "").toLowerCase().replace(/[\s-]/g, ""); };
+    var mains = (DATA.matchesByT[t.id] || []).filter(function (m) { return m.draw === "Main Draw"; });
+    var drawM = (DATA.draws[t.id] || []).filter(function (m) { return m.draw === "Main Draw"; });
+    var labels = {}, order = [];
+    drawM.concat(mains).forEach(function (m) { if (!labels[norm(m.round)]) { labels[norm(m.round)] = m.round; order.push(m); } });
+    var chain = order.slice().sort(function (a, b) { return roundIdx(a) - roundIdx(b); }).map(function (m) { return m.round; });
+    [["quarterfinals", "Quarterfinals"], ["semifinals", "Semifinals"], ["final", "Final"]].forEach(function (x) {
+      if (chain.length && !labels[x[0]] && chain.every(function (c) { return roundIdx({ round: c, draw: "Main Draw", tournament: t.id }) < roundIdx({ round: x[1], draw: "Main Draw", tournament: t.id }); })) chain.push(x[1]);
+    });
+    chain.sort(function (a, b) { return roundIdx({ round: a, draw: "Main Draw", tournament: t.id }) - roundIdx({ round: b, draw: "Main Draw", tournament: t.id }); });
+    var ids = [];
+    (DATA.entriesByT[t.id] || []).forEach(function (e) { if (e.section === "Main Draw" && ids.indexOf(e.player) < 0) ids.push(e.player); });
+    mains.forEach(function (m) { [m.p1, m.p2].forEach(function (o) { if (o) o.roster.forEach(function (id) { if (ids.indexOf(id) < 0) ids.push(id); }); }); });
+    var inn = [], out = [];
+    ids.filter(function (id) { return DATA.playerById[id]; }).forEach(function (id) {
+      var mine = mains.filter(function (m) { return [m.p1, m.p2].some(function (o) { return o && o.roster.indexOf(id) >= 0; }); })
+        .sort(function (a, b) { return roundIdx(a) - roundIdx(b); });
+      var last = mine[mine.length - 1], pl = DATA.playerById[id];
+      if (!last) { inn.push({ pl: pl, text: "Waiting to play" + (chain.length ? " " + chain[0] : "") }); return; }
+      var side = last.p1 && last.p1.roster.indexOf(id) >= 0 ? 1 : 2;
+      if (last.winner === 0) { inn.push({ pl: pl, text: "Playing " + last.round + (last.live ? " (live)" : "") }); return; }
+      if (last.winner !== side) { out.push({ pl: pl, text: "Out in " + last.round }); return; }
+      var at = chain.findIndex(function (c) { return norm(c) === norm(last.round); });
+      if (norm(last.round) === "final") inn.push({ pl: pl, text: "Champion" });
+      else inn.push({ pl: pl, text: "Next: " + (at >= 0 && chain[at + 1] ? chain[at + 1] : "next round") });
+    });
+    if (!inn.length && !out.length) return "";
+    function li(x) { return "<li><a href=\"#/player/" + esc(x.pl.id) + "\">" + esc(x.pl.name) + "</a> " + alumTag(x.pl) + '<span class="muted"> ' + esc(x.pl.school) + " · " + esc(x.text) + "</span></li>"; }
+    inn.sort(function (a, b) { return teamRankOf(a.pl.id) - teamRankOf(b.pl.id); });
+    return '<div class="section"><h2>Still in <span class="muted small">' + inn.length + "</span></h2>" +
+      (inn.length ? '<ul class="still">' + inn.map(li).join("") + "</ul>" : empty("No roster players are left in the main draw.")) +
+      (out.length ? '<details class="rnd"><summary>Out of the tournament <span class="muted small">' + out.length + '</span></summary><ul class="still">' + out.map(li).join("") + "</ul></details>" : "") + "</div>";
+  }
+
   function roundList(t) {
     var ms = (DATA.matchesByT[t.id] || []).filter(function (m) {
       return [m.p1, m.p2].some(function (o) { return o && o.roster.some(function (id) { return DATA.playerById[id]; }); });
@@ -462,6 +498,9 @@
     });
     keys.sort(function (a, b) { return a - b; });
     var first = byR[keys[0]].length, size = 1;
+    var maxSlot = -1;
+    ms.forEach(function (m) { [m.p1, m.p2].forEach(function (o) { if (o && o.slot != null && o.slot > maxSlot) maxSlot = o.slot; }); });
+    if (maxSlot >= 0) first = Math.max(first, Math.ceil((maxSlot + 1) / 2)); // draws with byes: size comes from the bracket rows
     while (size < first) size *= 2;
     var nRounds = Math.round(Math.log(size) / Math.LN2) + 1;
     function nameOf(d) { // d = rounds from the end
@@ -529,6 +568,7 @@
       }
     }
     function side(o, won, sets, flip) {
+      if (o && o.name === "Bye") return '<div class="bk__p bk__p--empty"><span class="bk__n muted">Bye</span><span class="bk__sc"></span></div>';
       if (!o) return '<div class="bk__p bk__p--empty"><span class="bk__n">&nbsp;</span><span class="bk__sc"></span></div>';
       var pl = o.roster && o.roster.length && DATA.playerById[o.roster[0]];
       var cls = pl ? (pl.alumni ? " bk__p--alum" : " bk__p--hl") : "";
@@ -560,10 +600,12 @@
     var t = DATA.tById[id];
     if (!t) return notFound("tournament");
     var block = roundList(t);
+    var still = t.status === "past" ? "" : stillIn(t);
     var html = '<p class="crumbs"><a href="#/tournaments">Tournaments</a></p><h1>' + esc(t.name) + "</h1>" +
       '<div class="facts"><span><b>' + esc(fmtRange(t.start, t.end)) + "</b></span><span>" + esc(t.category) + "</span>" +
       (t.country ? "<span>" + esc(t.country) + "</span>" : "") + "<span>" + statusTag(t) + "</span>" +
       '<span><a href="' + esc(t.url) + '" rel="noopener" target="_blank">' + (/^ATP/.test(t.tour || "") ? "Draws on tennisexplorer.com" : "Draws on itftennis.com") + "</a></span></div>";
+    html += still;
     html += '<div class="section">' + (block || empty(t.status === "upcoming"
       ? "No roster players are on the entry list yet. Lists usually appear about two weeks before the event."
       : "No roster players found in this event.")) + "</div>";

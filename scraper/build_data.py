@@ -301,6 +301,10 @@ def save_json(name, obj):
     (DATA_DIR / name).write_text(json.dumps(obj, indent=1, ensure_ascii=False), encoding="utf-8")
 
 
+def _k(name):
+    return re.sub(r"[^a-z]+", " ", tt.strip_accents(name or "").lower()).split()[-1] if name else ""
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--ahead-days", type=int, default=21)
@@ -504,6 +508,21 @@ def main():
                 if m.get(k):
                     m[k]["roster"] = [i for i in m[k]["roster"] if i in valid]
     ranks = {k: v for k, v in ranks.items() if k in valid}
+    # older runs saved quarter-finals as "Final"; repair what is already stored
+    for tid, ms_ in draws.items():
+        if tid.startswith("te-"):
+            te_data.fix_labels(ms_)
+    by_t = {}
+    for m in matches:
+        by_t.setdefault(m["tournament"], []).append(m)
+    for tid, ms_ in by_t.items():
+        if tid.startswith("te-") and tid in draws:
+            # use the repaired draw as the reference for roster matches
+            ref = {(frozenset((_k(x["p1"]["name"]), _k(x["p2"]["name"]))), x["draw"]): x["round"] for x in draws[tid]}
+            for m in ms_:
+                r = ref.get((frozenset((_k(m["p1"]["name"]), _k(m["p2"]["name"]))), m["draw"]))
+                if r:
+                    m["round"] = r
 
     tlist = sorted(tournaments.values(), key=lambda r: (r["start"], r["name"]))
     save_json("scrape_log.json", {"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "atp": te_data.LOG, "ranks": rankings_data.LOG})

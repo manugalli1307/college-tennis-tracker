@@ -268,3 +268,6 @@ details.event > summary + * { margin-top: 10px; }
 details.rnd { margin: 8px 0; }
 details.rnd > summary { cursor: pointer; font-weight: 800; padding: 6px 0; }
 .bk__key { font-size: 10px; font-weight: 800; color: var(--ink-2); border: 1px solid var(--line); border-radius: 3px; padding: 0 3px; margin-left: 3px; }
+.still { list-style: none; margin: 8px 0; padding: 0; }
+.still li { padding: 6px 0; border-bottom: 1px solid var(--line); }
+.still a { font-weight: 800; }

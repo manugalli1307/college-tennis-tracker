@@ -142,8 +142,11 @@ def parse_event(soup):
         lefts = [p["left"] for p in draw if p["left"] is not None]
         if lefts:
             col0 = sorted([p for p in draw if p["left"] == min(lefts)], key=lambda p: p["top"])
-            for i, p in enumerate(col0):
-                p["slot"] = i
+            tops = sorted({p["top"] for p in col0})
+            gaps = [b - a for a, b in zip(tops, tops[1:]) if b > a]
+            pitch = min(gaps) if gaps else 24
+            for p in col0:  # row number in the bracket; rows without a name are byes
+                p["slot"] = int(round((p["top"] - tops[0]) / pitch))
     matches = []
     for tr in soup.select("table.result tr[id]"):
         mid = tr.get("id", "")
@@ -167,7 +170,9 @@ def parse_event(soup):
         a_sc = [_games(td) for td in tr.select("td.score")]
         b_sc = [_games(td) for td in tr2.select("td.score")]
         sets = [[a, b] for a, b in zip(a_sc, b_sc) if a or b]
-        matches.append({"round": ROUNDS.get(re.sub(r"^Q-?", "", rtxt), re.sub(r"^Q-?", "", rtxt) or "Round"), "p1": p1, "p2": p2,
+        # "Q-1R" / "Q1" mark qualifying rounds; "QF" is the quarter-final and must keep its Q
+        rcode = re.sub(r"^Q-|^Q(?=\d)", "", rtxt)
+        matches.append({"round": ROUNDS.get(rcode, rcode or "Round"), "p1": p1, "p2": p2,
                         "winner": 1 if s1 > s2 else 2 if s2 > s1 else 0, "sets": sets})
     return draw, matches
 
@@ -341,12 +346,24 @@ def _open_pairs(draw, finished, tid, alls, names, roster_ids_for, prepared, id_b
             d["key"] = tag
         return d
 
-    for i in range(0, len(col0) - 1, 2):
-        a, b = col0[i], col0[i + 1]
-        if frozenset((a["slug"], b["slug"])) in played:
-            continue
-        out.append({"tournament": tid, "draw": "Main Draw", "round": label, "p1": side(a), "p2": side(b),
-                    "winner": 0, "sets": [], "live": False})
+    by_row = {p["slot"]: p for p in col0}
+    last_row = max(by_row) if by_row else -1
+    for pair in range(0, last_row // 2 + 1):
+        a, b = by_row.get(2 * pair), by_row.get(2 * pair + 1)
+        if a and b:
+            if frozenset((a["slug"], b["slug"])) in played:
+                continue
+            out.append({"tournament": tid, "draw": "Main Draw", "round": label, "p1": side(a), "p2": side(b),
+                        "winner": 0, "sets": [], "live": False})
+        elif a or b:  # seeded player with a bye: goes straight to the next round
+            p = a or b
+            s1 = side(p)
+            s1["winner"] = True
+            bye = {"name": "Bye", "country": "", "seed": "", "winner": False, "roster": [], "rank": None,
+                   "slot": 2 * pair + (1 if a else 0)}
+            out.append({"tournament": tid, "draw": "Main Draw", "round": label,
+                        "p1": s1 if a else bye, "p2": bye if a else s1,
+                        "winner": 1 if a else 2, "sets": [], "live": False, "bye": True})
     return out
 
 
@@ -372,3 +389,21 @@ def note_rank(cache, slug, pid):
     if info:
         info["asof"] = c.get("asof", "")
         RANKS[pid] = info
+
+
+def fix_labels(items):
+    """Repair stored matches from older runs where quarter-finals were saved as 'Final'.
+    Safe to run again: it only acts when a main draw has more than one 'Final'."""
+    main = [m for m in items if m.get("draw") == "Main Draw" and m.get("round") in ("Final", "Semifinals")]
+    finals = [m for m in main if m["round"] == "Final"]
+    if len(finals) < 2:
+        return items
+    sf_winners = set()
+    for m in main:
+        if m["round"] == "Semifinals" and m.get("winner") in (1, 2):
+            sf_winners.add(_key((m["p1"] if m["winner"] == 1 else m["p2"])["name"]).split()[-1])
+    real = [m for m in finals if {_key(m["p1"]["name"]).split()[-1], _key(m["p2"]["name"]).split()[-1]} <= sf_winners]
+    for m in finals:
+        if not (len(real) == 1 and m is real[0]):
+            m["round"] = "Quarterfinals"
+    return items
