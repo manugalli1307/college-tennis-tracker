@@ -271,3 +271,27 @@ details.rnd > summary { cursor: pointer; font-weight: 800; padding: 6px 0; }
 .still { list-style: none; margin: 8px 0; padding: 0; }
 .still li { padding: 6px 0; border-bottom: 1px solid var(--line); }
 .still a { font-weight: 800; }
+
+/* last week's recap */
+.kicker { font-size: 13px; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); margin: 0 0 8px; }
+.recap-links { margin-top: 18px; }
+.btn { display: inline-block; background: var(--ink); color: var(--paper); padding: 9px 16px; border-radius: 4px; font-weight: 800; text-decoration: none; }
+.btn:hover { background: var(--court); color: #fff; }
+.recap-sub { font-size: 15px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-2); margin: 22px 0 10px; }
+.recap-none { margin: 0 0 8px; }
+.recap-grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+.rc { background: var(--panel); border: 1px solid var(--line); border-left: 6px solid var(--line); padding: 14px 16px; }
+.rc--champ { border-left-color: var(--ball); box-shadow: inset 0 0 0 1px var(--ball); }
+.rc--final { border-left-color: var(--ink-2); }
+.rc--alum.rc--champ, .rc--alum.rc--final, .rc--alum { border-left-color: var(--court); box-shadow: none; }
+.rc__top { display: flex; justify-content: space-between; align-items: center; font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-2); }
+.rc--champ .rc__kind { color: var(--ink); background: var(--ball); padding: 1px 8px; border-radius: 3px; }
+.rc--alum.rc--champ .rc__kind { background: var(--court); color: #fff; }
+.rc__name { font-size: 22px; margin: 8px 0 2px; }
+.rc__name a { text-decoration: none; }
+.rc__name a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.rc__school { margin: 0 0 8px; color: var(--ink-2); font-size: 14px; }
+.rc__line { margin: 0 0 4px; font-size: 15px; }
+.rc__sets { font-variant-numeric: tabular-nums; font-weight: 800; }
+.rc__sets span { margin-right: 8px; }
+.recap-grid--small .rc__name { font-size: 18px; }

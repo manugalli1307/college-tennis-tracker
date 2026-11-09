@@ -1,34 +1,41 @@
-"""Look at the #draw block of some Tennis Explorer events: where every cell sits and what it says
-(byes, qualifier spots, ...)."""
-import os, re
+"""Why are semifinals and finals missing from ITF draws? Page through a finished draw and log what is on screen."""
+import re
 from playwright.sync_api import sync_playwright
 
 PAGES = {
-    "draw_paris": "https://www.tennisexplorer.com/paris/2026/atp-men/",
-    "draw_stockholm": "https://www.tennisexplorer.com/stockholm/2026/atp-men/",
-    "draw_brisbane": "https://www.tennisexplorer.com/brisbane-4-challenger/2026/atp-men/",
+    "hilton_head": "https://www.itftennis.com/en/tournament/m15-hilton-head-island-sc/usa/2026/m-itf-usa-2026-048/draws-and-results/",
+    "guadalajara": "https://www.itftennis.com/en/tournament/m25-guadalajara/mex/2026/m-itf-mex-2026-010/draws-and-results/",
 }
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")
-os.makedirs("alumni_html", exist_ok=True)
-JS = """() => { const d = document.querySelector('#draw'); if (!d) return null;
-  return [...d.querySelectorAll('div')].map(e => { const s = e.getAttribute('style') || '';
-    const l = (s.match(/left:\\s*(-?\\d+)/) || [])[1], t = (s.match(/top:\\s*(-?\\d+)/) || [])[1];
-    return [l, t, e.className, (e.innerText || '').replace(/\\s+/g, ' ').trim().slice(0, 70), e.querySelectorAll('a[href^="/player/"]').length]; }); }"""
+JS = """() => Array.from(document.querySelectorAll('.drawsheet-round-container')).map(rc => [
+  (rc.querySelector('.drawsheet-round-container__round-title') || {}).innerText || '?',
+  rc.querySelectorAll('.drawsheet-widget').length,
+  Array.from(rc.querySelectorAll('.drawsheet-widget__last-name')).map(x => x.innerText.trim()).slice(0, 4).join('/')])"""
 with sync_playwright() as p:
     b = p.chromium.launch(headless=True)
-    pg = b.new_page(user_agent=UA)
+    pg = b.new_page(user_agent=UA, viewport={"width": 1280, "height": 900})
     for name, url in PAGES.items():
+        print("=====", name)
         try:
-            r = pg.goto(url, timeout=45000, wait_until="domcontentloaded")
-            pg.wait_for_timeout(2500)
-            cells = pg.evaluate(JS)
-            if not cells:
-                print(f"{name}: no #draw (status {r.status if r else '?'})")
-                continue
-            print(f"\\n=== {name}: {len(cells)} cells")
-            for l, t, cls, txt, n in cells:
-                if l in ("10", None) or (l is not None and int(l) < 40):  # first column only, plus anything odd
-                    print(f"left={l} top={t} cls={cls!r} anchors={n} text={txt!r}")
+            pg.goto(url, timeout=45000, wait_until="domcontentloaded")
+            pg.wait_for_timeout(5000)
+            try:
+                pg.wait_for_selector(".drawsheet-widget", timeout=15000)
+            except Exception:
+                print("no widgets")
+            for step in range(8):
+                print(f"step {step}:", pg.evaluate(JS))
+                nxt = pg.locator(".btn--chevron-next").first
+                n = pg.locator(".btn--chevron-next").count()
+                vis = nxt.is_visible() if n else None
+                dis = nxt.get_attribute("disabled") if n else None
+                print(f"   next buttons={n} visible={vis} disabled={dis}")
+                if not n or not vis:
+                    break
+                nxt.click(timeout=3000)
+                pg.wait_for_timeout(1500)
+            print("titles on page:", pg.evaluate("() => Array.from(document.querySelectorAll('[class*=round-title]')).map(e => e.innerText.trim())"))
+            print("dropdowns:", pg.evaluate("() => Array.from(document.querySelectorAll('.drawsheet-dropdowns *')).map(e => e.innerText.trim()).filter(x => x && x.length < 40).slice(0, 12)"))
         except Exception as e:
-            print(f"{name}: FAIL {str(e)[:100]}")
+            print("FAIL", str(e)[:150])
     b.close()
