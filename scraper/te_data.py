@@ -187,8 +187,16 @@ def parse_event(soup):
         sets = [[a, b] for a, b in zip(a_sc, b_sc) if a or b]
         # "Q-1R" / "Q1" mark qualifying rounds; "QF" is the quarter-final and must keep its Q
         rcode = re.sub(r"^Q-|^Q(?=\d)", "", rtxt)
+        winner = 1 if s1 > s2 else 2 if s2 > s1 else 0
+        # a best-of-3 match is only over when someone has won 2 sets (or a player retired / walked over);
+        # anything else is still being played and the sets shown are the score so far
+        row_txt = (tr.get_text(" ", strip=True) + " " + tr2.get_text(" ", strip=True)).lower()
+        ended_early = bool(re.search(r"\bret\b|\bret\.|w\.?o\.?|walkover|retired|disq|abandon", row_txt))
+        live = bool(winner) and max(s1, s2) < 2 and not ended_early
+        if live or "live" in " ".join(tr.get("class", [])).lower():
+            winner, live = 0, True
         matches.append({"round": ROUNDS.get(rcode, rcode or "Round"), "p1": p1, "p2": p2,
-                        "winner": 1 if s1 > s2 else 2 if s2 > s1 else 0, "sets": sets})
+                        "winner": winner, "sets": sets, "live": live})
     draw_blanks[id(draw)] = blanks
     return draw, matches
 
@@ -312,7 +320,7 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                         item = {
                             "tournament": tid, "draw": section, "round": m["round"],
                             "p1": side_dict(sides[0], m["p1"]), "p2": side_dict(sides[1], m["p2"]),
-                            "winner": m["winner"], "sets": m["sets"], "live": False,
+                            "winner": m["winner"], "sets": m["sets"], "live": bool(m.get("live")),
                         }
                         alls.append(item)
                         if hit:
