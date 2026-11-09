@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: |
-          pip install playwright
+          pip install -r scraper/requirements.txt
           python -m playwright install --with-deps chromium
       - name: Save sample roster pages
         run: python scraper/alumni_probe.py | tee alumni_probe.txt
