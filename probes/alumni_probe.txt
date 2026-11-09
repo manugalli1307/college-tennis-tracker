@@ -1,12 +1,12 @@
 ===== hilton_head
 titles at start: 1st Round|2nd Round|Quarter-finals
 next count: 1 visible: True
-read_draw -> [('1st Round', 16), ('2nd Round', 8), ('Quarter-finals', 4)]
-titles after: 1st Round|2nd Round|Quarter-finals
-next count after: 1
+read_draw -> [('1st Round', 16), ('2nd Round', 8), ('Quarter-finals', 4), ('Semi-finals', 2), ('Final', 1)]
+titles after: Quarter-finals|Semi-finals|Final
+next count after: 0
 ===== guadalajara
 titles at start: 1st Round|2nd Round|Quarter-finals
 next count: 1 visible: True
-read_draw -> [('1st Round', 16), ('2nd Round', 8), ('Quarter-finals', 4)]
-titles after: 1st Round|2nd Round|Quarter-finals
-next count after: 1
+read_draw -> [('1st Round', 16), ('2nd Round', 8), ('Quarter-finals', 4), ('Semi-finals', 2), ('Final', 1)]
+titles after: Quarter-finals|Semi-finals|Final
+next count after: 0
