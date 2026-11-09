@@ -160,34 +160,49 @@ def norm_score(raw: str) -> str:
     return parts[0] if parts else ""
 
 
+def _titles(page):
+    try:
+        return page.evaluate("() => Array.from(document.querySelectorAll('.drawsheet-round-container__round-title')).map(e => e.innerText.trim()).join('|')")
+    except Exception:
+        return ""
+
+
 def read_draw(page):
     """Return {round title: [raw matches]} for the draw currently on screen,
-    clicking the 'next' arrow so every round gets loaded."""
+    clicking the 'next' arrow until the last round (the Final) has been read."""
     rounds = {}
     order = []
-    for _ in range(8):
+
+    def grab():
         try:
             data = page.evaluate(_DRAW_JS)
         except Exception:
             data = []
-        grew = False
         for r in data:
             title = r["round"] or f"Round {len(order) + 1}"
             if title not in rounds or len(r["matches"]) > len(rounds[title]):
                 if title not in rounds:
                     order.append(title)
                 rounds[title] = r["matches"]
-                grew = True
+
+    for _ in range(10):
+        grab()
         try:
-            nxt = page.locator("button.btn--chevron-next, .btn--chevron-next").first
+            nxt = page.locator(".btn--chevron-next").first
             if not nxt.count() or not nxt.is_visible():
-                break
+                page.wait_for_timeout(1500)  # may just be re-rendering
+                if not nxt.count() or not nxt.is_visible():
+                    break
+            before = _titles(page)
             nxt.click(timeout=3000)
-            page.wait_for_timeout(1200)
+            for _w in range(12):  # wait (up to ~6s) for the new rounds to appear
+                page.wait_for_timeout(500)
+                if _titles(page) != before:
+                    break
+            page.wait_for_timeout(700)
         except Exception:
             break
-        if not grew and _ >= 2:
-            break
+    grab()
     return [(t, rounds[t]) for t in order]
 
 
