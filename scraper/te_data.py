@@ -114,9 +114,13 @@ def _games(td):
     return t
 
 
+draw_blanks = {}  # id(draw list) -> blank cells, kept aside so parse_event keeps returning two values
+
+
 def parse_event(soup):
     """-> (draw players [name dicts], finished matches [dict])"""
     draw = []
+    blanks = []
     seen = set()
     dr = soup.select_one("#draw")
     if dr:
@@ -145,8 +149,19 @@ def parse_event(soup):
             tops = sorted({p["top"] for p in col0})
             gaps = [b - a for a, b in zip(tops, tops[1:]) if b > a]
             pitch = min(gaps) if gaps else 24
-            for p in col0:  # row number in the bracket; rows without a name are byes
+            for p in col0:  # row number in the bracket
                 p["slot"] = int(round((p["top"] - tops[0]) / pitch))
+            # cells without a player: "bye", or "[Q]" for a qualifier spot that is not decided yet
+            for el in dr.find_all("div"):
+                st = el.get("style", "")
+                lm, tm = re.search(r"left:\s*(-?\d+)", st), re.search(r"top:\s*(-?\d+)", st)
+                if not lm or not tm or int(lm.group(1)) != min(lefts) or el.find("a", href=re.compile(r"^/player/")):
+                    continue
+                txt = el.get_text(" ", strip=True)
+                kind = "bye" if txt.lower() == "bye" else ("Q" if re.fullmatch(r"\[(Q|LL|WC)?\]?", txt) or txt.startswith("[") else "")
+                if kind:
+                    row = int(round((int(tm.group(1)) - tops[0]) / pitch))
+                    blanks.append({"slot": row, "kind": kind, "text": txt})
     matches = []
     for tr in soup.select("table.result tr[id]"):
         mid = tr.get("id", "")
@@ -174,6 +189,7 @@ def parse_event(soup):
         rcode = re.sub(r"^Q-|^Q(?=\d)", "", rtxt)
         matches.append({"round": ROUNDS.get(rcode, rcode or "Round"), "p1": p1, "p2": p2,
                         "winner": 1 if s1 > s2 else 2 if s2 > s1 else 0, "sets": sets})
+    draw_blanks[id(draw)] = blanks
     return draw, matches
 
 
@@ -319,6 +335,9 @@ def collect(page, today, back_days, ahead_days, classify, roster_ids_for, prepar
                     matches_by_t[tid] = ms
                 if alls:
                     draws_by_t[tid] = alls
+                    for problem in check_draw(alls):
+                        print(f"    [draw check] {tid}: {problem}")
+                        LOG.append({"step": "draw check", "id": tid, "problem": problem})
         except Exception as e:
             print(f"    [!] problem: {str(e)[:150]}")
             LOG.append({"step": "event", "id": tid, "error": str(e)[:120]})
@@ -347,15 +366,27 @@ def _open_pairs(draw, finished, tid, alls, names, roster_ids_for, prepared, id_b
         return d
 
     by_row = {p["slot"]: p for p in col0}
-    last_row = max(by_row) if by_row else -1
+    blank = {b["slot"]: b for b in draw_blanks.get(id(draw), [])}
+    last_row = max(list(by_row) + list(blank)) if (by_row or blank) else -1
+
+    def qual(row):
+        return {"name": "Qualifier", "country": "", "seed": "", "winner": False, "roster": [], "rank": None, "slot": row, "key": "Q"}
+
     for pair in range(0, last_row // 2 + 1):
         a, b = by_row.get(2 * pair), by_row.get(2 * pair + 1)
+        ba, bb = blank.get(2 * pair), blank.get(2 * pair + 1)
+        if (a and bb and bb["kind"] == "Q") or (b and ba and ba["kind"] == "Q") or (ba and bb and ba["kind"] == "Q" and bb["kind"] == "Q"):
+            # a qualifier spot that has not been decided: a real match is coming, not a bye
+            out.append({"tournament": tid, "draw": "Main Draw", "round": label,
+                        "p1": side(a) if a else qual(2 * pair), "p2": side(b) if b else qual(2 * pair + 1),
+                        "winner": 0, "sets": [], "live": False})
+            continue
         if a and b:
             if frozenset((a["slug"], b["slug"])) in played:
                 continue
             out.append({"tournament": tid, "draw": "Main Draw", "round": label, "p1": side(a), "p2": side(b),
                         "winner": 0, "sets": [], "live": False})
-        elif a or b:  # seeded player with a bye: goes straight to the next round
+        elif (a and bb and bb["kind"] == "bye") or (b and ba and ba["kind"] == "bye"):  # seeded player with a bye
             p = a or b
             s1 = side(p)
             s1["winner"] = True
@@ -407,3 +438,67 @@ def fix_labels(items):
         if not (len(real) == 1 and m is real[0]):
             m["round"] = "Quarterfinals"
     return items
+
+
+_ORDER = ["1st round", "2nd round", "3rd round", "round of 256", "round of 128", "round of 64", "round of 32", "round of 16",
+          "quarterfinals", "semifinals", "final"]
+
+
+def _tok(name):
+    return _key(name or "").split()
+
+
+def _same(a, b):
+    """Names match when equal, or when the shorter one (a surname) ends the longer one."""
+    if not a or not b:
+        return False
+    if len(a) > len(b):
+        a, b = b, a
+    return b[-len(a):] == a
+
+
+def check_draw(items):
+    """Look for things that cannot be true in a bracket, so wrong draws are found by the update itself:
+    two matches in the same bracket spot, a player in two matches of one round, a player who lost a round
+    and shows up in the next one, and rounds with more matches than the bracket has room for."""
+    main = [m for m in items if m.get("draw") == "Main Draw" and m.get("p1") and m.get("p2")]
+    if not main:
+        return []
+    rounds = {}
+    for m in main:
+        rounds.setdefault(m["round"].lower().replace("-", "").replace(" ", ""), []).append(m)
+    order = [r.replace(" ", "") for r in _ORDER]
+    keys = sorted(rounds, key=lambda r: order.index(r) if r in order else 99)
+    problems = []
+    slots_all = [x["slot"] for m in main for x in (m["p1"], m["p2"]) if x.get("slot") is not None]
+    for ki, k in enumerate(keys):
+        label = rounds[k][0]["round"]
+        spots, people = {}, []
+        for m in rounds[k]:
+            for side in ("p1", "p2"):
+                t = _tok(m[side].get("name"))
+                if t and t[0] not in ("bye", "qualifier"):
+                    people.append(t)
+            sl = [x["slot"] for x in (m["p1"], m["p2"]) if x.get("slot") is not None]
+            if len(sl) == 2:
+                j = min(sl) // (2 ** (ki + 1))
+                if j in spots:
+                    problems.append(f"{label}: two matches in bracket spot {j}")
+                spots[j] = True
+        for n, t in enumerate(people):
+            if len(t) > 1 and any(t == u for u in people[n + 1:]):
+                problems.append(f"{' '.join(t)} appears twice in {label}")
+        if slots_all:
+            cap = (max(slots_all) + 1) // (2 ** (ki + 1))
+            if cap and len(rounds[k]) > cap:
+                problems.append(f"{label}: {len(rounds[k])} matches but room for {cap}")
+        if ki:
+            prev = rounds[keys[ki - 1]]
+            losers = []
+            for m in prev:
+                if m.get("winner") in (1, 2):
+                    losers.append(_tok(m["p2" if m["winner"] == 1 else "p1"].get("name")))
+            for t in people:
+                if any(_same(t, lo) and (len(t) > 1 and len(lo) > 1) for lo in losers):
+                    problems.append(f"{' '.join(t)} lost {rounds[keys[ki - 1]][0]['round']} but is in {label}")
+    return problems[:12]

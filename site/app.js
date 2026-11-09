@@ -184,20 +184,13 @@
     return '<li class="row">' + who + mid + right + "</li>";
   }
 
-  var ROUND_ORDER = ["round of 256", "round of 128", "round of 64", "round of 32", "round of 16", "1st round", "2nd round", "3rd round",
+  // Numbered rounds ("1st Round", "2nd Round") come before "Round of N": Challenger and ATP draws call the
+  // opening round "1st Round" and the next one "Round of 16", Masters events go 1st, 2nd, then Round of 16.
+  var ROUND_ORDER = ["1st round", "2nd round", "3rd round", "round of 256", "round of 128", "round of 64", "round of 32", "round of 16",
     "quarter-finals", "quarterfinals", "semi-finals", "semifinals", "final"];
-  var roundOfCache = {};
-  function hasRoundOf(tid) {
-    if (!(tid in roundOfCache)) {
-      roundOfCache[tid] = (DATA.matchesByT[tid] || []).concat(DATA.draws[tid] || []).some(function (x) { return /^(qualifying\s*)?round of/i.test(x.round || "") && x.draw !== "Qualifying"; });
-    }
-    return roundOfCache[tid];
-  }
   function roundIdx(m) {
     var r = String(m.round || "").toLowerCase().replace(/^qualifying\s*/, "");
     var i = ROUND_ORDER.indexOf(r);
-    // Challenger/ATP draws call the opening round "1st Round" and the next "Round of 16"
-    if (r === "1st round" && hasRoundOf(m.tournament)) i = -0.5;
     return (m.draw === "Qualifying" ? -100 : 0) + (i === -1 ? 50 : i);
   }
   function teamRankOf(id) {
@@ -514,7 +507,7 @@
       var w = plain(o.name).split(" "); return w[w.length - 1];
     }
     function winnerOf(m) { return m ? (m.winner === 1 ? m.p1 : m.winner === 2 ? m.p2 : null) : null; }
-    var rounds = [], i;
+    var rounds = [], i, misplaced = 0;
     var ordered = /^m-itf/.test(t.id); // ITF lists matches in draw order; Tennis Explorer lists them in the order they were played
     if (ordered) {
       var r0 = byR[keys[0]].slice().sort(function (a, b) { return a._i - b._i; });
@@ -539,7 +532,7 @@
         byR[k].slice().sort(function (a, b) { return a._i - b._i; }).forEach(function (m) {
           var j = Math.floor(Math.min(m.p1.slot, m.p2.slot) / Math.pow(2, ki + 1));
           if (rounds[ki] && j < rounds[ki].length && !rounds[ki][j]) rounds[ki][j] = m;
-          else if (rounds[ki]) { var f = rounds[ki].indexOf(null); if (f >= 0) rounds[ki][f] = m; }
+          else if (rounds[ki]) { misplaced++; var f = rounds[ki].indexOf(null); if (f >= 0) rounds[ki][f] = m; }
         });
       });
     } else {
@@ -593,6 +586,7 @@
       }).join("") + "</div></div>";
     }).join("");
     return '<details class="section" open><summary><h2>Draw</h2></summary><p class="muted"><span class="key key--cur"></span> Current college player <span class="key key--alum"></span> Former player · main draw, later rounds fill in as matches finish. Scroll sideways to see every round.</p>' +
+      (misplaced ? '<p class="muted small">Some matches could not be placed exactly in this bracket.</p>' : "") +
       '<div class="bk" style="--n:' + size + '" role="group" aria-label="Main draw bracket">' + cols + "</div></details>";
   }
 
