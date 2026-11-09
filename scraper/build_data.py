@@ -561,6 +561,15 @@ def main():
     save_json("matches.json", matches)
     save_json("draws.json", draws)
     save_json("rankings.json", ranks)
+    # Weekly snapshot of the ATP rankings of tracked players, so the Headlines page can show who moved most.
+    hist = load_json("rank_history.json", {})
+    snaps = hist.get("snapshots", {})
+    latest = max(snaps) if snaps else ""
+    if not latest or (today - date.fromisoformat(latest)).days >= 5:
+        snaps[today.isoformat()] = {pid: v["rank"] for pid, v in ranks.items() if v.get("rank")}
+        for old_day in sorted(snaps)[:-12]:
+            snaps.pop(old_day)
+    save_json("rank_history.json", {"snapshots": snaps})
     save_json("meta.json", {
         "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "window": {"back_days": args.back_days, "ahead_days": args.ahead_days},

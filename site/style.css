@@ -320,3 +320,11 @@ details.rnd > summary { cursor: pointer; font-weight: 800; padding: 6px 0; }
 .np-brief summary { cursor: pointer; font-weight: 700; }
 .np-brief ul { margin: 10px 0 0; padding-left: 18px; line-height: 1.6; }
 @media (min-width: 900px) { .np-col + .np-col { border-left: 1px solid var(--line); padding-left: 18px; } }
+
+.np-cols--extra { margin-top: 26px; }
+.np-cols { align-items: start; }
+.np-sub { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; margin: 12px 0 4px; color: var(--ink-2); }
+.np-list { margin: 0; padding-left: 18px; font-family: Georgia, serif; line-height: 1.55; font-size: 15px; }
+.np-table { width: 100%; border-collapse: collapse; font-family: Georgia, serif; font-size: 15px; margin-top: 6px; }
+.np-table td { padding: 5px 6px 5px 0; border-bottom: 1px solid var(--line); }
+.np-potw { background: #fff; padding: 10px 14px 4px; border: 1px solid var(--ink); }

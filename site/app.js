@@ -323,7 +323,7 @@
     var pl = x.pl, opp = x.opp && x.opp.name ? oppHTMLShort(x.opp) : "", sc = scoreText(x);
     var who = pl.alumni ? "Former " + schoolLink(pl) + " player" : esc(pl.class ? pl.class + " " : "") + "from " + schoolLink(pl);
     var verb = kind === "champ" ? "beat" : "lost to";
-    var core = esc(levelName(x.t)) + " · " + tournamentLink(x.t);
+    var core = tournamentLink(x.t);
     var tail = opp ? " " + (kind === "champ" ? "He beat " : "He lost to ") + opp + (sc ? " " + sc : "") + "." : "";
     return who + (kind === "semi" ? " went out in the semifinals" : kind === "final" ? " was runner-up" : " took the title") + " at " + core + "." + tail;
   }
@@ -331,6 +331,111 @@
     var pl = x.pl;
     return '<article class="np-story' + (big ? " np-story--lead" : "") + (pl.alumni ? " np-story--alum" : "") + '"><p class="np-tag">' + esc(levelName(x.t)) + (pl.alumni ? " · Former player" : " · College") + "</p>" +
       '<h3 class="np-head">' + headline(x, kind) + "</h3>" + '<p class="np-body">' + bodyText(x, kind) + "</p></article>";
+  }
+  // ---------- extra newspaper sections (all from saved results; nothing is guessed) ----------
+  function rankOf(pid) { var r = DATA.ranks[pid]; return r && r.rank ? r.rank : null; }
+  function pLink(pl) { return '<a href="#/player/' + esc(pl.id) + '">' + esc(pl.name) + "</a>"; }
+  function weekWins(win) {
+    var out = [];
+    DATA.tournaments.filter(function (t) { return t.end >= win.start && t.end <= win.end; }).forEach(function (t) {
+      (DATA.matchesByT[t.id] || []).filter(function (m) { return m.draw === "Main Draw" && m.winner; }).forEach(function (m) {
+        var me = m.winner === 1 ? m.p1 : m.p2, opp = m.winner === 1 ? m.p2 : m.p1;
+        (me.roster || []).forEach(function (id) { if (DATA.playerById[id]) out.push({ pl: DATA.playerById[id], t: t, m: m, opp: opp }); });
+      });
+    });
+    return out;
+  }
+  function upsetsHTML(wins) {
+    var list = wins.filter(function (w) { return w.opp && w.opp.rank && w.opp.rank <= 500; }).map(function (w) {
+      var wr = rankOf(w.pl.id), base = wr || 1500;
+      return { w: w, gap: base - w.opp.rank, wr: wr };
+    }).filter(function (u) { return u.gap >= 75; }).sort(function (a, b) { return b.gap - a.gap; }).slice(0, 3);
+    if (!list.length) return "";
+    return '<section class="np-col"><h2 class="np-sec">Upsets of the week</h2>' + list.map(function (u) {
+      var w = u.w, sc = scoreText({ m: w.m, side: w.m.winner });
+      return '<article class="np-story"><p class="np-tag">' + esc(levelName(w.t)) + '</p><h3 class="np-head">' + pLink(w.pl) + " upsets " + esc(w.opp.name) + ' (ATP #' + w.opp.rank + ')</h3>' +
+        '<p class="np-body">' + (u.wr ? "Ranked #" + u.wr + ", " : "Unranked on the ATP list, ") + esc(w.pl.school) + (w.pl.alumni ? " alum" : "") + " beat a player " + u.gap + " places higher in the " + esc(w.m.round) + " at " + tournamentLink(w.t) + (sc ? ", " + sc : "") + ".</p></article>";
+    }).join("") + "</section>";
+  }
+  function potwHTML(wins, items) {
+    var sc = {};
+    function add(pl, n, why) { var e = sc[pl.id] || (sc[pl.id] = { pl: pl, pts: 0, wins: 0, best: null, title: null, fin: null }); e.pts += n; return e; }
+    wins.forEach(function (w) {
+      var e = add(w.pl, 1); e.wins++;
+      var r = w.opp && w.opp.rank;
+      if (r && r <= 300) { e.pts += r <= 100 ? 2 : 1; if (!e.best || r < e.best.opp.rank) e.best = w; }
+    });
+    items.champ.forEach(function (x) { var e = add(x.pl, 10); e.title = x.t; });
+    items.final.forEach(function (x) { var e = add(x.pl, 5); e.fin = x.t; });
+    var all = Object.keys(sc).map(function (k) { return sc[k]; }).sort(function (a, b) { return b.pts - a.pts || b.wins - a.wins; });
+    var top = all[0];
+    if (!top || top.wins < 2) return "";
+    var why = [];
+    if (top.title) why.push("won the " + esc(top.title.name) + " title");
+    else if (top.fin) why.push("reached the " + esc(top.fin.name) + " final");
+    why.push("won " + plural(top.wins, "match", "matches"));
+    if (top.best) why.push("including a win over " + esc(top.best.opp.name) + " (ATP #" + top.best.opp.rank + ")");
+    return '<section class="np-col np-potw"><h2 class="np-sec">Player of the week</h2><article class="np-story"><h3 class="np-head">' + pLink(top.pl) + '</h3>' +
+      '<p class="np-body">' + esc(top.pl.school) + (top.pl.alumni ? " (former player)" : "") + " " + why.join(", ") + ".</p></article></section>";
+  }
+  function scoreboardHTML(wins) {
+    var by = {};
+    wins.forEach(function (w) {
+      if (w.pl.alumni) return;
+      var e = by[w.pl.school] || (by[w.pl.school] = { school: w.pl.school, wins: 0, who: {} });
+      e.wins++; e.who[w.pl.id] = 1;
+    });
+    var rows = Object.keys(by).map(function (k) { return by[k]; }).sort(function (a, b) { return b.wins - a.wins || Object.keys(b.who).length - Object.keys(a.who).length || a.school.localeCompare(b.school); }).slice(0, 5);
+    if (!rows.length) return "";
+    return '<section class="np-col"><h2 class="np-sec">College scoreboard</h2><p class="np-body">Main-draw match wins by current players. School of the week: <b>' + esc(rows[0].school) + "</b>.</p>" +
+      '<table class="np-table"><tbody>' + rows.map(function (r, i) {
+        return "<tr><td>" + (i + 1) + '</td><td><a href="#/team/' + esc(slug(r.school)) + '">' + esc(r.school) + "</a></td><td>" + plural(r.wins, "win") + " · " + plural(Object.keys(r.who).length, "player") + "</td></tr>";
+      }).join("") + "</tbody></table></section>";
+  }
+  function moversHTML() {
+    var days = Object.keys(DATA.rankHistory || {}).sort(), cutoff = isoDaysAgo(5), base = null;
+    days.forEach(function (d) { if (d <= cutoff) base = d; });
+    if (!base) return "";
+    var snap = DATA.rankHistory[base], moves = [];
+    Object.keys(snap).forEach(function (pid) {
+      var now = rankOf(pid), pl = DATA.playerById[pid];
+      if (pl && now && snap[pid] - now >= 10) moves.push({ pl: pl, from: snap[pid], to: now, up: snap[pid] - now });
+    });
+    moves.sort(function (a, b) { return b.up - a.up; });
+    function block(title, arr) {
+      if (!arr.length) return "";
+      return "<h3 class=\"np-sub\">" + title + "</h3><ul class=\"np-list\">" + arr.slice(0, 3).map(function (m) {
+        return "<li>" + pLink(m.pl) + " <span class=\"muted\">" + esc(m.pl.school) + "</span> · #" + m.from + " → <b>#" + m.to + "</b> (+" + m.up + ")</li>";
+      }).join("") + "</ul>";
+    }
+    var cur = moves.filter(function (m) { return !m.pl.alumni; }), alu = moves.filter(function (m) { return m.pl.alumni; });
+    if (!cur.length && !alu.length) return "";
+    var d = parts(base);
+    return '<section class="np-col"><h2 class="np-sec">Rankings movers</h2><p class="np-body">Biggest ATP ranking climbs since ' + MONTHS[d.m] + " " + d.d + ".</p>" + block("Current players", cur) + block("Former players", alu) + "</section>";
+  }
+  function weekAheadHTML() {
+    var today = iso(new Date()), soon = isoDaysAgo(-7), rows = [];
+    DATA.tournaments.filter(function (t) { return t.end >= today && t.start <= soon && (t.status === "current" || t.status === "upcoming"); }).forEach(function (t) {
+      var ids = {};
+      (DATA.entriesByT[t.id] || []).filter(function (e) { return e.section === "Main Draw" && DATA.playerById[e.player]; }).forEach(function (e) { ids[e.player] = 1; });
+      var list = Object.keys(ids).map(function (id) { return DATA.playerById[id]; });
+      if (list.length) rows.push({ t: t, list: list });
+    });
+    rows.sort(function (a, b) { return (LEVEL[a.t.category] || 0) - (LEVEL[b.t.category] || 0) || b.list.length - a.list.length; });
+    rows.sort(function (a, b) { return b.list.length - a.list.length; });
+    rows = rows.slice(0, 5);
+    var vs = DATA.matches.filter(function (m) { var t = DATA.tById[m.tournament]; return t && t.end >= today && !m.winner && m.draw === "Main Draw" && isVs(m); }).slice(0, 4);
+    if (!rows.length && !vs.length) return "";
+    var h = '<section class="np-col"><h2 class="np-sec">The week ahead</h2>';
+    if (rows.length) h += '<ul class="np-list">' + rows.map(function (r) {
+      var names = r.list.slice().sort(function (a, b) { return (a.alumni ? 1 : 0) - (b.alumni ? 1 : 0) || (parseInt(a.team_rank, 10) || 99) - (parseInt(b.team_rank, 10) || 99); }).slice(0, 4).map(function (p) { return pLink(p); }).join(", ");
+      return "<li>" + tournamentLink(r.t) + ' <span class="muted">(' + esc(levelName(r.t)) + ")</span>: " + plural(r.list.length, "college player") + " in the main draw, including " + names + ".</li>";
+    }).join("") + "</ul>";
+    if (vs.length) h += '<h3 class="np-sub">College against college</h3><ul class="np-list">' + vs.map(function (m) {
+      var a = DATA.playerById[m.p1.roster[0]], b = DATA.playerById[m.p2.roster[0]];
+      return "<li>" + pLink(a) + " vs " + pLink(b) + ' <span class="muted">' + esc(m.round) + ", " + tournamentLink(DATA.tById[m.tournament]) + "</span></li>";
+    }).join("") + "</ul>";
+    return h + "</section>";
   }
   function pageRecap() {
     var win = lastWeek(), items = recapItems(win);
@@ -360,6 +465,9 @@
       col("Former players: champions", without(alu.champ), "champ"),
       col("Former players: finalists", without(alu.final), "final")]);
     if (colHtml) html += '<div class="np-cols">' + colHtml + "</div>";
+    var wins = weekWins(win);
+    var extra = potwHTML(wins, items) + upsetsHTML(wins) + moversHTML() + scoreboardHTML(wins) + weekAheadHTML();
+    if (extra) html += '<div class="np-cols np-cols--extra">' + extra + "</div>";
     var semi = cur.semi.concat(alu.semi);
     if (semi.length) {
       html += '<details class="np-brief"><summary>In brief: ' + plural(semi.length, "semifinalist") + '</summary><ul>' +
@@ -868,10 +976,10 @@
   app.innerHTML = '<p class="empty">Loading the latest entries and results…</p>';
   function optional(name, fallback) { return fetchJSON(name).catch(function () { return fallback; }); }
   Promise.all(["players.json", "tournaments.json", "entries.json", "matches.json", "meta.json"].map(fetchJSON)
-    .concat([optional("draws.json", {}), optional("rankings.json", {})]))
+    .concat([optional("draws.json", {}), optional("rankings.json", {}), optional("rank_history.json", {})]))
     .then(function (r) {
       DATA.players = r[0]; DATA.tournaments = r[1]; DATA.entries = r[2]; DATA.matches = r[3]; DATA.meta = r[4];
-      DATA.draws = r[5]; DATA.ranks = r[6];
+      DATA.draws = r[5]; DATA.ranks = r[6]; DATA.rankHistory = (r[7] && r[7].snapshots) || {};
       index();
       setupSearch();
       if (DATA.meta && DATA.meta.updated) {
