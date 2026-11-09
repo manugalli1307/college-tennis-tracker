@@ -194,7 +194,7 @@ def parse_event(soup):
         ended_early = bool(re.search(r"\bret\b|\bret\.|w\.?o\.?|walkover|retired|disq|abandon", row_txt))
         live = bool(winner) and max(s1, s2) < 2 and not ended_early
         if live or "live" in " ".join(tr.get("class", [])).lower():
-            winner, live = 0, True
+            winner, live, sets = 0, True, []  # score so far is left blank until the match ends
         matches.append({"round": ROUNDS.get(rcode, rcode or "Round"), "p1": p1, "p2": p2,
                         "winner": winner, "sets": sets, "live": live})
     draw_blanks[id(draw)] = blanks
