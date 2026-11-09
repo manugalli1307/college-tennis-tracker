@@ -12,7 +12,7 @@ PAGES = {
 }
 with sync_playwright() as p:
     b = p.chromium.launch(headless=True)
-    pg = b.new_page(user_agent=itf.USER_AGENT)
+    pg = b.new_page(user_agent=itf.USER_AGENT, viewport={"width": 1280, "height": 900})
     for name, url in PAGES.items():
         print("=====", name)
         try:

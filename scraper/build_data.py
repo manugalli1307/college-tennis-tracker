@@ -194,7 +194,10 @@ def read_draw(page):
                 if not nxt.count() or not nxt.is_visible():
                     break
             before = _titles(page)
-            nxt.click(timeout=3000)
+            try:
+                nxt.click(timeout=3000)
+            except Exception:
+                nxt.evaluate("e => e.click()")  # something (a banner) may cover the arrow; click it directly
             for _w in range(12):  # wait (up to ~6s) for the new rounds to appear
                 page.wait_for_timeout(500)
                 if _titles(page) != before:
@@ -354,7 +357,7 @@ def main():
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page(user_agent=itf.USER_AGENT)
+        page = browser.new_page(user_agent=itf.USER_AGENT, viewport={"width": 1280, "height": 900})
 
         base = args.base_url
         cal = base + "/en/tournament-calendar/mens-world-tennis-tour-calendar/?categories=All"
