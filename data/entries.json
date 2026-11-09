@@ -84,36 +84,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-ucf-yassine-dlimi",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-elon-veljko-krstic",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-michigan-state-vuk-radjenovic",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-oklahoma-state-alessio-basile",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-boise-state-idriss-haddouch",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
   "tournament": "m-itf-esp-2026-041",
   "player": "alumni-usf-alberto-barroso-campos",
   "section": "Main Draw Direct Acceptance",
@@ -134,48 +104,6 @@
  {
   "tournament": "m-itf-esp-2026-041",
   "player": "alumni-middle-tennessee-karim-al-amin",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-045",
-  "player": "ole-miss-stefano-d-agostino",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-045",
-  "player": "alumni-weber-state-kris-van-wyk",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-045",
-  "player": "alumni-oklahoma-state-mathieu-scaglia",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-045",
-  "player": "alumni-lsu-julien-penzlin",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-045",
-  "player": "alumni-arkansas-bozo-barun",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-045",
-  "player": "alumni-barry-adam-lynch",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-045",
-  "player": "alumni-duke-remy-dugardin",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -1784,24 +1712,6 @@
  {
   "tournament": "te-lyon-2026",
   "player": "alumni-stanford-arthur-fery",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-chn-2026-035",
-  "player": "alumni-texas-a-m-university-stefan-storch",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-chn-2026-035",
-  "player": "alumni-california-yuta-kikuchi",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-chn-2026-035",
-  "player": "alumni-california-qian-sun",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -5562,6 +5472,18 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-tur-2026-028",
+  "player": "alumni-elon-veljko-krstic",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tur-2026-028",
+  "player": "alumni-ucf-yassine-dlimi",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-gre-2026-016",
   "player": "alumni-saint-marys-california-arthur-weber",
   "section": "Main Draw",
@@ -5636,6 +5558,66 @@
  {
   "tournament": "m-itf-mas-2026-001",
   "player": "alumni-lsu-chen-dong",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-chn-2026-035",
+  "player": "alumni-texas-a-m-university-stefan-storch",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-chn-2026-035",
+  "player": "alumni-california-yuta-kikuchi",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-chn-2026-035",
+  "player": "alumni-california-qian-sun",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "player": "alumni-arkansas-bozo-barun",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "player": "ucf-wissam-abderrahman",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "player": "alumni-weber-state-kris-van-wyk",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "player": "alumni-oklahoma-state-mathieu-scaglia",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "player": "alumni-barry-adam-lynch",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "player": "alumni-lsu-julien-penzlin",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "player": "ole-miss-stefano-d-agostino",
   "section": "Main Draw",
   "match": "draw"
  },
