@@ -527,7 +527,7 @@
       return [m.p1, m.p2].some(function (o) { return o && o.roster.some(function (id) { return DATA.playerById[id]; }); });
     });
     var groups = [], idx = {};
-    ms.slice().sort(function (a, b) { return roundIdx(a) - roundIdx(b); }).forEach(function (m) {
+    ms.slice().sort(function (a, b) { return roundIdx(b) - roundIdx(a); }).forEach(function (m) {
       var k = m.draw + "|" + m.round;
       if (idx[k] === undefined) { idx[k] = groups.length; groups.push({ label: (m.draw === "Qualifying" ? "Qualifying · " : "") + m.round, list: [] }); }
       groups[idx[k]].list.push(m);
@@ -545,7 +545,7 @@
           return playerRow(DATA.playerById[me.roster[0]], null, { m: m, side: side }, false, t);
         }).join("");
       }).join("");
-      html += '<details class="rnd"' + (gi === groups.length - 1 ? " open" : "") + '><summary>' + esc(g.label) + ' <span class="muted small">' + plural(g.list.length, "match", "matches") + '</span></summary><ul class="rows">' + rows + "</ul></details>";
+      html += '<details class="rnd"' + (gi === 0 ? " open" : "") + '><summary>' + esc(g.label) + ' <span class="muted small">' + plural(g.list.length, "match", "matches") + '</span></summary><ul class="rows">' + rows + "</ul></details>";
     });
     // entered but no match yet
     var entered = [];
