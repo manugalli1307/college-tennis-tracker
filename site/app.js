@@ -304,48 +304,66 @@
     });
     return out;
   }
-  function recapCard(x, kind) {
-    var won = kind === "champ", pl = x.pl, opp = x.opp, flip = x.side === 2;
-    var oppName = opp && opp.name ? oppHTMLShort(opp) : "";
-    var line = kind === "champ" ? "Won the " + tournamentLink(x.t) + (oppName ? " · beat " + oppName : "")
-      : kind === "final" ? "Reached the final of the " + tournamentLink(x.t) + (oppName ? " · lost to " + oppName : "")
-      : "Reached the semifinals of the " + tournamentLink(x.t) + (oppName ? " · lost to " + oppName : "");
-    return '<li class="rc rc--' + kind + (pl.alumni ? " rc--alum" : "") + '"><div class="rc__top"><span class="rc__lvl">' + esc(levelName(x.t)) + "</span>" +
-      '<span class="rc__kind">' + (won ? "Champion" : kind === "final" ? "Finalist" : "Semifinalist") + "</span></div>" +
-      '<h3 class="rc__name"><a href="#/player/' + esc(pl.id) + '">' + esc(pl.name) + "</a>" + rkBadge(pl.id) + "</h3>" +
-      '<p class="rc__school">' + schoolLink(pl) + "</p>" +
-      '<p class="rc__line">' + line + "</p>" + setsHTML(x.m.sets, flip, "rc__sets") + "</li>";
+  // ---------- newspaper-style headlines ----------
+  function scoreText(x) {
+    var flip = x.side === 2;
+    return (x.m.sets || []).map(function (st) { return (flip ? st[1] : st[0]) + "-" + (flip ? st[0] : st[1]); }).join(", ");
   }
   function oppHTMLShort(o) {
     var rid = o.roster && o.roster.length && DATA.playerById[o.roster[0]];
-    return (rid ? '<a href="#/player/' + esc(rid.id) + '">' + esc(o.name) + "</a>" : esc(o.name)) + (o.rank ? ' <span class="muted">ATP #' + esc(o.rank) + "</span>" : "");
+    return (rid ? '<a href="#/player/' + esc(rid.id) + '">' + esc(o.name) + "</a>" : esc(o.name)) + (o.rank ? ' <span class="muted">(ATP #' + esc(o.rank) + ")</span>" : "");
+  }
+  function headline(x, kind) {
+    var pl = x.pl, who = '<a href="#/player/' + esc(pl.id) + '">' + esc(pl.name) + "</a>", tn = esc(x.t.name);
+    if (kind === "champ") return who + " wins " + tn;
+    if (kind === "final") return who + " reaches the " + tn + " final";
+    return who + " makes the " + tn + " semifinals";
+  }
+  function bodyText(x, kind) {
+    var pl = x.pl, opp = x.opp && x.opp.name ? oppHTMLShort(x.opp) : "", sc = scoreText(x);
+    var who = pl.alumni ? "Former " + schoolLink(pl) + " player" : esc(pl.class ? pl.class + " " : "") + "from " + schoolLink(pl);
+    var verb = kind === "champ" ? "beat" : "lost to";
+    var core = esc(levelName(x.t)) + " · " + tournamentLink(x.t);
+    var tail = opp ? " " + (kind === "champ" ? "He beat " : "He lost to ") + opp + (sc ? " " + sc : "") + "." : "";
+    return who + (kind === "semi" ? " went out in the semifinals" : kind === "final" ? " was runner-up" : " took the title") + " at " + core + "." + tail;
+  }
+  function story(x, kind, big) {
+    var pl = x.pl;
+    return '<article class="np-story' + (big ? " np-story--lead" : "") + (pl.alumni ? " np-story--alum" : "") + '"><p class="np-tag">' + esc(levelName(x.t)) + (pl.alumni ? " · Former player" : " · College") + "</p>" +
+      '<h3 class="np-head">' + headline(x, kind) + "</h3>" + '<p class="np-body">' + bodyText(x, kind) + "</p></article>";
   }
   function pageRecap() {
     var win = lastWeek(), items = recapItems(win);
+    function d(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]).toLocaleDateString(undefined, { month: "long", day: "numeric" }); }
     function split(list, alum) { return list.filter(function (x) { return !!x.pl.alumni === alum; }); }
     var cur = { champ: split(items.champ, false), final: split(items.final, false), semi: split(items.semi, false) },
       alu = { champ: split(items.champ, true), final: split(items.final, true), semi: split(items.semi, true) };
-    function grid(list, kind, none) {
-      return list.length ? '<ul class="recap-grid">' + list.map(function (x) { return recapCard(x, kind); }).join("") + "</ul>" : '<p class="muted recap-none">' + none + "</p>";
+    var html = '<header class="np-mast"><p class="np-mast__top"><span>Weekly edition</span><span>' + d(win.start) + " – " + d(win.end) + "</span></p>" +
+      '<h1 class="np-title">College Tennis Headlines</h1><p class="np-mast__sub">Titles and finals won by college players, current and former, at ITF, Challenger and ATP events · ' +
+      '<a href="#/week">See this week →</a></p></header>';
+    var lead = cur.champ[0] || alu.champ[0] || cur.final[0] || alu.final[0] || null, leadKind = cur.champ[0] || alu.champ[0] ? "champ" : "final";
+    function without(list) { return list.filter(function (x) { return x !== lead; }); }
+    if (!lead) {
+      html += '<p class="empty">No titles or finals from tracked players were saved for ' + d(win.start) + " – " + d(win.end) + ". Results from Sunday's matches appear after the Sunday-night update.</p>";
+    } else {
+      html += '<section class="np-lead">' + story(lead, leadKind, true) + "</section>";
     }
-    function d(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]).toLocaleDateString(undefined, { month: "short", day: "numeric" }); }
-    var html = '<section class="hero recap-hero"><p class="kicker">Weekly recap · ' + d(win.start) + " – " + d(win.end) + "</p><h1>Last week on tour</h1>" +
-      '<p class="lede">Titles and finals for college players at ITF, Challenger and ATP events. Current college players come first, then former players.</p>' +
-      '<div class="hero__count"><span><b>' + cur.champ.length + "</b>" + (cur.champ.length === 1 ? "title" : "titles") + " for current players</span><span><b>" +
-      cur.final.length + "</b>" + (cur.final.length === 1 ? "other final" : "other finals") + "</span><span><b>" + alu.champ.length + "</b>" +
-      (alu.champ.length === 1 ? "title" : "titles") + " for former players</span></div>" +
-      '<p class="recap-links"><a class="btn" href="#/week">See this week →</a></p></section>';
-    html += '<section class="section"><h2>Current college players</h2><h3 class="recap-sub">Champions</h3>' +
-      grid(cur.champ, "champ", "No current college player won a title last week.") +
-      '<h3 class="recap-sub">Finalists</h3>' + grid(cur.final, "final", "No current college player lost a final last week.") + "</section>";
-    html += '<section class="section"><h2>Former college players</h2><h3 class="recap-sub">Champions</h3>' +
-      grid(alu.champ, "champ", "No former college player won a title last week.") +
-      '<h3 class="recap-sub">Finalists</h3>' + grid(alu.final, "final", "No former college player lost a final last week.") + "</section>";
+    function col(title, list, kind) {
+      if (!list.length) return "";
+      return '<section class="np-col"><h2 class="np-sec">' + title + "</h2>" +
+        list.map(function (x) { return story(x, kind, false); }).join("") + "</section>";
+    }
+    function cols(arr) { return arr.filter(function (c) { return c; }).join(""); }
+    var colHtml = cols([
+      col("College champions", without(cur.champ), "champ"),
+      col("College finalists", without(cur.final), "final"),
+      col("Former players: champions", without(alu.champ), "champ"),
+      col("Former players: finalists", without(alu.final), "final")]);
+    if (colHtml) html += '<div class="np-cols">' + colHtml + "</div>";
     var semi = cur.semi.concat(alu.semi);
-    if (semi.length) html += '<details class="section"><summary><h2>Also reached the semifinals (' + semi.length + ")</h2></summary>" +
-      '<ul class="recap-grid recap-grid--small">' + semi.map(function (x) { return recapCard(x, "semi"); }).join("") + "</ul></details>";
-    if (!items.champ.length && !items.final.length && !semi.length) {
-      html += empty("No finals or semifinals from tracked players were saved for " + d(win.start) + " – " + d(win.end) + ". Results from Sunday's matches appear after the Sunday-night update.");
+    if (semi.length) {
+      html += '<details class="np-brief"><summary>In brief: ' + plural(semi.length, "semifinalist") + '</summary><ul>' +
+        semi.map(function (x) { return "<li>" + headline(x, "semi") + (x.opp && x.opp.name ? " · lost to " + oppHTMLShort(x.opp) : "") + "</li>"; }).join("") + "</ul></details>";
     }
     app.innerHTML = html;
   }
@@ -655,6 +673,8 @@
         (rk2 ? ' <span class="muted small">ATP #' + esc(rk2) + "</span>" : "") + '</span><span class="bk__sc">' +
         (sets || []).map(function (st) { return "<span>" + setCell(flip ? st[1] : st[0]) + "</span>"; }).join("") + "</span></div>";
     }
+    var bySlot = {}; // a player who skipped round one (a bye) is only stored in a later round
+    ms.forEach(function (m) { [m.p1, m.p2].forEach(function (o) { if (o && o.slot != null && o.name && o.name !== "Bye" && bySlot[o.slot] === undefined) bySlot[o.slot] = o; }); });
     var cols = rounds.map(function (slots, r) {
       var label = nameOf(nRounds - 1 - r);
       return '<div class="bk__col"><h3 class="bk__h">' + esc(label) + '</h3><div class="bk__cards">' + slots.map(function (m, j) {
@@ -663,6 +683,9 @@
           inner = '<div class="bk__card' + (m.live ? " bk__card--live" : "") + '">' + side(m.p1, m.winner === 1, m.sets, false) + side(m.p2, m.winner === 2, m.sets, true) + "</div>";
         } else {
           var a = r > 0 ? winnerOf(rounds[r - 1][2 * j]) : null, b = r > 0 ? winnerOf(rounds[r - 1][2 * j + 1]) : null;
+          if (r === 0 && (bySlot[2 * j] || bySlot[2 * j + 1])) { // bye: the seeded player against "Bye"
+            a = bySlot[2 * j] || { name: "Bye" }; b = bySlot[2 * j + 1] || { name: "Bye" };
+          }
           inner = '<div class="bk__card bk__card--tbd">' + side(a, false, null, false) + side(b, false, null, true) + "</div>";
         }
         return '<div class="bk__slot ' + (j % 2 ? "bk__slot--b" : "bk__slot--a") + (r === nRounds - 1 ? " bk__slot--last" : "") + '">' + inner + "</div>";
