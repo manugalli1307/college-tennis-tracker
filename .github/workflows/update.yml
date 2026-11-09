@@ -28,23 +28,43 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - name: Does this run need a fresh scrape?
+        id: need
+        run: |
+          # A push that only changed files under site/ just republishes the saved data (a few minutes).
+          # Scheduled runs, manual runs and pushes touching anything else do the full scrape.
+          scrape=true
+          if [ "${{ github.event_name }}" = "push" ]; then
+            before="${{ github.event.before }}"
+            if [ -n "$before" ] && [ "$before" != "0000000000000000000000000000000000000000" ] && git cat-file -e "$before" 2>/dev/null; then
+              others=$(git diff --name-only "$before" "${{ github.sha }}" | grep -v '^site/' || true)
+              if [ -z "$others" ]; then scrape=false; fi
+            fi
+          fi
+          echo "scrape=$scrape" >> "$GITHUB_OUTPUT"
+          echo "Fresh scrape needed: $scrape"
+
+      - if: steps.need.outputs.scrape == 'true'
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: scraper/requirements.txt
 
       - name: Install scraper
+        if: steps.need.outputs.scrape == 'true'
         run: |
           pip install -r scraper/requirements.txt
           python -m playwright install --with-deps chromium
 
       - name: Collect entries and results
+        if: steps.need.outputs.scrape == 'true'
         working-directory: scraper
         continue-on-error: true   # if the ITF site is down, keep yesterday's data and still publish
         run: python build_data.py
 
       - name: Save the new data
+        if: steps.need.outputs.scrape == 'true'
         continue-on-error: true   # even if saving fails, the site below is still published with the fresh data
         run: |
           git config user.name "tennis-tracker-bot"
