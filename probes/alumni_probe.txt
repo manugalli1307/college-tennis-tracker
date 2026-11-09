@@ -1,0 +1,12 @@
+===== hilton_head
+titles at start: 1st Round|2nd Round|Quarter-finals
+next count: 1 visible: True
+read_draw -> [('1st Round', 16), ('2nd Round', 8), ('Quarter-finals', 4)]
+titles after: 1st Round|2nd Round|Quarter-finals
+next count after: 1
+===== guadalajara
+titles at start: 1st Round|2nd Round|Quarter-finals
+next count: 1 visible: True
+read_draw -> [('1st Round', 16), ('2nd Round', 8), ('Quarter-finals', 4)]
+titles after: 1st Round|2nd Round|Quarter-finals
+next count after: 1
