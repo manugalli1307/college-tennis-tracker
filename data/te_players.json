@@ -3414,5 +3414,45 @@
   "height": 175,
   "weight": 72,
   "asof": "2026-11-09"
+ },
+ "machac": {
+  "raw": "Machac Tomas",
+  "country": "Czech Republic",
+  "rank": 60,
+  "height": 183,
+  "weight": 73,
+  "asof": "2026-11-09"
+ },
+ "michelsen-a98bb": {
+  "raw": "Michelsen Alex",
+  "country": "USA",
+  "rank": 35,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-09"
+ },
+ "searle-78f04": {
+  "raw": "Searle Henry",
+  "country": "Great Britain",
+  "rank": 231,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-09"
+ },
+ "tepmahc": {
+  "raw": "Tepmahc Nicolas",
+  "country": "France",
+  "rank": 621,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-09"
+ },
+ "echeverria-ef17c": {
+  "raw": "Echeverria John",
+  "country": "Spain",
+  "rank": 525,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-09"
  }
 }

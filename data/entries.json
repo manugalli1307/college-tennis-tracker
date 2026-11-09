@@ -114,36 +114,6 @@
   "match": "full name"
  },
  {
-  "tournament": "m-itf-gre-2026-016",
-  "player": "alumni-saint-marys-california-arthur-weber",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-gre-2026-016",
-  "player": "alumni-memphis-conor-gannon",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-gre-2026-016",
-  "player": "alumni-wake-forest-matthew-thomson",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-gre-2026-016",
-  "player": "alumni-university-of-south-carolina-thando-longwe-smit",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-gre-2026-016",
-  "player": "alumni-ucsb-dominique-rolland",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
   "tournament": "m-itf-esp-2026-041",
   "player": "alumni-usf-alberto-barroso-campos",
   "section": "Main Draw Direct Acceptance",
@@ -386,30 +356,6 @@
  {
   "tournament": "m-itf-arg-2026-010",
   "player": "alumni-utah-gonzalo-zeitune",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-032",
-  "player": "alumni-usc-oscar-weightman",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-032",
-  "player": "alumni-university-of-texas-at-austin-pierre-yves-bailly",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-032",
-  "player": "alumni-university-of-oklahoma-aleksandre-bakshi",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-032",
-  "player": "alumni-charlotte-frederic-schlossmann",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -752,18 +698,6 @@
  {
   "tournament": "m-itf-can-2026-005",
   "player": "alumni-california-tiago-silva",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-ita-2026-032",
-  "player": "alumni-pepperdine-adrian-oetzbach",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-ita-2026-032",
-  "player": "alumni-vcu-maxence-bertimon",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -1850,6 +1784,24 @@
  {
   "tournament": "te-lyon-2026",
   "player": "alumni-stanford-arthur-fery",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-chn-2026-035",
+  "player": "alumni-texas-a-m-university-stefan-storch",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-chn-2026-035",
+  "player": "alumni-california-yuta-kikuchi",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-chn-2026-035",
+  "player": "alumni-california-qian-sun",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -5610,6 +5562,24 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-gre-2026-016",
+  "player": "alumni-saint-marys-california-arthur-weber",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gre-2026-016",
+  "player": "alumni-memphis-conor-gannon",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gre-2026-016",
+  "player": "alumni-wake-forest-matthew-thomson",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-tha-2026-013",
   "player": "alumni-nc-state-fons-van-sambeek",
   "section": "Main Draw",
@@ -5670,20 +5640,20 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-chn-2026-035",
-  "player": "alumni-texas-a-m-university-stefan-storch",
+  "tournament": "m-itf-egy-2026-032",
+  "player": "alumni-university-of-oklahoma-aleksandre-bakshi",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-chn-2026-035",
-  "player": "alumni-california-yuta-kikuchi",
+  "tournament": "m-itf-egy-2026-032",
+  "player": "alumni-university-of-texas-at-austin-pierre-yves-bailly",
   "section": "Main Draw",
   "match": "draw"
  },
  {
-  "tournament": "m-itf-chn-2026-035",
-  "player": "alumni-california-qian-sun",
+  "tournament": "m-itf-ita-2026-032",
+  "player": "alumni-pepperdine-adrian-oetzbach",
   "section": "Main Draw",
   "match": "draw"
  },
