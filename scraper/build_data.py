@@ -78,11 +78,22 @@ def load_players(path: Path):
 ALUMNI_IDS = set()
 
 
+# Names as the tournament sites print them -> the name on the roster (middle names, spellings).
+NAME_ALIASES = {
+    "connor henry van schalkwyk": "Connor Van Schalkwyk",
+}
+
+
+def _alias(name: str) -> str:
+    key = re.sub(r"[^a-z ]", "", tt.strip_accents(name or "").lower()).strip()
+    return NAME_ALIASES.get(re.sub(r"\s+", " ", key), name)
+
+
 def roster_ids_for(name: str, prepared, id_by_key, strict: bool = False):
     """Ids (current players and alumni) matching a name from a draw or entry list.
     Alumni only count on a full-name match, since there are many more of them."""
     out = []
-    for rp, kind in itf.find_players(name, prepared, strict):
+    for rp, kind in itf.find_players(_alias(name), prepared, strict):
         pid = id_by_key.get((rp.school, rp.player))
         if not pid or any(o[0] == pid for o in out):
             continue
