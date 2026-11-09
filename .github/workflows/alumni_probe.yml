@@ -25,7 +25,7 @@ jobs:
           git config user.name "tennis-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           mkdir -p probes && mv alumni_probe.txt probes/alumni_probe.txt
-          rm -rf probes/alumni_html && mv alumni_html probes/alumni_html
+          rm -rf probes/alumni_html; if [ -d alumni_html ]; then mv alumni_html probes/alumni_html; fi
           git add probes
           git commit -m "Alumni probe $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to save"
           git pull --rebase -X theirs origin main
