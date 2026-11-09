@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:59:59+00:00",
+ "updated": "2026-11-09T19:50:34+00:00",
  "atp": [
   {
    "step": "event",
@@ -160,7 +160,7 @@
    "name": "Knoxville Challenger",
    "status": "current",
    "entries": 34,
-   "matches": 12,
+   "matches": 17,
    "data": true
   },
   {
@@ -169,7 +169,7 @@
    "name": "Lima 3 Challenger",
    "status": "current",
    "entries": 4,
-   "matches": 2,
+   "matches": 3,
    "data": true
   },
   {
@@ -186,8 +186,8 @@
    "id": "te-monastir-challenger-2026",
    "name": "Monastir Challenger",
    "status": "current",
-   "entries": 10,
-   "matches": 9,
+   "entries": 11,
+   "matches": 10,
    "data": true
   },
   {
@@ -195,8 +195,8 @@
    "id": "te-orleans-challenger-2026",
    "name": "Orleans Challenger",
    "status": "current",
-   "entries": 5,
-   "matches": 5,
+   "entries": 6,
+   "matches": 7,
    "data": true
   },
   {
@@ -210,7 +210,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 1
+   "count": 2
   }
  ],
  "ranks": [
