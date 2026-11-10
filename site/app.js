@@ -200,7 +200,7 @@
   }
   function isVs(m) { return !!(m.p1 && m.p2 && m.p1.roster.length && m.p2.roster.length && DATA.playerById[m.p1.roster[0]] && DATA.playerById[m.p2.roster[0]]); }
   // Two college players facing each other: one line, both names the same size
-  function vsRow(m, t, showEvent) {
+  function vsRow(m, t, showEvent, only) {
     function side(o, won) {
       var pl = DATA.playerById[o.roster[0]];
       return '<span class="vs__p' + (won ? " vs__w" : "") + '"><span class="vs__line"><a href="#/player/' + esc(pl.id) + '">' + esc(o.name) + "</a>" + rkBadge(pl.id, o.rank) + alumTag(pl) +
@@ -209,7 +209,15 @@
     return '<li class="row row--vs"><div class="row__who vs"><span class="round vs__r">' + (showEvent && t ? tournamentLink(t) + " · " : "") +
       esc(m.draw === "Qualifying" ? "Qualifying " : "") + esc(m.round) + (m.live ? ' <span class="wl wl--live">Live</span>' : "") + "</span>" +
       side(m.p1, m.winner === 1) + '<span class="vs__x">vs</span>' + side(m.p2, m.winner === 2) + "</div>" +
-      '<div class="result">' + setsHTML(m.sets, false, "") + "</div></li>";
+      '<div class="result">' + setsHTML(m.sets, false, "") + vsResult(m, only) + "</div></li>";
+  }
+  // W / L from the point of view of the player (or team) being looked at; nothing when both are on that team
+  function vsResult(m, only) {
+    if (!only || !m.winner) return "";
+    var a = !!only[m.p1.roster[0]], b = !!only[m.p2.roster[0]];
+    if (a === b) return "";
+    var won = m.winner === (a ? 1 : 2);
+    return '<span class="wl ' + (won ? "wl--w" : "wl--l") + '">' + (won ? "W" : "L") + "</span>";
   }
 
   function entryFor(tid, pid) {
@@ -249,7 +257,7 @@
       function one(h) {
         if (seen.indexOf(h.m) >= 0) return "";
         seen.push(h.m);
-        return isVs(h.m) ? vsRow(h.m, t, false) : playerRow(p, ent, h, false, t);
+        return isVs(h.m) ? vsRow(h.m, t, false, only) : playerRow(p, ent, h, false, t);
       }
       if (all) return hits.map(one).join("");
       var live = hits.filter(function (h) { return h.m.live; })[0];
