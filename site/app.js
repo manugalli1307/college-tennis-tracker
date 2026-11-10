@@ -259,7 +259,7 @@
         seen.push(h.m);
         return isVs(h.m) ? vsRow(h.m, t, false, only) : playerRow(p, ent, h, false, t);
       }
-      if (all) return hits.map(one).join("");
+      if (all) return hits.slice().sort(function (a, b) { return roundIdx(b.m) - roundIdx(a.m); }).map(one).join("");
       var live = hits.filter(function (h) { return h.m.live; })[0];
       return one(live || hits[hits.length - 1]);
     }
@@ -562,7 +562,7 @@
     var events = DATA.tournaments.slice().sort(function (a, b) {
       return order[a.status] - order[b.status] || (a.status === "past" ? b.start.localeCompare(a.start) : a.start.localeCompare(b.start));
     });
-    var blocks = events.map(function (t) { return eventBlock(t, only); }).join("");
+    var blocks = events.map(function (t) { return eventBlock(t, only, true); }).join("");
     var roster = team.players.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).map(function (p) {
       var n = (DATA.entriesByP[p.id] || []).length;
       return '<li><a href="#/player/' + esc(p.id) + '"><strong>' + esc(p.name) + '</strong><span class="muted">' +
@@ -871,7 +871,7 @@
     var events = DATA.tournaments.slice().sort(function (a, b) {
       return order[a.status] - order[b.status] || (a.status === "past" ? b.start.localeCompare(a.start) : a.start.localeCompare(b.start));
     });
-    var blocks = events.map(function (t) { return eventBlock(t, only, null, false, "alumni"); }).join("");
+    var blocks = events.map(function (t) { return eventBlock(t, only, true, false, "alumni"); }).join("");
     var roster = team.players.slice().sort(function (a, b) {
       var ra = DATA.ranks[a.id] ? DATA.ranks[a.id].rank : 99999, rb = DATA.ranks[b.id] ? DATA.ranks[b.id].rank : 99999;
       return ra - rb || a.name.localeCompare(b.name);
@@ -899,7 +899,7 @@
     [["current", "Playing now"], ["upcoming", "Next up"], ["past", "Recent results"]].forEach(function (g) {
       var list = DATA.tournaments.filter(function (t) { return t.status === g[0] && (g[0] !== "past" || isRecent(t)); });
       if (g[0] === "past") list = list.slice().reverse();
-      var blocks = list.map(function (t) { return eventBlock(t, only, null, false, "both"); }).join("");
+      var blocks = list.map(function (t) { return eventBlock(t, only, true, false, "both"); }).join("");
       if (blocks) { shown = true; html += '<div class="section"><h2>' + g[1] + "</h2>" + blocks + "</div>"; }
     });
     if (!shown) html += empty("None of them are in an event right now or entered in the next three weeks.");
