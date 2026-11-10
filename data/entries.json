@@ -1620,6 +1620,12 @@
   "match": "full name"
  },
  {
+  "tournament": "m-itf-ind-2026-007",
+  "player": "alumni-kentucky-parth-aggarwal",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
   "tournament": "m-itf-usa-2026-050",
   "player": "tcu-oliver-bonding",
   "section": "Main Draw Direct Acceptance",
@@ -3505,6 +3511,12 @@
  },
  {
   "tournament": "m-itf-ita-2026-038",
+  "player": "alumni-pepperdine-pietro-fellin",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-ita-2026-038",
   "player": "alumni-unlv-alex-kobelt",
   "section": "Main Draw",
   "match": "draw"
@@ -3883,6 +3895,12 @@
  },
  {
   "tournament": "m-itf-usa-2026-044",
+  "player": "university-of-oklahoma-luciano-ambrogi",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-044",
   "player": "alumni-oklahoma-state-tyler-zink",
   "section": "Main Draw",
   "match": "draw"
@@ -3914,6 +3932,12 @@
  {
   "tournament": "m-itf-usa-2026-044",
   "player": "university-of-oklahoma-dragos-cazacu",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-044",
+  "player": "university-of-oklahoma-johan-rodriguez",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -4117,6 +4141,12 @@
  },
  {
   "tournament": "m-itf-usa-2026-048",
+  "player": "university-of-oklahoma-johan-rodriguez",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
   "player": "alumni-yale-vignesh-gogineni",
   "section": "Main Draw",
   "match": "draw"
@@ -4142,6 +4172,12 @@
  {
   "tournament": "m-itf-usa-2026-048",
   "player": "alumni-university-of-florida-axel-nefve",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-048",
+  "player": "clemson-noah-cherubino",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -4410,6 +4446,12 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-egy-2026-031",
+  "player": "alumni-university-of-virginia-ammar-alhogbani",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-can-2026-004",
   "player": "ucla-aadarsh-tripathi",
   "section": "Main Draw",
@@ -4472,6 +4514,12 @@
  {
   "tournament": "m-itf-can-2026-004",
   "player": "alumni-western-michigan-benjamin-thomas-george",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-can-2026-004",
+  "player": "cornell-eric-verdes",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -4861,6 +4909,12 @@
  },
  {
   "tournament": "m-itf-mas-2026-001",
+  "player": "alumni-university-of-virginia-ammar-alhogbani",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mas-2026-001",
   "player": "alumni-nebraska-calvin-mueller",
   "section": "Main Draw",
   "match": "draw"
@@ -4873,7 +4927,19 @@
  },
  {
   "tournament": "m-itf-esp-2026-041",
+  "player": "alumni-norfolk-state-adam-kaczmarek",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-esp-2026-041",
   "player": "alumni-usf-alberto-barroso-campos",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-esp-2026-041",
+  "player": "alumni-middle-tennessee-karim-al-amin",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -4922,6 +4988,12 @@
  {
   "tournament": "m-itf-tun-2026-045",
   "player": "alumni-oklahoma-state-mathieu-scaglia",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "player": "alumni-etsu-milledge-cossu",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -5328,6 +5400,12 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-bra-2026-020",
+  "player": "alumni-auburn-lorenzo-rodriguez",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-por-2026-015",
   "player": "alumni-ucsb-diogo-morais",
   "section": "Main Draw",
@@ -5528,6 +5606,12 @@
  {
   "tournament": "te-guayaquil-challenger-2026",
   "player": "alumni-university-of-georgia-tristan-mccormick",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-guayaquil-challenger-2026",
+  "player": "alumni-auburn-lorenzo-rodriguez",
   "section": "Qualifying",
   "match": "draw"
  },
@@ -6278,6 +6362,12 @@
  {
   "tournament": "te-villa-maria-challenger-2026",
   "player": "alumni-utsa-alan-magadan",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-villa-maria-challenger-2026",
+  "player": "alumni-auburn-lorenzo-rodriguez",
   "section": "Main Draw",
   "match": "draw"
  },
