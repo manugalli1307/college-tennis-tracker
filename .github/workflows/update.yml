@@ -2,10 +2,9 @@ name: Update data and publish site
 
 on:
   schedule:
-    - cron: "7 11 * * *"    # about 6 AM Eastern in winter (7 AM in summer): entry lists and last night's results
+    - cron: "7 11 * * 0,2-6"  # about 6 AM Eastern in winter (7 AM in summer), every day except Monday: entry lists and last night's results
     - cron: "7 21 * * *"    # about 4 PM Eastern in winter (5 PM in summer): today's results
-    - cron: "7 3 * * 1"      # Sunday about 10 PM Eastern: fresh results for the Last week recap
-    - cron: "7 15 * * 1"     # Monday about 10 AM Eastern: new ATP rankings, then the Headlines use them (first one Nov 16)
+    - cron: "7 15 * * 1"      # Monday about 10 AM Eastern instead of the 6 AM one: waits for the new ATP rankings, then the Headlines use them (first one Nov 16)
   workflow_dispatch:         # lets you run it by hand from the Actions tab
   push:
     branches: [main]
