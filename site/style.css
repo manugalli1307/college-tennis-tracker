@@ -312,17 +312,17 @@ details.rnd > summary { cursor: pointer; font-weight: 800; padding: 6px 0; }
 .np-body { margin: 0; font-family: Georgia, serif; font-size: 15px; line-height: 1.5; color: var(--ink-2); }
 .np-story--lead .np-head { font-size: clamp(30px, 5vw, 46px); line-height: 1.1; }
 .np-story--lead .np-body { font-size: 18px; max-width: 46em; }
-.np-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 0 28px; }
-.np-col { border-top: 2px solid var(--ink); padding-top: 8px; }
+.np-cols { column-width: 270px; column-gap: 28px; column-rule: 1px solid var(--line); }
+.np-col { border-top: 2px solid var(--ink); padding-top: 8px; break-inside: avoid; margin-bottom: 22px; }
 .np-sec { font-size: 13px; text-transform: uppercase; letter-spacing: 0.1em; margin: 0 0 12px; }
 .np-none { font-family: Georgia, serif; font-style: italic; }
 .np-brief { margin-top: 18px; border-top: 1px solid var(--ink); padding-top: 10px; font-family: Georgia, serif; }
 .np-brief summary { cursor: pointer; font-weight: 700; }
 .np-brief ul { margin: 10px 0 0; padding-left: 18px; line-height: 1.6; }
-@media (min-width: 900px) { .np-col + .np-col { border-left: 1px solid var(--line); padding-left: 18px; } }
+
 
 .np-cols--extra { margin-top: 26px; }
-.np-cols { align-items: start; }
+
 .np-sub { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; margin: 12px 0 4px; color: var(--ink-2); }
 .np-list { margin: 0; padding-left: 18px; font-family: Georgia, serif; line-height: 1.55; font-size: 15px; }
 .np-table { width: 100%; border-collapse: collapse; font-family: Georgia, serif; font-size: 15px; margin-top: 6px; }
