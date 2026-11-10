@@ -3486,5 +3486,53 @@
   "height": null,
   "weight": null,
   "asof": "2026-11-09"
+ },
+ "sekulic-13abc": {
+  "raw": "Sekulic Philip",
+  "country": "Australia",
+  "rank": 332,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-10"
+ },
+ "ibraimi-bd8e2": {
+  "raw": "Ibraimi Ymerali",
+  "country": "Australia",
+  "rank": 1358,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-10"
+ },
+ "sweeny": {
+  "raw": "Sweeny Dane",
+  "country": "Australia",
+  "rank": 116,
+  "height": 170,
+  "weight": 63,
+  "asof": "2026-11-10"
+ },
+ "martin-manzano": {
+  "raw": "Martin Manzano Juan Cruz",
+  "country": "Italy",
+  "rank": 383,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-10"
+ },
+ "fomin": {
+  "raw": "Fomin Sergey",
+  "country": "Uzbekistan",
+  "rank": 333,
+  "height": 183,
+  "weight": 80,
+  "asof": "2026-11-10"
+ },
+ "latak": {
+  "raw": "Latak Marcel",
+  "country": "USA",
+  "rank": 1672,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-10"
  }
 }

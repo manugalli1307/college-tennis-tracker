@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:05:40+00:00",
+ "updated": "2026-11-10T12:36:58+00:00",
  "atp": [
   {
    "step": "event",
@@ -122,8 +122,8 @@
    "step": "event",
    "id": "te-taranto-challenger-2026",
    "name": "Taranto Challenger",
-   "status": "current",
-   "entries": 10,
+   "status": "past",
+   "entries": 0,
    "matches": 13,
    "data": true
   },
@@ -142,7 +142,7 @@
    "name": "Brisbane 4 Challenger",
    "status": "current",
    "entries": 20,
-   "matches": 12,
+   "matches": 20,
    "data": true
   },
   {
@@ -151,7 +151,7 @@
    "name": "Hersonissos 5 Challenger",
    "status": "current",
    "entries": 11,
-   "matches": 7,
+   "matches": 9,
    "data": true
   },
   {
@@ -160,7 +160,7 @@
    "name": "Knoxville Challenger",
    "status": "current",
    "entries": 40,
-   "matches": 21,
+   "matches": 22,
    "data": true
   },
   {
@@ -210,7 +210,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 0
+   "count": 6
   }
  ],
  "ranks": [
