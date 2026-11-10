@@ -81,6 +81,15 @@ ALUMNI_IDS = set()
 # Names as the tournament sites print them -> the name on the roster (middle names, spellings).
 NAME_ALIASES = {
     "connor henry van schalkwyk": "Connor Van Schalkwyk",
+    "pietro orlando fellin": "Pietro Fellin",
+    "eric david verdes": "Eric Verdes",
+    "cezar gabriel papoe": "Cezar Papoe",
+    "luciano emanuel ambrogi": "Luciano Ambrogi",
+    "johan alexander rodriguez": "Johan Rodriguez",
+    "noah lopez cherubino": "Noah Cherubino",
+    "ammar faleh alhogbani": "Ammar Alhogbani",
+    "milledge galphin cossu": "Milledge Cossu",
+    "lorenzo joaquin rodriguez": "Lorenzo Rodriguez",
 }
 
 
