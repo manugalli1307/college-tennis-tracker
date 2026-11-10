@@ -7,7 +7,7 @@ Results are cached in data/rank_lookup.json and refreshed weekly.
 """
 import re
 import time
-from datetime import date
+from datetime import date, timedelta
 
 from bs4 import BeautifulSoup
 
@@ -15,7 +15,7 @@ import tennis_tracker as tt
 
 BASE = "https://www.tennisexplorer.com"
 LOG = []
-MAX_PER_RUN = 150          # first fill takes two runs, then it is only the weekly refresh
+MAX_PER_RUN = 400          # first fill takes two runs, then it is only the weekly refresh
 REFRESH_DAYS = 7
 
 
@@ -73,7 +73,10 @@ def lookup(page, players, cache, ranks_out, today=None):
     todo = []
     for p in players:
         c = cache.get(p["id"])
-        if c and (today - date.fromisoformat(c.get("asof", "2000-01-01"))).days < REFRESH_DAYS:
+        # ATP rankings change on Mondays: a lookup is stale once a newer Monday has passed (and never older than a week)
+        monday = today - timedelta(days=today.weekday())
+        asof = date.fromisoformat(c.get("asof", "2000-01-01")) if c else None
+        if c and asof >= monday and (today - asof).days < REFRESH_DAYS:
             continue
         todo.append(p)
     print(f"Ranking lookup: {len(players) - len(todo)} fresh, {len(todo)} to look up (max {MAX_PER_RUN} this run).")
