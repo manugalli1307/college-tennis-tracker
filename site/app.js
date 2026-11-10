@@ -319,18 +319,33 @@
     if (kind === "final") return who + " reaches the " + tn + " final";
     return who + " makes the " + tn + " semifinals";
   }
+  function oppFull(o) {
+    var rid = o && o.roster && o.roster.length && DATA.playerById[o.roster[0]];
+    var nm = rid ? '<a href="#/player/' + esc(rid.id) + '">' + esc(o.name) + "</a>" : esc(o.name);
+    var extra = rid ? esc(rid.school.replace(/^University of /, "")) : (o.rank ? "ATP #" + esc(o.rank) : "");
+    return nm + (extra ? ' <span class="muted">(' + extra + ")</span>" : "");
+  }
+  function byline(pl) {
+    var sch = esc(pl.school.replace(/^University of /, ""));
+    return pl.alumni ? "Former " + sch + " player" : sch + (pl.class ? " · " + esc(pl.class) : "");
+  }
   function bodyText(x, kind) {
-    var pl = x.pl, opp = x.opp && x.opp.name ? oppHTMLShort(x.opp) : "", sc = scoreText(x);
-    var who = pl.alumni ? "Former " + schoolLink(pl) + " player" : esc(pl.class ? pl.class + " " : "") + "from " + schoolLink(pl);
-    var verb = kind === "champ" ? "beat" : "lost to";
-    var core = tournamentLink(x.t);
-    var tail = opp ? " " + (kind === "champ" ? "He beat " : "He lost to ") + opp + (sc ? " " + sc : "") + "." : "";
-    return who + (kind === "semi" ? " went out in the semifinals" : kind === "final" ? " was runner-up" : " took the title") + " at " + core + "." + tail;
+    var opp = x.opp && x.opp.name ? oppFull(x.opp) : "", sc = scoreText(x), rnd = kind === "semi" ? "semifinal" : "final";
+    var res = kind === "champ" ? "Beat " : "Lost the " + rnd + " to ";
+    if (!opp) return kind === "champ" ? "Won the title." : "Lost in the " + rnd + ".";
+    return res + opp + (sc ? ", " + sc : "") + (kind === "champ" ? " in the final." : ".");
+  }
+  function leadText(x, kind) {
+    var pl = x.pl, opp = x.opp && x.opp.name ? oppFull(x.opp) : "", sc = scoreText(x);
+    var sch = esc(pl.school.replace(/^University of /, ""));
+    var who = pl.alumni ? "The former " + sch + " player" : "The " + sch + (pl.class ? " " + esc(pl.class.toLowerCase()) : " player");
+    if (kind === "champ") return who + " beat " + (opp || "the field") + (sc ? " " + sc : "") + " in the final at " + tournamentLink(x.t) + ".";
+    return who + " lost the final at " + tournamentLink(x.t) + (opp ? " to " + opp : "") + (sc ? ", " + sc : "") + ".";
   }
   function story(x, kind, big) {
     var pl = x.pl;
-    return '<article class="np-story' + (big ? " np-story--lead" : "") + (pl.alumni ? " np-story--alum" : "") + '"><p class="np-tag">' + esc(levelName(x.t)) + (pl.alumni ? " · Former player" : " · College") + "</p>" +
-      '<h3 class="np-head">' + headline(x, kind) + "</h3>" + '<p class="np-body">' + bodyText(x, kind) + "</p></article>";
+    return '<article class="np-story' + (big ? " np-story--lead" : "") + (pl.alumni ? " np-story--alum" : "") + '"><p class="np-tag">' + esc(levelName(x.t)) + " · " + byline(pl) + "</p>" +
+      '<h3 class="np-head">' + headline(x, kind) + "</h3>" + '<p class="np-body">' + (big ? leadText(x, kind) : bodyText(x, kind)) + "</p></article>";
   }
   // ---------- extra newspaper sections (all from saved results; nothing is guessed) ----------
   function rankOf(pid) { var r = DATA.ranks[pid]; return r && r.rank ? r.rank : null; }
@@ -354,7 +369,7 @@
     return '<section class="np-col"><h2 class="np-sec">Upsets of the week</h2>' + list.map(function (u) {
       var w = u.w, sc = scoreText({ m: w.m, side: w.m.winner });
       return '<article class="np-story"><p class="np-tag">' + esc(levelName(w.t)) + '</p><h3 class="np-head">' + pLink(w.pl) + " upsets " + esc(w.opp.name) + ' (ATP #' + w.opp.rank + ')</h3>' +
-        '<p class="np-body">' + (u.wr ? "Ranked #" + u.wr + ", " : "Unranked on the ATP list, ") + esc(w.pl.school) + (w.pl.alumni ? " alum" : "") + " beat a player " + u.gap + " places higher in the " + esc(w.m.round) + " at " + tournamentLink(w.t) + (sc ? ", " + sc : "") + ".</p></article>";
+        '<p class="np-body">' + (u.wr ? "Ranked #" + u.wr : "Unranked") + " (" + esc(w.pl.school.replace(/^University of /, "")) + (w.pl.alumni ? " alum" : "") + "), he won in the " + esc(w.m.round) + " at " + tournamentLink(w.t) + (sc ? ", " + sc : "") + ".</p></article>";
     }).join("") + "</section>";
   }
   function potwHTML(wins, items) {
