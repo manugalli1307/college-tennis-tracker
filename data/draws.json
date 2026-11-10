@@ -54445,7 +54445,9 @@
     "country": "NAM",
     "seed": "",
     "winner": true,
-    "roster": []
+    "roster": [
+     "baylor-university-connor-van-schalkwyk"
+    ]
    },
    "p2": {
     "name": "Rishvanth Krishna",
@@ -54775,7 +54777,9 @@
     "country": "NAM",
     "seed": "",
     "winner": true,
-    "roster": []
+    "roster": [
+     "baylor-university-connor-van-schalkwyk"
+    ]
    },
    "winner": 2,
    "sets": [
@@ -54933,7 +54937,9 @@
     "country": "NAM",
     "seed": "",
     "winner": true,
-    "roster": []
+    "roster": [
+     "baylor-university-connor-van-schalkwyk"
+    ]
    },
    "p2": {
     "name": "Samir Banerjee",
@@ -55008,7 +55014,9 @@
     "country": "NAM",
     "seed": "",
     "winner": true,
-    "roster": []
+    "roster": [
+     "baylor-university-connor-van-schalkwyk"
+    ]
    },
    "winner": 2,
    "sets": [
@@ -55041,7 +55049,9 @@
     "country": "NAM",
     "seed": "",
     "winner": false,
-    "roster": []
+    "roster": [
+     "baylor-university-connor-van-schalkwyk"
+    ]
    },
    "winner": 1,
    "sets": [
@@ -93909,6 +93919,82 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
+    "name": "Liam Draxl",
+    "country": "Canada",
+    "seed": "7",
+    "winner": true,
+    "roster": [
+     "alumni-kentucky-liam-draxl"
+    ],
+    "rank": 168,
+    "slot": 16
+   },
+   "p2": {
+    "name": "Duncan Chan",
+    "country": "Canada",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "tcu-duncan-chan"
+    ],
+    "rank": 470,
+    "slot": 17
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-knoxville-challenger-2026",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
+    "name": "Nicolas Mejia",
+    "country": "Colombia",
+    "seed": "3",
+    "winner": true,
+    "roster": [],
+    "rank": 115,
+    "slot": 8
+   },
+   "p2": {
+    "name": "Jack Kennedy",
+    "country": "USA",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "university-of-virginia-jack-kennedy"
+    ],
+    "rank": 396,
+    "slot": 9
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-knoxville-challenger-2026",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
     "name": "Max Hans Rehberg",
     "country": "Germany",
     "seed": "",
@@ -94060,34 +94146,6 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Mejia",
-    "country": "Colombia",
-    "seed": "3",
-    "winner": false,
-    "roster": [],
-    "rank": 115,
-    "slot": 8
-   },
-   "p2": {
-    "name": "Jack Kennedy",
-    "country": "USA",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "university-of-virginia-jack-kennedy"
-    ],
-    "rank": 396,
-    "slot": 9
-   },
-   "winner": 0,
-   "sets": [],
-   "live": false
-  },
-  {
-   "tournament": "te-knoxville-challenger-2026",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
     "name": "Daniel Milavsky",
     "country": "USA",
     "seed": "",
@@ -94135,36 +94193,6 @@
     "roster": [],
     "rank": null,
     "slot": 15
-   },
-   "winner": 0,
-   "sets": [],
-   "live": false
-  },
-  {
-   "tournament": "te-knoxville-challenger-2026",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Liam Draxl",
-    "country": "Canada",
-    "seed": "7",
-    "winner": false,
-    "roster": [
-     "alumni-kentucky-liam-draxl"
-    ],
-    "rank": 168,
-    "slot": 16
-   },
-   "p2": {
-    "name": "Duncan Chan",
-    "country": "Canada",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "tcu-duncan-chan"
-    ],
-    "rank": 470,
-    "slot": 17
    },
    "winner": 0,
    "sets": [],
@@ -98144,6 +98172,46 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
+    "name": "Sascha Gueymard Wayenburg",
+    "country": "France",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 187,
+    "key": "WC",
+    "slot": 11
+   },
+   "p2": {
+    "name": "Budkov Kjaer",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": null,
+    "slot": 10
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-orleans-challenger-2026",
+   "draw": "Main Draw",
+   "round": "1st Round",
+   "p1": {
     "name": "Benjamin Bonzi",
     "country": "France",
     "seed": "6",
@@ -98381,33 +98449,6 @@
     "rank": 580,
     "slot": 9,
     "key": "Q"
-   },
-   "winner": 0,
-   "sets": [],
-   "live": false
-  },
-  {
-   "tournament": "te-orleans-challenger-2026",
-   "draw": "Main Draw",
-   "round": "1st Round",
-   "p1": {
-    "name": "Budkov Kjaer",
-    "country": "",
-    "seed": "",
-    "winner": false,
-    "roster": [],
-    "rank": null,
-    "slot": 10
-   },
-   "p2": {
-    "name": "Gueymard Wayenbur",
-    "country": "France",
-    "seed": "",
-    "winner": false,
-    "roster": [],
-    "rank": 187,
-    "slot": 11,
-    "key": "WC"
    },
    "winner": 0,
    "sets": [],

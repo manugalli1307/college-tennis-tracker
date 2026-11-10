@@ -23456,6 +23456,39 @@
   "draw": "Main Draw",
   "round": "1st Round",
   "p1": {
+   "name": "Connor Henry Van Schalkwyk",
+   "country": "NAM",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "baylor-university-connor-van-schalkwyk"
+   ]
+  },
+  "p2": {
+   "name": "Rishvanth Krishna",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
    "name": "Samir Banerjee",
    "country": "USA",
    "seed": "",
@@ -23713,6 +23746,39 @@
   "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
+   "name": "Alec Deckers",
+   "country": "NED",
+   "seed": "8",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Connor Henry Van Schalkwyk",
+   "country": "NAM",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "baylor-university-connor-van-schalkwyk"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "0",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
    "name": "Samir Banerjee",
    "country": "USA",
    "seed": "",
@@ -23820,7 +23886,9 @@
    "country": "NAM",
    "seed": "",
    "winner": true,
-   "roster": []
+   "roster": [
+    "baylor-university-connor-van-schalkwyk"
+   ]
   },
   "p2": {
    "name": "Samir Banerjee",
@@ -23882,6 +23950,39 @@
  {
   "tournament": "m-itf-usa-2026-047",
   "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "Keaton Hance",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Connor Henry Van Schalkwyk",
+   "country": "NAM",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "baylor-university-connor-van-schalkwyk"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-047",
+  "draw": "Main Draw",
   "round": "Final",
   "p1": {
    "name": "Bor Artnak",
@@ -23897,7 +23998,9 @@
    "country": "NAM",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "baylor-university-connor-van-schalkwyk"
+   ]
   },
   "winner": 1,
   "sets": [
@@ -38008,6 +38111,82 @@
    [
     "6",
     "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-knoxville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Liam Draxl",
+   "country": "Canada",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-kentucky-liam-draxl"
+   ],
+   "rank": 168,
+   "slot": 16
+  },
+  "p2": {
+   "name": "Duncan Chan",
+   "country": "Canada",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "tcu-duncan-chan"
+   ],
+   "rank": 470,
+   "slot": 17
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-knoxville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Nicolas Mejia",
+   "country": "Colombia",
+   "seed": "3",
+   "winner": true,
+   "roster": [],
+   "rank": 115,
+   "slot": 8
+  },
+  "p2": {
+   "name": "Jack Kennedy",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "university-of-virginia-jack-kennedy"
+   ],
+   "rank": 396,
+   "slot": 9
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
    ]
   ],
   "live": false
