@@ -206,10 +206,13 @@
       return '<span class="vs__p' + (won ? " vs__w" : "") + '"><span class="vs__line"><a href="#/player/' + esc(pl.id) + '">' + esc(o.name) + "</a>" + rkBadge(pl.id, o.rank) + alumTag(pl) +
         '</span><span class="row__sub">' + schoolLink(pl) + "</span></span>";
     }
+    // the player (or team) being looked at goes on the left, with the score from their side
+    var swap = !!(only && !only[m.p1.roster[0]] && only[m.p2.roster[0]]);
+    var L = swap ? m.p2 : m.p1, R = swap ? m.p1 : m.p2, lw = m.winner === (swap ? 2 : 1), rw = m.winner === (swap ? 1 : 2);
     return '<li class="row row--vs"><div class="row__who vs"><span class="round vs__r">' + (showEvent && t ? tournamentLink(t) + " · " : "") +
       esc(m.draw === "Qualifying" ? "Qualifying " : "") + esc(m.round) + (m.live ? ' <span class="wl wl--live">Live</span>' : "") + "</span>" +
-      side(m.p1, m.winner === 1) + '<span class="vs__x">vs</span>' + side(m.p2, m.winner === 2) + "</div>" +
-      '<div class="result">' + setsHTML(m.sets, false, "") + vsResult(m, only) + "</div></li>";
+      side(L, lw) + '<span class="vs__x">vs</span>' + side(R, rw) + "</div>" +
+      '<div class="result">' + setsHTML(m.sets, swap, "") + vsResult(m, only) + "</div></li>";
   }
   // W / L from the point of view of the player (or team) being looked at; nothing when both are on that team
   function vsResult(m, only) {
