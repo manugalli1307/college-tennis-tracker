@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:25:30+00:00",
+ "updated": "2026-11-10T22:26:06+00:00",
  "atp": [
   {
    "step": "event",
@@ -133,7 +133,7 @@
    "name": "Stockholm ATP",
    "status": "current",
    "entries": 11,
-   "matches": 14,
+   "matches": 16,
    "data": true
   },
   {
@@ -151,7 +151,7 @@
    "name": "Hersonissos 5 Challenger",
    "status": "current",
    "entries": 11,
-   "matches": 9,
+   "matches": 11,
    "data": true
   },
   {
@@ -159,8 +159,8 @@
    "id": "te-knoxville-challenger-2026",
    "name": "Knoxville Challenger",
    "status": "current",
-   "entries": 40,
-   "matches": 22,
+   "entries": 41,
+   "matches": 27,
    "data": true
   },
   {
@@ -169,7 +169,7 @@
    "name": "Lima 3 Challenger",
    "status": "current",
    "entries": 5,
-   "matches": 4,
+   "matches": 5,
    "data": true
   },
   {
@@ -187,7 +187,7 @@
    "name": "Monastir Challenger",
    "status": "current",
    "entries": 11,
-   "matches": 11,
+   "matches": 13,
    "data": true
   },
   {
@@ -196,7 +196,7 @@
    "name": "Orleans Challenger",
    "status": "current",
    "entries": 6,
-   "matches": 8,
+   "matches": 9,
    "data": true
   },
   {
@@ -217,7 +217,7 @@
   {
    "step": "rank lookup",
    "searched": 400,
-   "matched": 356
+   "matched": 389
   }
  ]
 }
