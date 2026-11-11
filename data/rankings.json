@@ -1555,8 +1555,8 @@
  },
  "alumni-mississippi-state-michal-novansky": {
   "country": "Slovakia",
-  "asof": "2026-11-05",
-  "rank": 2160
+  "asof": "2026-11-11",
+  "rank": 2155
  },
  "alumni-mississippi-state-petar-jovanovic": {
   "country": "Montenegro",
@@ -1575,8 +1575,8 @@
  },
  "alumni-ohio-state-kyle-seelig": {
   "country": "USA",
-  "asof": "2026-11-05",
-  "rank": 1919
+  "asof": "2026-11-11",
+  "rank": 1917
  },
  "alumni-ohio-state-cannon-kingsley": {
   "country": "USA",
@@ -1625,8 +1625,8 @@
  },
  "alumni-smu-alex-finkelstein": {
   "country": "USA",
-  "asof": "2026-11-05",
-  "rank": 2219
+  "asof": "2026-11-11",
+  "rank": 2155
  },
  "alumni-stanford-max-basing": {
   "country": "Great Britain",
@@ -1747,8 +1747,8 @@
  },
  "alumni-university-of-georgia-oscar-pinto-sansano": {
   "country": "Spain",
-  "asof": "2026-11-04",
-  "rank": 2160
+  "asof": "2026-11-11",
+  "rank": 2155
  },
  "alumni-university-of-georgia-arda-azkara": {
   "country": "Turkey",
@@ -1762,8 +1762,8 @@
  },
  "alumni-university-of-illinois-at-urbana-champaign-gabrielius-guzauskas": {
   "country": "USA",
-  "asof": "2026-11-05",
-  "rank": 2160
+  "asof": "2026-11-11",
+  "rank": 2155
  },
  "alumni-university-of-illinois-at-urbana-champaign-karlis-ozolins": {
   "country": "Latvia",
@@ -3947,9 +3947,9 @@
   "rank": 1917
  },
  "alumni-purdue-gergely-madarasz": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 1919
+  "country": "Hungary",
+  "asof": "2026-11-11",
+  "unranked": true
  },
  "alumni-toledo-hanamichi-carvajal": {
   "country": "",
@@ -3957,153 +3957,153 @@
   "rank": 1919
  },
  "alumni-university-of-georgia-mateo-barreiros-reyes": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 1919
+  "country": "Brazil",
+  "asof": "2026-11-11",
+  "rank": 2005
  },
  "alumni-harvard-valdemar-frederik-pape": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 1919
+  "country": "Denmark",
+  "asof": "2026-11-11",
+  "rank": 1917
  },
  "alumni-louisville-will-mayew": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 1919
+  "country": "USA",
+  "asof": "2026-11-11",
+  "rank": 1917
  },
  "alumni-georgia-southern-aaron-james-williams": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2003
+  "country": "Germany",
+  "asof": "2026-11-11",
+  "rank": 2005
  },
  "alumni-alabama-state-david-jeanne-grandinot": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2003
+  "country": "France",
+  "asof": "2026-11-11",
+  "rank": 2005
  },
  "alumni-lipscomb-facundo-perlov": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2003
+  "country": "Argentina",
+  "asof": "2026-11-11",
+  "rank": 2005
  },
  "alumni-nebraska-joan-torres-espinosa": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2003
+  "country": "Spain",
+  "asof": "2026-11-11",
+  "rank": 2005
  },
  "alumni-middle-tennessee-karim-al-amin": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2003
+  "country": "Germany",
+  "asof": "2026-11-11",
+  "rank": 2005
  },
  "alumni-hawaii-pacific-petr-michnev": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2003
+  "country": "Czech Republic",
+  "asof": "2026-11-11",
+  "rank": 2005
  },
  "alumni-idaho-chetanna-amadike": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "Canada",
+  "asof": "2026-11-11",
+  "rank": 2083
  },
  "alumni-middle-tennessee-freddy-murray": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "Ireland",
+  "asof": "2026-11-11",
+  "rank": 2083
  },
  "alumni-utah-gonzalo-zeitune": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "Argentina",
+  "asof": "2026-11-11",
+  "rank": 2083
  },
  "alumni-delaware-ids-waterbolk": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "Netherlands",
+  "asof": "2026-11-11",
+  "rank": 2083
  },
  "alumni-wisconsin-michael-minasyan": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "Sweden",
+  "asof": "2026-11-11",
+  "rank": 2083
  },
  "alumni-san-francisco-moritz-hoffmann": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "Germany",
+  "asof": "2026-11-11",
+  "rank": 2083
  },
  "alumni-liberty-nicaise-muamba": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "Canada",
+  "asof": "2026-11-11",
+  "unranked": true
  },
  "alumni-north-georgia-robin-eldin": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "France",
+  "asof": "2026-11-11",
+  "rank": 2083
  },
  "alumni-california-ryder-jackson": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "USA",
+  "asof": "2026-11-11",
+  "unranked": true
  },
  "alumni-catawba-thomas-kostka": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2082
+  "country": "France",
+  "asof": "2026-11-11",
+  "rank": 2083
  },
  "alumni-boise-state-idriss-haddouch": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2160
+  "country": "Belgium",
+  "asof": "2026-11-11",
+  "rank": 2155
  },
  "alumni-ole-miss-isac-stroemberg": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2160
+  "country": "Sweden",
+  "asof": "2026-11-11",
+  "rank": 2155
  },
  "alumni-middle-tennessee-stijn-slump": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2160
+  "country": "Netherlands",
+  "asof": "2026-11-11",
+  "rank": 2155
  },
  "alumni-lee-tn-wihan-van-der-merwe": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2160
+  "country": "Australia",
+  "asof": "2026-11-11",
+  "rank": 2155
  },
  "alumni-pepperdine-petr-iamachkine": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2246
+  "country": "Peru",
+  "asof": "2026-11-11",
+  "rank": 2239
  },
  "alumni-california-tiago-silva": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2246
+  "country": "Portugal",
+  "asof": "2026-11-11",
+  "rank": 2239
  },
  "alumni-washburn-tim-hammes": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2246
+  "country": "Germany",
+  "asof": "2026-11-11",
+  "rank": 2239
  },
  "alumni-etsu-milledge-cossu": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2271
+  "country": "USA",
+  "asof": "2026-11-11",
+  "rank": 2263
  },
  "alumni-lander-nick-beamish": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2288
+  "country": "New Zealand",
+  "asof": "2026-11-11",
+  "rank": 2285
  },
  "alumni-auburn-william-nolan": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2288
+  "country": "Great Britain",
+  "asof": "2026-11-11",
+  "rank": 2293
  },
  "alumni-miami-fl-oren-vasser": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 2300
+  "country": "USA",
+  "asof": "2026-11-11",
+  "rank": 2296
  }
 }

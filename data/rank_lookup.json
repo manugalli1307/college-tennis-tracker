@@ -2113,9 +2113,9 @@
  "alumni-mississippi-state-michal-novansky": {
   "found": true,
   "slug": "novansky",
-  "rank": 2160,
+  "rank": 2155,
   "country": "Slovakia",
-  "asof": "2026-11-05"
+  "asof": "2026-11-11"
  },
  "alumni-mississippi-state-niccolo-baroni": {
   "found": true,
@@ -2197,9 +2197,9 @@
  "alumni-ohio-state-kyle-seelig": {
   "found": true,
   "slug": "seelig",
-  "rank": 1919,
+  "rank": 1917,
   "country": "USA",
-  "asof": "2026-11-05"
+  "asof": "2026-11-11"
  },
  "alumni-ohio-state-james-trotter": {
   "found": true,
@@ -2302,9 +2302,9 @@
  "alumni-smu-alex-finkelstein": {
   "found": true,
   "slug": "finkelstein-8d420",
-  "rank": 2219,
+  "rank": 2155,
   "country": "USA",
-  "asof": "2026-11-05"
+  "asof": "2026-11-11"
  },
  "alumni-smu-trevor-svajda": {
   "found": true,
@@ -2687,9 +2687,9 @@
  "alumni-university-of-georgia-oscar-pinto-sansano": {
   "found": true,
   "slug": "pinto-sansano",
-  "rank": 2160,
+  "rank": 2155,
   "country": "Spain",
-  "asof": "2026-11-04"
+  "asof": "2026-11-11"
  },
  "alumni-university-of-georgia-ryan-colby": {
   "found": true,
@@ -2736,9 +2736,9 @@
  "alumni-university-of-illinois-at-urbana-champaign-gabrielius-guzauskas": {
   "found": true,
   "slug": "guzauskas",
-  "rank": 2160,
+  "rank": 2155,
   "country": "USA",
-  "asof": "2026-11-05"
+  "asof": "2026-11-11"
  },
  "alumni-university-of-illinois-at-urbana-champaign-karlis-ozolins": {
   "found": true,
@@ -4935,227 +4935,224 @@
  },
  "alumni-purdue-gergely-madarasz": {
   "found": true,
-  "slug": "",
-  "rank": 1919,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "madarasz-31016",
+  "rank": null,
+  "country": "Hungary",
+  "asof": "2026-11-11"
  },
  "alumni-toledo-hanamichi-carvajal": {
-  "found": true,
-  "slug": "",
-  "rank": 1919,
-  "country": "",
-  "asof": "2026-11-05"
+  "found": false,
+  "asof": "2026-11-11"
  },
  "alumni-university-of-georgia-mateo-barreiros-reyes": {
   "found": true,
-  "slug": "",
-  "rank": 1919,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "barreiros-reyes",
+  "rank": 2005,
+  "country": "Brazil",
+  "asof": "2026-11-11"
  },
  "alumni-harvard-valdemar-frederik-pape": {
   "found": true,
-  "slug": "",
-  "rank": 1919,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "pape-0342d",
+  "rank": 1917,
+  "country": "Denmark",
+  "asof": "2026-11-11"
  },
  "alumni-louisville-will-mayew": {
   "found": true,
-  "slug": "",
-  "rank": 1919,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "mayew",
+  "rank": 1917,
+  "country": "USA",
+  "asof": "2026-11-11"
  },
  "alumni-georgia-southern-aaron-james-williams": {
   "found": true,
-  "slug": "",
-  "rank": 2003,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "williams-8a3c4",
+  "rank": 2005,
+  "country": "Germany",
+  "asof": "2026-11-11"
  },
  "alumni-alabama-state-david-jeanne-grandinot": {
   "found": true,
-  "slug": "",
-  "rank": 2003,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "jeanne-grandinot",
+  "rank": 2005,
+  "country": "France",
+  "asof": "2026-11-11"
  },
  "alumni-lipscomb-facundo-perlov": {
   "found": true,
-  "slug": "",
-  "rank": 2003,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "perlov",
+  "rank": 2005,
+  "country": "Argentina",
+  "asof": "2026-11-11"
  },
  "alumni-nebraska-joan-torres-espinosa": {
   "found": true,
-  "slug": "",
-  "rank": 2003,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "torres-espinosa",
+  "rank": 2005,
+  "country": "Spain",
+  "asof": "2026-11-11"
  },
  "alumni-middle-tennessee-karim-al-amin": {
   "found": true,
-  "slug": "",
-  "rank": 2003,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "al-amin",
+  "rank": 2005,
+  "country": "Germany",
+  "asof": "2026-11-11"
  },
  "alumni-hawaii-pacific-petr-michnev": {
   "found": true,
-  "slug": "",
-  "rank": 2003,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "michnev",
+  "rank": 2005,
+  "country": "Czech Republic",
+  "asof": "2026-11-11"
  },
  "alumni-idaho-chetanna-amadike": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "amadike",
+  "rank": 2083,
+  "country": "Canada",
+  "asof": "2026-11-11"
  },
  "alumni-middle-tennessee-freddy-murray": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "murray-73eac",
+  "rank": 2083,
+  "country": "Ireland",
+  "asof": "2026-11-11"
  },
  "alumni-utah-gonzalo-zeitune": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "zeitune-46100",
+  "rank": 2083,
+  "country": "Argentina",
+  "asof": "2026-11-11"
  },
  "alumni-delaware-ids-waterbolk": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "waterbolk",
+  "rank": 2083,
+  "country": "Netherlands",
+  "asof": "2026-11-11"
  },
  "alumni-wisconsin-michael-minasyan": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "minasyan-c0923",
+  "rank": 2083,
+  "country": "Sweden",
+  "asof": "2026-11-11"
  },
  "alumni-san-francisco-moritz-hoffmann": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "hoffmann-3c39c",
+  "rank": 2083,
+  "country": "Germany",
+  "asof": "2026-11-11"
  },
  "alumni-liberty-nicaise-muamba": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "muamba-65be8",
+  "rank": null,
+  "country": "Canada",
+  "asof": "2026-11-11"
  },
  "alumni-north-georgia-robin-eldin": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "eldin-39a5d",
+  "rank": 2083,
+  "country": "France",
+  "asof": "2026-11-11"
  },
  "alumni-california-ryder-jackson": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "jackson-3bcb0",
+  "rank": null,
+  "country": "USA",
+  "asof": "2026-11-11"
  },
  "alumni-catawba-thomas-kostka": {
   "found": true,
-  "slug": "",
-  "rank": 2082,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "kostka-0fdc4",
+  "rank": 2083,
+  "country": "France",
+  "asof": "2026-11-11"
  },
  "alumni-boise-state-idriss-haddouch": {
   "found": true,
-  "slug": "",
-  "rank": 2160,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "haddouch",
+  "rank": 2155,
+  "country": "Belgium",
+  "asof": "2026-11-11"
  },
  "alumni-ole-miss-isac-stroemberg": {
   "found": true,
-  "slug": "",
-  "rank": 2160,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "stroemberg",
+  "rank": 2155,
+  "country": "Sweden",
+  "asof": "2026-11-11"
  },
  "alumni-middle-tennessee-stijn-slump": {
   "found": true,
-  "slug": "",
-  "rank": 2160,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "slump",
+  "rank": 2155,
+  "country": "Netherlands",
+  "asof": "2026-11-11"
  },
  "alumni-lee-tn-wihan-van-der-merwe": {
   "found": true,
-  "slug": "",
-  "rank": 2160,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "van-der-merwe-8126b",
+  "rank": 2155,
+  "country": "Australia",
+  "asof": "2026-11-11"
  },
  "alumni-pepperdine-petr-iamachkine": {
   "found": true,
-  "slug": "",
-  "rank": 2246,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "iamachkine-80753",
+  "rank": 2239,
+  "country": "Peru",
+  "asof": "2026-11-11"
  },
  "alumni-california-tiago-silva": {
   "found": true,
-  "slug": "",
-  "rank": 2246,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "silva-f5740",
+  "rank": 2239,
+  "country": "Portugal",
+  "asof": "2026-11-11"
  },
  "alumni-washburn-tim-hammes": {
   "found": true,
-  "slug": "",
-  "rank": 2246,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "hammes",
+  "rank": 2239,
+  "country": "Germany",
+  "asof": "2026-11-11"
  },
  "alumni-etsu-milledge-cossu": {
   "found": true,
-  "slug": "",
-  "rank": 2271,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "cossu",
+  "rank": 2263,
+  "country": "USA",
+  "asof": "2026-11-11"
  },
  "alumni-lander-nick-beamish": {
   "found": true,
-  "slug": "",
-  "rank": 2288,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "beamish",
+  "rank": 2285,
+  "country": "New Zealand",
+  "asof": "2026-11-11"
  },
  "alumni-auburn-william-nolan": {
   "found": true,
-  "slug": "",
-  "rank": 2288,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "nolan-b5b2f",
+  "rank": 2293,
+  "country": "Great Britain",
+  "asof": "2026-11-11"
  },
  "alumni-miami-fl-oren-vasser": {
   "found": true,
-  "slug": "",
-  "rank": 2300,
-  "country": "",
-  "asof": "2026-11-05"
+  "slug": "vasser",
+  "rank": 2296,
+  "country": "USA",
+  "asof": "2026-11-11"
  },
  "smu-trevor-svajda": {
   "found": true,
