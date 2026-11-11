@@ -1068,60 +1068,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-bra-2026-019",
-  "player": "alumni-tennessee-tech-rafael-tosetto",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-bra-2026-019",
-  "player": "alumni-university-of-georgia-mateo-barreiros-reyes",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-bra-2026-019",
-  "player": "alumni-gonzaga-giovanni-branchetti",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-sgp-2026-003",
-  "player": "alumni-boise-state-james-van-herzeele",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-sgp-2026-003",
-  "player": "alumni-hawaii-azuma-visaya",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-sgp-2026-003",
-  "player": "alumni-university-of-florida-adhithya-ganesan",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-sgp-2026-003",
-  "player": "alumni-texas-a-m-university-stefan-storch",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-uzb-2026-002",
-  "player": "alumni-nebraska-calvin-mueller",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-uzb-2026-002",
-  "player": "alumni-clemson-edoardo-cherie-ligniere",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-esp-2026-052",
   "player": "alumni-ole-miss-john-hallquist-lithen",
   "section": "Main Draw Direct Acceptance",
@@ -3216,6 +3162,24 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-bra-2026-019",
+  "player": "alumni-tennessee-tech-rafael-tosetto",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-bra-2026-019",
+  "player": "alumni-university-of-georgia-mateo-barreiros-reyes",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-bra-2026-019",
+  "player": "alumni-gonzaga-giovanni-branchetti",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-mex-2026-007",
   "player": "alumni-baylor-university-matias-soto",
   "section": "Main Draw",
@@ -3452,6 +3416,30 @@
  {
   "tournament": "m-itf-egy-2026-030",
   "player": "alumni-usc-volodymyr-iakubenko",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-sgp-2026-003",
+  "player": "alumni-boise-state-james-van-herzeele",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-sgp-2026-003",
+  "player": "alumni-hawaii-azuma-visaya",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-sgp-2026-003",
+  "player": "alumni-university-of-florida-adhithya-ganesan",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-sgp-2026-003",
+  "player": "alumni-texas-a-m-university-stefan-storch",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -3980,6 +3968,18 @@
  {
   "tournament": "m-itf-tur-2026-027",
   "player": "indiana-facundo-yunis",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-uzb-2026-002",
+  "player": "alumni-nebraska-calvin-mueller",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-uzb-2026-002",
+  "player": "alumni-clemson-edoardo-cherie-ligniere",
   "section": "Main Draw",
   "match": "draw"
  },
