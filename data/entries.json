@@ -1068,24 +1068,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-arg-2026-010",
-  "player": "alumni-wichita-state-murkel-dellien",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-arg-2026-010",
-  "player": "alumni-utah-gonzalo-zeitune",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-arg-2026-010",
-  "player": "alumni-gonzaga-giovanni-branchetti",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-esp-2026-052",
   "player": "alumni-ole-miss-john-hallquist-lithen",
   "section": "Main Draw Direct Acceptance",
@@ -2192,6 +2174,114 @@
  {
   "tournament": "m-itf-esp-2026-046",
   "player": "alumni-st-johns-diogo-marques",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-texas-a-m-university-giulio-perego",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-weber-state-kris-van-wyk",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-miami-fl-adrien-burdet",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-usc-wojciech-marek",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-mississippi-state-ewen-lumsden",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-arkansas-bozo-barun",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-alabama-matic-dimic",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-texas-a-m-university-damien-salvestre",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "auburn-duje-markovina",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "miami-fl-salvador-price",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "alumni-wichita-state-murkel-dellien",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "alumni-baylor-university-ryan-dickerson",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "alumni-tennessee-tech-rafael-tosetto",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "alumni-western-michigan-benjamin-thomas-george",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "auburn-iker-urribarrens",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "middle-tennessee-santiago-lora",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "alumni-university-of-georgia-santiago-giamichelle",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "alumni-charlotte-ivan-dreycopp",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -4850,6 +4940,24 @@
  {
   "tournament": "m-itf-usa-2026-051",
   "player": "alumni-university-of-georgia-ryan-colby",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-arg-2026-010",
+  "player": "alumni-wichita-state-murkel-dellien",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-arg-2026-010",
+  "player": "alumni-utah-gonzalo-zeitune",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-arg-2026-010",
+  "player": "alumni-gonzaga-giovanni-branchetti",
   "section": "Main Draw",
   "match": "draw"
  },
