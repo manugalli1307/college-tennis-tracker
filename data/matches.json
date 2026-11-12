@@ -10005,6 +10005,115 @@
   "live": false
  },
  {
+  "tournament": "m-itf-arg-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Murkel Dellien",
+   "country": "BOL",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-wichita-state-murkel-dellien"
+   ]
+  },
+  "p2": {
+   "name": "Gonzalo Zeitune",
+   "country": "ARG",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-utah-gonzalo-zeitune"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-arg-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Giovanni Branchetti",
+   "country": "ARG",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-gonzaga-giovanni-branchetti"
+   ]
+  },
+  "p2": {
+   "name": "Lucio Ratti",
+   "country": "ARG",
+   "seed": "2",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-arg-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Murkel Dellien",
+   "country": "BOL",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-wichita-state-murkel-dellien"
+   ]
+  },
+  "p2": {
+   "name": "Francisco Crosio",
+   "country": "ARG",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-uzb-2026-001",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -25170,22 +25279,18 @@
    "name": "Jannik Maute",
    "country": "GER",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "5",
+    "7"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "3",
+    "6"
    ]
   ],
   "live": false
@@ -25375,7 +25480,7 @@
    "name": "Arthur Weber",
    "country": "FRA",
    "seed": "1",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-saint-marys-california-arthur-weber"
    ]
@@ -25387,19 +25492,19 @@
    "winner": false,
    "roster": []
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "4"
    ],
    [
-    "",
-    ""
+    "3",
+    "6"
    ],
    [
-    "",
-    ""
+    "6",
+    "0"
    ]
   ],
   "live": false
@@ -25421,22 +25526,18 @@
    "name": "Flynn Thomas",
    "country": "SUI",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "4",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "1",
+    "6"
    ]
   ],
   "live": false
@@ -25457,6 +25558,39 @@
   "p2": {
    "name": "Miles Jones",
    "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-016",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Arthur Weber",
+   "country": "FRA",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-saint-marys-california-arthur-weber"
+   ]
+  },
+  "p2": {
+   "name": "Flynn Thomas",
+   "country": "SUI",
    "seed": "",
    "winner": false,
    "roster": []
@@ -25692,7 +25826,7 @@
    "name": "Fons Van Sambeek",
    "country": "NED",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-nc-state-fons-van-sambeek"
    ]
@@ -25706,19 +25840,15 @@
     "alumni-carleton-leo-vithoontien"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "2"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -25731,7 +25861,7 @@
    "name": "Oscar Brown",
    "country": "GBR",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -25743,19 +25873,19 @@
     "alumni-boise-state-james-van-herzeele"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "4",
+    "6"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(4)"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(5)"
    ]
   ],
   "live": false
@@ -25777,8 +25907,45 @@
    "name": "Sanhui Shin",
    "country": "KOR",
    "seed": "3",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tha-2026-013",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Denis Yevseyev",
+   "country": "KAZ",
+   "seed": "1",
    "winner": false,
    "roster": []
+  },
+  "p2": {
+   "name": "Fons Van Sambeek",
+   "country": "NED",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-nc-state-fons-van-sambeek"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -25952,6 +26119,105 @@
    "name": "Edoardo Cherie Ligniere",
    "country": "ITA",
    "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-clemson-edoardo-cherie-ligniere"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "1",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mas-2026-001",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Azuma Visaya",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-hawaii-azuma-visaya"
+   ]
+  },
+  "p2": {
+   "name": "Yua Taka",
+   "country": "JPN",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mas-2026-001",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Tin Chen",
+   "country": "TPE",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Ammar Faleh Alhogbani",
+   "country": "KSA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-virginia-ammar-alhogbani"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(11)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mas-2026-001",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "M Rifqi Fitriadi",
+   "country": "INA",
+   "seed": "1",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Edoardo Cherie Ligniere",
+   "country": "ITA",
+   "seed": "",
    "winner": false,
    "roster": [
     "alumni-clemson-edoardo-cherie-ligniere"
@@ -25977,8 +26243,15 @@
  {
   "tournament": "m-itf-mas-2026-001",
   "draw": "Main Draw",
-  "round": "2nd Round",
+  "round": "Quarter-finals",
   "p1": {
+   "name": "Hao Sheng Koay",
+   "country": "MAS",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
    "name": "Azuma Visaya",
    "country": "USA",
    "seed": "",
@@ -25986,13 +26259,6 @@
    "roster": [
     "alumni-hawaii-azuma-visaya"
    ]
-  },
-  "p2": {
-   "name": "Yua Taka",
-   "country": "JPN",
-   "seed": "",
-   "winner": false,
-   "roster": []
   },
   "winner": 0,
   "sets": [
@@ -26014,11 +26280,11 @@
  {
   "tournament": "m-itf-mas-2026-001",
   "draw": "Main Draw",
-  "round": "2nd Round",
+  "round": "Quarter-finals",
   "p1": {
-   "name": "Tin Chen",
-   "country": "TPE",
-   "seed": "",
+   "name": "Daniil Sarksian",
+   "country": "ARM",
+   "seed": "7",
    "winner": false,
    "roster": []
   },
@@ -26619,22 +26885,18 @@
    "name": "Nikita Belozertsev",
    "country": "UZB",
    "seed": "5",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "2",
+    "6"
    ]
   ],
   "live": false
@@ -26654,24 +26916,20 @@
    "name": "Wissam Abderrahman",
    "country": "TUN",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "ucf-wissam-abderrahman"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "5",
+    "7"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "2",
+    "6"
    ]
   ],
   "live": false
@@ -26760,7 +27018,7 @@
    "name": "Amaury Raynel",
    "country": "FRA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -26770,6 +27028,39 @@
    "winner": false,
    "roster": [
     "ole-miss-stefano-d-agostino"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "7",
+    "6(5)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-045",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Andrea Colombo",
+   "country": "ITA",
+   "seed": "4",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Wissam Abderrahman",
+   "country": "TUN",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "ucf-wissam-abderrahman"
    ]
   },
   "winner": 0,
@@ -26900,7 +27191,7 @@
    "name": "Youcef Rihane",
    "country": "ALG",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -26912,19 +27203,15 @@
     "alumni-vcu-charles-bertimon"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "4"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -26937,7 +27224,7 @@
    "name": "Dragos Cazacu",
    "country": "ROU",
    "seed": "3",
-   "winner": false,
+   "winner": true,
    "roster": [
     "university-of-oklahoma-dragos-cazacu"
    ]
@@ -26951,19 +27238,15 @@
     "alumni-baylor-university-jacob-brumm"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "0"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "1"
    ]
   ],
   "live": false
@@ -27057,24 +27340,20 @@
    "name": "LUCCA LIU",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-ucsb-lucca-liu"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "4",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "2",
+    "6"
    ]
   ],
   "live": false
@@ -27331,6 +27610,43 @@
   "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
+   "name": "Dragos Cazacu",
+   "country": "ROU",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "university-of-oklahoma-dragos-cazacu"
+   ]
+  },
+  "p2": {
+   "name": "Jerrid Gaines Jr",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
    "name": "Joaquim Almeida",
    "country": "BRA",
    "seed": "",
@@ -27368,11 +27684,13 @@
   "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
-   "name": "",
-   "country": "",
+   "name": "LUCCA LIU",
+   "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "alumni-ucsb-lucca-liu"
+   ]
   },
   "p2": {
    "name": "Fadi Bidan",
@@ -27512,115 +27830,6 @@
   "live": false
  },
  {
-  "tournament": "m-itf-arg-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Murkel Dellien",
-   "country": "BOL",
-   "seed": "4",
-   "winner": true,
-   "roster": [
-    "alumni-wichita-state-murkel-dellien"
-   ]
-  },
-  "p2": {
-   "name": "Gonzalo Zeitune",
-   "country": "ARG",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-utah-gonzalo-zeitune"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "2"
-   ],
-   [
-    "6",
-    "1"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-arg-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Giovanni Branchetti",
-   "country": "ARG",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-gonzaga-giovanni-branchetti"
-   ]
-  },
-  "p2": {
-   "name": "Lucio Ratti",
-   "country": "ARG",
-   "seed": "2",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "7",
-    "5"
-   ],
-   [
-    "3",
-    "6"
-   ],
-   [
-    "1",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-arg-2026-010",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Murkel Dellien",
-   "country": "BOL",
-   "seed": "4",
-   "winner": false,
-   "roster": [
-    "alumni-wichita-state-murkel-dellien"
-   ]
-  },
-  "p2": {
-   "name": "Francisco Crosio",
-   "country": "ARG",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 0,
-  "sets": [
-   [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
-   ]
-  ],
-  "live": false
- },
- {
   "tournament": "m-itf-egy-2026-032",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -27703,22 +27912,18 @@
    "name": "Hazem Naw",
    "country": "SYR",
    "seed": "8",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "3",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "2",
+    "6"
    ]
   ],
   "live": false
@@ -28258,8 +28463,8 @@
    ]
   },
   "p2": {
-   "name": "",
-   "country": "",
+   "name": "Kai Thompson",
+   "country": "HKG",
    "seed": "",
    "winner": false,
    "roster": []
@@ -28662,7 +28867,7 @@
    "name": "Matthew Forbes",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "ohio-state-matthew-forbes"
    ]
@@ -28676,19 +28881,19 @@
     "alumni-michigan-gavin-young"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "3",
+    "6"
    ],
    [
-    "",
-    ""
+    "6",
+    "3"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(2)"
    ]
   ],
   "live": true
@@ -28701,7 +28906,7 @@
    "name": "Alec Deckers",
    "country": "NED",
    "seed": "6",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -28713,19 +28918,19 @@
     "ohio-state-brandon-carpico"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6(6)",
+    "7"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(5)"
    ],
    [
-    "",
-    ""
+    "6",
+    "2"
    ]
   ],
   "live": true
@@ -28745,24 +28950,20 @@
    "name": "William Manning",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "nc-state-william-manning"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "2",
+    "6"
    ]
   ],
   "live": true
@@ -28775,7 +28976,7 @@
    "name": "Aidan Kim",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "ohio-state-aidan-kim"
    ]
@@ -28789,19 +28990,15 @@
     "alumni-university-of-texas-at-austin-jonah-braswell"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "2"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "3"
    ]
   ],
   "live": true
@@ -29046,11 +29243,13 @@
    ]
   },
   "p2": {
-   "name": "",
-   "country": "",
+   "name": "Matthew Forbes",
+   "country": "USA",
    "seed": "",
    "winner": false,
-   "roster": []
+   "roster": [
+    "ohio-state-matthew-forbes"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -29074,11 +29273,50 @@
   "draw": "Main Draw",
   "round": "2nd Round",
   "p1": {
-   "name": "",
-   "country": "",
-   "seed": "",
+   "name": "Alec Deckers",
+   "country": "NED",
+   "seed": "6",
    "winner": false,
    "roster": []
+  },
+  "p2": {
+   "name": "William Manning",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "nc-state-william-manning"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": true
+ },
+ {
+  "tournament": "m-itf-usa-2026-049",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Aidan Kim",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "ohio-state-aidan-kim"
+   ]
   },
   "p2": {
    "name": "Jack Anthrop",
@@ -30548,7 +30786,7 @@
    "seed": "6",
    "winner": false,
    "roster": [],
-   "rank": 12,
+   "rank": 10,
    "slot": 24
   },
   "winner": 1,
@@ -30622,7 +30860,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 433,
+   "rank": 406,
    "slot": 18
   },
   "winner": 1,
@@ -30707,7 +30945,7 @@
    "roster": [
     "alumni-university-of-virginia-rafael-jodar"
    ],
-   "rank": 10,
+   "rank": 11,
    "slot": 23
   },
   "winner": 1,
@@ -30778,7 +31016,7 @@
    "seed": "6",
    "winner": true,
    "roster": [],
-   "rank": 12,
+   "rank": 10,
    "slot": 24
   },
   "p2": {
@@ -30789,7 +31027,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83,
+   "rank": 59,
    "key": "LL",
    "slot": 25
   },
@@ -30827,7 +31065,7 @@
    "roster": [
     "alumni-usc-yannick-hanfmann"
    ],
-   "rank": 58,
+   "rank": 67,
    "key": "Q",
    "slot": 10
   },
@@ -30910,7 +31148,7 @@
    "roster": [
     "alumni-texas-a-m-university-arthur-rinderknech"
    ],
-   "rank": 68,
+   "rank": 58,
    "slot": 3
   },
   "winner": 1,
@@ -30938,7 +31176,7 @@
    "roster": [
     "alumni-university-of-virginia-rafael-jodar"
    ],
-   "rank": 10,
+   "rank": 11,
    "slot": 23
   },
   "p2": {
@@ -30947,7 +31185,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 30,
+   "rank": 31,
    "slot": 22
   },
   "winner": 1,
@@ -31048,7 +31286,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 145
+   "rank": 140
   },
   "p2": {
    "name": "Aleksandar Kovacevic",
@@ -31085,7 +31323,7 @@
    "roster": [
     "alumni-usc-yannick-hanfmann"
    ],
-   "rank": 58
+   "rank": 67
   },
   "p2": {
    "name": "Rinky Hijikata",
@@ -31095,7 +31333,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83
+   "rank": 59
   },
   "winner": 1,
   "sets": [
@@ -31134,7 +31372,7 @@
    "seed": "8",
    "winner": false,
    "roster": [],
-   "rank": 70
+   "rank": 76
   },
   "winner": 1,
   "sets": [
@@ -31161,7 +31399,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83
+   "rank": 59
   },
   "p2": {
    "name": "Miomir Kecmanovic",
@@ -31169,7 +31407,7 @@
    "seed": "4",
    "winner": false,
    "roster": [],
-   "rank": 60
+   "rank": 64
   },
   "winner": 1,
   "sets": [
@@ -31196,7 +31434,7 @@
    "roster": [
     "alumni-usc-yannick-hanfmann"
    ],
-   "rank": 58
+   "rank": 67
   },
   "p2": {
    "name": "Marcos Giron",
@@ -31235,7 +31473,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 156,
+   "rank": 186,
    "slot": 20
   },
   "p2": {
@@ -31300,7 +31538,7 @@
    "seed": "6",
    "winner": true,
    "roster": [],
-   "rank": 116,
+   "rank": 127,
    "slot": 15
   },
   "p2": {
@@ -31311,7 +31549,7 @@
    "roster": [
     "alumni-vcu-matisse-bobichon"
    ],
-   "rank": 487,
+   "rank": 517,
    "key": "Q",
    "slot": 12
   },
@@ -31388,7 +31626,7 @@
    "roster": [
     "alumni-university-of-virginia-inaki-montes-de-la-torre"
    ],
-   "rank": 191,
+   "rank": 194,
    "slot": 22
   },
   "winner": 1,
@@ -31416,7 +31654,7 @@
    "roster": [
     "alumni-vcu-matisse-bobichon"
    ],
-   "rank": 487,
+   "rank": 517,
    "key": "Q",
    "slot": 12
   },
@@ -31508,7 +31746,7 @@
    "roster": [
     "alumni-nevada-moez-echargui"
    ],
-   "rank": 349,
+   "rank": 360,
    "key": "Q",
    "slot": 4
   },
@@ -31614,7 +31852,7 @@
    "roster": [
     "alumni-vcu-matisse-bobichon"
    ],
-   "rank": 487
+   "rank": 517
   },
   "p2": {
    "name": "Lucas Poullain",
@@ -31624,7 +31862,7 @@
    "roster": [
     "alumni-florida-state-lucas-poullain"
    ],
-   "rank": 327
+   "rank": 316
   },
   "winner": 1,
   "sets": [
@@ -31655,7 +31893,7 @@
    "roster": [
     "alumni-nevada-moez-echargui"
    ],
-   "rank": 349
+   "rank": 360
   },
   "p2": {
    "name": "Benjamin Hassan",
@@ -31663,7 +31901,7 @@
    "seed": "12",
    "winner": false,
    "roster": [],
-   "rank": 459
+   "rank": 454
   },
   "winner": 1,
   "sets": [
@@ -31768,7 +32006,7 @@
    "roster": [
     "alumni-vcu-matisse-bobichon"
    ],
-   "rank": 487
+   "rank": 517
   },
   "p2": {
    "name": "Yannik Kelm",
@@ -31776,7 +32014,7 @@
    "seed": "9",
    "winner": false,
    "roster": [],
-   "rank": 440
+   "rank": 430
   },
   "winner": 1,
   "sets": [
@@ -31807,7 +32045,7 @@
    "roster": [
     "alumni-florida-state-lucas-poullain"
    ],
-   "rank": 327
+   "rank": 316
   },
   "p2": {
    "name": "Timeo Trufelli",
@@ -31815,7 +32053,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 1207
+   "rank": 1210
   },
   "winner": 1,
   "sets": [
@@ -31840,7 +32078,7 @@
    "seed": "12",
    "winner": true,
    "roster": [],
-   "rank": 459
+   "rank": 454
   },
   "p2": {
    "name": "Ryan Peniston",
@@ -31850,7 +32088,7 @@
    "roster": [
     "alumni-memphis-ryan-peniston"
    ],
-   "rank": 886
+   "rank": 1419
   },
   "winner": 1,
   "sets": [
@@ -31912,7 +32150,7 @@
    "roster": [
     "alumni-nevada-moez-echargui"
    ],
-   "rank": 349
+   "rank": 360
   },
   "p2": {
    "name": "Mickael Kaouk",
@@ -31920,7 +32158,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 937
+   "rank": 928
   },
   "winner": 1,
   "sets": [
@@ -31955,7 +32193,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 703
+   "rank": 702
   },
   "winner": 1,
   "sets": [
@@ -32018,7 +32256,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 341,
+   "rank": 335,
    "slot": 26
   },
   "p2": {
@@ -32093,7 +32331,7 @@
    "seed": "1",
    "winner": true,
    "roster": [],
-   "rank": 355
+   "rank": 345
   },
   "p2": {
    "name": "Lorenzo Joaquin Rodriguez",
@@ -32173,7 +32411,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 2279
+   "rank": 2272
   },
   "winner": 1,
   "sets": [
@@ -32198,7 +32436,7 @@
    "seed": "12",
    "winner": true,
    "roster": [],
-   "rank": 649
+   "rank": 648
   },
   "p2": {
    "name": "Younes Lalami Laaroussi",
@@ -32208,7 +32446,7 @@
    "roster": [
     "alumni-tennessee-younes-lalami"
    ],
-   "rank": 1077
+   "rank": 1082
   },
   "winner": 1,
   "sets": [
@@ -32344,7 +32582,7 @@
    "seed": "1",
    "winner": false,
    "roster": [],
-   "rank": 355
+   "rank": 345
   },
   "p2": {
    "name": "Boris Arias",
@@ -32354,7 +32592,7 @@
    "roster": [
     "alumni-lsu-boris-arias"
    ],
-   "rank": 1287
+   "rank": 1290
   },
   "winner": 0,
   "sets": [],
@@ -32420,7 +32658,7 @@
    "roster": [
     "alumni-california-carl-emil-overbeck"
    ],
-   "rank": 301,
+   "rank": 308,
    "slot": 19
   },
   "winner": 1,
@@ -32457,7 +32695,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 332,
+   "rank": 349,
    "slot": 17
   },
   "winner": 1,
@@ -32483,7 +32721,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 304,
+   "rank": 312,
    "slot": 30
   },
   "p2": {
@@ -32559,7 +32797,7 @@
    "seed": "5",
    "winner": true,
    "roster": [],
-   "rank": 460
+   "rank": 455
   },
   "p2": {
    "name": "Millen Hurrion",
@@ -32569,7 +32807,7 @@
    "roster": [
     "alumni-kentucky-millen-hurrion"
    ],
-   "rank": 503
+   "rank": 497
   },
   "winner": 1,
   "sets": [
@@ -32608,7 +32846,7 @@
    "seed": "1",
    "winner": false,
    "roster": [],
-   "rank": 408
+   "rank": 412
   },
   "winner": 1,
   "sets": [
@@ -32670,7 +32908,7 @@
    "roster": [
     "alumni-kentucky-millen-hurrion"
    ],
-   "rank": 503
+   "rank": 497
   },
   "p2": {
    "name": "Kaigaoge Kang",
@@ -32790,7 +33028,7 @@
    "roster": [
     "alumni-miami-fl-christian-langmo"
    ],
-   "rank": 508,
+   "rank": 528,
    "key": "Q",
    "slot": 6
   },
@@ -32828,7 +33066,7 @@
    "roster": [
     "alumni-hawaii-andre-ilagan"
    ],
-   "rank": 200,
+   "rank": 196,
    "slot": 11
   },
   "winner": 1,
@@ -32931,7 +33169,7 @@
    "seed": "2",
    "winner": true,
    "roster": [],
-   "rank": 329
+   "rank": 301
   },
   "p2": {
    "name": "Yuta Kikuchi",
@@ -32941,7 +33179,7 @@
    "roster": [
     "alumni-california-yuta-kikuchi"
    ],
-   "rank": 894
+   "rank": 913
   },
   "winner": 1,
   "sets": [
@@ -32968,7 +33206,7 @@
    "roster": [
     "alumni-miami-fl-christian-langmo"
    ],
-   "rank": 508
+   "rank": 528
   },
   "p2": {
    "name": "Sanhui Shin",
@@ -32976,7 +33214,7 @@
    "seed": "10",
    "winner": false,
    "roster": [],
-   "rank": 612
+   "rank": 615
   },
   "winner": 1,
   "sets": [
@@ -33007,7 +33245,7 @@
    "roster": [
     "alumni-california-yuta-kikuchi"
    ],
-   "rank": 894
+   "rank": 913
   },
   "p2": {
    "name": "Dimitris Sakellaridis",
@@ -33015,7 +33253,7 @@
    "seed": "9",
    "winner": false,
    "roster": [],
-   "rank": 541
+   "rank": 537
   },
   "winner": 1,
   "sets": [
@@ -33046,7 +33284,7 @@
    "roster": [
     "alumni-miami-fl-christian-langmo"
    ],
-   "rank": 508
+   "rank": 528
   },
   "p2": {
    "name": "Yusuke Takahashi",
@@ -33054,7 +33292,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 792
+   "rank": 795
   },
   "winner": 1,
   "sets": [
@@ -33083,7 +33321,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 1337
+   "rank": 1341
   },
   "p2": {
    "name": "Evan Zhu",
@@ -33093,7 +33331,7 @@
    "roster": [
     "alumni-ucla-evan-zhu"
    ],
-   "rank": 467
+   "rank": 461
   },
   "winner": 1,
   "sets": [
@@ -33895,7 +34133,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 271,
+   "rank": 205,
    "slot": 26
   },
   "p2": {
@@ -34089,7 +34327,7 @@
    "seed": "7",
    "winner": false,
    "roster": [],
-   "rank": 213,
+   "rank": 236,
    "slot": 7
   },
   "winner": 1,
@@ -34289,7 +34527,7 @@
    "roster": [
     "alumni-ucla-patrick-zahraj"
    ],
-   "rank": 540
+   "rank": 536
   },
   "winner": 1,
   "sets": [
@@ -34770,7 +35008,7 @@
    "roster": [
     "alumni-ucla-patrick-zahraj"
    ],
-   "rank": 540
+   "rank": 536
   },
   "p2": {
    "name": "Govind Nanda",
@@ -34959,7 +35197,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 50,
+   "rank": 49,
    "slot": 2
   },
   "p2": {
@@ -35117,7 +35355,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 106
+   "rank": 115
   },
   "winner": 1,
   "sets": [
@@ -35156,7 +35394,7 @@
    "seed": "7",
    "winner": false,
    "roster": [],
-   "rank": 74
+   "rank": 77
   },
   "winner": 1,
   "sets": [
@@ -35222,7 +35460,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 142,
+   "rank": 118,
    "slot": 28
   },
   "p2": {
@@ -35307,7 +35545,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 504,
+   "rank": 500,
    "key": "WC",
    "slot": 30
   },
@@ -35383,7 +35621,7 @@
    "roster": [
     "alumni-florida-state-lucas-poullain"
    ],
-   "rank": 327,
+   "rank": 316,
    "key": "Q",
    "slot": 5
   },
@@ -35489,7 +35727,7 @@
    "roster": [
     "alumni-florida-state-lucas-poullain"
    ],
-   "rank": 327
+   "rank": 316
   },
   "p2": {
    "name": "Yannik Kelm",
@@ -35497,7 +35735,7 @@
    "seed": "12",
    "winner": false,
    "roster": [],
-   "rank": 440
+   "rank": 430
   },
   "winner": 1,
   "sets": [
@@ -35522,7 +35760,7 @@
    "seed": "4",
    "winner": true,
    "roster": [],
-   "rank": 308
+   "rank": 303
   },
   "p2": {
    "name": "Ryan Seggerman",
@@ -35532,7 +35770,7 @@
    "roster": [
     "alumni-north-carolina-ryan-seggerman"
    ],
-   "rank": 563
+   "rank": 560
   },
   "winner": 1,
   "sets": [
@@ -35602,7 +35840,7 @@
    "roster": [
     "alumni-florida-state-lucas-poullain"
    ],
-   "rank": 327
+   "rank": 316
   },
   "p2": {
    "name": "Tomas Lanik",
@@ -35610,7 +35848,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 1316
+   "rank": 1321
   },
   "winner": 1,
   "sets": [
@@ -35635,7 +35873,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 271,
+   "rank": 205,
    "slot": 10
   },
   "p2": {
@@ -35715,7 +35953,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 271,
+   "rank": 205,
    "slot": 10
   },
   "p2": {
@@ -35994,7 +36232,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 271,
+   "rank": 205,
    "slot": 10
   },
   "p2": {
@@ -36381,7 +36619,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 271,
+   "rank": 205,
    "slot": 10
   },
   "p2": {
@@ -36501,7 +36739,7 @@
    "seed": "3",
    "winner": false,
    "roster": [],
-   "rank": 115,
+   "rank": 114,
    "slot": 8
   },
   "winner": 1,
@@ -36689,7 +36927,7 @@
    "roster": [
     "alumni-tennessee-shunsuke-mitsui"
    ],
-   "rank": 589
+   "rank": 647
   },
   "winner": 1,
   "sets": [
@@ -36808,7 +37046,7 @@
    "roster": [
     "alumni-ucla-patrick-zahraj"
    ],
-   "rank": 540
+   "rank": 536
   },
   "winner": 0,
   "sets": [],
@@ -37017,7 +37255,7 @@
    "roster": [
     "alumni-tennessee-shunsuke-mitsui"
    ],
-   "rank": 589
+   "rank": 647
   },
   "p2": {
    "name": "Geoffrey Blancaneaux",
@@ -37025,7 +37263,7 @@
    "seed": "10",
    "winner": false,
    "roster": [],
-   "rank": 443
+   "rank": 444
   },
   "winner": 1,
   "sets": [
@@ -37062,7 +37300,7 @@
    "roster": [
     "alumni-oregon-joshua-charlton"
    ],
-   "rank": 851
+   "rank": 873
   },
   "winner": 1,
   "sets": [
@@ -37097,7 +37335,7 @@
    "roster": [
     "alumni-university-of-virginia-jeffrey-von-der-schulenburg"
    ],
-   "rank": 959
+   "rank": 957
   },
   "winner": 0,
   "sets": [],
@@ -37192,7 +37430,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 261,
+   "rank": 258,
    "slot": 11
   },
   "p2": {
@@ -37203,7 +37441,7 @@
    "roster": [
     "alumni-tennessee-tech-rafael-tosetto"
    ],
-   "rank": 817,
+   "rank": 776,
    "key": "Q",
    "slot": 10
   },
@@ -37234,7 +37472,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 185,
+   "rank": 180,
    "slot": 21
   },
   "p2": {
@@ -37245,7 +37483,7 @@
    "roster": [
     "alumni-university-of-south-carolina-lucas-andrade-da-silva"
    ],
-   "rank": 581,
+   "rank": 577,
    "key": "WC",
    "slot": 20
   },
@@ -37274,7 +37512,7 @@
    "roster": [
     "alumni-tennessee-tech-rafael-tosetto"
    ],
-   "rank": 817
+   "rank": 776
   },
   "p2": {
    "name": "Paulo Andre Saraiva Dos Santos",
@@ -37282,7 +37520,7 @@
    "seed": "5",
    "winner": false,
    "roster": [],
-   "rank": 429
+   "rank": 425
   },
   "winner": 1,
   "sets": [
@@ -37356,7 +37594,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 1128
+   "rank": 1133
   },
   "winner": 1,
   "sets": [
@@ -37383,7 +37621,7 @@
    "roster": [
     "alumni-tennessee-tech-rafael-tosetto"
    ],
-   "rank": 817
+   "rank": 776
   },
   "p2": {
    "name": "Younes Lalami Laaroussi",
@@ -37393,7 +37631,7 @@
    "roster": [
     "alumni-tennessee-younes-lalami"
    ],
-   "rank": 1077
+   "rank": 1082
   },
   "winner": 1,
   "sets": [
@@ -37545,7 +37783,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83,
+   "rank": 59,
    "key": "Q",
    "slot": 11
   },
@@ -37629,7 +37867,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 33,
+   "rank": 32,
    "slot": 44
   },
   "winner": 1,
@@ -37657,7 +37895,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83,
+   "rank": 59,
    "key": "Q",
    "slot": 11
   },
@@ -37667,7 +37905,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 31,
+   "rank": 29,
    "slot": 13
   },
   "winner": 1,
@@ -37710,7 +37948,7 @@
    "roster": [
     "alumni-texas-a-m-university-arthur-rinderknech"
    ],
-   "rank": 68,
+   "rank": 58,
    "slot": 22
   },
   "winner": 1,
@@ -37780,7 +38018,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83,
+   "rank": 59,
    "key": "Q",
    "slot": 11
   },
@@ -37790,7 +38028,7 @@
    "seed": "10",
    "winner": false,
    "roster": [],
-   "rank": 11,
+   "rank": 12,
    "slot": 8
   },
   "winner": 1,
@@ -37859,7 +38097,7 @@
    "roster": [
     "alumni-texas-a-m-university-arthur-rinderknech"
    ],
-   "rank": 68,
+   "rank": 58,
    "slot": 22
   },
   "p2": {
@@ -37868,7 +38106,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 66,
+   "rank": 62,
    "key": "Q",
    "slot": 20
   },
@@ -37906,7 +38144,7 @@
    "roster": [
     "alumni-university-of-virginia-rafael-jodar"
    ],
-   "rank": 10,
+   "rank": 11,
    "slot": 39
   },
   "winner": 1,
@@ -37971,7 +38209,7 @@
    "seed": "10",
    "winner": true,
    "roster": [],
-   "rank": 11,
+   "rank": 12,
    "slot": 8
   },
   "p2": {
@@ -38136,7 +38374,7 @@
    "roster": [
     "alumni-texas-a-m-university-arthur-rinderknech"
    ],
-   "rank": 68,
+   "rank": 58,
    "slot": 22
   },
   "p2": {
@@ -38244,7 +38482,7 @@
    "roster": [
     "alumni-university-of-virginia-rafael-jodar"
    ],
-   "rank": 10,
+   "rank": 11,
    "slot": 39
   },
   "p2": {
@@ -38253,7 +38491,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 30,
+   "rank": 31,
    "slot": 38
   },
   "winner": 1,
@@ -38281,7 +38519,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83,
+   "rank": 59,
    "key": "Q",
    "slot": 11
   },
@@ -38362,7 +38600,7 @@
    "roster": [
     "alumni-usc-yannick-hanfmann"
    ],
-   "rank": 58
+   "rank": 67
   },
   "winner": 1,
   "sets": [
@@ -38393,7 +38631,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83
+   "rank": 59
   },
   "p2": {
    "name": "Vit Kopriva",
@@ -38401,7 +38639,7 @@
    "seed": "11",
    "winner": false,
    "roster": [],
-   "rank": 62
+   "rank": 69
   },
   "winner": 1,
   "sets": [
@@ -38467,7 +38705,7 @@
    "roster": [
     "alumni-usc-yannick-hanfmann"
    ],
-   "rank": 58
+   "rank": 67
   },
   "p2": {
    "name": "Felix Balshaw",
@@ -38475,7 +38713,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 180
+   "rank": 175
   },
   "winner": 1,
   "sets": [
@@ -38537,7 +38775,7 @@
    "roster": [
     "alumni-north-carolina-rinky-hijikata"
    ],
-   "rank": 83
+   "rank": 59
   },
   "p2": {
    "name": "Jaime Faria",
@@ -38570,7 +38808,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 409,
+   "rank": 375,
    "key": "LL",
    "slot": 7
   },
@@ -38582,7 +38820,7 @@
    "roster": [
     "alumni-california-carl-emil-overbeck"
    ],
-   "rank": 301,
+   "rank": 308,
    "slot": 4
   },
   "winner": 1,
@@ -38608,7 +38846,7 @@
    "seed": "6",
    "winner": true,
    "roster": [],
-   "rank": 146,
+   "rank": 153,
    "slot": 15
   },
   "p2": {
@@ -38649,7 +38887,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 405,
+   "rank": 362,
    "key": "Q",
    "slot": 17
   },
@@ -38689,7 +38927,7 @@
    "roster": [
     "alumni-california-carl-emil-overbeck"
    ],
-   "rank": 301,
+   "rank": 308,
    "slot": 4
   },
   "p2": {
@@ -38735,7 +38973,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 212,
+   "rank": 215,
    "slot": 13
   },
   "winner": 1,
@@ -38761,7 +38999,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 350,
+   "rank": 338,
    "key": "Q",
    "slot": 21
   },
@@ -38814,7 +39052,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 305,
+   "rank": 315,
    "slot": 18
   },
   "winner": 1,
@@ -38840,7 +39078,7 @@
    "seed": "3",
    "winner": false,
    "roster": [],
-   "rank": 350
+   "rank": 338
   },
   "p2": {
    "name": "Christian Langmo",
@@ -38850,7 +39088,7 @@
    "roster": [
     "alumni-miami-fl-christian-langmo"
    ],
-   "rank": 508
+   "rank": 528
   },
   "winner": 0,
   "sets": [],
@@ -38866,7 +39104,7 @@
    "seed": "8",
    "winner": true,
    "roster": [],
-   "rank": 405
+   "rank": 362
   },
   "p2": {
    "name": "Evan Zhu",
@@ -38876,7 +39114,7 @@
    "roster": [
     "alumni-ucla-evan-zhu"
    ],
-   "rank": 467
+   "rank": 461
   },
   "winner": 1,
   "sets": [
@@ -38929,7 +39167,7 @@
    "roster": [
     "alumni-miami-fl-christian-langmo"
    ],
-   "rank": 508
+   "rank": 528
   },
   "p2": {
    "name": "Khumoun Sultanov",
@@ -38937,7 +39175,7 @@
    "seed": "10",
    "winner": false,
    "roster": [],
-   "rank": 411
+   "rank": 414
   },
   "winner": 1,
   "sets": [
@@ -38964,7 +39202,7 @@
    "roster": [
     "alumni-ucla-evan-zhu"
    ],
-   "rank": 467
+   "rank": 461
   },
   "p2": {
    "name": "Akira Santillan",
@@ -38972,7 +39210,7 @@
    "seed": "2",
    "winner": false,
    "roster": [],
-   "rank": 332
+   "rank": 349
   },
   "winner": 0,
   "sets": [],
@@ -39023,7 +39261,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 370,
+   "rank": 358,
    "slot": 17
   },
   "p2": {
@@ -39034,7 +39272,7 @@
    "roster": [
     "alumni-wichita-state-murkel-dellien"
    ],
-   "rank": 450,
+   "rank": 464,
    "slot": 19
   },
   "winner": 1,
@@ -39060,7 +39298,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 370,
+   "rank": 358,
    "slot": 17
   },
   "p2": {
@@ -39071,7 +39309,7 @@
    "roster": [
     "alumni-texas-tech-franco-ribero"
    ],
-   "rank": 683,
+   "rank": 675,
    "key": "LL",
    "slot": 16
   },
@@ -39098,7 +39336,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 831,
+   "rank": 704,
    "slot": 20
   },
   "p2": {
@@ -39109,7 +39347,7 @@
    "roster": [
     "alumni-charlotte-ivan-dreycopp"
    ],
-   "rank": 1461,
+   "rank": 1311,
    "key": "Q",
    "slot": 21
   },
@@ -39138,7 +39376,7 @@
    "roster": [
     "alumni-wichita-state-murkel-dellien"
    ],
-   "rank": 450,
+   "rank": 464,
    "slot": 19
   },
   "p2": {
@@ -39147,7 +39385,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 1026,
+   "rank": 988,
    "key": "WC",
    "slot": 18
   },
@@ -39263,7 +39501,7 @@
    "roster": [
     "alumni-charlotte-ivan-dreycopp"
    ],
-   "rank": 1461
+   "rank": 1311
   },
   "p2": {
    "name": "Victor Hugo Remondy Pagotto",
@@ -39271,7 +39509,7 @@
    "seed": "4",
    "winner": false,
    "roster": [],
-   "rank": 780
+   "rank": 775
   },
   "winner": 1,
   "sets": [
@@ -39296,7 +39534,7 @@
    "seed": "11",
    "winner": true,
    "roster": [],
-   "rank": 997
+   "rank": 932
   },
   "p2": {
    "name": "Franco Ribero",
@@ -39306,7 +39544,7 @@
    "roster": [
     "alumni-texas-tech-franco-ribero"
    ],
-   "rank": 683
+   "rank": 675
   },
   "winner": 1,
   "sets": [
@@ -39337,7 +39575,7 @@
    "roster": [
     "alumni-charlotte-ivan-dreycopp"
    ],
-   "rank": 1461
+   "rank": 1311
   },
   "p2": {
    "name": "Fermin Tenti",
@@ -39345,7 +39583,7 @@
    "seed": "8",
    "winner": false,
    "roster": [],
-   "rank": 863
+   "rank": 836
   },
   "winner": 1,
   "sets": [
@@ -39372,7 +39610,7 @@
    "roster": [
     "alumni-texas-tech-franco-ribero"
    ],
-   "rank": 683
+   "rank": 675
   },
   "p2": {
    "name": "Mateo Carballo",
@@ -39443,7 +39681,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 306,
+   "rank": 323,
    "slot": 6
   },
   "p2": {
@@ -39523,7 +39761,7 @@
    "seed": "6",
    "winner": true,
    "roster": [],
-   "rank": 228,
+   "rank": 217,
    "slot": 16
   },
   "p2": {
@@ -39534,7 +39772,7 @@
    "roster": [
     "alumni-florida-state-marcus-walters"
    ],
-   "rank": 898,
+   "rank": 862,
    "key": "Q",
    "slot": 17
   },
@@ -39561,7 +39799,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 244,
+   "rank": 203,
    "slot": 30
   },
   "p2": {
@@ -39572,7 +39810,7 @@
    "roster": [
     "alumni-university-of-virginia-inaki-montes-de-la-torre"
    ],
-   "rank": 191,
+   "rank": 194,
    "slot": 31
   },
   "winner": 1,
@@ -39637,7 +39875,7 @@
    "roster": [
     "alumni-florida-state-marcus-walters"
    ],
-   "rank": 898
+   "rank": 862
   },
   "p2": {
    "name": "Ryan Peniston",
@@ -39647,7 +39885,7 @@
    "roster": [
     "alumni-memphis-ryan-peniston"
    ],
-   "rank": 886
+   "rank": 1419
   },
   "winner": 1,
   "sets": [
@@ -39713,7 +39951,7 @@
    "roster": [
     "alumni-florida-state-marcus-walters"
    ],
-   "rank": 898
+   "rank": 862
   },
   "p2": {
    "name": "Moez Echargui",
@@ -39723,7 +39961,7 @@
    "roster": [
     "alumni-nevada-moez-echargui"
    ],
-   "rank": 349
+   "rank": 360
   },
   "winner": 1,
   "sets": [
@@ -39750,7 +39988,7 @@
    "roster": [
     "alumni-memphis-ryan-peniston"
    ],
-   "rank": 886
+   "rank": 1419
   },
   "p2": {
    "name": "Sebastian Gima",
@@ -39758,7 +39996,7 @@
    "seed": "5",
    "winner": false,
    "roster": [],
-   "rank": 513
+   "rank": 511
   },
   "winner": 1,
   "sets": [
@@ -39857,7 +40095,7 @@
    "seed": "11",
    "winner": true,
    "roster": [],
-   "rank": 700
+   "rank": 722
   },
   "p2": {
    "name": "Rafael Izquierdo Luque",
@@ -39892,7 +40130,7 @@
    "seed": "1",
    "winner": true,
    "roster": [],
-   "rank": 12,
+   "rank": 10,
    "slot": 0
   },
   "p2": {
@@ -40005,7 +40243,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 60,
+   "rank": 64,
    "slot": 5
   },
   "p2": {
@@ -40016,7 +40254,7 @@
    "roster": [
     "alumni-texas-a-m-university-arthur-rinderknech"
    ],
-   "rank": 68,
+   "rank": 58,
    "slot": 4
   },
   "winner": 1,
@@ -40085,7 +40323,7 @@
    "seed": "5",
    "winner": true,
    "roster": [],
-   "rank": 31,
+   "rank": 29,
    "slot": 24
   },
   "p2": {
@@ -40176,7 +40414,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 70,
+   "rank": 76,
    "slot": 2
   },
   "winner": 1,
@@ -40213,7 +40451,7 @@
    "roster": [
     "alumni-usc-yannick-hanfmann"
    ],
-   "rank": 58,
+   "rank": 67,
    "slot": 17
   },
   "winner": 1,
@@ -40323,7 +40561,7 @@
    "seed": "2",
    "winner": false,
    "roster": [],
-   "rank": 87
+   "rank": 86
   },
   "winner": 1,
   "sets": [
@@ -40348,7 +40586,7 @@
    "seed": "6",
    "winner": true,
    "roster": [],
-   "rank": 106
+   "rank": 115
   },
   "p2": {
    "name": "Inaki Montes-De La Torre",
@@ -40358,7 +40596,7 @@
    "roster": [
     "alumni-university-of-virginia-inaki-montes-de-la-torre"
    ],
-   "rank": 191
+   "rank": 194
   },
   "winner": 1,
   "sets": [
@@ -40455,7 +40693,7 @@
    "roster": [
     "alumni-university-of-virginia-inaki-montes-de-la-torre"
    ],
-   "rank": 191
+   "rank": 194
   },
   "p2": {
    "name": "Damir Dzumhur",
@@ -40488,7 +40726,7 @@
    "seed": "6",
    "winner": true,
    "roster": [],
-   "rank": 106
+   "rank": 115
   },
   "p2": {
    "name": "Olle Wallin",
@@ -40548,6 +40786,127 @@
    [
     "7",
     "6(7)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brisbane-4-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Juncheng Shang",
+   "country": "China",
+   "seed": "8",
+   "winner": true,
+   "roster": [],
+   "rank": 252,
+   "slot": 7
+  },
+  "p2": {
+   "name": "Carl Emil Overbeck",
+   "country": "Denmark",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-california-carl-emil-overbeck"
+   ],
+   "rank": 308,
+   "slot": 4
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(5)",
+    "7"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brisbane-4-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Christian Langmo",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-miami-fl-christian-langmo"
+   ],
+   "rank": 528,
+   "key": "Q",
+   "slot": 12
+  },
+  "p2": {
+   "name": "James McCabe",
+   "country": "Australia",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 287,
+   "slot": 14
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-brisbane-4-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Dane Sweeny",
+   "country": "Australia",
+   "seed": "1",
+   "winner": true,
+   "roster": [],
+   "rank": 116,
+   "slot": 0
+  },
+  "p2": {
+   "name": "Casey Hoole",
+   "country": "Australia",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-south-carolina-casey-hoole"
+   ],
+   "rank": 637,
+   "key": "WC",
+   "slot": 2
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "6(4)"
    ]
   ],
   "live": false
@@ -40720,7 +41079,7 @@
    "roster": [
     "alumni-miami-fl-christian-langmo"
    ],
-   "rank": 508,
+   "rank": 528,
    "key": "Q",
    "slot": 12
   },
@@ -40757,7 +41116,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 332,
+   "rank": 349,
    "slot": 11
   },
   "p2": {
@@ -40794,7 +41153,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 329,
+   "rank": 301,
    "slot": 26
   },
   "p2": {
@@ -40877,7 +41236,7 @@
    "roster": [
     "alumni-california-carl-emil-overbeck"
    ],
-   "rank": 301,
+   "rank": 308,
    "slot": 4
   },
   "p2": {
@@ -41075,7 +41434,7 @@
    "roster": [
     "alumni-miami-fl-christian-langmo"
    ],
-   "rank": 508
+   "rank": 528
   },
   "p2": {
    "name": "Kokoro Isomura",
@@ -41118,7 +41477,7 @@
    "seed": "9",
    "winner": false,
    "roster": [],
-   "rank": 606
+   "rank": 608
   },
   "winner": 1,
   "sets": [
@@ -41219,7 +41578,7 @@
    "roster": [
     "alumni-miami-fl-christian-langmo"
    ],
-   "rank": 508
+   "rank": 528
   },
   "p2": {
    "name": "Stefan Vujic",
@@ -41305,7 +41664,7 @@
    "roster": [
     "alumni-ucla-evan-zhu"
    ],
-   "rank": 467
+   "rank": 461
   },
   "winner": 1,
   "sets": [
@@ -41448,6 +41807,82 @@
   "draw": "Main Draw",
   "round": "Round of 16",
   "p1": {
+   "name": "Philip Henning",
+   "country": "RSA",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-philip-henning"
+   ],
+   "rank": 249,
+   "slot": 15
+  },
+  "p2": {
+   "name": "Cezar Cretu",
+   "country": "Romania",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 273,
+   "slot": 13
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-hersonissos-5-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Lorenzo Carboni",
+   "country": "Italy",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 550,
+   "key": "Q",
+   "slot": 9
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "Greece",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ],
+   "rank": 502,
+   "key": "WC",
+   "slot": 10
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-hersonissos-5-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
    "name": "Francesco Maestrelli",
    "country": "Italy",
    "seed": "1",
@@ -41490,7 +41925,7 @@
    "seed": "8",
    "winner": true,
    "roster": [],
-   "rank": 265,
+   "rank": 264,
    "slot": 7
   },
   "p2": {
@@ -41566,7 +42001,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 306,
+   "rank": 323,
    "slot": 18
   },
   "p2": {
@@ -41738,7 +42173,7 @@
    "roster": [
     "alumni-memphis-ryan-peniston"
    ],
-   "rank": 886,
+   "rank": 1419,
    "slot": 30
   },
   "winner": 1,
@@ -41918,7 +42353,7 @@
    "roster": [
     "alumni-utah-state-kai-wehnelt"
    ],
-   "rank": 643
+   "rank": 645
   },
   "winner": 1,
   "sets": [
@@ -41933,6 +42368,43 @@
    [
     "6",
     "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-knoxville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Liam Draxl",
+   "country": "Canada",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-kentucky-liam-draxl"
+   ],
+   "rank": 165,
+   "slot": 16
+  },
+  "p2": {
+   "name": "Petr Nesterov",
+   "country": "Bulgaria",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 282,
+   "slot": 18
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -42110,7 +42582,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 271,
+   "rank": 205,
    "slot": 25
   },
   "p2": {
@@ -42510,7 +42982,7 @@
    "seed": "3",
    "winner": true,
    "roster": [],
-   "rank": 115,
+   "rank": 114,
    "slot": 8
   },
   "p2": {
@@ -42631,7 +43103,7 @@
    "seed": "10",
    "winner": false,
    "roster": [],
-   "rank": 443
+   "rank": 444
   },
   "winner": 1,
   "sets": [
@@ -42668,7 +43140,7 @@
    "roster": [
     "alumni-ucla-patrick-zahraj"
    ],
-   "rank": 540
+   "rank": 536
   },
   "winner": 1,
   "sets": [
@@ -42882,7 +43354,7 @@
    "roster": [
     "alumni-ucla-patrick-zahraj"
    ],
-   "rank": 540
+   "rank": 536
   },
   "p2": {
    "name": "Sebastian Dominko",
@@ -42954,7 +43426,7 @@
    "seed": "10",
    "winner": true,
    "roster": [],
-   "rank": 443
+   "rank": 444
   },
   "p2": {
    "name": "Shunsuke Mitsui",
@@ -42964,7 +43436,7 @@
    "roster": [
     "alumni-tennessee-shunsuke-mitsui"
    ],
-   "rank": 589
+   "rank": 647
   },
   "winner": 1,
   "sets": [
@@ -43313,7 +43785,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 290,
+   "rank": 283,
    "key": "Q",
    "slot": 1
   },
@@ -43355,7 +43827,7 @@
    "seed": "3",
    "winner": false,
    "roster": [],
-   "rank": 111,
+   "rank": 106,
    "slot": 8
   },
   "winner": 1,
@@ -43463,7 +43935,7 @@
    "roster": [
     "alumni-lsu-boris-arias"
    ],
-   "rank": 1287
+   "rank": 1290
   },
   "winner": 1,
   "sets": [
@@ -43568,7 +44040,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 304,
+   "rank": 312,
    "slot": 25
   },
   "p2": {
@@ -43790,7 +44262,7 @@
    "roster": [
     "alumni-nevada-moez-echargui"
    ],
-   "rank": 349,
+   "rank": 360,
    "slot": 29
   },
   "p2": {
@@ -43956,7 +44428,7 @@
    "seed": "2",
    "winner": false,
    "roster": [],
-   "rank": 440
+   "rank": 430
   },
   "winner": 1,
   "sets": [
@@ -44061,7 +44533,7 @@
    "roster": [
     "alumni-florida-state-marcus-walters"
    ],
-   "rank": 898
+   "rank": 862
   },
   "winner": 1,
   "sets": [
@@ -44264,7 +44736,7 @@
    "seed": "3",
    "winner": true,
    "roster": [],
-   "rank": 66,
+   "rank": 62,
    "slot": 8
   },
   "p2": {
@@ -44312,7 +44784,7 @@
    "roster": [
     "alumni-florida-state-lucas-poullain"
    ],
-   "rank": 327
+   "rank": 316
   },
   "winner": 1,
   "sets": [
@@ -44351,7 +44823,7 @@
    "roster": [
     "alumni-university-of-virginia-alexander-ritschard"
    ],
-   "rank": 282
+   "rank": 280
   },
   "winner": 1,
   "sets": [
@@ -44417,7 +44889,7 @@
    "roster": [
     "alumni-florida-state-lucas-poullain"
    ],
-   "rank": 327
+   "rank": 316
   },
   "p2": {
    "name": "Pierre Delage",
@@ -44452,7 +44924,7 @@
    "roster": [
     "alumni-university-of-virginia-alexander-ritschard"
    ],
-   "rank": 282
+   "rank": 280
   },
   "p2": {
    "name": "Ferdinand Livet Novkirichka",

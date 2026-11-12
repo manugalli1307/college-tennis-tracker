@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T22:49:54+00:00",
+ "updated": "2026-11-12T12:40:47+00:00",
  "atp": [
   {
    "step": "event",
@@ -142,7 +142,7 @@
    "name": "Brisbane 4 Challenger",
    "status": "current",
    "entries": 20,
-   "matches": 23,
+   "matches": 26,
    "data": true
   },
   {
@@ -151,7 +151,7 @@
    "name": "Hersonissos 5 Challenger",
    "status": "current",
    "entries": 11,
-   "matches": 13,
+   "matches": 15,
    "data": true
   },
   {
@@ -160,7 +160,7 @@
    "name": "Knoxville Challenger",
    "status": "current",
    "entries": 41,
-   "matches": 34,
+   "matches": 35,
    "data": true
   },
   {
@@ -210,7 +210,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 4
+   "count": 142
   }
  ],
  "ranks": [
