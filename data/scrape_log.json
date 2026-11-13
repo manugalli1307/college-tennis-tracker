@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:20:36+00:00",
+ "updated": "2026-11-13T12:28:11+00:00",
  "atp": [
   {
    "step": "event",
@@ -142,7 +142,7 @@
    "name": "Brisbane 4 Challenger",
    "status": "current",
    "entries": 20,
-   "matches": 26,
+   "matches": 29,
    "data": true
   },
   {
@@ -160,7 +160,7 @@
    "name": "Knoxville Challenger",
    "status": "current",
    "entries": 41,
-   "matches": 38,
+   "matches": 39,
    "data": true
   },
   {
@@ -178,7 +178,7 @@
    "name": "Matsuyama Challenger",
    "status": "current",
    "entries": 3,
-   "matches": 5,
+   "matches": 6,
    "data": true
   },
   {

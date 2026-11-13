@@ -2917,7 +2917,7 @@
   "rank": 416,
   "height": null,
   "weight": null,
-  "asof": "2026-11-06"
+  "asof": "2026-11-13"
  },
  "pham-88743": {
   "raw": "Pham Derek",
@@ -3678,5 +3678,13 @@
   "height": null,
   "weight": null,
   "asof": "2026-11-12"
+ },
+ "tomic-4ca3d": {
+  "raw": "Tomic Bernard",
+  "country": "Australia",
+  "rank": 176,
+  "height": 196,
+  "weight": 91,
+  "asof": "2026-11-13"
  }
 }
