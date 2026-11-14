@@ -2922,82 +2922,82 @@
  "pham-88743": {
   "raw": "Pham Derek",
   "country": "Australia",
-  "rank": 1187,
+  "rank": 1188,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "becroft": {
   "raw": "Becroft Isaac",
   "country": "New Zealand",
-  "rank": 533,
+  "rank": 521,
   "height": 178,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "shepp": {
   "raw": "Shepp Anton",
   "country": "New Zealand",
-  "rank": 488,
+  "rank": 477,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "jones-44ce4": {
   "raw": "Jones Hayden",
   "country": "Australia",
-  "rank": 906,
+  "rank": 901,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "ferguson-67223": {
   "raw": "Ferguson Chase",
   "country": "Australia",
-  "rank": 672,
+  "rank": 683,
   "height": 186,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "hoeyeraal": {
   "raw": "Hoeyeraal Herman",
   "country": "Norway",
-  "rank": 659,
+  "rank": 673,
   "height": 198,
   "weight": 86,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "dahlin": {
   "raw": "Dahlin Max",
   "country": "Sweden",
-  "rank": 772,
+  "rank": 778,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "hoole-124e0": {
   "raw": "Hoole Casey",
   "country": "Australia",
-  "rank": 637,
+  "rank": 636,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "broska": {
   "raw": "Broska Florian",
   "country": "Germany",
-  "rank": 320,
+  "rank": 318,
   "height": 178,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "aguiard": {
   "raw": "Aguiard Enzo",
   "country": "Australia",
-  "rank": 427,
+  "rank": 423,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "suresh-f2001": {
   "raw": "Suresh Dhakshineswar",
@@ -3005,71 +3005,71 @@
   "rank": 448,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "monday": {
   "raw": "Monday Johannus",
   "country": "Great Britain",
-  "rank": 509,
+  "rank": 493,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "xilas": {
   "raw": "Xilas Ioannis",
   "country": "Greece",
-  "rank": 502,
+  "rank": 499,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "reco": {
   "raw": "Reco Alexandre",
   "country": "France",
-  "rank": 811,
+  "rank": 815,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "vives-marcos": {
   "raw": "Vives Marcos Pedro",
   "country": "Spain",
-  "rank": 588,
+  "rank": 585,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "djuric-2d0e6": {
   "raw": "Djuric Branko",
   "country": "Serbia",
-  "rank": 480,
+  "rank": 481,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "dalmasso": {
   "raw": "Dalmasso Guillaume",
   "country": "France",
-  "rank": 628,
+  "rank": 646,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "ehrenschneider": {
   "raw": "Ehrenschneider Nino",
   "country": "Germany",
-  "rank": 545,
+  "rank": 543,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "perego-43ce2": {
   "raw": "Perego Giulio",
   "country": "Italy",
-  "rank": 827,
+  "rank": 829,
   "height": null,
   "weight": null,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "martinez-c0caf": {
   "raw": "Martinez Pedro",
@@ -3077,7 +3077,7 @@
   "rank": 124,
   "height": 185,
   "weight": 76,
-  "asof": "2026-11-07"
+  "asof": "2026-11-14"
  },
  "nagel-eaef3": {
   "raw": "Nagel Arthur",
@@ -3694,5 +3694,21 @@
   "height": null,
   "weight": null,
   "asof": "2026-11-13"
+ },
+ "jovanovski-63b3e": {
+  "raw": "Jovanovski Daniel",
+  "country": "Australia",
+  "rank": 1406,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-14"
+ },
+ "jung-270ad": {
+  "raw": "Jung Jason",
+  "country": "Chinese Taipei",
+  "rank": 1131,
+  "height": 180,
+  "weight": 69,
+  "asof": "2026-11-14"
  }
 }

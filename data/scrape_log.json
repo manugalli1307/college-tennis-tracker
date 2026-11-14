@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:25:03+00:00",
+ "updated": "2026-11-14T12:10:49+00:00",
  "atp": [
   {
    "step": "event",
@@ -142,7 +142,7 @@
    "name": "Brisbane 4 Challenger",
    "status": "current",
    "entries": 20,
-   "matches": 29,
+   "matches": 31,
    "data": true
   },
   {
@@ -160,7 +160,7 @@
    "name": "Knoxville Challenger",
    "status": "current",
    "entries": 41,
-   "matches": 41,
+   "matches": 43,
    "data": true
   },
   {
@@ -209,8 +209,71 @@
    "data": false
   },
   {
+   "step": "event",
+   "id": "te-champaign-challenger-2026",
+   "name": "Champaign Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-drummondville-challenger-2026",
+   "name": "Drummondville Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-helsinki-challenger-2026",
+   "name": "Helsinki Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-kobe-challenger-2026",
+   "name": "Kobe Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-metz-challenger-2026",
+   "name": "Metz Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-montevideo-challenger-2026",
+   "name": "Montevideo Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-sydney-challenger-2026",
+   "name": "Sydney Challenger",
+   "status": "upcoming",
+   "entries": 19,
+   "matches": 0,
+   "data": true
+  },
+  {
    "step": "profiles opened",
-   "count": 1
+   "count": 22
   }
  ],
  "ranks": [

@@ -1166,6 +1166,17 @@
   "url": "https://www.itftennis.com/en/tournament/m25-vale-do-lobo/por/2026/m-itf-por-2026-016/"
  },
  {
+  "id": "te-sydney-challenger-2026",
+  "name": "Sydney Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/sydney-challenger/2026/atp-men/"
+ },
+ {
   "id": "m-itf-tur-2026-030",
   "name": "M15 Antalya",
   "category": "M15",
