@@ -990,6 +990,28 @@
   "url": "https://www.tennisexplorer.com/orleans-challenger/2026/atp-men/"
  },
  {
+  "id": "te-helsinki-challenger-2026",
+  "name": "Helsinki Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/helsinki-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-kobe-challenger-2026",
+  "name": "Kobe Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/kobe-challenger/2026/atp-men/"
+ },
+ {
   "id": "m-itf-esp-2026-052",
   "name": "M15 Alcalá De Henares",
   "category": "M15",
@@ -1164,6 +1186,17 @@
   "end": "2026-11-22",
   "status": "upcoming",
   "url": "https://www.itftennis.com/en/tournament/m25-vale-do-lobo/por/2026/m-itf-por-2026-016/"
+ },
+ {
+  "id": "te-metz-challenger-2026",
+  "name": "Metz Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/metz-challenger/2026/atp-men/"
  },
  {
   "id": "te-sydney-challenger-2026",
