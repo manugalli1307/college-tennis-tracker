@@ -2082,10 +2082,10 @@
  "taberner": {
   "raw": "Taberner Carlos",
   "country": "Spain",
-  "rank": 462,
+  "rank": 456,
   "height": 183,
   "weight": 78,
-  "asof": "2026-11-05"
+  "asof": "2026-11-15"
  },
  "morais-c304a": {
   "raw": "Morais Diogo",
@@ -3987,6 +3987,46 @@
   "raw": "Oliveira Bruno (2002)",
   "country": "",
   "rank": null,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-15"
+ },
+ "fils": {
+  "raw": "Fils Arthur",
+  "country": "France",
+  "rank": 7,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-15"
+ },
+ "slavic": {
+  "raw": "Slavic Nikola",
+  "country": "Sweden",
+  "rank": 861,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-15"
+ },
+ "ghibaudo": {
+  "raw": "Ghibaudo Antoine",
+  "country": "France",
+  "rank": 505,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-15"
+ },
+ "latinovic": {
+  "raw": "Latinovic Stefan",
+  "country": "Serbia",
+  "rank": 1383,
+  "height": 198,
+  "weight": null,
+  "asof": "2026-11-15"
+ },
+ "moroni-4e991": {
+  "raw": "Moroni Filippo",
+  "country": "Italy",
+  "rank": 1025,
   "height": null,
   "weight": null,
   "asof": "2026-11-15"

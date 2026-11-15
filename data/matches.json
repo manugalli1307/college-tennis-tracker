@@ -27209,7 +27209,7 @@
    "name": "Wissam Abderrahman",
    "country": "TUN",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "ucf-wissam-abderrahman"
    ]
@@ -27223,19 +27223,15 @@
     "alumni-lsu-julien-penzlin"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "4"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -28115,7 +28111,7 @@
    "name": "Jack Secord",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -28127,19 +28123,19 @@
     "alumni-ucsb-lucca-liu"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "5",
+    "7"
    ],
    [
-    "",
-    ""
+    "6",
+    "2"
    ],
    [
-    "",
-    ""
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -30156,24 +30152,24 @@
    "name": "Jack Anthrop",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-ohio-state-jack-anthrop"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "1"
    ],
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
+    "0",
+    "6"
    ]
   ],
   "live": true
@@ -31145,7 +31141,7 @@
    "name": "Maximilian Marterer",
    "country": "GER",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -31157,19 +31153,19 @@
     "alumni-ohio-state-cannon-kingsley"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "1"
    ],
    [
-    "",
-    ""
+    "5",
+    "7"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(2)"
    ]
   ],
   "live": false
@@ -43931,6 +43927,34 @@
  {
   "tournament": "te-knoxville-challenger-2026",
   "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Clement Chidekh",
+   "country": "France",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-washington-clement-chidekh"
+   ],
+   "rank": 129,
+   "slot": 23
+  },
+  "p2": {
+   "name": "Abedallah Shelbayh",
+   "country": "Jordan",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 305,
+   "slot": 2
+  },
+  "winner": 0,
+  "sets": [],
+  "live": true
+ },
+ {
+  "tournament": "te-knoxville-challenger-2026",
+  "draw": "Main Draw",
   "round": "Semifinals",
   "p1": {
    "name": "Clement Chidekh",
@@ -46910,6 +46934,43 @@
  {
   "tournament": "te-orleans-challenger-2026",
   "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Otto Virtanen",
+   "country": "Finland",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 127,
+   "slot": 14
+  },
+  "p2": {
+   "name": "Nishesh Basavareddy",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-stanford-nishesh-basavareddy"
+   ],
+   "rank": 126,
+   "slot": 20
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-orleans-challenger-2026",
+  "draw": "Main Draw",
   "round": "Semifinals",
   "p1": {
    "name": "Nishesh Basavareddy",
@@ -47351,6 +47412,80 @@
    [
     "7",
     "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-masters-cup-atp-2026",
+  "draw": "Main Draw",
+  "round": "Round",
+  "p1": {
+   "name": "Ben Shelton",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-ben-shelton"
+   ],
+   "rank": 4
+  },
+  "p2": {
+   "name": "Arthur Fils",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 7
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-masters-cup-atp-2026",
+  "draw": "Main Draw",
+  "round": "Round",
+  "p1": {
+   "name": "Alexander Zverev",
+   "country": "Germany",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 1
+  },
+  "p2": {
+   "name": "Rafael Jodar",
+   "country": "Spain",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-virginia-rafael-jodar"
+   ],
+   "rank": 11
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:11:20+00:00",
+ "updated": "2026-11-15T22:10:15+00:00",
  "atp": [
   {
    "step": "event",
@@ -160,7 +160,7 @@
    "name": "Knoxville Challenger",
    "status": "current",
    "entries": 41,
-   "matches": 45,
+   "matches": 46,
    "data": true
   },
   {
@@ -196,7 +196,7 @@
    "name": "Orleans Challenger",
    "status": "current",
    "entries": 6,
-   "matches": 12,
+   "matches": 13,
    "data": true
   },
   {
@@ -205,15 +205,15 @@
    "name": "Masters Cup ATP ATP",
    "status": "current",
    "entries": 0,
-   "matches": 0,
-   "data": false
+   "matches": 2,
+   "data": true
   },
   {
    "step": "event",
    "id": "te-champaign-challenger-2026",
    "name": "Champaign Challenger",
    "status": "upcoming",
-   "entries": 38,
+   "entries": 37,
    "matches": 0,
    "data": true
   },
@@ -222,7 +222,7 @@
    "id": "te-drummondville-challenger-2026",
    "name": "Drummondville Challenger",
    "status": "upcoming",
-   "entries": 28,
+   "entries": 29,
    "matches": 0,
    "data": true
   },
@@ -249,7 +249,7 @@
    "id": "te-metz-challenger-2026",
    "name": "Metz Challenger",
    "status": "upcoming",
-   "entries": 2,
+   "entries": 7,
    "matches": 0,
    "data": true
   },
@@ -278,7 +278,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 54
+   "count": 6
   }
  ],
  "ranks": [

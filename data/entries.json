@@ -4681,12 +4681,6 @@
  },
  {
   "tournament": "te-champaign-challenger-2026",
-  "player": "texas-a-m-university-khololwam-montsi",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-champaign-challenger-2026",
   "player": "ohio-state-bryce-nakashima",
   "section": "Qualifying",
   "match": "full name"
@@ -4849,6 +4843,12 @@
  },
  {
   "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-ole-miss-nikola-slavic",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
   "player": "alumni-baylor-university-oskar-brostrom-poulsen",
   "section": "Qualifying",
   "match": "full name"
@@ -5001,6 +5001,36 @@
   "tournament": "te-metz-challenger-2026",
   "player": "alumni-university-of-georgia-philip-henning",
   "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-metz-challenger-2026",
+  "player": "alumni-kentucky-antoine-ghibaudo",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-metz-challenger-2026",
+  "player": "alumni-vcu-matisse-bobichon",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-metz-challenger-2026",
+  "player": "alumni-nc-state-robin-catry",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-metz-challenger-2026",
+  "player": "alumni-lsu-stefan-latinovic",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-metz-challenger-2026",
+  "player": "alumni-wake-forest-filippo-moroni",
+  "section": "Qualifying",
   "match": "full name"
  },
  {
@@ -8397,6 +8427,18 @@
   "tournament": "te-stockholm-2026",
   "player": "alumni-texas-tech-olle-wallin",
   "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-masters-cup-atp-2026",
+  "player": "alumni-university-of-florida-ben-shelton",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-masters-cup-atp-2026",
+  "player": "alumni-university-of-virginia-rafael-jodar",
+  "section": "Main Draw",
   "match": "draw"
  }
 ]

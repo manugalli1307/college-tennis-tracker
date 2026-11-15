@@ -990,6 +990,17 @@
   "url": "https://www.tennisexplorer.com/orleans-challenger/2026/atp-men/"
  },
  {
+  "id": "te-masters-cup-atp-2026",
+  "name": "Masters Cup ATP ATP",
+  "category": "ATP Tour",
+  "tour": "ATP Tour",
+  "country": "",
+  "start": "2026-11-15",
+  "end": "2026-11-21",
+  "status": "current",
+  "url": "https://www.tennisexplorer.com/masters-cup-atp/2026/atp-men/"
+ },
+ {
   "id": "te-champaign-challenger-2026",
   "name": "Champaign Challenger",
   "category": "ATP Challenger",
