@@ -1068,6 +1068,78 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-baylor-university-matias-soto",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-texas-a-m-university-damien-salvestre",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "wake-forest-joaquin-guilleme",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-etsu-frazier-rengifo",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-miami-fl-jesse-flores",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-desert-marco-alvarez",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-desert-elijah-strode",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-arizona-state-maxwell-mckennon",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-tulane-rafael-de-alba",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-north-carolina-joshua-peck",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-ucsb-lucca-liu",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-007",
+  "player": "alumni-university-of-georgia-ryan-colby",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-esp-2026-052",
   "player": "california-bernardo-munk-mesa",
   "section": "Main Draw Direct Acceptance",
@@ -1130,12 +1202,6 @@
  {
   "tournament": "m-itf-esp-2026-052",
   "player": "alumni-grand-canyon-borys-zgola",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-esp-2026-052",
-  "player": "alumni-loyola-marymount-jose-dominguez-alonso",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -1483,12 +1549,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-046",
-  "player": "alumni-florida-state-corey-craig",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-046",
   "player": "alumni-middle-tennessee-freddy-murray",
   "section": "Qualifying",
   "match": "full name"
@@ -1562,12 +1622,6 @@
  {
   "tournament": "m-itf-usa-2026-050",
   "player": "virginia-tech-ilyas-milad-fahim",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-050",
-  "player": "alumni-tennessee-blaise-bicknell",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -1706,12 +1760,6 @@
  {
   "tournament": "m-itf-mex-2026-011",
   "player": "alumni-ucf-alan-fernando-rubio-fierros",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-mex-2026-011",
-  "player": "alumni-miami-fl-jesse-flores",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -2052,6 +2100,12 @@
   "match": "full name"
  },
  {
+  "tournament": "m-itf-esp-2026-046",
+  "player": "alumni-ucsb-diogo-morais",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
   "tournament": "m-itf-tun-2026-048",
   "player": "alumni-texas-a-m-university-giulio-perego",
   "section": "Main Draw Direct Acceptance",
@@ -2275,7 +2329,7 @@
  },
  {
   "tournament": "m-itf-tur-2026-031",
-  "player": "alumni-university-of-arizona-herman-hoeyeraal",
+  "player": "alumni-arkansas-alexandre-reco",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -2288,12 +2342,6 @@
  {
   "tournament": "m-itf-tur-2026-031",
   "player": "charlotte-massimo-pizzigoni",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tur-2026-031",
-  "player": "alumni-arkansas-alexandre-reco",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -2472,6 +2520,12 @@
   "match": "full name"
  },
  {
+  "tournament": "m-itf-gre-2026-019",
+  "player": "alumni-university-of-south-carolina-thando-longwe-smit",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
   "tournament": "m-itf-pak-2026-003",
   "player": "alumni-clemson-manuel-plunger",
   "section": "Main Draw Direct Acceptance",
@@ -2642,6 +2696,12 @@
  {
   "tournament": "m-itf-per-2026-001",
   "player": "alumni-florida-state-corey-craig",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-per-2026-001",
+  "player": "alumni-rice-kabeer-kapasi",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -2989,12 +3049,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-054",
-  "player": "alumni-lsu-julien-penzlin",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-054",
   "player": "alumni-baylor-university-jacob-brumm",
   "section": "Qualifying",
   "match": "full name"
@@ -3110,12 +3164,6 @@
  {
   "tournament": "m-itf-egy-2026-035",
   "player": "alumni-utah-state-stijn-paardekooper",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-035",
-  "player": "alumni-tennessee-filip-pieczonka",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -3319,6 +3367,12 @@
  },
  {
   "tournament": "m-itf-usa-2026-052",
+  "player": "clemson-viktor-markov",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-052",
   "player": "clemson-marko-mesarovic",
   "section": "Qualifying",
   "match": "full name"
@@ -3374,12 +3428,6 @@
  {
   "tournament": "m-itf-usa-2026-052",
   "player": "alumni-smu-liam-krall",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-052",
-  "player": "alumni-ucsb-lucca-liu",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -3565,6 +3613,12 @@
  },
  {
   "tournament": "m-itf-tun-2026-049",
+  "player": "alumni-usf-hugo-car",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tun-2026-049",
   "player": "alumni-north-carolina-roan-jones",
   "section": "Qualifying",
   "match": "full name"
@@ -3637,25 +3691,25 @@
  },
  {
   "tournament": "m-itf-usa-2026-053",
-  "player": "alumni-university-of-arizona-herman-hoeyeraal",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-053",
   "player": "alumni-cornell-evan-bynoe",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
  {
   "tournament": "m-itf-usa-2026-053",
-  "player": "tcu-maximus-dussault",
-  "section": "Qualifying",
+  "player": "alumni-michigan-patrick-maloney",
+  "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
  {
   "tournament": "m-itf-usa-2026-053",
   "player": "mississippi-state-segundo-goity-zapico",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-053",
+  "player": "university-of-georgia-noah-johnston",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -3698,12 +3752,6 @@
  {
   "tournament": "m-itf-usa-2026-053",
   "player": "virginia-tech-ilyas-milad-fahim",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-053",
-  "player": "alumni-michigan-patrick-maloney",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -3872,72 +3920,6 @@
  {
   "tournament": "m-itf-dom-2026-001",
   "player": "alumni-tulane-rafael-de-alba",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-tcu-cameron-norrie",
-  "section": "Main Draw",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-texas-a-m-university-arthur-rinderknech",
-  "section": "Main Draw",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-university-of-south-carolina-toby-samuel",
-  "section": "Main Draw",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-wake-forest-borna-gojo",
-  "section": "Main Draw",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-usc-yannick-hanfmann",
-  "section": "Main Draw",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "michigan-max-dahlin",
-  "section": "Main Draw",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-university-of-south-carolina-toby-samuel",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-wake-forest-borna-gojo",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-university-of-virginia-inaki-montes-de-la-torre",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-texas-tech-olle-wallin",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-stockholm-2026",
-  "player": "alumni-tcu-jacob-fearnley",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -4524,6 +4506,402 @@
   "match": "full name"
  },
  {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-alabama-filip-jeff-planinsek",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-georgia-tech-andres-martin",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-san-diego-oliver-tarvet",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-north-carolina-karl-poling",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-michigan-state-ozan-baris",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-university-of-illinois-at-urbana-champaign-kenta-miyoshi",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-illinois-at-urbana-champaign-adam-jilly",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "ucla-spencer-johnson",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-texas-a-m-university-raphael-perot",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-michigan-gavin-young",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-michigan-andrew-fenty",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-tennessee-luca-wiedenmann",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "texas-a-m-university-bor-artnak",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-michigan-patrick-maloney",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-tcu-alastair-gray",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-virginia-jack-kennedy",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-oregon-quinn-vandecasteele",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-illinois-at-urbana-champaign-jeremy-zhang",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-tennessee-giles-hussey",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-illinois-at-urbana-champaign-nicholas-mekhael",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-georgia-tech-keshav-chopra",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-tcu-lui-maxted",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-illinois-at-urbana-champaign-david-bakonyi",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-university-of-florida-axel-nefve",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-university-of-notre-dame-sebastian-dominko",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "georgia-tech-gianluca-carlini",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-ucla-kaylan-bigun",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-illinois-at-urbana-champaign-sasha-colleu",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-smu-liam-krall",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "texas-a-m-university-khololwam-montsi",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "ohio-state-bryce-nakashima",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-uc-irvine-hiroki-sakagawa",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-university-of-illinois-at-urbana-champaign-william-mroz",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-tennessee-shunsuke-mitsui",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-university-of-illinois-at-urbana-champaign-hunter-heck",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-illinois-at-urbana-champaign-jon-gamble",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "university-of-illinois-at-urbana-champaign-colson-wells",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "player": "alumni-pepperdine-zach-stephens",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-ohio-state-james-trotter",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-nc-state-braden-shick",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-nc-state-alexis-galarneau",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-cornell-colin-sinclair",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-harvard-daniel-milavsky",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "university-of-virginia-keegan-rice",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-kentucky-liam-draxl",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "university-of-virginia-dylan-dietrich",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-ohio-state-cannon-kingsley",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-ohio-state-justin-boulais",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "tcu-duncan-chan",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-ucla-patrick-zahraj",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-usf-alvin-nicholas-tudorica",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "kentucky-mikael-arseneault",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-washington-clement-chidekh",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-stanford-samir-banerjee",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "vanderbilt-hoyoung-roh",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-pepperdine-daniel-de-jonge",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-western-michigan-benjamin-thomas-george",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-baylor-university-oskar-brostrom-poulsen",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-north-carolina-joshua-peck",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-california-theodore-dean",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-yale-vignesh-gogineni",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-western-michigan-jannik-opitz",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-bryant-matt-kuhar",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-miami-fl-vladislav-melnic",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-uc-irvine-noah-zamora",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "player": "alumni-oregon-joshua-charlton",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
   "tournament": "te-helsinki-challenger-2026",
   "player": "alumni-pepperdine-eero-vasa",
   "section": "Main Draw",
@@ -4623,6 +5001,36 @@
   "tournament": "te-metz-challenger-2026",
   "player": "alumni-university-of-georgia-philip-henning",
   "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-montevideo-challenger-2026",
+  "player": "alumni-baylor-university-matias-soto",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-montevideo-challenger-2026",
+  "player": "alumni-stanford-tristan-boyer",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-montevideo-challenger-2026",
+  "player": "alumni-texas-tech-franco-ribero",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-montevideo-challenger-2026",
+  "player": "alumni-west-florida-nicolas-barrientos",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-montevideo-challenger-2026",
+  "player": "alumni-lsu-boris-arias",
+  "section": "Qualifying",
   "match": "full name"
  },
  {
@@ -4814,78 +5222,6 @@
  {
   "tournament": "m-itf-bra-2026-019",
   "player": "alumni-gonzaga-giovanni-branchetti",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-baylor-university-matias-soto",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-texas-a-m-university-damien-salvestre",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "wake-forest-joaquin-guilleme",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-etsu-frazier-rengifo",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-miami-fl-jesse-flores",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-desert-marco-alvarez",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-desert-elijah-strode",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-arizona-state-maxwell-mckennon",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-tulane-rafael-de-alba",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-north-carolina-joshua-peck",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-ucsb-lucca-liu",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-007",
-  "player": "alumni-university-of-georgia-ryan-colby",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -8006,6 +8342,60 @@
  {
   "tournament": "te-taranto-challenger-2026",
   "player": "alumni-nc-state-rafael-izquierdo-luque",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-tcu-cameron-norrie",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-wake-forest-borna-gojo",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-university-of-south-carolina-toby-samuel",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-texas-a-m-university-arthur-rinderknech",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "michigan-max-dahlin",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-usc-yannick-hanfmann",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-tcu-jacob-fearnley",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-university-of-virginia-inaki-montes-de-la-torre",
+  "section": "Qualifying",
+  "match": "draw"
+ },
+ {
+  "tournament": "te-stockholm-2026",
+  "player": "alumni-texas-tech-olle-wallin",
   "section": "Qualifying",
   "match": "draw"
  }

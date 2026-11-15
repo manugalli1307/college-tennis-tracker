@@ -733,7 +733,7 @@
   "country": "",
   "start": "2026-11-08",
   "end": "2026-11-14",
-  "status": "current",
+  "status": "past",
   "url": "https://www.tennisexplorer.com/stockholm/2026/atp-men/"
  },
  {
@@ -898,7 +898,7 @@
   "country": "MEX",
   "start": "2026-11-09",
   "end": "2026-11-14",
-  "status": "current",
+  "status": "past",
   "url": "https://www.itftennis.com/en/tournament/m15-zamora/mex/2026/m-itf-mex-2026-012/"
  },
  {
@@ -988,6 +988,28 @@
   "end": "2026-11-15",
   "status": "current",
   "url": "https://www.tennisexplorer.com/orleans-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-champaign-challenger-2026",
+  "name": "Champaign Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/champaign-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-drummondville-challenger-2026",
+  "name": "Drummondville Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/drummondville-challenger/2026/atp-men/"
  },
  {
   "id": "te-helsinki-challenger-2026",
@@ -1197,6 +1219,17 @@
   "end": "2026-11-22",
   "status": "upcoming",
   "url": "https://www.tennisexplorer.com/metz-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-montevideo-challenger-2026",
+  "name": "Montevideo Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/montevideo-challenger/2026/atp-men/"
  },
  {
   "id": "te-sydney-challenger-2026",

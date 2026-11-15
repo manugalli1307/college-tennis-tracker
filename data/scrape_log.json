@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:06:54+00:00",
+ "updated": "2026-11-15T12:11:20+00:00",
  "atp": [
   {
    "step": "event",
@@ -131,8 +131,8 @@
    "step": "event",
    "id": "te-stockholm-2026",
    "name": "Stockholm ATP",
-   "status": "current",
-   "entries": 11,
+   "status": "past",
+   "entries": 0,
    "matches": 18,
    "data": true
   },
@@ -142,7 +142,7 @@
    "name": "Brisbane 4 Challenger",
    "status": "current",
    "entries": 20,
-   "matches": 31,
+   "matches": 32,
    "data": true
   },
   {
@@ -151,7 +151,7 @@
    "name": "Hersonissos 5 Challenger",
    "status": "current",
    "entries": 11,
-   "matches": 17,
+   "matches": 18,
    "data": true
   },
   {
@@ -203,7 +203,7 @@
    "step": "event",
    "id": "te-masters-cup-atp-2026",
    "name": "Masters Cup ATP ATP",
-   "status": "upcoming",
+   "status": "current",
    "entries": 0,
    "matches": 0,
    "data": false
@@ -213,18 +213,18 @@
    "id": "te-champaign-challenger-2026",
    "name": "Champaign Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 38,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
    "id": "te-drummondville-challenger-2026",
    "name": "Drummondville Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 28,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -258,9 +258,14 @@
    "id": "te-montevideo-challenger-2026",
    "name": "Montevideo Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 5,
    "matches": 0,
-   "data": false
+   "data": true
+  },
+  {
+   "step": "draw check",
+   "id": "te-montevideo-challenger-2026",
+   "problem": "aguilar cardozo appears twice in 1st Round"
   },
   {
    "step": "event",
@@ -273,7 +278,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 5
+   "count": 54
   }
  ],
  "ranks": [

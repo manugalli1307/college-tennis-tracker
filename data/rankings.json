@@ -1581,7 +1581,9 @@
  "alumni-ohio-state-cannon-kingsley": {
   "country": "USA",
   "asof": "2026-11-10",
-  "rank": 586
+  "rank": 586,
+  "height": 188,
+  "weight": 75
  },
  "alumni-ohio-state-alexander-bernard": {
   "country": "USA",
@@ -2350,7 +2352,8 @@
  "texas-a-m-university-khololwam-montsi": {
   "country": "RSA",
   "asof": "2026-11-10",
-  "rank": 713
+  "rank": 713,
+  "weight": 56
  },
  "tennessee-orel-kimhi": {
   "country": "Israel",
@@ -3184,7 +3187,8 @@
  "alumni-western-michigan-jannik-opitz": {
   "country": "Germany",
   "asof": "2026-11-10",
-  "rank": 822
+  "rank": 822,
+  "height": 195
  },
  "alumni-minnesota-felix-corwin": {
   "country": "USA",
@@ -3548,7 +3552,9 @@
  "alumni-north-carolina-joshua-peck": {
   "country": "Canada",
   "asof": "2026-11-10",
-  "rank": 1284
+  "rank": 1284,
+  "height": 196,
+  "weight": 78
  },
  "alumni-ucla-gage-brymer": {
   "country": "USA",
