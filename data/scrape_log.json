@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:17:49+00:00",
+ "updated": "2026-11-16T22:20:40+00:00",
  "atp": [
   {
    "step": "event",
@@ -151,7 +151,7 @@
    "name": "Champaign Challenger",
    "status": "current",
    "entries": 37,
-   "matches": 11,
+   "matches": 16,
    "data": true
   },
   {
@@ -160,7 +160,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 29,
-   "matches": 11,
+   "matches": 15,
    "data": true
   },
   {
@@ -169,7 +169,7 @@
    "name": "Helsinki Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 9,
+   "matches": 11,
    "data": true
   },
   {
@@ -186,8 +186,8 @@
    "id": "te-metz-challenger-2026",
    "name": "Metz Challenger",
    "status": "current",
-   "entries": 7,
-   "matches": 9,
+   "entries": 9,
+   "matches": 10,
    "data": true
   },
   {
@@ -215,14 +215,14 @@
   },
   {
    "step": "profiles opened",
-   "count": 59
+   "count": 4
   }
  ],
  "ranks": [
   {
    "step": "rank lookup",
    "searched": 400,
-   "matched": 356
+   "matched": 389
   }
  ]
 }

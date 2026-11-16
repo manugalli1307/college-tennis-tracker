@@ -4222,5 +4222,37 @@
   "height": 180,
   "weight": 75,
   "asof": "2026-11-16"
+ },
+ "marterer": {
+  "raw": "Marterer Maximilian",
+  "country": "Germany",
+  "rank": 1133,
+  "height": 191,
+  "weight": 84,
+  "asof": "2026-11-16"
+ },
+ "cadenasso": {
+  "raw": "Cadenasso Gianluca",
+  "country": "Italy",
+  "rank": 215,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-16"
+ },
+ "ivashka": {
+  "raw": "Ivashka Ilya",
+  "country": "Belarus",
+  "rank": 226,
+  "height": 193,
+  "weight": 84,
+  "asof": "2026-11-16"
+ },
+ "sharipov-a3d0a": {
+  "raw": "Sharipov Marat (2002)",
+  "country": "Russia",
+  "rank": 230,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-16"
  }
 }
