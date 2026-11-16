@@ -1,69 +1,6 @@
 {
- "updated": "2026-11-15T22:10:15+00:00",
+ "updated": "2026-11-16T17:17:49+00:00",
  "atp": [
-  {
-   "step": "event",
-   "id": "te-basel-2026",
-   "name": "Basel ATP",
-   "status": "past",
-   "entries": 0,
-   "matches": 19,
-   "data": true
-  },
-  {
-   "step": "event",
-   "id": "te-brest-challenger-2026",
-   "name": "Brest Challenger",
-   "status": "past",
-   "entries": 0,
-   "matches": 20,
-   "data": true
-  },
-  {
-   "step": "event",
-   "id": "te-guayaquil-challenger-2026",
-   "name": "Guayaquil Challenger",
-   "status": "past",
-   "entries": 0,
-   "matches": 11,
-   "data": true
-  },
-  {
-   "step": "event",
-   "id": "te-ningbo-challenger-2026",
-   "name": "Ningbo Challenger",
-   "status": "past",
-   "entries": 0,
-   "matches": 9,
-   "data": true
-  },
-  {
-   "step": "event",
-   "id": "te-seoul-challenger-2026",
-   "name": "Seoul Challenger",
-   "status": "past",
-   "entries": 0,
-   "matches": 12,
-   "data": true
-  },
-  {
-   "step": "event",
-   "id": "te-sioux-falls-challenger-2026",
-   "name": "Sioux Falls Challenger",
-   "status": "past",
-   "entries": 0,
-   "matches": 43,
-   "data": true
-  },
-  {
-   "step": "event",
-   "id": "te-vienna-2026",
-   "name": "Vienna ATP",
-   "status": "past",
-   "entries": 0,
-   "matches": 10,
-   "data": true
-  },
   {
    "step": "event",
    "id": "te-bratislava-challenger-2026",
@@ -140,8 +77,8 @@
    "step": "event",
    "id": "te-brisbane-4-challenger-2026",
    "name": "Brisbane 4 Challenger",
-   "status": "current",
-   "entries": 20,
+   "status": "past",
+   "entries": 0,
    "matches": 32,
    "data": true
   },
@@ -149,8 +86,8 @@
    "step": "event",
    "id": "te-hersonissos-5-challenger-2026",
    "name": "Hersonissos 5 Challenger",
-   "status": "current",
-   "entries": 11,
+   "status": "past",
+   "entries": 0,
    "matches": 18,
    "data": true
   },
@@ -158,8 +95,8 @@
    "step": "event",
    "id": "te-knoxville-challenger-2026",
    "name": "Knoxville Challenger",
-   "status": "current",
-   "entries": 41,
+   "status": "past",
+   "entries": 0,
    "matches": 46,
    "data": true
   },
@@ -167,8 +104,8 @@
    "step": "event",
    "id": "te-lima-3-challenger-2026",
    "name": "Lima 3 Challenger",
-   "status": "current",
-   "entries": 5,
+   "status": "past",
+   "entries": 0,
    "matches": 9,
    "data": true
   },
@@ -176,8 +113,8 @@
    "step": "event",
    "id": "te-matsuyama-challenger-2026",
    "name": "Matsuyama Challenger",
-   "status": "current",
-   "entries": 3,
+   "status": "past",
+   "entries": 0,
    "matches": 6,
    "data": true
   },
@@ -185,8 +122,8 @@
    "step": "event",
    "id": "te-monastir-challenger-2026",
    "name": "Monastir Challenger",
-   "status": "current",
-   "entries": 11,
+   "status": "past",
+   "entries": 0,
    "matches": 18,
    "data": true
   },
@@ -194,8 +131,8 @@
    "step": "event",
    "id": "te-orleans-challenger-2026",
    "name": "Orleans Challenger",
-   "status": "current",
-   "entries": 6,
+   "status": "past",
+   "entries": 0,
    "matches": 13,
    "data": true
   },
@@ -212,54 +149,54 @@
    "step": "event",
    "id": "te-champaign-challenger-2026",
    "name": "Champaign Challenger",
-   "status": "upcoming",
+   "status": "current",
    "entries": 37,
-   "matches": 0,
+   "matches": 11,
    "data": true
   },
   {
    "step": "event",
    "id": "te-drummondville-challenger-2026",
    "name": "Drummondville Challenger",
-   "status": "upcoming",
+   "status": "current",
    "entries": 29,
-   "matches": 0,
+   "matches": 11,
    "data": true
   },
   {
    "step": "event",
    "id": "te-helsinki-challenger-2026",
    "name": "Helsinki Challenger",
-   "status": "upcoming",
-   "entries": 11,
-   "matches": 0,
+   "status": "current",
+   "entries": 13,
+   "matches": 9,
    "data": true
   },
   {
    "step": "event",
    "id": "te-kobe-challenger-2026",
    "name": "Kobe Challenger",
-   "status": "upcoming",
+   "status": "current",
    "entries": 4,
-   "matches": 0,
+   "matches": 1,
    "data": true
   },
   {
    "step": "event",
    "id": "te-metz-challenger-2026",
    "name": "Metz Challenger",
-   "status": "upcoming",
+   "status": "current",
    "entries": 7,
-   "matches": 0,
+   "matches": 9,
    "data": true
   },
   {
    "step": "event",
    "id": "te-montevideo-challenger-2026",
    "name": "Montevideo Challenger",
-   "status": "upcoming",
+   "status": "current",
    "entries": 5,
-   "matches": 0,
+   "matches": 3,
    "data": true
   },
   {
@@ -271,21 +208,21 @@
    "step": "event",
    "id": "te-sydney-challenger-2026",
    "name": "Sydney Challenger",
-   "status": "upcoming",
-   "entries": 19,
-   "matches": 0,
+   "status": "current",
+   "entries": 22,
+   "matches": 13,
    "data": true
   },
   {
    "step": "profiles opened",
-   "count": 6
+   "count": 59
   }
  ],
  "ranks": [
   {
    "step": "rank lookup",
-   "searched": 0,
-   "matched": 0
+   "searched": 400,
+   "matched": 356
   }
  ]
 }
