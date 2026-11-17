@@ -3490,50 +3490,50 @@
  "sekulic-13abc": {
   "raw": "Sekulic Philip",
   "country": "Australia",
-  "rank": 332,
+  "rank": 329,
   "height": null,
   "weight": null,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "ibraimi-bd8e2": {
   "raw": "Ibraimi Ymerali",
   "country": "Australia",
-  "rank": 1358,
+  "rank": 1365,
   "height": null,
   "weight": null,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "sweeny": {
   "raw": "Sweeny Dane",
   "country": "Australia",
-  "rank": 116,
+  "rank": 122,
   "height": 170,
   "weight": 63,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "martin-manzano": {
   "raw": "Martin Manzano Juan Cruz",
   "country": "Italy",
-  "rank": 383,
+  "rank": 385,
   "height": null,
   "weight": null,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "fomin": {
   "raw": "Fomin Sergey",
   "country": "Uzbekistan",
-  "rank": 333,
+  "rank": 332,
   "height": 183,
   "weight": 80,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "latak": {
   "raw": "Latak Marcel",
   "country": "USA",
-  "rank": 1672,
+  "rank": 2253,
   "height": null,
   "weight": null,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "castro-loedel-51b0a": {
   "raw": "Castro Loedel Sergio",
@@ -3546,42 +3546,42 @@
  "aguilar-cardozo-9f958": {
   "raw": "Aguilar Cardozo Federico",
   "country": "Uruguay",
-  "rank": 942,
+  "rank": 937,
   "height": null,
   "weight": null,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "dhamne": {
   "raw": "Dhamne Manas",
   "country": "India",
-  "rank": 388,
+  "rank": 391,
   "height": null,
   "weight": null,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "nesterov-34bdf": {
   "raw": "Nesterov Petr",
   "country": "Bulgaria",
-  "rank": 282,
+  "rank": 283,
   "height": null,
   "weight": null,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "ajdukovic": {
   "raw": "Ajdukovic Duje",
   "country": "Croatia",
-  "rank": 408,
+  "rank": 405,
   "height": 185,
   "weight": 75,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "herbert-fa5ad": {
   "raw": "Herbert Pierre-Hugues",
   "country": "France",
-  "rank": 250,
+  "rank": 254,
   "height": 188,
   "weight": 75,
-  "asof": "2026-11-10"
+  "asof": "2026-11-17"
  },
  "bolt-fa7eb": {
   "raw": "Bolt Alex",
@@ -4254,5 +4254,29 @@
   "height": null,
   "weight": null,
   "asof": "2026-11-16"
+ },
+ "poljicak": {
+  "raw": "Poljicak Mili",
+  "country": "Croatia",
+  "rank": 279,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-17"
+ },
+ "ellis-b4efc": {
+  "raw": "Ellis Blake",
+  "country": "Australia",
+  "rank": 408,
+  "height": 191,
+  "weight": null,
+  "asof": "2026-11-17"
+ },
+ "moriya": {
+  "raw": "Moriya Hiroki",
+  "country": "Japan",
+  "rank": 440,
+  "height": 168,
+  "weight": 65,
+  "asof": "2026-11-17"
  }
 }

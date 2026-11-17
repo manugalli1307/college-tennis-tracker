@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:20:40+00:00",
+ "updated": "2026-11-17T12:16:40+00:00",
  "atp": [
   {
    "step": "event",
@@ -150,8 +150,8 @@
    "id": "te-champaign-challenger-2026",
    "name": "Champaign Challenger",
    "status": "current",
-   "entries": 37,
-   "matches": 16,
+   "entries": 42,
+   "matches": 22,
    "data": true
   },
   {
@@ -159,8 +159,8 @@
    "id": "te-drummondville-challenger-2026",
    "name": "Drummondville Challenger",
    "status": "current",
-   "entries": 29,
-   "matches": 15,
+   "entries": 35,
+   "matches": 17,
    "data": true
   },
   {
@@ -178,7 +178,7 @@
    "name": "Kobe Challenger",
    "status": "current",
    "entries": 4,
-   "matches": 1,
+   "matches": 4,
    "data": true
   },
   {
@@ -196,7 +196,7 @@
    "name": "Montevideo Challenger",
    "status": "current",
    "entries": 5,
-   "matches": 3,
+   "matches": 4,
    "data": true
   },
   {
@@ -210,19 +210,19 @@
    "name": "Sydney Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 13,
+   "matches": 22,
    "data": true
   },
   {
    "step": "profiles opened",
-   "count": 4
+   "count": 14
   }
  ],
  "ranks": [
   {
    "step": "rank lookup",
-   "searched": 400,
-   "matched": 389
+   "searched": 37,
+   "matched": 36
   }
  ]
 }
