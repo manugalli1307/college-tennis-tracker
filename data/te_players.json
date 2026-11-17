@@ -4278,5 +4278,29 @@
   "height": 168,
   "weight": 65,
   "asof": "2026-11-17"
+ },
+ "vales": {
+  "raw": "Vales Amit",
+  "country": "Israel",
+  "rank": 479,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-17"
+ },
+ "visker": {
+  "raw": "Visker Niels",
+  "country": "Netherlands",
+  "rank": 418,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-17"
+ },
+ "neumayer": {
+  "raw": "Neumayer Lukas",
+  "country": "Austria",
+  "rank": 153,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-17"
  }
 }

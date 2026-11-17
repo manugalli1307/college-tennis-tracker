@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:16:40+00:00",
+ "updated": "2026-11-17T22:10:48+00:00",
  "atp": [
   {
    "step": "event",
@@ -142,8 +142,28 @@
    "name": "Masters Cup ATP ATP",
    "status": "current",
    "entries": 0,
-   "matches": 2,
+   "matches": 4,
    "data": true
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "alexander zverev appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "ben shelton appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "arthur fils appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "rafael jodar appears twice in Round"
   },
   {
    "step": "event",
@@ -151,7 +171,7 @@
    "name": "Champaign Challenger",
    "status": "current",
    "entries": 42,
-   "matches": 22,
+   "matches": 29,
    "data": true
   },
   {
@@ -160,7 +180,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 17,
+   "matches": 21,
    "data": true
   },
   {
@@ -169,7 +189,7 @@
    "name": "Helsinki Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 11,
+   "matches": 14,
    "data": true
   },
   {
@@ -187,7 +207,7 @@
    "name": "Metz Challenger",
    "status": "current",
    "entries": 9,
-   "matches": 10,
+   "matches": 11,
    "data": true
   },
   {
@@ -196,13 +216,8 @@
    "name": "Montevideo Challenger",
    "status": "current",
    "entries": 5,
-   "matches": 4,
+   "matches": 5,
    "data": true
-  },
-  {
-   "step": "draw check",
-   "id": "te-montevideo-challenger-2026",
-   "problem": "aguilar cardozo appears twice in 1st Round"
   },
   {
    "step": "event",
@@ -215,14 +230,14 @@
   },
   {
    "step": "profiles opened",
-   "count": 14
+   "count": 3
   }
  ],
  "ranks": [
   {
    "step": "rank lookup",
-   "searched": 37,
-   "matched": 36
+   "searched": 0,
+   "matched": 0
   }
  ]
 }
