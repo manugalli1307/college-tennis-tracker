@@ -6547,6 +6547,12 @@
  },
  {
   "tournament": "m-itf-usa-2026-050",
+  "player": "michigan-evan-burnett",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-050",
   "player": "tcu-oliver-bonding",
   "section": "Main Draw",
   "match": "draw"
@@ -6559,7 +6565,19 @@
  },
  {
   "tournament": "m-itf-usa-2026-050",
+  "player": "clemson-romain-gales",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-050",
   "player": "virginia-tech-ilyas-milad-fahim",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-050",
+  "player": "alumni-auburn-william-nolan",
   "section": "Main Draw",
   "match": "draw"
  },

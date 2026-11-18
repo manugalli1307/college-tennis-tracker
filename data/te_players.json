@@ -4310,5 +4310,29 @@
   "height": null,
   "weight": null,
   "asof": "2026-11-18"
+ },
+ "djere": {
+  "raw": "Djere Laslo",
+  "country": "Serbia",
+  "rank": 137,
+  "height": 188,
+  "weight": 82,
+  "asof": "2026-11-18"
+ },
+ "guerrieri": {
+  "raw": "Guerrieri Andrea",
+  "country": "Italy",
+  "rank": 160,
+  "height": 178,
+  "weight": null,
+  "asof": "2026-11-18"
+ },
+ "glinka": {
+  "raw": "Glinka Daniil",
+  "country": "Estonia",
+  "rank": 205,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-18"
  }
 }

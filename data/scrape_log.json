@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:27:53+00:00",
+ "updated": "2026-11-18T22:22:16+00:00",
  "atp": [
   {
    "step": "event",
@@ -148,6 +148,21 @@
   {
    "step": "draw check",
    "id": "te-masters-cup-atp-2026",
+   "problem": "flavio cobolli appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "carlos alcaraz appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "daniil medvedev appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
    "problem": "alexander zverev appears twice in Round"
   },
   {
@@ -171,7 +186,7 @@
    "name": "Champaign Challenger",
    "status": "current",
    "entries": 43,
-   "matches": 31,
+   "matches": 34,
    "data": true
   },
   {
@@ -180,7 +195,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 27,
+   "matches": 30,
    "data": true
   },
   {
@@ -189,7 +204,7 @@
    "name": "Helsinki Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 14,
+   "matches": 18,
    "data": true
   },
   {
@@ -207,7 +222,7 @@
    "name": "Metz Challenger",
    "status": "current",
    "entries": 9,
-   "matches": 11,
+   "matches": 14,
    "data": true
   },
   {
@@ -230,7 +245,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 166
+   "count": 3
   }
  ],
  "ranks": [
