@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:10:48+00:00",
+ "updated": "2026-11-18T12:27:53+00:00",
  "atp": [
   {
    "step": "event",
@@ -170,8 +170,8 @@
    "id": "te-champaign-challenger-2026",
    "name": "Champaign Challenger",
    "status": "current",
-   "entries": 42,
-   "matches": 29,
+   "entries": 43,
+   "matches": 31,
    "data": true
   },
   {
@@ -180,7 +180,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 21,
+   "matches": 27,
    "data": true
   },
   {
@@ -225,12 +225,12 @@
    "name": "Sydney Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 22,
+   "matches": 24,
    "data": true
   },
   {
    "step": "profiles opened",
-   "count": 3
+   "count": 166
   }
  ],
  "ranks": [
