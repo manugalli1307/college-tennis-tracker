@@ -85688,18 +85688,22 @@
     "name": "Adan Freire Da Silva",
     "country": "FRA",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
      "7",
      "6(4)"
     ],
     [
-     "2",
-     "1"
+     "5",
+     "7"
+    ],
+    [
+     "3",
+     "6"
     ]
    ],
    "live": true
@@ -85712,7 +85716,7 @@
     "name": "Bernardo Munk Mesa",
     "country": "ESP",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "california-bernardo-munk-mesa"
     ]
@@ -85726,19 +85730,15 @@
      "illinois-at-chicago-artem-alekseychuk"
     ]
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "3"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "4"
     ]
    ],
    "live": true
@@ -85817,7 +85817,7 @@
     "name": "Carles Hernandez",
     "country": "ESP",
     "seed": "3",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-mississippi-state-carles-hernandez"
     ]
@@ -85831,19 +85831,19 @@
      "alumni-middle-tennessee-karim-al-amin"
     ]
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "4",
+     "6"
     ],
     [
-     "",
-     ""
+     "6",
+     "4"
     ],
     [
-     "",
-     ""
+     "6",
+     "4"
     ]
    ],
    "live": true
@@ -85856,7 +85856,7 @@
     "name": "Nicolas Garcia Longo",
     "country": "ARG",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -85866,19 +85866,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "3"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "4"
     ]
    ],
    "live": true
@@ -85898,24 +85894,20 @@
     "name": "Jorge Plans",
     "country": "ESP",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-ucla-jorge-plans"
     ]
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "3",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6(1)",
+     "7"
     ]
    ],
    "live": true
@@ -85935,22 +85927,22 @@
     "name": "Alejandro Turriziani Alvarez",
     "country": "ESP",
     "seed": "8",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
+     "5",
+     "7"
     ],
     [
-     "",
-     ""
+     "3",
+     "6"
     ]
    ],
    "live": true
@@ -85994,7 +85986,7 @@
     "name": "Enrique Carrascosa Diaz",
     "country": "ESP",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -86004,19 +85996,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "4"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "7",
+     "6(7)"
     ]
    ],
    "live": true
@@ -86029,7 +86017,7 @@
     "name": "Borys Zgola",
     "country": "POL",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-grand-canyon-borys-zgola"
     ]
@@ -86041,19 +86029,19 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
+     "2",
+     "6"
     ],
     [
-     "",
-     ""
+     "6",
+     "2"
     ]
    ],
    "live": true
@@ -86141,22 +86129,18 @@
     "name": "Alejandro Garcia Carbajal",
     "country": "ESP",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6(4)",
+     "7"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "1",
+     "6"
     ]
    ],
    "live": true
@@ -86204,7 +86188,7 @@
     "name": "Jip Van Assendelft",
     "country": "NED",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-indiana-jip-van-assendelft"
     ]
@@ -86217,6 +86201,107 @@
     "roster": [
      "alumni-usf-alberto-barroso-campos"
     ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "6(2)"
+    ],
+    [
+     "4",
+     "6"
+    ],
+    [
+     "6",
+     "0"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-esp-2026-052",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Adan Freire Da Silva",
+    "country": "FRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Bernardo Munk Mesa",
+    "country": "ESP",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "california-bernardo-munk-mesa"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "5",
+     "7"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-esp-2026-052",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Zura Tkemaladze",
+    "country": "GEO",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Matt Ponchet",
+    "country": "FRA",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-esp-2026-052",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Carles Hernandez",
+    "country": "ESP",
+    "seed": "3",
+    "winner": false,
+    "roster": [
+     "alumni-mississippi-state-carles-hernandez"
+    ]
+   },
+   "p2": {
+    "name": "Nicolas Garcia Longo",
+    "country": "ARG",
+    "seed": "",
+    "winner": false,
+    "roster": []
    },
    "winner": 0,
    "sets": [
@@ -86240,11 +86325,186 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "Zura Tkemaladze",
-    "country": "GEO",
+    "name": "Jorge Plans",
+    "country": "ESP",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-ucla-jorge-plans"
+    ]
+   },
+   "p2": {
+    "name": "Alejandro Turriziani Alvarez",
+    "country": "ESP",
+    "seed": "8",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "0"
+    ],
+    [
+     "5",
+     "2"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-esp-2026-052",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Josip Simundza",
+    "country": "CRO",
+    "seed": "5",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Enrique Carrascosa Diaz",
+    "country": "ESP",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6(6)",
+     "7"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-esp-2026-052",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Borys Zgola",
+    "country": "POL",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-grand-canyon-borys-zgola"
+    ]
+   },
+   "p2": {
+    "name": "Pablo Perez Ramos",
+    "country": "ESP",
+    "seed": "4",
+    "winner": true,
+    "roster": [
+     "alumni-university-of-florida-pablo-perez-ramos"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "3",
+     "6"
+    ],
+    [
+     "5",
+     "7"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-esp-2026-052",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Luka Talan Lopatic",
+    "country": "SLO",
+    "seed": "6",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-oklahoma-luka-talan-lopatic"
+    ]
+   },
+   "p2": {
+    "name": "Alejandro Garcia Carbajal",
+    "country": "ESP",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-esp-2026-052",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "CHARLES CHEN",
+    "country": "CHN",
     "seed": "",
     "winner": false,
     "roster": []
+   },
+   "p2": {
+    "name": "Jip Van Assendelft",
+    "country": "NED",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-indiana-jip-van-assendelft"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-esp-2026-052",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Bernardo Munk Mesa",
+    "country": "ESP",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "california-bernardo-munk-mesa"
+    ]
    },
    "p2": {
     "name": "Matt Ponchet",
@@ -86273,20 +86533,22 @@
   {
    "tournament": "m-itf-esp-2026-052",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Josip Simundza",
-    "country": "CRO",
-    "seed": "5",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
     "name": "",
     "country": "",
     "seed": "",
     "winner": false,
     "roster": []
+   },
+   "p2": {
+    "name": "Jorge Plans",
+    "country": "ESP",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-ucla-jorge-plans"
+    ]
    },
    "winner": 0,
    "sets": [
@@ -86308,10 +86570,10 @@
   {
    "tournament": "m-itf-esp-2026-052",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Enrique Carrascosa Diaz",
+    "country": "ESP",
     "seed": "",
     "winner": false,
     "roster": []
@@ -86345,57 +86607,22 @@
   {
    "tournament": "m-itf-esp-2026-052",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Luka Talan Lopatic",
-    "country": "SLO",
-    "seed": "6",
+    "name": "Alejandro Garcia Carbajal",
+    "country": "ESP",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Jip Van Assendelft",
+    "country": "NED",
+    "seed": "",
     "winner": false,
     "roster": [
-     "alumni-university-of-oklahoma-luka-talan-lopatic"
+     "alumni-indiana-jip-van-assendelft"
     ]
-   },
-   "p2": {
-    "name": "",
-    "country": "",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-esp-2026-052",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "CHARLES CHEN",
-    "country": "CHN",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "",
-    "country": "",
-    "seed": "",
-    "winner": false,
-    "roster": []
    },
    "winner": 0,
    "sets": [
@@ -89980,7 +90207,7 @@
     "name": "Aziz Ouakaa",
     "country": "TUN",
     "seed": "1",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -89990,19 +90217,19 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "7",
+     "6(5)"
     ],
     [
-     "",
-     ""
+     "0",
+     "6"
     ],
     [
-     "",
-     ""
+     "6",
+     "2"
     ]
    ],
    "live": true
@@ -90019,6 +90246,107 @@
     "roster": [
      "alumni-oklahoma-state-mathieu-scaglia"
     ]
+   },
+   "p2": {
+    "name": "Kris van Wyk",
+    "country": "RSA",
+    "seed": "8",
+    "winner": true,
+    "roster": [
+     "alumni-weber-state-kris-van-wyk"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(3)",
+     "7"
+    ],
+    [
+     "6",
+     "4"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-tun-2026-047",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Nikita Belozertsev",
+    "country": "UZB",
+    "seed": "7",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Andrea Colombo",
+    "country": "ITA",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "6(5)",
+     "7"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-tun-2026-047",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Giulio Perego",
+    "country": "ITA",
+    "seed": "6",
+    "winner": true,
+    "roster": [
+     "alumni-texas-a-m-university-giulio-perego"
+    ]
+   },
+   "p2": {
+    "name": "Vincent Reisach",
+    "country": "GER",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-tun-2026-047",
+   "draw": "Main Draw",
+   "round": "Semi-finals",
+   "p1": {
+    "name": "Aziz Ouakaa",
+    "country": "TUN",
+    "seed": "1",
+    "winner": false,
+    "roster": []
    },
    "p2": {
     "name": "Kris van Wyk",
@@ -90049,43 +90377,15 @@
   {
    "tournament": "m-itf-tun-2026-047",
    "draw": "Main Draw",
-   "round": "Quarter-finals",
+   "round": "Semi-finals",
    "p1": {
-    "name": "Nikita Belozertsev",
-    "country": "UZB",
-    "seed": "7",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
     "name": "Andrea Colombo",
     "country": "ITA",
     "seed": "4",
     "winner": false,
     "roster": []
    },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-tun-2026-047",
-   "draw": "Main Draw",
-   "round": "Quarter-finals",
-   "p1": {
+   "p2": {
     "name": "Giulio Perego",
     "country": "ITA",
     "seed": "6",
@@ -90093,13 +90393,6 @@
     "roster": [
      "alumni-texas-a-m-university-giulio-perego"
     ]
-   },
-   "p2": {
-    "name": "Vincent Reisach",
-    "country": "GER",
-    "seed": "",
-    "winner": false,
-    "roster": []
    },
    "winner": 0,
    "sets": [
@@ -90644,7 +90937,7 @@
     "name": "Juan Estevez",
     "country": "ARG",
     "seed": "1",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -90654,19 +90947,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "1"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "2"
     ]
    ],
    "live": true
@@ -90679,6 +90968,227 @@
     "name": "DEMIAN AGUSTIN LUNA",
     "country": "ARG",
     "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Nicolas Bruna",
+    "country": "CHI",
+    "seed": "6",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "5",
+     "7"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-arg-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Francisco Crosio",
+    "country": "ARG",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Tomas Re",
+    "country": "ARG",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-arg-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Giovanni Branchetti",
+    "country": "ARG",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-gonzaga-giovanni-branchetti"
+    ]
+   },
+   "p2": {
+    "name": "Mateo Del Pino",
+    "country": "ARG",
+    "seed": "8",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-arg-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Dante Pagani",
+    "country": "ARG",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Rocco Valente",
+    "country": "ARG",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-arg-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Agustin Fernandez Badia",
+    "country": "ARG",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Lorenzo Gagliardo",
+    "country": "ARG",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "4",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-arg-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Fermin Tenti",
+    "country": "ARG",
+    "seed": "5",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Valentino Grippo",
+    "country": "ARG",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-arg-2026-012",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Vito Antonio Darderi",
+    "country": "ITA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Ivan Dreycopp",
+    "country": "ARG",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-charlotte-ivan-dreycopp"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "5",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-arg-2026-012",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Juan Estevez",
+    "country": "ARG",
+    "seed": "1",
     "winner": false,
     "roster": []
    },
@@ -90709,50 +91219,13 @@
   {
    "tournament": "m-itf-arg-2026-012",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Francisco Crosio",
-    "country": "ARG",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
     "name": "Tomas Re",
     "country": "ARG",
     "seed": "",
     "winner": false,
     "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-arg-2026-012",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Giovanni Branchetti",
-    "country": "ARG",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-gonzaga-giovanni-branchetti"
-    ]
    },
    "p2": {
     "name": "Mateo Del Pino",
@@ -90781,46 +91254,11 @@
   {
    "tournament": "m-itf-arg-2026-012",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
     "name": "Dante Pagani",
     "country": "ARG",
     "seed": "7",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Rocco Valente",
-    "country": "ARG",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-arg-2026-012",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Agustin Fernandez Badia",
-    "country": "ARG",
-    "seed": "",
     "winner": false,
     "roster": []
    },
@@ -90851,46 +91289,11 @@
   {
    "tournament": "m-itf-arg-2026-012",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
     "name": "Fermin Tenti",
     "country": "ARG",
     "seed": "5",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Valentino Grippo",
-    "country": "ARG",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-arg-2026-012",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Vito Antonio Darderi",
-    "country": "ITA",
-    "seed": "",
     "winner": false,
     "roster": []
    },
@@ -91338,13 +91741,11 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Max Sheldon",
-    "country": "USA",
+    "name": "",
+    "country": "",
     "seed": "",
     "winner": false,
-    "roster": [
-     "alumni-michigan-state-max-sheldon"
-    ]
+    "roster": []
    },
    "p2": {
     "name": "Charles Bertimon",
@@ -92085,7 +92486,7 @@
     "name": "Pedro Liborio",
     "country": "POR",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -92095,19 +92496,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "4"
     ]
    ],
    "live": true
@@ -92197,6 +92594,138 @@
     "name": "Felipe De Dios",
     "country": "ARG",
     "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "0",
+     "6"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-bol-2026-002",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Henry Best",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Bastian Malla",
+    "country": "CHI",
+    "seed": "4",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-bol-2026-002",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Joao Vitor Scramin do Lago",
+    "country": "BRA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Leonardo Suarez",
+    "country": "BOL",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-bol-2026-002",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Francisco Gay",
+    "country": "ARG",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Nicolas Villalon Valdes",
+    "country": "CHI",
+    "seed": "2",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6",
+     "0"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-bol-2026-002",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Pedro Liborio",
+    "country": "POR",
+    "seed": "",
     "winner": false,
     "roster": []
    },
@@ -92220,10 +92749,10 @@
   {
    "tournament": "m-itf-bol-2026-002",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Henry Best",
-    "country": "GBR",
+    "name": "Felipe De Dios",
+    "country": "ARG",
     "seed": "",
     "winner": false,
     "roster": []
@@ -92255,7 +92784,7 @@
   {
    "tournament": "m-itf-bol-2026-002",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
     "name": "Joao Vitor Scramin do Lago",
     "country": "BRA",
@@ -92264,44 +92793,9 @@
     "roster": []
    },
    "p2": {
-    "name": "Leonardo Suarez",
-    "country": "BOL",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-bol-2026-002",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
     "name": "Francisco Gay",
     "country": "ARG",
     "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Nicolas Villalon Valdes",
-    "country": "CHI",
-    "seed": "2",
     "winner": false,
     "roster": []
    },
@@ -92952,24 +93446,20 @@
     "name": "Stijn Paardekooper",
     "country": "NED",
     "seed": "7",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-utah-state-stijn-paardekooper"
     ]
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6(4)",
+     "7"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "5",
+     "7"
     ]
    ],
    "live": true
@@ -92989,22 +93479,18 @@
     "name": "Hazem Naw",
     "country": "SYR",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "3",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "3",
+     "6"
     ]
    ],
    "live": true
@@ -93155,11 +93641,13 @@
     "roster": []
    },
    "p2": {
-    "name": "",
-    "country": "",
-    "seed": "",
+    "name": "Stijn Paardekooper",
+    "country": "NED",
+    "seed": "7",
     "winner": false,
-    "roster": []
+    "roster": [
+     "alumni-utah-state-stijn-paardekooper"
+    ]
    },
    "winner": 0,
    "sets": [
@@ -93183,8 +93671,8 @@
    "draw": "Main Draw",
    "round": "Quarter-finals",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Hazem Naw",
+    "country": "SYR",
     "seed": "",
     "winner": false,
     "roster": []
@@ -94282,7 +94770,7 @@
     "name": "Lachlan Brain",
     "country": "AUS",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -94294,19 +94782,15 @@
      "alumni-university-of-texas-at-austin-jonah-braswell"
     ]
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "3"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "7",
+     "6(2)"
     ]
    ],
    "live": true
@@ -94326,24 +94810,20 @@
     "name": "Lorenzo Claverie",
     "country": "ITA",
     "seed": "5",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-university-of-florida-lorenzo-claverie"
     ]
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "4",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "2",
+     "6"
     ]
    ],
    "live": true
@@ -94356,7 +94836,7 @@
     "name": "Markus Molder",
     "country": "EST",
     "seed": "7",
-    "winner": false,
+    "winner": true,
     "roster": [
      "texas-a-m-university-markus-molder"
     ]
@@ -94368,19 +94848,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "3"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "4"
     ]
    ],
    "live": true
@@ -94424,7 +94900,7 @@
     "name": "Jules Leroux",
     "country": "FRA",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "nc-state-jules-leroux"
     ]
@@ -94438,19 +94914,15 @@
      "michigan-evan-burnett"
     ]
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "3"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "2"
     ]
    ],
    "live": true
@@ -94533,7 +95005,7 @@
     "name": "Romain Gales",
     "country": "FRA",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "clemson-romain-gales"
     ]
@@ -94545,19 +95017,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "0"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "1"
     ]
    ],
    "live": true
@@ -94609,7 +95077,7 @@
     "name": "Adam Majchrzak",
     "country": "POL",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "old-dominion-adam-majchrzak"
     ]
@@ -94623,19 +95091,15 @@
      "alumni-university-of-georgia-tristan-mccormick"
     ]
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "2"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "4"
     ]
    ],
    "live": true
@@ -94657,24 +95121,20 @@
     "name": "William Jansen",
     "country": "GBR",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-university-of-georgia-william-jansen"
     ]
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "3",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "2",
+     "2"
     ]
    ],
    "live": true
@@ -94687,7 +95147,7 @@
     "name": "Maximus Dussault",
     "country": "USA",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "tcu-maximus-dussault"
     ]
@@ -94701,19 +95161,15 @@
      "alumni-michigan-state-ronald-hohmann"
     ]
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "0"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "4"
     ]
    ],
    "live": true
@@ -94733,22 +95189,22 @@
     "name": "Teodor Davidov",
     "country": "USA",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "4"
     ],
     [
-     "",
-     ""
+     "3",
+     "6"
     ],
     [
-     "",
-     ""
+     "2",
+     "0"
     ]
    ],
    "live": true
@@ -94758,18 +95214,20 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Lachlan Brain",
+    "country": "AUS",
     "seed": "",
     "winner": false,
     "roster": []
    },
    "p2": {
-    "name": "Marcel Latak",
-    "country": "USA",
-    "seed": "",
+    "name": "Lorenzo Claverie",
+    "country": "ITA",
+    "seed": "5",
     "winner": false,
-    "roster": []
+    "roster": [
+     "alumni-university-of-florida-lorenzo-claverie"
+    ]
    },
    "winner": 0,
    "sets": [
@@ -94793,11 +95251,50 @@
    "draw": "Main Draw",
    "round": "2nd Round",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Markus Molder",
+    "country": "EST",
+    "seed": "7",
+    "winner": false,
+    "roster": [
+     "texas-a-m-university-markus-molder"
+    ]
+   },
+   "p2": {
+    "name": "Marcel Latak",
+    "country": "USA",
+    "seed": "",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "6",
+     "3"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-usa-2026-050",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Jules Leroux",
+    "country": "FRA",
     "seed": "",
     "winner": false,
-    "roster": []
+    "roster": [
+     "nc-state-jules-leroux"
+    ]
    },
    "p2": {
     "name": "Oliver Bonding",
@@ -94839,6 +95336,121 @@
     ]
    },
    "p2": {
+    "name": "Romain Gales",
+    "country": "FRA",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "clemson-romain-gales"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "2",
+     "6"
+    ],
+    [
+     "2",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-usa-2026-050",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Ilyas Milad Fahim",
+    "country": "USA",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "virginia-tech-ilyas-milad-fahim"
+    ]
+   },
+   "p2": {
+    "name": "Adam Majchrzak",
+    "country": "POL",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "old-dominion-adam-majchrzak"
+    ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-usa-2026-050",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "William Jansen",
+    "country": "GBR",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-georgia-william-jansen"
+    ]
+   },
+   "p2": {
+    "name": "Maximus Dussault",
+    "country": "USA",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "tcu-maximus-dussault"
+    ]
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-usa-2026-050",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Teodor Davidov",
+    "country": "USA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
     "name": "",
     "country": "",
     "seed": "",
@@ -94865,15 +95477,13 @@
   {
    "tournament": "m-itf-usa-2026-050",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Ilyas Milad Fahim",
+    "name": "Marcel Latak",
     "country": "USA",
     "seed": "",
     "winner": false,
-    "roster": [
-     "virginia-tech-ilyas-milad-fahim"
-    ]
+    "roster": []
    },
    "p2": {
     "name": "",
@@ -94881,6 +95491,45 @@
     "seed": "",
     "winner": false,
     "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-usa-2026-050",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Romain Gales",
+    "country": "FRA",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "clemson-romain-gales"
+    ]
+   },
+   "p2": {
+    "name": "Ilyas Milad Fahim",
+    "country": "USA",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "virginia-tech-ilyas-milad-fahim"
+    ]
    },
    "winner": 0,
    "sets": [
@@ -96413,24 +97062,24 @@
     "name": "Ioannis Xilas",
     "country": "GRE",
     "seed": "8",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-wake-forest-ioannis-xilas"
     ]
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "4"
     ],
     [
-     "",
-     ""
+     "6(5)",
+     "7"
     ],
     [
-     "",
-     ""
+     "0",
+     "3"
     ]
    ],
    "live": true
@@ -96614,11 +97263,13 @@
     "roster": []
    },
    "p2": {
-    "name": "",
-    "country": "",
-    "seed": "",
+    "name": "Ioannis Xilas",
+    "country": "GRE",
+    "seed": "8",
     "winner": false,
-    "roster": []
+    "roster": [
+     "alumni-wake-forest-ioannis-xilas"
+    ]
    },
    "winner": 0,
    "sets": [
@@ -97233,7 +97884,7 @@
     "name": "Juan Bautista Torres",
     "country": "ARG",
     "seed": "1",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -97243,19 +97894,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "3"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "3"
     ]
    ],
    "live": true
@@ -97277,22 +97924,18 @@
     "name": "Daniel Dutra da Silva",
     "country": "BRA",
     "seed": "7",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "1",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "3",
+     "6"
     ]
    ],
    "live": true
@@ -97305,7 +97948,7 @@
     "name": "Pedro Sakamoto",
     "country": "BRA",
     "seed": "4",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -97315,19 +97958,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "1"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "3"
     ]
    ],
    "live": true
@@ -97347,22 +97986,18 @@
     "name": "Javier Barranco Cosano",
     "country": "ESP",
     "seed": "8",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "3",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "1",
+     "6"
     ]
    ],
    "live": true
@@ -97375,7 +98010,7 @@
     "name": "Santiago Fa Rodriguez Taverna",
     "country": "ARG",
     "seed": "5",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -97385,19 +98020,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "1"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "1"
     ]
    ],
    "live": true
@@ -97445,7 +98076,7 @@
     "name": "Lorenzo Joaquin Rodriguez",
     "country": "ARG",
     "seed": "6",
-    "winner": false,
+    "winner": true,
     "roster": [
      "alumni-auburn-lorenzo-rodriguez"
     ]
@@ -97453,6 +98084,138 @@
    "p2": {
     "name": "Hernando Jose Escurra Isnardi",
     "country": "PAR",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-bra-2026-021",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Pedro Albuquerque Dietrich",
+    "country": "BRA",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Carlos Maria Zarate",
+    "country": "ARG",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "2",
+     "6"
+    ],
+    [
+     "1",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-bra-2026-021",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Juan Bautista Torres",
+    "country": "ARG",
+    "seed": "1",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Daniel Dutra da Silva",
+    "country": "BRA",
+    "seed": "7",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-bra-2026-021",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Pedro Sakamoto",
+    "country": "BRA",
+    "seed": "4",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Javier Barranco Cosano",
+    "country": "ESP",
+    "seed": "8",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-bra-2026-021",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Santiago Fa Rodriguez Taverna",
+    "country": "ARG",
+    "seed": "5",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "",
+    "country": "",
     "seed": "",
     "winner": false,
     "roster": []
@@ -97477,13 +98240,15 @@
   {
    "tournament": "m-itf-bra-2026-021",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Pedro Albuquerque Dietrich",
-    "country": "BRA",
-    "seed": "",
+    "name": "Lorenzo Joaquin Rodriguez",
+    "country": "ARG",
+    "seed": "6",
     "winner": false,
-    "roster": []
+    "roster": [
+     "alumni-auburn-lorenzo-rodriguez"
+    ]
    },
    "p2": {
     "name": "Carlos Maria Zarate",
@@ -98082,7 +98847,7 @@
     "name": "Branko Djuric",
     "country": "SRB",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": [
      "usc-branko-djuric"
     ]
@@ -98094,19 +98859,15 @@
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "3"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "2"
     ]
    ],
    "live": true
@@ -98119,7 +98880,7 @@
     "name": "Federico Bondioli",
     "country": "ITA",
     "seed": "4",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
@@ -98131,19 +98892,15 @@
      "alumni-tcu-pedro-vives-marcos"
     ]
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "4"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "6",
+     "3"
     ]
    ],
    "live": true
@@ -98163,22 +98920,22 @@
     "name": "Duje Ajdukovic",
     "country": "CRO",
     "seed": "8",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "4"
     ],
     [
-     "",
-     ""
+     "2",
+     "6"
     ],
     [
-     "",
-     ""
+     "1",
+     "6"
     ]
    ],
    "live": true
@@ -98268,22 +99025,18 @@
     "name": "Kasra Rahmani",
     "country": "IRI",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
-     "",
-     ""
+     "3",
+     "6"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "2",
+     "6"
     ]
    ],
    "live": true
@@ -98331,9 +99084,46 @@
     "roster": []
    },
    "p2": {
-    "name": "",
-    "country": "",
+    "name": "Branko Djuric",
+    "country": "SRB",
     "seed": "",
+    "winner": false,
+    "roster": [
+     "usc-branko-djuric"
+    ]
+   },
+   "winner": 0,
+   "sets": [
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-tun-2026-046",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Federico Bondioli",
+    "country": "ITA",
+    "seed": "4",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Duje Ajdukovic",
+    "country": "CRO",
+    "seed": "8",
     "winner": false,
     "roster": []
    },
@@ -98396,8 +99186,8 @@
    "draw": "Main Draw",
    "round": "Quarter-finals",
    "p1": {
-    "name": "",
-    "country": "",
+    "name": "Kasra Rahmani",
+    "country": "IRI",
     "seed": "",
     "winner": false,
     "roster": []
@@ -98474,18 +99264,22 @@
     "name": "Daniel Jade",
     "country": "FRA",
     "seed": "",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
-   "winner": 0,
+   "winner": 2,
    "sets": [
     [
      "2",
      "6"
     ],
     [
-     "6",
-     "6"
+     "7",
+     "6(5)"
+    ],
+    [
+     "5",
+     "7"
     ]
    ],
    "live": true
@@ -98960,29 +99754,25 @@
     "name": "Patrick Schoen",
     "country": "SUI",
     "seed": "1",
-    "winner": false,
+    "winner": true,
     "roster": []
    },
    "p2": {
-    "name": "",
-    "country": "",
+    "name": "Daniel Jade",
+    "country": "FRA",
     "seed": "",
     "winner": false,
     "roster": []
    },
-   "winner": 0,
+   "winner": 1,
    "sets": [
     [
-     "",
-     ""
+     "6",
+     "1"
     ],
     [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
+     "3",
+     "0"
     ]
    ],
    "live": true
@@ -98995,6 +99785,253 @@
     "name": "Tiago Cacao",
     "country": "POR",
     "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Olle Wallin",
+    "country": "SWE",
+    "seed": "5",
+    "winner": true,
+    "roster": [
+     "alumni-texas-tech-olle-wallin"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "5",
+     "7"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-por-2026-016",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Pavel Lagutin",
+    "country": "",
+    "seed": "3",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Justin Lenders",
+    "country": "SUI",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-por-2026-016",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Diogo Morais",
+    "country": "POR",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-ucsb-diogo-morais"
+    ]
+   },
+   "p2": {
+    "name": "Leonardo Rossi",
+    "country": "ITA",
+    "seed": "6",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "2",
+     "6"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-por-2026-016",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Goncalo Marques",
+    "country": "POR",
+    "seed": "8",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Francisco Rocha",
+    "country": "POR",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-middle-tennessee-francisco-rocha"
+    ]
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6(5)",
+     "7"
+    ],
+    [
+     "0",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-por-2026-016",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Pedro Rodenas",
+    "country": "ESP",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-duke-pedro-rodenas"
+    ]
+   },
+   "p2": {
+    "name": "Lewie Lane",
+    "country": "GER",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-por-2026-016",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Joao Domingues",
+    "country": "POR",
+    "seed": "7",
+    "winner": true,
+    "roster": []
+   },
+   "p2": {
+    "name": "Rafael Izquierdo Luque",
+    "country": "ESP",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-nc-state-rafael-izquierdo-luque"
+    ]
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-por-2026-016",
+   "draw": "Main Draw",
+   "round": "2nd Round",
+   "p1": {
+    "name": "Mario Gonzalez Fernandez",
+    "country": "ESP",
+    "seed": "",
+    "winner": false,
+    "roster": []
+   },
+   "p2": {
+    "name": "Sebastian Sorger",
+    "country": "AUT",
+    "seed": "2",
+    "winner": true,
+    "roster": []
+   },
+   "winner": 2,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "3",
+     "6"
+    ],
+    [
+     "3",
+     "6"
+    ]
+   ],
+   "live": true
+  },
+  {
+   "tournament": "m-itf-por-2026-016",
+   "draw": "Main Draw",
+   "round": "Quarter-finals",
+   "p1": {
+    "name": "Patrick Schoen",
+    "country": "SUI",
+    "seed": "1",
     "winner": false,
     "roster": []
    },
@@ -99027,7 +100064,7 @@
   {
    "tournament": "m-itf-por-2026-016",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
     "name": "Pavel Lagutin",
     "country": "",
@@ -99036,34 +100073,6 @@
     "roster": []
    },
    "p2": {
-    "name": "Justin Lenders",
-    "country": "SUI",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-por-2026-016",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
     "name": "Diogo Morais",
     "country": "POR",
     "seed": "",
@@ -99072,13 +100081,6 @@
      "alumni-ucsb-diogo-morais"
     ]
    },
-   "p2": {
-    "name": "Leonardo Rossi",
-    "country": "ITA",
-    "seed": "6",
-    "winner": false,
-    "roster": []
-   },
    "winner": 0,
    "sets": [
     [
@@ -99099,15 +100101,8 @@
   {
    "tournament": "m-itf-por-2026-016",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
-    "name": "Goncalo Marques",
-    "country": "POR",
-    "seed": "8",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
     "name": "Francisco Rocha",
     "country": "POR",
     "seed": "",
@@ -99116,28 +100111,7 @@
      "alumni-middle-tennessee-francisco-rocha"
     ]
    },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-por-2026-016",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
+   "p2": {
     "name": "Pedro Rodenas",
     "country": "ESP",
     "seed": "",
@@ -99146,13 +100120,6 @@
      "alumni-duke-pedro-rodenas"
     ]
    },
-   "p2": {
-    "name": "Lewie Lane",
-    "country": "GER",
-    "seed": "",
-    "winner": false,
-    "roster": []
-   },
    "winner": 0,
    "sets": [
     [
@@ -99173,48 +100140,11 @@
   {
    "tournament": "m-itf-por-2026-016",
    "draw": "Main Draw",
-   "round": "2nd Round",
+   "round": "Quarter-finals",
    "p1": {
     "name": "Joao Domingues",
     "country": "POR",
     "seed": "7",
-    "winner": false,
-    "roster": []
-   },
-   "p2": {
-    "name": "Rafael Izquierdo Luque",
-    "country": "ESP",
-    "seed": "",
-    "winner": false,
-    "roster": [
-     "alumni-nc-state-rafael-izquierdo-luque"
-    ]
-   },
-   "winner": 0,
-   "sets": [
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ],
-    [
-     "",
-     ""
-    ]
-   ],
-   "live": true
-  },
-  {
-   "tournament": "m-itf-por-2026-016",
-   "draw": "Main Draw",
-   "round": "2nd Round",
-   "p1": {
-    "name": "Mario Gonzalez Fernandez",
-    "country": "ESP",
-    "seed": "",
     "winner": false,
     "roster": []
    },
@@ -121195,12 +122125,12 @@
     "slot": 25
    },
    "p2": {
-    "name": "Noguchi",
-    "country": "",
+    "name": "Rio Noguchi",
+    "country": "Japan",
     "seed": "8",
     "winner": false,
     "roster": [],
-    "rank": null,
+    "rank": 214,
     "slot": 16
    },
    "winner": 1,
@@ -121358,12 +122288,12 @@
    "draw": "Main Draw",
    "round": "Quarterfinals",
    "p1": {
-    "name": "Noguchi",
-    "country": "",
+    "name": "Rio Noguchi",
+    "country": "Japan",
     "seed": "8",
     "winner": true,
     "roster": [],
-    "rank": null,
+    "rank": 214,
     "slot": 16
    },
    "p2": {
@@ -121499,12 +122429,12 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
-    "name": "Noguchi",
-    "country": "",
+    "name": "Rio Noguchi",
+    "country": "Japan",
     "seed": "8",
     "winner": true,
     "roster": [],
-    "rank": null,
+    "rank": 214,
     "slot": 16
    },
    "p2": {
@@ -121717,12 +122647,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Noguchi",
-    "country": "",
+    "name": "Rio Noguchi",
+    "country": "Japan",
     "seed": "8",
     "winner": true,
     "roster": [],
-    "rank": null,
+    "rank": 214,
     "slot": 16
    },
    "p2": {
@@ -126363,6 +127293,76 @@
    "draw": "Main Draw",
    "round": "Round",
    "p1": {
+    "name": "Alexander Zverev",
+    "country": "Germany",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 1
+   },
+   "p2": {
+    "name": "Arthur Fils",
+    "country": "France",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": 7
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "7",
+     "6(6)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-masters-cup-atp-2026",
+   "draw": "Main Draw",
+   "round": "Round",
+   "p1": {
+    "name": "Ben Shelton",
+    "country": "USA",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-university-of-florida-ben-shelton"
+    ],
+    "rank": 4
+   },
+   "p2": {
+    "name": "Rafael Jodar",
+    "country": "Spain",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-virginia-rafael-jodar"
+    ],
+    "rank": 10
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "6(8)"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-masters-cup-atp-2026",
+   "draw": "Main Draw",
+   "round": "Round",
+   "p1": {
     "name": "Tiafoe",
     "country": "",
     "seed": "",
@@ -126640,6 +127640,132 @@
   }
  ],
  "te-champaign-challenger-2026": [
+  {
+   "tournament": "te-champaign-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Harry Wendelken",
+    "country": "Great Britain",
+    "seed": "1",
+    "winner": true,
+    "roster": [],
+    "rank": 239,
+    "slot": 0
+   },
+   "p2": {
+    "name": "Geoffrey Blancaneaux",
+    "country": "France",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": 441,
+    "slot": 3
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "0",
+     "6"
+    ],
+    [
+     "7",
+     "6(4)"
+    ],
+    [
+     "7",
+     "6(5)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-champaign-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Gavin Young",
+    "country": "USA",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-michigan-gavin-young"
+    ],
+    "rank": 539,
+    "slot": 18
+   },
+   "p2": {
+    "name": "Sebastian Dominko",
+    "country": "Slovenia",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-notre-dame-sebastian-dominko"
+    ],
+    "rank": 446,
+    "key": "LL",
+    "slot": 16
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6(3)",
+     "7"
+    ],
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "1"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-champaign-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Bor Artnak",
+    "country": "Slovenia",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "texas-a-m-university-bor-artnak"
+    ],
+    "rank": 522,
+    "slot": 21
+   },
+   "p2": {
+    "name": "Alastair Gray",
+    "country": "Great Britain",
+    "seed": "4",
+    "winner": false,
+    "roster": [
+     "alumni-tcu-alastair-gray"
+    ],
+    "rank": 264,
+    "slot": 23
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
   {
    "tournament": "te-champaign-challenger-2026",
    "draw": "Main Draw",
@@ -128115,6 +129241,155 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
+    "name": "James Trotter",
+    "country": "Japan",
+    "seed": "",
+    "winner": true,
+    "roster": [
+     "alumni-ohio-state-james-trotter"
+    ],
+    "rank": 538,
+    "slot": 2
+   },
+   "p2": {
+    "name": "Louis Wessels",
+    "country": "Germany",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": 457,
+    "slot": 1
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-drummondville-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Aidan Mayo",
+    "country": "USA",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 236,
+    "slot": 5
+   },
+   "p2": {
+    "name": "Hynek Barton",
+    "country": "Czech Republic",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": 284,
+    "slot": 6
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "7",
+     "6(4)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-drummondville-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Stefan Kozlov",
+    "country": "USA",
+    "seed": "8",
+    "winner": true,
+    "roster": [],
+    "rank": 271,
+    "slot": 24
+   },
+   "p2": {
+    "name": "Vignesh Gogineni",
+    "country": "USA",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-yale-vignesh-gogineni"
+    ],
+    "rank": 739,
+    "key": "Q",
+    "slot": 26
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "2"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-drummondville-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Clement Chidekh",
+    "country": "France",
+    "seed": "2",
+    "winner": true,
+    "roster": [
+     "alumni-washington-clement-chidekh"
+    ],
+    "rank": 116,
+    "slot": 31
+   },
+   "p2": {
+    "name": "Patrick Zahraj",
+    "country": "Germany",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-ucla-patrick-zahraj"
+    ],
+    "rank": 530,
+    "slot": 28
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-drummondville-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
     "name": "Darwin Blanch",
     "country": "USA",
     "seed": "3",
@@ -128577,12 +129852,12 @@
    "draw": "Main Draw",
    "round": "1st Round",
    "p1": {
-    "name": "Wessels",
-    "country": "",
+    "name": "Louis Wessels",
+    "country": "Germany",
     "seed": "",
     "winner": true,
     "roster": [],
-    "rank": null,
+    "rank": 457,
     "slot": 1
    },
    "p2": {
@@ -129370,6 +130645,164 @@
   }
  ],
  "te-helsinki-challenger-2026": [
+  {
+   "tournament": "te-helsinki-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Otto Virtanen",
+    "country": "Finland",
+    "seed": "7",
+    "winner": true,
+    "roster": [],
+    "rank": 107,
+    "slot": 15
+   },
+   "p2": {
+    "name": "Alexander Ritschard",
+    "country": "Switzerland",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-university-of-virginia-alexander-ritschard"
+    ],
+    "rank": 278,
+    "key": "Q",
+    "slot": 13
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "4",
+     "6"
+    ],
+    [
+     "6",
+     "1"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-helsinki-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Edas Butvilas",
+    "country": "Lithuania",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 210,
+    "slot": 3
+   },
+   "p2": {
+    "name": "Eero Vasa",
+    "country": "Finland",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-pepperdine-eero-vasa"
+    ],
+    "rank": 483,
+    "key": "WC",
+    "slot": 1
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "1"
+    ],
+    [
+     "7",
+     "5"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-helsinki-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Svrcina",
+    "country": "",
+    "seed": "4",
+    "winner": true,
+    "roster": [],
+    "rank": null,
+    "slot": 8
+   },
+   "p2": {
+    "name": "Travaglia",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": null,
+    "slot": 10
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-helsinki-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Nishesh Basavareddy",
+    "country": "USA",
+    "seed": "6",
+    "winner": true,
+    "roster": [
+     "alumni-stanford-nishesh-basavareddy"
+    ],
+    "rank": 117,
+    "slot": 7
+   },
+   "p2": {
+    "name": "Borna Gojo",
+    "country": "Croatia",
+    "seed": "",
+    "winner": false,
+    "roster": [
+     "alumni-wake-forest-borna-gojo"
+    ],
+    "rank": 127,
+    "slot": 5
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "3",
+     "6"
+    ],
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
   {
    "tournament": "te-helsinki-challenger-2026",
    "draw": "Main Draw",
@@ -132301,6 +133734,194 @@
    "draw": "Main Draw",
    "round": "Round of 16",
    "p1": {
+    "name": "Pierre-Hugues Herbert",
+    "country": "France",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 254,
+    "key": "WC",
+    "slot": 13
+   },
+   "p2": {
+    "name": "Piros",
+    "country": "",
+    "seed": "6",
+    "winner": false,
+    "roster": [],
+    "rank": null,
+    "slot": 15
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "4",
+     "6"
+    ],
+    [
+     "7",
+     "6(4)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-metz-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Harold Mayot",
+    "country": "France",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 208,
+    "key": "WC",
+    "slot": 5
+   },
+   "p2": {
+    "name": "Hugo Gaston",
+    "country": "France",
+    "seed": "7",
+    "winner": false,
+    "roster": [],
+    "rank": 111,
+    "slot": 7
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "7",
+     "5"
+    ],
+    [
+     "4",
+     "6"
+    ],
+    [
+     "7",
+     "6(4)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-metz-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Luca Nardi",
+    "country": "Italy",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 258,
+    "key": "Q",
+    "slot": 28
+   },
+   "p2": {
+    "name": "Kyrian Jacquet",
+    "country": "France",
+    "seed": "2",
+    "winner": false,
+    "roster": [],
+    "rank": 86,
+    "slot": 31
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "6",
+     "3"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-metz-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Sascha Gueymard Wayenburg",
+    "country": "France",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 191,
+    "slot": 25
+   },
+   "p2": {
+    "name": "Arthur Nagel",
+    "country": "France",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": 363,
+    "key": "WC",
+    "slot": 26
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "2"
+    ],
+    [
+     "7",
+     "6(3)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-metz-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Kwon",
+    "country": "",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": null,
+    "slot": 19
+   },
+   "p2": {
+    "name": "Donald",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": null,
+    "key": "LL",
+    "slot": 17
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "4"
+    ],
+    [
+     "7",
+     "6(2)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-metz-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
     "name": "Passaro",
     "country": "",
     "seed": "",
@@ -133629,6 +135250,78 @@
   }
  ],
  "te-montevideo-challenger-2026": [
+  {
+   "tournament": "te-montevideo-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Seyboth Wild",
+    "country": "",
+    "seed": "2",
+    "winner": true,
+    "roster": [],
+    "rank": null,
+    "slot": 31
+   },
+   "p2": {
+    "name": "Sanchez Jover",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": null,
+    "key": "Q",
+    "slot": 29
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "7",
+     "6(4)"
+    ]
+   ],
+   "live": false
+  },
+  {
+   "tournament": "te-montevideo-challenger-2026",
+   "draw": "Main Draw",
+   "round": "Round of 16",
+   "p1": {
+    "name": "Oriol Roca Batalla",
+    "country": "Spain",
+    "seed": "",
+    "winner": true,
+    "roster": [],
+    "rank": 287,
+    "key": "Q",
+    "slot": 25
+   },
+   "p2": {
+    "name": "Kolar",
+    "country": "",
+    "seed": "",
+    "winner": false,
+    "roster": [],
+    "rank": null,
+    "slot": 27
+   },
+   "winner": 1,
+   "sets": [
+    [
+     "6",
+     "3"
+    ],
+    [
+     "6",
+     "4"
+    ]
+   ],
+   "live": false
+  },
   {
    "tournament": "te-montevideo-challenger-2026",
    "draw": "Main Draw",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:20:21+00:00",
+ "updated": "2026-11-19T22:15:26+00:00",
  "atp": [
   {
    "step": "event",
@@ -142,8 +142,28 @@
    "name": "Masters Cup ATP ATP",
    "status": "current",
    "entries": 0,
-   "matches": 4,
+   "matches": 5,
    "data": true
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "alexander zverev appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "arthur fils appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "ben shelton appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "rafael jodar appears twice in Round"
   },
   {
    "step": "draw check",
@@ -186,7 +206,7 @@
    "name": "Champaign Challenger",
    "status": "current",
    "entries": 43,
-   "matches": 36,
+   "matches": 38,
    "data": true
   },
   {
@@ -195,7 +215,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 32,
+   "matches": 35,
    "data": true
   },
   {
@@ -204,7 +224,7 @@
    "name": "Helsinki Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 18,
+   "matches": 21,
    "data": true
   },
   {
@@ -299,7 +319,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 131
+   "count": 1
   }
  ],
  "ranks": [
