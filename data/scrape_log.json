@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:22:16+00:00",
+ "updated": "2026-11-19T12:20:21+00:00",
  "atp": [
   {
    "step": "event",
@@ -186,7 +186,7 @@
    "name": "Champaign Challenger",
    "status": "current",
    "entries": 43,
-   "matches": 34,
+   "matches": 36,
    "data": true
   },
   {
@@ -195,7 +195,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 30,
+   "matches": 32,
    "data": true
   },
   {
@@ -213,7 +213,7 @@
    "name": "Kobe Challenger",
    "status": "current",
    "entries": 4,
-   "matches": 4,
+   "matches": 7,
    "data": true
   },
   {
@@ -231,7 +231,7 @@
    "name": "Montevideo Challenger",
    "status": "current",
    "entries": 5,
-   "matches": 5,
+   "matches": 6,
    "data": true
   },
   {
@@ -240,12 +240,66 @@
    "name": "Sydney Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 24,
+   "matches": 28,
    "data": true
   },
   {
+   "step": "event",
+   "id": "te-ankara-challenger-2026",
+   "name": "Ankara Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-florianopolis-challenger-2026",
+   "name": "Florianopolis Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-hersonissos-6-challenger-2026",
+   "name": "Hersonissos 6 Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-playford-2-challenger-2026",
+   "name": "Playford 2 Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-yokohama-challenger-2026",
+   "name": "Yokohama Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-next-gen-atp-finals-2026",
+   "name": "Next Gen ATP Finals ATP",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
    "step": "profiles opened",
-   "count": 3
+   "count": 131
   }
  ],
  "ranks": [
