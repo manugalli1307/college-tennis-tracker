@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:19:34+00:00",
+ "updated": "2026-11-20T22:11:06+00:00",
  "atp": [
   {
    "step": "event",
@@ -148,6 +148,21 @@
   {
    "step": "draw check",
    "id": "te-masters-cup-atp-2026",
+   "problem": "daniil medvedev appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "carlos alcaraz appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
+   "problem": "flavio cobolli appears twice in Round"
+  },
+  {
+   "step": "draw check",
+   "id": "te-masters-cup-atp-2026",
    "problem": "alexander zverev appears twice in Round"
   },
   {
@@ -191,22 +206,12 @@
    "problem": "ben shelton appears twice in Round"
   },
   {
-   "step": "draw check",
-   "id": "te-masters-cup-atp-2026",
-   "problem": "arthur fils appears twice in Round"
-  },
-  {
-   "step": "draw check",
-   "id": "te-masters-cup-atp-2026",
-   "problem": "rafael jodar appears twice in Round"
-  },
-  {
    "step": "event",
    "id": "te-champaign-challenger-2026",
    "name": "Champaign Challenger",
    "status": "current",
    "entries": 43,
-   "matches": 39,
+   "matches": 41,
    "data": true
   },
   {
@@ -215,7 +220,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 37,
+   "matches": 38,
    "data": true
   },
   {
@@ -224,7 +229,7 @@
    "name": "Helsinki Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 21,
+   "matches": 23,
    "data": true
   },
   {
@@ -242,7 +247,7 @@
    "name": "Metz Challenger",
    "status": "current",
    "entries": 9,
-   "matches": 14,
+   "matches": 15,
    "data": true
   },
   {
@@ -251,7 +256,7 @@
    "name": "Montevideo Challenger",
    "status": "current",
    "entries": 5,
-   "matches": 6,
+   "matches": 7,
    "data": true
   },
   {
@@ -292,8 +297,26 @@
   },
   {
    "step": "event",
+   "id": "te-monastir-2-challenger-2026",
+   "name": "Monastir 2 Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
    "id": "te-playford-2-challenger-2026",
    "name": "Playford 2 Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-san-salvador-challenger-2026",
+   "name": "San Salvador Challenger",
    "status": "upcoming",
    "entries": 0,
    "matches": 0,
@@ -319,7 +342,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 3
+   "count": 0
   }
  ],
  "ranks": [
