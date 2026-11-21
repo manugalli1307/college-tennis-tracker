@@ -1465,7 +1465,9 @@
  "alumni-baylor-university-finn-bass": {
   "country": "Great Britain",
   "asof": "2026-11-16",
-  "rank": 1188
+  "rank": 1188,
+  "height": 180,
+  "weight": 80
  },
  "alumni-baylor-university-marko-miladinovic": {
   "country": "Serbia",
@@ -1670,7 +1672,8 @@
  "alumni-usc-daniel-cukierman": {
   "country": "Israel",
   "asof": "2026-11-16",
-  "rank": 1382
+  "rank": 1382,
+  "weight": 70
  },
  "alumni-university-of-georgia-ryan-colby": {
   "country": "USA",
@@ -3107,7 +3110,9 @@
  "alumni-usf-alberto-barroso-campos": {
   "country": "Spain",
   "asof": "2026-11-16",
-  "rank": 692
+  "rank": 692,
+  "height": 178,
+  "weight": 72
  },
  "alumni-northern-arizona-tim-handel": {
   "country": "Germany",
@@ -3352,7 +3357,8 @@
  "alumni-oklahoma-state-mathieu-scaglia": {
   "country": "France",
   "asof": "2026-11-16",
-  "rank": 1006
+  "rank": 1006,
+  "height": 182
  },
  "alumni-oral-roberts-ezequiel-monferrer": {
   "country": "Argentina",
@@ -3517,7 +3523,9 @@
  "alumni-usc-wojciech-marek": {
   "country": "Poland",
   "asof": "2026-11-16",
-  "rank": 1137
+  "rank": 1137,
+  "height": 193,
+  "weight": 81
  },
  "alumni-new-mexico-daniil-kakhniuk": {
   "country": "Belarus",
@@ -3815,7 +3823,9 @@
  "alumni-unlv-courtney-john-lock": {
   "country": "Zimbabwe",
   "asof": "2026-11-16",
-  "rank": 1657
+  "rank": 1657,
+  "height": 193,
+  "weight": 88
  },
  "alumni-south-carolina-state-novak-novakovic": {
   "country": "Serbia",

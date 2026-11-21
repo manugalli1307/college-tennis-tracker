@@ -1254,6 +1254,28 @@
   "url": "https://www.tennisexplorer.com/sydney-challenger/2026/atp-men/"
  },
  {
+  "id": "te-ankara-challenger-2026",
+  "name": "Ankara Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/ankara-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-hersonissos-6-challenger-2026",
+  "name": "Hersonissos 6 Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/hersonissos-6-challenger/2026/atp-men/"
+ },
+ {
   "id": "m-itf-tur-2026-030",
   "name": "M15 Antalya",
   "category": "M15",
@@ -1340,6 +1362,39 @@
   "end": "2026-11-29",
   "status": "upcoming",
   "url": "https://www.itftennis.com/en/tournament/m25-hradec-kralove/cze/2026/m-itf-cze-2026-005/"
+ },
+ {
+  "id": "te-monastir-2-challenger-2026",
+  "name": "Monastir 2 Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/monastir-2-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-playford-2-challenger-2026",
+  "name": "Playford 2 Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/playford-2-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-yokohama-challenger-2026",
+  "name": "Yokohama Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-23",
+  "end": "2026-11-29",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/yokohama-challenger/2026/atp-men/"
  },
  {
   "id": "m-itf-tur-2026-031",

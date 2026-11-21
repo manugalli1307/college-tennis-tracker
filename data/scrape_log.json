@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:07:36+00:00",
+ "updated": "2026-11-21T22:03:25+00:00",
  "atp": [
   {
    "step": "event",
@@ -142,7 +142,7 @@
    "name": "Masters Cup ATP ATP",
    "status": "current",
    "entries": 0,
-   "matches": 5,
+   "matches": 6,
    "data": true
   },
   {
@@ -211,7 +211,7 @@
    "name": "Champaign Challenger",
    "status": "current",
    "entries": 43,
-   "matches": 42,
+   "matches": 44,
    "data": true
   },
   {
@@ -220,7 +220,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 41,
+   "matches": 42,
    "data": true
   },
   {
@@ -229,7 +229,7 @@
    "name": "Helsinki Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 24,
+   "matches": 25,
    "data": true
   },
   {
@@ -273,9 +273,9 @@
    "id": "te-ankara-challenger-2026",
    "name": "Ankara Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 7,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -291,27 +291,27 @@
    "id": "te-hersonissos-6-challenger-2026",
    "name": "Hersonissos 6 Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 12,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
    "id": "te-monastir-2-challenger-2026",
    "name": "Monastir 2 Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 12,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
    "id": "te-playford-2-challenger-2026",
    "name": "Playford 2 Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 21,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -327,9 +327,9 @@
    "id": "te-yokohama-challenger-2026",
    "name": "Yokohama Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 4,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -342,7 +342,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 26
+   "count": 30
   }
  ],
  "ranks": [
