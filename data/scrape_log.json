@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:11:06+00:00",
+ "updated": "2026-11-21T12:07:36+00:00",
  "atp": [
   {
    "step": "event",
@@ -211,7 +211,7 @@
    "name": "Champaign Challenger",
    "status": "current",
    "entries": 43,
-   "matches": 41,
+   "matches": 42,
    "data": true
   },
   {
@@ -220,7 +220,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 38,
+   "matches": 41,
    "data": true
   },
   {
@@ -229,7 +229,7 @@
    "name": "Helsinki Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 23,
+   "matches": 24,
    "data": true
   },
   {
@@ -238,7 +238,7 @@
    "name": "Kobe Challenger",
    "status": "current",
    "entries": 4,
-   "matches": 8,
+   "matches": 9,
    "data": true
   },
   {
@@ -265,7 +265,7 @@
    "name": "Sydney Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 30,
+   "matches": 31,
    "data": true
   },
   {
@@ -342,7 +342,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 0
+   "count": 26
   }
  ],
  "ranks": [
