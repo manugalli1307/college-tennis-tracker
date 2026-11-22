@@ -3079,7 +3079,9 @@
  "alumni-auburn-conner-huertas-del-pino": {
   "country": "Peru",
   "asof": "2026-11-16",
-  "rank": 633
+  "rank": 633,
+  "height": 188,
+  "weight": 86
  },
  "alumni-ucf-alan-fernando-rubio-fierros": {
   "country": "Mexico",
@@ -3731,9 +3733,11 @@
   "unranked": true
  },
  "alumni-northern-kentucky-jody-maginley": {
-  "country": "",
-  "asof": "2026-11-05",
-  "rank": 1526
+  "country": "Antigua and Barbuda",
+  "asof": "2026-11-22",
+  "rank": 1536,
+  "height": 193,
+  "weight": 88
  },
  "alumni-north-carolina-logan-zapp": {
   "country": "USA",
@@ -3875,7 +3879,9 @@
  "alumni-old-dominion-brandon-perez": {
   "country": "Venezuela",
   "asof": "2026-11-16",
-  "rank": 1779
+  "rank": 1779,
+  "height": 191,
+  "weight": 83
  },
  "alumni-indiana-jip-van-assendelft": {
   "country": "Netherlands",

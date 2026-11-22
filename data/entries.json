@@ -2412,6 +2412,66 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-baylor-university-matias-soto",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-etsu-frazier-rengifo",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-tulane-rafael-de-alba",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-old-dominion-brandon-perez",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-ucf-alan-fernando-rubio-fierros",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-desert-elijah-strode",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-university-of-florida-lorenzo-claverie",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-university-of-oklahoma-luis-carlos-alvarez",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-arizona-state-maxwell-mckennon",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "player": "alumni-miami-fl-jesse-flores",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-tur-2026-030",
   "player": "alumni-oregon-vlad-cristian-breazu",
   "section": "Main Draw Direct Acceptance",
@@ -2863,12 +2923,6 @@
  },
  {
   "tournament": "m-itf-esp-2026-051",
-  "player": "denver-ander-tarrio-ponte",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-esp-2026-051",
   "player": "alumni-grand-canyon-borys-zgola",
   "section": "Qualifying",
   "match": "full name"
@@ -3074,6 +3128,12 @@
  {
   "tournament": "m-itf-usa-2026-054",
   "player": "usc-connor-church",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-054",
+  "player": "pepperdine-photos-photiades",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -3458,12 +3518,6 @@
  {
   "tournament": "m-itf-tun-2026-049",
   "player": "alumni-university-of-texas-at-austin-gilles-arnaud-bailly",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-049",
-  "player": "alumni-tcu-pedro-vives-marcos",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -4518,6 +4572,36 @@
   "match": "full name"
  },
  {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-lsu-boris-arias",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-tennessee-tech-rafael-tosetto",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-auburn-conner-huertas-del-pino",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-texas-tech-franco-ribero",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-louisville-natan-rodrigues",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
   "tournament": "te-hersonissos-6-challenger-2026",
   "player": "alumni-georgia-tech-andres-martin",
   "section": "Main Draw",
@@ -4784,6 +4868,132 @@
  {
   "tournament": "te-playford-2-challenger-2026",
   "player": "alumni-tulane-billy-suarez",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-university-of-texas-at-austin-timo-legout",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-university-of-florida-lorenzo-claverie",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "duke-yannick-theodor-alexandrescou",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-tennessee-blaise-bicknell",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "mississippi-state-segundo-goity-zapico",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-california-theodore-dean",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "tcu-oliver-bonding",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-western-michigan-benjamin-thomas-george",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-ucf-alan-fernando-rubio-fierros",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-university-of-south-carolina-lucas-andrade-da-silva",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "mississippi-state-diego-duran",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-miami-fl-jesse-flores",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "wake-forest-joaquin-guilleme",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "university-of-oklahoma-luciano-ambrogi",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-north-carolina-karl-poling",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "arizona-state-ofek-shimanov",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-ucla-jeffrey-fradkin",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-university-of-florida-axel-nefve",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-old-dominion-brandon-perez",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-desert-elijah-strode",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-northern-kentucky-jody-maginley",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -5288,66 +5498,6 @@
  {
   "tournament": "m-itf-can-2026-004",
   "player": "alumni-pepperdine-daniel-de-jonge",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-baylor-university-matias-soto",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-etsu-frazier-rengifo",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-tulane-rafael-de-alba",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-old-dominion-brandon-perez",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-ucf-alan-fernando-rubio-fierros",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-desert-elijah-strode",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-university-of-florida-lorenzo-claverie",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-university-of-oklahoma-luis-carlos-alvarez",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-arizona-state-maxwell-mckennon",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "player": "alumni-miami-fl-jesse-flores",
   "section": "Main Draw",
   "match": "draw"
  },

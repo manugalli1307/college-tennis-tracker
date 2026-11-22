@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:03:25+00:00",
+ "updated": "2026-11-22T12:05:23+00:00",
  "atp": [
   {
    "step": "event",
@@ -140,7 +140,7 @@
    "step": "event",
    "id": "te-masters-cup-atp-2026",
    "name": "Masters Cup ATP ATP",
-   "status": "current",
+   "status": "past",
    "entries": 0,
    "matches": 6,
    "data": true
@@ -220,7 +220,7 @@
    "name": "Drummondville Challenger",
    "status": "current",
    "entries": 35,
-   "matches": 42,
+   "matches": 43,
    "data": true
   },
   {
@@ -265,7 +265,7 @@
    "name": "Sydney Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 31,
+   "matches": 32,
    "data": true
   },
   {
@@ -282,9 +282,9 @@
    "id": "te-florianopolis-challenger-2026",
    "name": "Florianopolis Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 5,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -318,9 +318,9 @@
    "id": "te-san-salvador-challenger-2026",
    "name": "San Salvador Challenger",
    "status": "upcoming",
-   "entries": 0,
+   "entries": 21,
    "matches": 0,
-   "data": false
+   "data": true
   },
   {
    "step": "event",
@@ -342,7 +342,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 30
+   "count": 80
   }
  ],
  "ranks": [

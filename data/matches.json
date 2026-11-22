@@ -22110,6 +22110,791 @@
   "live": false
  },
  {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Matias Soto",
+   "country": "CHI",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-baylor-university-matias-soto"
+   ]
+  },
+  "p2": {
+   "name": "Frazier Rengifo",
+   "country": "COL",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-etsu-frazier-rengifo"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6(6)",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Rafael De Alba",
+   "country": "MEX",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tulane-rafael-de-alba"
+   ]
+  },
+  "p2": {
+   "name": "Nicolas Esteban Rico Arias",
+   "country": "COL",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Brandon Perez",
+   "country": "VEN",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-old-dominion-brandon-perez"
+   ]
+  },
+  "p2": {
+   "name": "Matteo Covato",
+   "country": "ITA",
+   "seed": "5",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Alan Fernando Rubio Fierros",
+   "country": "MEX",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-ucf-alan-fernando-rubio-fierros"
+   ]
+  },
+  "p2": {
+   "name": "Emilio Bravo",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "7",
+    "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Elijah Strode",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-desert-elijah-strode"
+   ]
+  },
+  "p2": {
+   "name": "Guillermo Tunas",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Patricio Alvarado",
+   "country": "ECU",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Lorenzo Claverie",
+   "country": "ITA",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Alberto Odiseo Alvarado Berrospi",
+   "country": "PER",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "MEX",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luis-carlos-alvarez"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Ian Lucca Cervantes Tomas",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Maxwell McKennon",
+   "country": "USA",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-arizona-state-maxwell-mckennon"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Jesse Flores",
+   "country": "CRC",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-miami-fl-jesse-flores"
+   ]
+  },
+  "p2": {
+   "name": "Tarun Karra",
+   "country": "IND",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Frazier Rengifo",
+   "country": "COL",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-etsu-frazier-rengifo"
+   ]
+  },
+  "p2": {
+   "name": "Blu Baker",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Rafael De Alba",
+   "country": "MEX",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tulane-rafael-de-alba"
+   ]
+  },
+  "p2": {
+   "name": "Matteo Covato",
+   "country": "ITA",
+   "seed": "5",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Alan Fernando Rubio Fierros",
+   "country": "MEX",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-ucf-alan-fernando-rubio-fierros"
+   ]
+  },
+  "p2": {
+   "name": "Elijah Strode",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-desert-elijah-strode"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Carlo Arena Fava",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Lorenzo Claverie",
+   "country": "ITA",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Rodrigo Alujas",
+   "country": "MEX",
+   "seed": "6",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "MEX",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luis-carlos-alvarez"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "1",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Mauricio Echazu",
+   "country": "PER",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Maxwell McKennon",
+   "country": "USA",
+   "seed": "4",
+   "winner": true,
+   "roster": [
+    "alumni-arizona-state-maxwell-mckennon"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Jesse Flores",
+   "country": "CRC",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-miami-fl-jesse-flores"
+   ]
+  },
+  "p2": {
+   "name": "Stefan Cooper",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Blu Baker",
+   "country": "GBR",
+   "seed": "",
+   "winner": true,
+   "roster": []
+  },
+  "p2": {
+   "name": "Rafael De Alba",
+   "country": "MEX",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-tulane-rafael-de-alba"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Alan Fernando Rubio Fierros",
+   "country": "MEX",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "alumni-ucf-alan-fernando-rubio-fierros"
+   ]
+  },
+  "p2": {
+   "name": "Lorenzo Claverie",
+   "country": "ITA",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "MEX",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luis-carlos-alvarez"
+   ]
+  },
+  "p2": {
+   "name": "Maxwell McKennon",
+   "country": "USA",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-arizona-state-maxwell-mckennon"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Jesse Flores",
+   "country": "CRC",
+   "seed": "7",
+   "winner": false,
+   "roster": [
+    "alumni-miami-fl-jesse-flores"
+   ]
+  },
+  "p2": {
+   "name": "Rodrigo Pacheco Mendez",
+   "country": "MEX",
+   "seed": "2",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "Blu Baker",
+   "country": "GBR",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Lorenzo Claverie",
+   "country": "ITA",
+   "seed": "8",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "3",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "MEX",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luis-carlos-alvarez"
+   ]
+  },
+  "p2": {
+   "name": "Rodrigo Pacheco Mendez",
+   "country": "MEX",
+   "seed": "2",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-mex-2026-010",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Lorenzo Claverie",
+   "country": "ITA",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-lorenzo-claverie"
+   ]
+  },
+  "p2": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "MEX",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luis-carlos-alvarez"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "2",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-tur-2026-027",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -27191,791 +27976,6 @@
    ],
    [
     "3",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Matias Soto",
-   "country": "CHI",
-   "seed": "1",
-   "winner": false,
-   "roster": [
-    "alumni-baylor-university-matias-soto"
-   ]
-  },
-  "p2": {
-   "name": "Frazier Rengifo",
-   "country": "COL",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-etsu-frazier-rengifo"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "6(6)",
-    "7"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Rafael De Alba",
-   "country": "MEX",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-tulane-rafael-de-alba"
-   ]
-  },
-  "p2": {
-   "name": "Nicolas Esteban Rico Arias",
-   "country": "COL",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "7",
-    "5"
-   ],
-   [
-    "6",
-    "0"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Brandon Perez",
-   "country": "VEN",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-old-dominion-brandon-perez"
-   ]
-  },
-  "p2": {
-   "name": "Matteo Covato",
-   "country": "ITA",
-   "seed": "5",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "4",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Alan Fernando Rubio Fierros",
-   "country": "MEX",
-   "seed": "3",
-   "winner": true,
-   "roster": [
-    "alumni-ucf-alan-fernando-rubio-fierros"
-   ]
-  },
-  "p2": {
-   "name": "Emilio Bravo",
-   "country": "MEX",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "2"
-   ],
-   [
-    "7",
-    "5"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Elijah Strode",
-   "country": "USA",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-desert-elijah-strode"
-   ]
-  },
-  "p2": {
-   "name": "Guillermo Tunas",
-   "country": "MEX",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "2"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Patricio Alvarado",
-   "country": "ECU",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Lorenzo Claverie",
-   "country": "ITA",
-   "seed": "8",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-florida-lorenzo-claverie"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "1",
-    "6"
-   ],
-   [
-    "3",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Alberto Odiseo Alvarado Berrospi",
-   "country": "PER",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Luis Carlos Alvarez Valdes",
-   "country": "MEX",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-oklahoma-luis-carlos-alvarez"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "2",
-    "6"
-   ],
-   [
-    "2",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Ian Lucca Cervantes Tomas",
-   "country": "MEX",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Maxwell McKennon",
-   "country": "USA",
-   "seed": "4",
-   "winner": true,
-   "roster": [
-    "alumni-arizona-state-maxwell-mckennon"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "1",
-    "6"
-   ],
-   [
-    "4",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "1st Round",
-  "p1": {
-   "name": "Jesse Flores",
-   "country": "CRC",
-   "seed": "7",
-   "winner": true,
-   "roster": [
-    "alumni-miami-fl-jesse-flores"
-   ]
-  },
-  "p2": {
-   "name": "Tarun Karra",
-   "country": "IND",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Frazier Rengifo",
-   "country": "COL",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-etsu-frazier-rengifo"
-   ]
-  },
-  "p2": {
-   "name": "Blu Baker",
-   "country": "GBR",
-   "seed": "",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "2",
-    "6"
-   ],
-   [
-    "0",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Rafael De Alba",
-   "country": "MEX",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-tulane-rafael-de-alba"
-   ]
-  },
-  "p2": {
-   "name": "Matteo Covato",
-   "country": "ITA",
-   "seed": "5",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "7",
-    "5"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Alan Fernando Rubio Fierros",
-   "country": "MEX",
-   "seed": "3",
-   "winner": true,
-   "roster": [
-    "alumni-ucf-alan-fernando-rubio-fierros"
-   ]
-  },
-  "p2": {
-   "name": "Elijah Strode",
-   "country": "USA",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-desert-elijah-strode"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "6",
-    "4"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Carlo Arena Fava",
-   "country": "MEX",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Lorenzo Claverie",
-   "country": "ITA",
-   "seed": "8",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-florida-lorenzo-claverie"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "2",
-    "6"
-   ],
-   [
-    "2",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Rodrigo Alujas",
-   "country": "MEX",
-   "seed": "6",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Luis Carlos Alvarez Valdes",
-   "country": "MEX",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-oklahoma-luis-carlos-alvarez"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "1",
-    "6"
-   ],
-   [
-    "3",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Mauricio Echazu",
-   "country": "PER",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Maxwell McKennon",
-   "country": "USA",
-   "seed": "4",
-   "winner": true,
-   "roster": [
-    "alumni-arizona-state-maxwell-mckennon"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "3",
-    "6"
-   ],
-   [
-    "4",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "2nd Round",
-  "p1": {
-   "name": "Jesse Flores",
-   "country": "CRC",
-   "seed": "7",
-   "winner": true,
-   "roster": [
-    "alumni-miami-fl-jesse-flores"
-   ]
-  },
-  "p2": {
-   "name": "Stefan Cooper",
-   "country": "GBR",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "6",
-    "1"
-   ],
-   [
-    "6",
-    "2"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Blu Baker",
-   "country": "GBR",
-   "seed": "",
-   "winner": true,
-   "roster": []
-  },
-  "p2": {
-   "name": "Rafael De Alba",
-   "country": "MEX",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-tulane-rafael-de-alba"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "6",
-    "3"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Alan Fernando Rubio Fierros",
-   "country": "MEX",
-   "seed": "3",
-   "winner": false,
-   "roster": [
-    "alumni-ucf-alan-fernando-rubio-fierros"
-   ]
-  },
-  "p2": {
-   "name": "Lorenzo Claverie",
-   "country": "ITA",
-   "seed": "8",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-florida-lorenzo-claverie"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "6",
-    "1"
-   ],
-   [
-    "3",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Luis Carlos Alvarez Valdes",
-   "country": "MEX",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-oklahoma-luis-carlos-alvarez"
-   ]
-  },
-  "p2": {
-   "name": "Maxwell McKennon",
-   "country": "USA",
-   "seed": "4",
-   "winner": false,
-   "roster": [
-    "alumni-arizona-state-maxwell-mckennon"
-   ]
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "6",
-    "2"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "Quarter-finals",
-  "p1": {
-   "name": "Jesse Flores",
-   "country": "CRC",
-   "seed": "7",
-   "winner": false,
-   "roster": [
-    "alumni-miami-fl-jesse-flores"
-   ]
-  },
-  "p2": {
-   "name": "Rodrigo Pacheco Mendez",
-   "country": "MEX",
-   "seed": "2",
-   "winner": true,
-   "roster": []
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "2",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "Semi-finals",
-  "p1": {
-   "name": "Blu Baker",
-   "country": "GBR",
-   "seed": "",
-   "winner": false,
-   "roster": []
-  },
-  "p2": {
-   "name": "Lorenzo Claverie",
-   "country": "ITA",
-   "seed": "8",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-florida-lorenzo-claverie"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "6",
-    "4"
-   ],
-   [
-    "3",
-    "6"
-   ],
-   [
-    "4",
-    "6"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "Semi-finals",
-  "p1": {
-   "name": "Luis Carlos Alvarez Valdes",
-   "country": "MEX",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-oklahoma-luis-carlos-alvarez"
-   ]
-  },
-  "p2": {
-   "name": "Rodrigo Pacheco Mendez",
-   "country": "MEX",
-   "seed": "2",
-   "winner": false,
-   "roster": []
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "7",
-    "6(5)"
-   ],
-   [
-    "6",
-    "2"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "m-itf-mex-2026-010",
-  "draw": "Main Draw",
-  "round": "Final",
-  "p1": {
-   "name": "Lorenzo Claverie",
-   "country": "ITA",
-   "seed": "8",
-   "winner": false,
-   "roster": [
-    "alumni-university-of-florida-lorenzo-claverie"
-   ]
-  },
-  "p2": {
-   "name": "Luis Carlos Alvarez Valdes",
-   "country": "MEX",
-   "seed": "",
-   "winner": true,
-   "roster": [
-    "alumni-university-of-oklahoma-luis-carlos-alvarez"
-   ]
-  },
-  "winner": 2,
-  "sets": [
-   [
-    "3",
-    "6"
-   ],
-   [
-    "2",
     "6"
    ]
   ],
@@ -37869,22 +37869,18 @@
    "name": "Ergi Kirkin",
    "country": "TUR",
    "seed": "2",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "1",
+    "6"
    ]
   ],
   "live": true
@@ -38285,24 +38281,24 @@
    "name": "Edoardo Cherie Ligniere",
    "country": "ITA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-clemson-edoardo-cherie-ligniere"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
+    "6",
+    "4"
    ],
    [
-    "",
-    ""
+    "1",
+    "6"
    ]
   ],
   "live": true
@@ -39766,24 +39762,20 @@
    "name": "William Manning",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "nc-state-william-manning"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "5",
+    "7"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "3",
+    "6"
    ]
   ],
   "live": true
@@ -39831,7 +39823,7 @@
    "name": "Justin Riley Anson",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -39843,19 +39835,15 @@
     "university-of-florida-roman-sancilio"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "7",
+    "5"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "4"
    ]
   ],
   "live": true
@@ -39875,9 +39863,44 @@
    "name": "Clement Lemire",
    "country": "FRA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "ucf-clement-lemire"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "3",
+    "6"
+   ]
+  ],
+  "live": true
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "William Manning",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "nc-state-william-manning"
+   ]
+  },
+  "p2": {
+   "name": "Felix Corwin",
+   "country": "USA",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "alumni-minnesota-felix-corwin"
    ]
   },
   "winner": 0,
@@ -39902,19 +39925,19 @@
   "draw": "Main Draw",
   "round": "Semi-finals",
   "p1": {
-   "name": "",
-   "country": "",
+   "name": "Justin Riley Anson",
+   "country": "USA",
    "seed": "",
    "winner": false,
    "roster": []
   },
   "p2": {
-   "name": "Felix Corwin",
-   "country": "USA",
-   "seed": "3",
+   "name": "Clement Lemire",
+   "country": "FRA",
+   "seed": "",
    "winner": false,
    "roster": [
-    "alumni-minnesota-felix-corwin"
+    "ucf-clement-lemire"
    ]
   },
   "winner": 0,
@@ -41828,7 +41851,7 @@
    "name": "Alan Magadan",
    "country": "MEX",
    "seed": "1",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-utsa-alan-magadan"
    ]
@@ -41840,19 +41863,15 @@
    "winner": false,
    "roster": []
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "2"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "4"
    ]
   ],
   "live": true
@@ -41867,6 +41886,41 @@
    "seed": "4",
    "winner": false,
    "roster": []
+  },
+  "p2": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "MEX",
+   "seed": "5",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luis-carlos-alvarez"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "6(4)",
+    "7"
+   ],
+   [
+    "0",
+    "6"
+   ]
+  ],
+  "live": true
+ },
+ {
+  "tournament": "m-itf-mex-2026-011",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Alan Magadan",
+   "country": "MEX",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-utsa-alan-magadan"
+   ]
   },
   "p2": {
    "name": "Luis Carlos Alvarez Valdes",
@@ -42548,9 +42602,9 @@
   "draw": "Main Draw",
   "round": "Final",
   "p1": {
-   "name": "",
-   "country": "",
-   "seed": "",
+   "name": "Juan Bautista Torres",
+   "country": "ARG",
+   "seed": "1",
    "winner": false,
    "roster": []
   },
@@ -48715,7 +48769,7 @@
    "seed": "7",
    "winner": true,
    "roster": [],
-   "rank": 107
+   "rank": 100
   },
   "p2": {
    "name": "Jacob Fearnley",
@@ -48869,7 +48923,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 363
+   "rank": 366
   },
   "winner": 1,
   "sets": [
@@ -48904,7 +48958,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 816
+   "rank": 810
   },
   "winner": 1,
   "sets": [
@@ -50291,7 +50345,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 281,
+   "rank": 232,
    "slot": 17
   },
   "p2": {
@@ -50917,7 +50971,7 @@
    "roster": [
     "alumni-miami-fl-adrien-burdet"
    ],
-   "rank": 1160
+   "rank": 1140
   },
   "winner": 1,
   "sets": [
@@ -51303,7 +51357,7 @@
    "roster": [
     "alumni-alabama-filip-jeff-planinsek"
    ],
-   "rank": 510,
+   "rank": 474,
    "key": "Q",
    "slot": 5
   },
@@ -51657,7 +51711,7 @@
    "roster": [
     "alumni-tennessee-giles-hussey"
    ],
-   "rank": 327,
+   "rank": 321,
    "key": "Q",
    "slot": 30
   },
@@ -51702,7 +51756,7 @@
    "roster": [
     "university-of-san-diego-oliver-tarvet"
    ],
-   "rank": 253,
+   "rank": 257,
    "slot": 29
   },
   "winner": 1,
@@ -51849,7 +51903,7 @@
    "roster": [
     "alumni-alabama-filip-jeff-planinsek"
    ],
-   "rank": 510,
+   "rank": 474,
    "key": "Q",
    "slot": 5
   },
@@ -52120,7 +52174,7 @@
    "roster": [
     "alumni-tennessee-giles-hussey"
    ],
-   "rank": 327
+   "rank": 321
   },
   "p2": {
    "name": "Geoffrey Blancaneaux",
@@ -52264,7 +52318,7 @@
    "roster": [
     "alumni-alabama-filip-jeff-planinsek"
    ],
-   "rank": 510
+   "rank": 474
   },
   "p2": {
    "name": "Andres Martin",
@@ -52315,7 +52369,7 @@
    "roster": [
     "alumni-tennessee-luca-wiedenmann"
    ],
-   "rank": 490
+   "rank": 488
   },
   "winner": 1,
   "sets": [
@@ -52342,7 +52396,7 @@
    "roster": [
     "alumni-tennessee-giles-hussey"
    ],
-   "rank": 327
+   "rank": 321
   },
   "p2": {
    "name": "Kaylan Bigun",
@@ -52498,7 +52552,7 @@
    "roster": [
     "tcu-jamie-mackenzie"
    ],
-   "rank": 632
+   "rank": 625
   },
   "winner": 1,
   "sets": [
@@ -52537,7 +52591,7 @@
    "roster": [
     "alumni-stanford-samir-banerjee"
    ],
-   "rank": 552
+   "rank": 543
   },
   "winner": 1,
   "sets": [
@@ -52613,7 +52667,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 1185
+   "rank": 1163
   },
   "winner": 1,
   "sets": [
@@ -52644,7 +52698,7 @@
    "roster": [
     "alumni-alabama-filip-jeff-planinsek"
    ],
-   "rank": 510
+   "rank": 474
   },
   "p2": {
    "name": "Karl Poling",
@@ -52695,7 +52749,7 @@
    "roster": [
     "alumni-cornell-colin-sinclair"
    ],
-   "rank": 479
+   "rank": 481
   },
   "winner": 1,
   "sets": [
@@ -53036,7 +53090,7 @@
    "roster": [
     "alumni-west-florida-nicolas-barrientos"
    ],
-   "rank": 906
+   "rank": 930
   },
   "winner": 1,
   "sets": [
@@ -54699,7 +54753,7 @@
    "roster": [
     "university-of-san-diego-oliver-tarvet"
    ],
-   "rank": 253,
+   "rank": 257,
    "slot": 8
   },
   "p2": {
@@ -54708,7 +54762,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 1185,
+   "rank": 1163,
    "key": "WC",
    "slot": 5
   },
@@ -54749,7 +54803,7 @@
    "roster": [
     "texas-a-m-university-bor-artnak"
    ],
-   "rank": 522,
+   "rank": 435,
    "slot": 21
   },
   "winner": 1,
@@ -54822,7 +54876,7 @@
    "roster": [
     "texas-a-m-university-bor-artnak"
    ],
-   "rank": 522,
+   "rank": 435,
    "slot": 21
   },
   "p2": {
@@ -54861,7 +54915,7 @@
    "roster": [
     "university-of-san-diego-oliver-tarvet"
    ],
-   "rank": 253,
+   "rank": 257,
    "slot": 8
   },
   "p2": {
@@ -54898,7 +54952,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 1185,
+   "rank": 1163,
    "key": "WC",
    "slot": 5
   },
@@ -54986,7 +55040,7 @@
    "roster": [
     "texas-a-m-university-bor-artnak"
    ],
-   "rank": 522,
+   "rank": 435,
    "slot": 21
   },
   "p2": {
@@ -55083,7 +55137,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 545,
+   "rank": 690,
    "slot": 28
   },
   "winner": 1,
@@ -55111,7 +55165,7 @@
    "roster": [
     "university-of-san-diego-oliver-tarvet"
    ],
-   "rank": 253,
+   "rank": 257,
    "slot": 8
   },
   "p2": {
@@ -55165,7 +55219,7 @@
    "roster": [
     "alumni-texas-a-m-university-raphael-perot"
    ],
-   "rank": 384,
+   "rank": 386,
    "slot": 15
   },
   "winner": 1,
@@ -55232,7 +55286,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 545,
+   "rank": 690,
    "slot": 28
   },
   "p2": {
@@ -55243,7 +55297,7 @@
    "roster": [
     "university-of-illinois-at-urbana-champaign-jeremy-zhang"
    ],
-   "rank": 1344,
+   "rank": 1820,
    "key": "WC",
    "slot": 29
   },
@@ -55270,7 +55324,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 1185,
+   "rank": 1163,
    "key": "WC",
    "slot": 5
   },
@@ -55349,7 +55403,7 @@
    "roster": [
     "alumni-texas-a-m-university-raphael-perot"
    ],
-   "rank": 384,
+   "rank": 386,
    "slot": 15
   },
   "p2": {
@@ -55395,7 +55449,7 @@
    "roster": [
     "alumni-tennessee-giles-hussey"
    ],
-   "rank": 327,
+   "rank": 321,
    "key": "Q",
    "slot": 1
   },
@@ -55424,7 +55478,7 @@
    "roster": [
     "texas-a-m-university-bor-artnak"
    ],
-   "rank": 522,
+   "rank": 435,
    "slot": 21
   },
   "p2": {
@@ -55435,7 +55489,7 @@
    "roster": [
     "alumni-tennessee-luca-wiedenmann"
    ],
-   "rank": 490,
+   "rank": 488,
    "slot": 20
   },
   "winner": 1,
@@ -55596,7 +55650,7 @@
    "roster": [
     "university-of-illinois-at-urbana-champaign-adam-jilly"
    ],
-   "rank": 1224,
+   "rank": 1565,
    "key": "WC",
    "slot": 12
   },
@@ -55636,7 +55690,7 @@
    "roster": [
     "alumni-alabama-filip-jeff-planinsek"
    ],
-   "rank": 510,
+   "rank": 474,
    "slot": 6
   },
   "winner": 1,
@@ -55703,7 +55757,7 @@
    "roster": [
     "university-of-san-diego-oliver-tarvet"
    ],
-   "rank": 253,
+   "rank": 257,
    "slot": 8
   },
   "p2": {
@@ -55789,7 +55843,7 @@
    "roster": [
     "alumni-smu-liam-krall"
    ],
-   "rank": 1229
+   "rank": 1236
   },
   "winner": 1,
   "sets": [
@@ -55814,7 +55868,7 @@
    "seed": "",
    "winner": true,
    "roster": [],
-   "rank": 1253
+   "rank": 1259
   },
   "p2": {
    "name": "Sebastian Dominko",
@@ -55851,7 +55905,7 @@
    "roster": [
     "alumni-tennessee-giles-hussey"
    ],
-   "rank": 327
+   "rank": 321
   },
   "p2": {
    "name": "Keshav Chopra",
@@ -55861,7 +55915,7 @@
    "roster": [
     "alumni-georgia-tech-keshav-chopra"
    ],
-   "rank": 681
+   "rank": 652
   },
   "winner": 1,
   "sets": [
@@ -55980,7 +56034,7 @@
    "roster": [
     "university-of-illinois-at-urbana-champaign-david-bakonyi"
    ],
-   "rank": 2155
+   "rank": 2167
   },
   "winner": 1,
   "sets": [
@@ -56007,7 +56061,7 @@
    "roster": [
     "alumni-smu-liam-krall"
    ],
-   "rank": 1229
+   "rank": 1236
   },
   "p2": {
    "name": "Ben Weintraub",
@@ -56052,7 +56106,7 @@
    "roster": [
     "university-of-illinois-at-urbana-champaign-sasha-colleu"
    ],
-   "rank": 2155
+   "rank": null
   },
   "winner": 1,
   "sets": [
@@ -56093,7 +56147,7 @@
    "roster": [
     "georgia-tech-gianluca-carlini"
    ],
-   "rank": 1790
+   "rank": 1794
   },
   "winner": 1,
   "sets": [
@@ -56120,7 +56174,7 @@
    "roster": [
     "alumni-georgia-tech-keshav-chopra"
    ],
-   "rank": 681
+   "rank": 652
   },
   "p2": {
    "name": "Nicholas Mekhael",
@@ -56157,7 +56211,7 @@
    "roster": [
     "alumni-tennessee-giles-hussey"
    ],
-   "rank": 327
+   "rank": 321
   },
   "p2": {
    "name": "Lucas Horve",
@@ -56227,7 +56281,7 @@
    "roster": [
     "university-of-illinois-at-urbana-champaign-david-bakonyi"
    ],
-   "rank": 2155
+   "rank": 2167
   },
   "p2": {
    "name": "Axel Nefve",
@@ -56237,7 +56291,7 @@
    "roster": [
     "alumni-university-of-florida-axel-nefve"
    ],
-   "rank": 959
+   "rank": 975
   },
   "winner": 1,
   "sets": [
@@ -56352,7 +56406,7 @@
    "roster": [
     "alumni-uc-irvine-hiroki-sakagawa"
    ],
-   "rank": 1844
+   "rank": 1867
   },
   "winner": 1,
   "sets": [
@@ -56389,7 +56443,7 @@
    "roster": [
     "alumni-university-of-illinois-at-urbana-champaign-william-mroz"
    ],
-   "rank": 1606
+   "rank": 1608
   },
   "winner": 1,
   "sets": [
@@ -56404,6 +56458,45 @@
    [
     "7",
     "6(6)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Semifinals",
+  "p1": {
+   "name": "Liam Draxl",
+   "country": "Canada",
+   "seed": "5",
+   "winner": true,
+   "roster": [
+    "alumni-kentucky-liam-draxl"
+   ],
+   "rank": 165,
+   "slot": 15
+  },
+  "p2": {
+   "name": "James Trotter",
+   "country": "Japan",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-ohio-state-james-trotter"
+   ],
+   "rank": 538,
+   "slot": 2
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
    ]
   ],
   "live": false
@@ -56745,7 +56838,7 @@
    "roster": [
     "alumni-yale-vignesh-gogineni"
    ],
-   "rank": 739,
+   "rank": 804,
    "key": "Q",
    "slot": 26
   },
@@ -56822,7 +56915,7 @@
    "roster": [
     "alumni-stanford-samir-banerjee"
    ],
-   "rank": 552,
+   "rank": 543,
    "key": "Q",
    "slot": 11
   },
@@ -56899,7 +56992,7 @@
    "roster": [
     "kentucky-mikael-arseneault"
    ],
-   "rank": 1051,
+   "rank": 1068,
    "key": "WC",
    "slot": 30
   },
@@ -56939,7 +57032,7 @@
    "roster": [
     "alumni-ohio-state-cannon-kingsley"
    ],
-   "rank": 586,
+   "rank": 634,
    "slot": 18
   },
   "winner": 1,
@@ -57026,7 +57119,7 @@
    "roster": [
     "university-of-virginia-keegan-rice"
    ],
-   "rank": 575,
+   "rank": 614,
    "key": "WC",
    "slot": 14
   },
@@ -57098,7 +57191,7 @@
    "roster": [
     "alumni-miami-fl-vladislav-melnic"
    ],
-   "rank": 1037,
+   "rank": 1036,
    "key": "Q",
    "slot": 13
   },
@@ -57138,7 +57231,7 @@
    "roster": [
     "alumni-usf-alvin-nicholas-tudorica"
    ],
-   "rank": 833,
+   "rank": 839,
    "key": "WC",
    "slot": 29
   },
@@ -57171,7 +57264,7 @@
    "roster": [
     "alumni-yale-vignesh-gogineni"
    ],
-   "rank": 739,
+   "rank": 804,
    "key": "Q",
    "slot": 26
   },
@@ -57218,7 +57311,7 @@
    "roster": [
     "alumni-cornell-colin-sinclair"
    ],
-   "rank": 479,
+   "rank": 481,
    "slot": 9
   },
   "winner": 1,
@@ -57325,7 +57418,7 @@
    "roster": [
     "alumni-california-theodore-dean"
    ],
-   "rank": 979,
+   "rank": 941,
    "key": "Q",
    "slot": 20
   },
@@ -57354,7 +57447,7 @@
    "roster": [
     "alumni-stanford-samir-banerjee"
    ],
-   "rank": 552,
+   "rank": 543,
    "key": "Q",
    "slot": 11
   },
@@ -57466,7 +57559,7 @@
    "roster": [
     "alumni-miami-fl-vladislav-melnic"
    ],
-   "rank": 1037
+   "rank": 1036
   },
   "p2": {
    "name": "Maximilian Marterer",
@@ -57502,7 +57595,7 @@
    "roster": [
     "alumni-uc-irvine-noah-zamora"
    ],
-   "rank": 755
+   "rank": 763
   },
   "winner": 1,
   "sets": [
@@ -57533,7 +57626,7 @@
    "roster": [
     "alumni-yale-vignesh-gogineni"
    ],
-   "rank": 739
+   "rank": 804
   },
   "p2": {
    "name": "Jannik Opitz",
@@ -57543,7 +57636,7 @@
    "roster": [
     "alumni-western-michigan-jannik-opitz"
    ],
-   "rank": 822
+   "rank": 825
   },
   "winner": 1,
   "sets": [
@@ -57570,7 +57663,7 @@
    "roster": [
     "alumni-california-theodore-dean"
    ],
-   "rank": 979
+   "rank": 941
   },
   "p2": {
    "name": "Drew Van Orderlain",
@@ -57605,7 +57698,7 @@
    "roster": [
     "alumni-stanford-samir-banerjee"
    ],
-   "rank": 552
+   "rank": 543
   },
   "p2": {
    "name": "Hoyoung Roh",
@@ -57615,7 +57708,7 @@
    "roster": [
     "vanderbilt-hoyoung-roh"
    ],
-   "rank": 811
+   "rank": 815
   },
   "winner": 1,
   "sets": [
@@ -57652,7 +57745,7 @@
    "roster": [
     "alumni-western-michigan-benjamin-thomas-george"
    ],
-   "rank": 1036
+   "rank": 1060
   },
   "winner": 1,
   "sets": [
@@ -57714,7 +57807,7 @@
    "roster": [
     "alumni-uc-irvine-noah-zamora"
    ],
-   "rank": 755
+   "rank": 763
   },
   "p2": {
    "name": "Julien Cordeau",
@@ -57749,7 +57842,7 @@
    "roster": [
     "alumni-yale-vignesh-gogineni"
    ],
-   "rank": 739
+   "rank": 804
   },
   "p2": {
    "name": "Volodymyr Gurenko",
@@ -57784,7 +57877,7 @@
    "roster": [
     "alumni-miami-fl-vladislav-melnic"
    ],
-   "rank": 1037
+   "rank": 1036
   },
   "p2": {
    "name": "Matt Kuhar",
@@ -57794,7 +57887,7 @@
    "roster": [
     "alumni-bryant-matt-kuhar"
    ],
-   "rank": 749
+   "rank": 746
   },
   "winner": 1,
   "sets": [
@@ -57821,7 +57914,7 @@
    "roster": [
     "alumni-california-theodore-dean"
    ],
-   "rank": 979
+   "rank": 941
   },
   "p2": {
    "name": "Joshua Peck",
@@ -57831,7 +57924,7 @@
    "roster": [
     "alumni-north-carolina-joshua-peck"
    ],
-   "rank": 1284
+   "rank": 1251
   },
   "winner": 1,
   "sets": [
@@ -57858,7 +57951,7 @@
    "roster": [
     "alumni-western-michigan-jannik-opitz"
    ],
-   "rank": 822
+   "rank": 825
   },
   "p2": {
    "name": "Jared Horwood",
@@ -57901,7 +57994,7 @@
    "roster": [
     "alumni-baylor-university-oskar-brostrom-poulsen"
    ],
-   "rank": 730
+   "rank": 783
   },
   "winner": 0,
   "sets": [],
@@ -57919,7 +58012,7 @@
    "roster": [
     "vanderbilt-hoyoung-roh"
    ],
-   "rank": 811
+   "rank": 815
   },
   "p2": {
    "name": "Adam Faragcao",
@@ -57954,7 +58047,7 @@
    "roster": [
     "alumni-western-michigan-benjamin-thomas-george"
    ],
-   "rank": 1036
+   "rank": 1060
   },
   "p2": {
    "name": "Nikola Slavic",
@@ -57964,7 +58057,7 @@
    "roster": [
     "alumni-ole-miss-nikola-slavic"
    ],
-   "rank": 861
+   "rank": 790
   },
   "winner": 1,
   "sets": [
@@ -59471,7 +59564,7 @@
    "roster": [
     "alumni-kentucky-antoine-ghibaudo"
    ],
-   "rank": 505,
+   "rank": 526,
    "key": "Q",
    "slot": 20
   },
@@ -59537,7 +59630,7 @@
    "roster": [
     "alumni-kentucky-antoine-ghibaudo"
    ],
-   "rank": 505
+   "rank": 526
   },
   "p2": {
    "name": "Ugo Blanchet",
@@ -59580,7 +59673,7 @@
    "seed": "",
    "winner": false,
    "roster": [],
-   "rank": 456
+   "rank": 502
   },
   "winner": 1,
   "sets": [
@@ -59650,7 +59743,7 @@
    "roster": [
     "alumni-lsu-stefan-latinovic"
    ],
-   "rank": 1383
+   "rank": 1382
   },
   "winner": 1,
   "sets": [
@@ -59746,7 +59839,7 @@
    "roster": [
     "alumni-kentucky-antoine-ghibaudo"
    ],
-   "rank": 505
+   "rank": 526
   },
   "p2": {
    "name": "Maximilian Neuchrist",
@@ -59816,7 +59909,7 @@
    "roster": [
     "alumni-lsu-stefan-latinovic"
    ],
-   "rank": 1383
+   "rank": 1382
   },
   "p2": {
    "name": "Cyril Vandermeersch",
@@ -59946,7 +60039,7 @@
    "roster": [
     "alumni-baylor-university-matias-soto"
    ],
-   "rank": 257,
+   "rank": 261,
    "slot": 2
   },
   "winner": 1,
@@ -60023,7 +60116,7 @@
    "roster": [
     "alumni-west-florida-nicolas-barrientos"
    ],
-   "rank": 906
+   "rank": 930
   },
   "winner": 1,
   "sets": [
@@ -60102,6 +60195,43 @@
   "winner": 0,
   "sets": [],
   "live": true
+ },
+ {
+  "tournament": "te-sydney-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Sebastian Gorzny",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-sebastian-gorzny"
+   ],
+   "rank": 361,
+   "slot": 5
+  },
+  "p2": {
+   "name": "Omar Jasika",
+   "country": "Australia",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 294,
+   "slot": 22
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
  },
  {
   "tournament": "te-sydney-challenger-2026",

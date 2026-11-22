@@ -66,10 +66,10 @@
  "flores-d3104": {
   "raw": "Flores Jesse",
   "country": "Costa Rica",
-  "rank": 810,
+  "rank": 782,
   "height": 188,
   "weight": 82,
-  "asof": "2026-11-04"
+  "asof": "2026-11-22"
  },
  "silva-eb375": {
   "raw": "Silva Joao",
@@ -322,18 +322,18 @@
  "ambrogi": {
   "raw": "Ambrogi Luciano Emanuel",
   "country": "Argentina",
-  "rank": 335,
+  "rank": 336,
   "height": null,
   "weight": null,
-  "asof": "2026-11-04"
+  "asof": "2026-11-22"
  },
  "mchugh": {
   "raw": "McHugh Aidan",
   "country": "Great Britain",
-  "rank": 545,
+  "rank": 690,
   "height": 178,
   "weight": 70,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "chan-0fbe0": {
   "raw": "Chan Duncan",
@@ -386,10 +386,10 @@
  "artnak": {
   "raw": "Artnak Bor",
   "country": "Slovenia",
-  "rank": 522,
+  "rank": 435,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "pascual-ferra": {
   "raw": "Pascual Ferra Roger",
@@ -402,10 +402,10 @@
  "rice-6b866": {
   "raw": "Rice Keegan",
   "country": "Canada",
-  "rank": 575,
+  "rank": 614,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "jong-f7977": {
   "raw": "Jong Sander",
@@ -538,10 +538,10 @@
  "willwerth": {
   "raw": "Willwerth Benjamin",
   "country": "USA",
-  "rank": 785,
+  "rank": 786,
   "height": null,
   "weight": null,
-  "asof": "2026-11-11"
+  "asof": "2026-11-22"
  },
  "fenty": {
   "raw": "Fenty Andrew",
@@ -754,10 +754,10 @@
  "soto-fec8d": {
   "raw": "Soto Matias",
   "country": "Chile",
-  "rank": 257,
+  "rank": 261,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "heredia-f10e3": {
   "raw": "Heredia Samuel",
@@ -778,10 +778,10 @@
  "claverie": {
   "raw": "Claverie Lorenzo",
   "country": "Italy",
-  "rank": 821,
+  "rank": 694,
   "height": null,
   "weight": null,
-  "asof": "2026-11-11"
+  "asof": "2026-11-22"
  },
  "mccormick-1f674": {
   "raw": "McCormick Tristan",
@@ -821,7 +821,7 @@
   "rank": null,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "maxted": {
   "raw": "Maxted Lui",
@@ -890,10 +890,10 @@
  "chopra-d0993": {
   "raw": "Chopra Keshav",
   "country": "USA",
-  "rank": 681,
+  "rank": 652,
   "height": 178,
   "weight": 58,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "poling": {
   "raw": "Poling Karl",
@@ -1829,7 +1829,7 @@
   "rank": null,
   "height": null,
   "weight": null,
-  "asof": "2026-11-05"
+  "asof": "2026-11-22"
  },
  "basile-67dd4": {
   "raw": "Basile Pierluigi",
@@ -2082,10 +2082,10 @@
  "taberner": {
   "raw": "Taberner Carlos",
   "country": "Spain",
-  "rank": 456,
+  "rank": 502,
   "height": 183,
   "weight": 78,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "morais-c304a": {
   "raw": "Morais Diogo",
@@ -3082,18 +3082,18 @@
  "nagel-eaef3": {
   "raw": "Nagel Arthur",
   "country": "France",
-  "rank": 363,
+  "rank": 366,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "friberg": {
   "raw": "Friberg Karl",
   "country": "Sweden",
-  "rank": 816,
+  "rank": 810,
   "height": 185,
   "weight": 91,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "dzumhur": {
   "raw": "Dzumhur Damir",
@@ -3101,7 +3101,7 @@
   "rank": 90,
   "height": 175,
   "weight": 68,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "kimhi-02a18": {
   "raw": "Kimhi Orel",
@@ -3109,71 +3109,71 @@
   "rank": 726,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "tarvet": {
   "raw": "Tarvet Oliver",
   "country": "Great Britain",
-  "rank": 253,
+  "rank": 257,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "wiedenmann": {
   "raw": "Wiedenmann Luca",
   "country": "Germany",
-  "rank": 490,
+  "rank": 488,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "hussey-d2863": {
   "raw": "Hussey Giles",
   "country": "Great Britain",
-  "rank": 327,
+  "rank": 321,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "sinclair-7a791": {
   "raw": "Sinclair Colin",
   "country": "N. Mariana Isl.",
-  "rank": 479,
+  "rank": 481,
   "height": 188,
   "weight": 82,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "lee-b47e0": {
   "raw": "Lee Jordan",
   "country": "USA",
-  "rank": 1185,
+  "rank": 1163,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "planinsek": {
   "raw": "Planinsek Filip Jeff",
   "country": "Slovenia",
-  "rank": 510,
+  "rank": 474,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "banerjee-3b4c6": {
   "raw": "Banerjee Samir",
   "country": "USA",
-  "rank": 552,
+  "rank": 543,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "mackenzie-87661": {
   "raw": "MacKenzie Jamie",
   "country": "Germany",
-  "rank": 632,
+  "rank": 625,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "alcaraz-5ab70": {
   "raw": "Alcaraz Carlos",
@@ -3181,31 +3181,31 @@
   "rank": 3,
   "height": 185,
   "weight": 72,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "shevchenko-3bd40": {
   "raw": "Shevchenko Alexander",
   "country": "Kazakhstan",
-  "rank": 107,
+  "rank": 100,
   "height": 185,
   "weight": 70,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "burdet": {
   "raw": "Burdet Adrien",
   "country": "Switzerland",
-  "rank": 1160,
+  "rank": 1140,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "barrientos": {
   "raw": "Barrientos Nicolas",
   "country": "Colombia",
-  "rank": 906,
+  "rank": 930,
   "height": 175,
   "weight": 75,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "isomura-6342d": {
   "raw": "Isomura Kokoro",
@@ -3738,34 +3738,34 @@
  "ribecai": {
   "raw": "Ribecai Michele",
   "country": "Italy",
-  "rank": 281,
+  "rank": 232,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "jilly": {
   "raw": "Jilly Adam",
   "country": "Hungary",
-  "rank": 1224,
+  "rank": 1565,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "perot": {
   "raw": "Perot Raphael",
   "country": "France",
-  "rank": 384,
+  "rank": 386,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "zhang-c4288": {
   "raw": "Zhang Jeremy",
   "country": "Australia",
-  "rank": 1344,
+  "rank": 1820,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "mekhael": {
   "raw": "Mekhael Nicholas",
@@ -3773,55 +3773,55 @@
   "rank": null,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "bakonyi": {
   "raw": "Bakonyi David",
   "country": "Hungary",
-  "rank": 2155,
+  "rank": 2167,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "nefve": {
   "raw": "Nefve Axel",
   "country": "USA",
-  "rank": 959,
+  "rank": 975,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "carlini": {
   "raw": "Carlini Gianluca",
   "country": "Italy",
-  "rank": 1790,
+  "rank": 1794,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "viiala": {
   "raw": "Viiala Zachary",
   "country": "Australia",
-  "rank": 1253,
-  "height": null,
-  "weight": null,
-  "asof": "2026-11-15"
+  "rank": 1259,
+  "height": 185,
+  "weight": 77,
+  "asof": "2026-11-22"
  },
  "colleu": {
   "raw": "Colleu Sasha",
   "country": "France",
-  "rank": 2155,
+  "rank": null,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "krall": {
   "raw": "Krall Liam",
   "country": "USA",
-  "rank": 1229,
+  "rank": 1236,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "montsi-a0436": {
   "raw": "Montsi Khololwam",
@@ -3834,18 +3834,18 @@
  "sakagawa-88758": {
   "raw": "Sakagawa Hiroki",
   "country": "Japan",
-  "rank": 1844,
+  "rank": 1867,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "mroz": {
   "raw": "Mroz William",
   "country": "USA",
-  "rank": 1606,
+  "rank": 1608,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "gamble-3bd00": {
   "raw": "Gamble Jon",
@@ -3853,7 +3853,7 @@
   "rank": null,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "wells-838e3": {
   "raw": "Wells Colson",
@@ -3861,7 +3861,7 @@
   "rank": null,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "stephens-6e9bc": {
   "raw": "Stephens Zach",
@@ -3869,103 +3869,103 @@
   "rank": 1101,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "kingsley-84b50": {
   "raw": "Kingsley Cannon",
   "country": "USA",
-  "rank": 586,
+  "rank": 634,
   "height": 188,
   "weight": 75,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "tudorica": {
   "raw": "Tudorica Alvin Nicholas",
   "country": "Canada",
-  "rank": 833,
+  "rank": 839,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "arseneault-b5aa8": {
   "raw": "Arseneault Mikael",
   "country": "Canada",
-  "rank": 1051,
+  "rank": 1068,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "roh-507eb": {
   "raw": "Roh Hoyoung",
   "country": "South Korea",
-  "rank": 811,
+  "rank": 815,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "george-bfca6": {
   "raw": "George Benjamin Thomas",
   "country": "Canada",
-  "rank": 1036,
+  "rank": 1060,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "poulsen": {
   "raw": "Poulsen Oskar Brostrom",
   "country": "Denmark",
-  "rank": 730,
+  "rank": 783,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "peck-2d7b4": {
   "raw": "Peck Joshua",
   "country": "Canada",
-  "rank": 1284,
+  "rank": 1251,
   "height": 196,
   "weight": 78,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "dean-61c66": {
   "raw": "Dean Theodore",
   "country": "USA",
-  "rank": 979,
+  "rank": 941,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "gogineni": {
   "raw": "Gogineni Vignesh",
   "country": "USA",
-  "rank": 739,
+  "rank": 804,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "opitz": {
   "raw": "Opitz Jannik",
   "country": "Germany",
-  "rank": 822,
+  "rank": 825,
   "height": 195,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "kuhar-46457": {
   "raw": "Kuhar Matt",
   "country": "USA",
-  "rank": 749,
+  "rank": 746,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "melnic": {
   "raw": "Melnic Vladislav",
   "country": "Romania",
-  "rank": 1037,
+  "rank": 1036,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "jones-f1b9c": {
   "raw": "Jones Ben",
@@ -3973,15 +3973,15 @@
   "rank": 834,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "zamora-6a932": {
   "raw": "Zamora Noah",
   "country": "USA",
-  "rank": 755,
+  "rank": 763,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "oliveira-cb94a": {
   "raw": "Oliveira Bruno (2002)",
@@ -3989,7 +3989,7 @@
   "rank": null,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "fils": {
   "raw": "Fils Arthur",
@@ -3997,31 +3997,31 @@
   "rank": 7,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "slavic": {
   "raw": "Slavic Nikola",
   "country": "Sweden",
-  "rank": 861,
+  "rank": 790,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "ghibaudo": {
   "raw": "Ghibaudo Antoine",
   "country": "France",
-  "rank": 505,
+  "rank": 526,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "latinovic": {
   "raw": "Latinovic Stefan",
   "country": "Serbia",
-  "rank": 1383,
+  "rank": 1382,
   "height": 198,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "moroni-4e991": {
   "raw": "Moroni Filippo",
@@ -4029,7 +4029,7 @@
   "rank": 1025,
   "height": null,
   "weight": null,
-  "asof": "2026-11-15"
+  "asof": "2026-11-22"
  },
  "weintraub-f3b3f": {
   "raw": "Weintraub Ben",
@@ -4542,5 +4542,133 @@
   "height": 180,
   "weight": 80,
   "asof": "2026-11-21"
+ },
+ "huertas-del-pino-00123": {
+  "raw": "Huertas Del Pino Conner",
+  "country": "Peru",
+  "rank": 633,
+  "height": 188,
+  "weight": 86,
+  "asof": "2026-11-22"
+ },
+ "rodrigues-84075": {
+  "raw": "Rodrigues Natan",
+  "country": "Brazil",
+  "rank": 949,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "alexandrescou": {
+  "raw": "Alexandrescou Yannick Theodor",
+  "country": "Romania",
+  "rank": 827,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "bicknell-8dc8a": {
+  "raw": "Bicknell Blaise",
+  "country": "Jamaica",
+  "rank": 389,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "goity-zapico": {
+  "raw": "Goity Zapico Segundo",
+  "country": "Argentina",
+  "rank": 1114,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "king-01912": {
+  "raw": "King Darian",
+  "country": "Barbados",
+  "rank": 1447,
+  "height": 188,
+  "weight": 77,
+  "asof": "2026-11-22"
+ },
+ "bonding": {
+  "raw": "Bonding Oliver",
+  "country": "Great Britain",
+  "rank": 656,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "rubio-fierros": {
+  "raw": "Rubio Fierros Alan Fernando",
+  "country": "Mexico",
+  "rank": 736,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "duran-fd3b3": {
+  "raw": "Duran Diego (2004)",
+  "country": "El Salvador",
+  "rank": null,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "guilleme": {
+  "raw": "Guilleme Joaquin",
+  "country": "Nicaragua",
+  "rank": 969,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "shimanov": {
+  "raw": "Shimanov Ofek",
+  "country": "Israel",
+  "rank": 895,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "fradkin": {
+  "raw": "Fradkin Jeffrey",
+  "country": "USA",
+  "rank": 1724,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "perez-5bc57": {
+  "raw": "Perez Brandon",
+  "country": "Venezuela",
+  "rank": 1779,
+  "height": 191,
+  "weight": 83,
+  "asof": "2026-11-22"
+ },
+ "strode-de118": {
+  "raw": "Strode Elijah",
+  "country": "USA",
+  "rank": 1218,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "clark-7030f": {
+  "raw": "Clark Miles",
+  "country": "USA",
+  "rank": 2167,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-22"
+ },
+ "maginley": {
+  "raw": "Maginley Herbert Jody",
+  "country": "Antigua and Barbuda",
+  "rank": 1536,
+  "height": 193,
+  "weight": 88,
+  "asof": "2026-11-22"
  }
 }
