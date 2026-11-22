@@ -37310,7 +37310,7 @@
    "name": "Bernardo Munk Mesa",
    "country": "ESP",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "california-bernardo-munk-mesa"
    ]
@@ -37324,19 +37324,19 @@
     "alumni-university-of-florida-pablo-perez-ramos"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6(3)",
+    "7"
    ],
    [
-    "",
-    ""
+    "6",
+    "1"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(5)"
    ]
   ],
   "live": true
@@ -39889,7 +39889,7 @@
    "name": "William Manning",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "nc-state-william-manning"
    ]
@@ -39903,19 +39903,15 @@
     "alumni-minnesota-felix-corwin"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "7",
+    "6(2)"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "2"
    ]
   ],
   "live": true
@@ -39928,7 +39924,7 @@
    "name": "Justin Riley Anson",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -39940,19 +39936,48 @@
     "ucf-clement-lemire"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "2"
    ],
    [
-    "",
-    ""
+    "6",
+    "1"
+   ]
+  ],
+  "live": true
+ },
+ {
+  "tournament": "m-itf-usa-2026-046",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "William Manning",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "nc-state-william-manning"
+   ]
+  },
+  "p2": {
+   "name": "Justin Riley Anson",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "0"
    ],
    [
-    "",
-    ""
+    "6",
+    "1"
    ]
   ],
   "live": true
@@ -41306,10 +41331,10 @@
    "name": "Teodor Davidov",
    "country": "USA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
     "6",
@@ -41320,8 +41345,8 @@
     "6"
    ],
    [
-    "1",
-    "2"
+    "4",
+    "6"
    ]
   ],
   "live": true
@@ -41334,7 +41359,7 @@
    "name": "Oliver Bonding",
    "country": "GBR",
    "seed": "3",
-   "winner": false,
+   "winner": true,
    "roster": [
     "tcu-oliver-bonding"
    ]
@@ -41348,15 +41373,52 @@
     "clemson-romain-gales"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
     "6",
     "2"
    ],
    [
-    "4",
+    "6",
     "3"
+   ]
+  ],
+  "live": true
+ },
+ {
+  "tournament": "m-itf-usa-2026-050",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Teodor Davidov",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Oliver Bonding",
+   "country": "GBR",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "tcu-oliver-bonding"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "7",
+    "6(9)"
+   ],
+   [
+    "6(4)",
+    "7"
    ]
   ],
   "live": true
@@ -42605,7 +42667,7 @@
    "name": "Juan Bautista Torres",
    "country": "ARG",
    "seed": "1",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -42617,19 +42679,15 @@
     "alumni-auburn-lorenzo-rodriguez"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "3"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "1"
    ]
   ],
   "live": true
@@ -54744,6 +54802,46 @@
  {
   "tournament": "te-champaign-challenger-2026",
   "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Oliver Tarvet",
+   "country": "Great Britain",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "university-of-san-diego-oliver-tarvet"
+   ],
+   "rank": 257,
+   "slot": 8
+  },
+  "p2": {
+   "name": "Shunsuke Mitsui",
+   "country": "Japan",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-tennessee-shunsuke-mitsui"
+   ],
+   "rank": 663,
+   "key": "Q",
+   "slot": 30
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-champaign-challenger-2026",
+  "draw": "Main Draw",
   "round": "Semifinals",
   "p1": {
    "name": "Oliver Tarvet",
@@ -56465,6 +56563,45 @@
  {
   "tournament": "te-drummondville-challenger-2026",
   "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Dylan Dietrich",
+   "country": "Switzerland",
+   "seed": "6",
+   "winner": true,
+   "roster": [
+    "university-of-virginia-dylan-dietrich"
+   ],
+   "rank": 186,
+   "slot": 16
+  },
+  "p2": {
+   "name": "Liam Draxl",
+   "country": "Canada",
+   "seed": "5",
+   "winner": false,
+   "roster": [
+    "alumni-kentucky-liam-draxl"
+   ],
+   "rank": 165,
+   "slot": 15
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-drummondville-challenger-2026",
+  "draw": "Main Draw",
   "round": "Semifinals",
   "p1": {
    "name": "Liam Draxl",
@@ -58065,6 +58202,43 @@
     "5",
     "7"
    ],
+   [
+    "7",
+    "6(3)"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-helsinki-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Final",
+  "p1": {
+   "name": "Toby Samuel",
+   "country": "Great Britain",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-south-carolina-toby-samuel"
+   ],
+   "rank": 92,
+   "slot": 23
+  },
+  "p2": {
+   "name": "Otto Virtanen",
+   "country": "Finland",
+   "seed": "7",
+   "winner": false,
+   "roster": [],
+   "rank": 107,
+   "slot": 15
+  },
+  "winner": 1,
+  "sets": [
    [
     "7",
     "6(3)"
