@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:41:51+00:00",
+ "updated": "2026-11-23T22:18:13+00:00",
  "atp": [
   {
    "step": "event",
@@ -225,15 +225,6 @@
   },
   {
    "step": "event",
-   "id": "te-florianopolis-challenger-2026",
-   "name": "Florianopolis Challenger",
-   "status": "current",
-   "entries": 5,
-   "matches": 2,
-   "data": true
-  },
-  {
-   "step": "event",
    "id": "te-hersonissos-6-challenger-2026",
    "name": "Hersonissos 6 Challenger",
    "status": "current",
@@ -246,8 +237,8 @@
    "id": "te-monastir-2-challenger-2026",
    "name": "Monastir 2 Challenger",
    "status": "current",
-   "entries": 12,
-   "matches": 10,
+   "entries": 16,
+   "matches": 12,
    "data": true
   },
   {
@@ -265,7 +256,7 @@
    "name": "San Salvador Challenger",
    "status": "current",
    "entries": 21,
-   "matches": 4,
+   "matches": 8,
    "data": true
   },
   {
@@ -279,6 +270,15 @@
   },
   {
    "step": "event",
+   "id": "te-florianopolis-challenger-2026",
+   "name": "Florianopolis Challenger",
+   "status": "upcoming",
+   "entries": 6,
+   "matches": 0,
+   "data": true
+  },
+  {
+   "step": "event",
    "id": "te-next-gen-atp-finals-2026",
    "name": "Next Gen ATP Finals ATP",
    "status": "upcoming",
@@ -288,14 +288,14 @@
   },
   {
    "step": "profiles opened",
-   "count": 87
+   "count": 2
   }
  ],
  "ranks": [
   {
    "step": "rank lookup",
    "searched": 400,
-   "matched": 356
+   "matched": 389
   }
  ]
 }

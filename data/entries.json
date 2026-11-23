@@ -2472,30 +2472,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-bol-2026-003",
-  "player": "miami-fl-salvador-price",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-003",
-  "player": "alumni-wichita-state-murkel-dellien",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-003",
-  "player": "middle-tennessee-santiago-lora",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-bol-2026-003",
-  "player": "alumni-north-georgia-robin-eldin",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
   "tournament": "m-itf-egy-2026-034",
   "player": "california-fryderyk-lechno-wasiutynski",
   "section": "Main Draw Direct Acceptance",
@@ -4668,36 +4644,6 @@
   "match": "full name"
  },
  {
-  "tournament": "te-florianopolis-challenger-2026",
-  "player": "alumni-lsu-boris-arias",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-florianopolis-challenger-2026",
-  "player": "alumni-tennessee-tech-rafael-tosetto",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-florianopolis-challenger-2026",
-  "player": "alumni-auburn-conner-huertas-del-pino",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-florianopolis-challenger-2026",
-  "player": "alumni-texas-tech-franco-ribero",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-florianopolis-challenger-2026",
-  "player": "alumni-louisville-natan-rodrigues",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
   "tournament": "te-hersonissos-6-challenger-2026",
   "player": "alumni-georgia-tech-andres-martin",
   "section": "Main Draw",
@@ -4777,6 +4723,12 @@
  },
  {
   "tournament": "te-monastir-2-challenger-2026",
+  "player": "alumni-usc-wojciech-marek",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-monastir-2-challenger-2026",
   "player": "usc-branko-djuric",
   "section": "Main Draw",
   "match": "full name"
@@ -4801,7 +4753,25 @@
  },
  {
   "tournament": "te-monastir-2-challenger-2026",
+  "player": "alumni-oklahoma-state-mathieu-scaglia",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-monastir-2-challenger-2026",
   "player": "ucf-wissam-abderrahman",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-monastir-2-challenger-2026",
+  "player": "alumni-loyola-marymount-yassine-smiej",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-monastir-2-challenger-2026",
+  "player": "alumni-usf-alberto-barroso-campos",
   "section": "Main Draw",
   "match": "full name"
  },
@@ -5132,6 +5102,42 @@
  {
   "tournament": "te-yokohama-challenger-2026",
   "player": "alumni-baylor-university-finn-bass",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-west-florida-nicolas-barrientos",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-lsu-boris-arias",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-tennessee-tech-rafael-tosetto",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-auburn-conner-huertas-del-pino",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-texas-tech-franco-ribero",
+  "section": "Qualifying",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-florianopolis-challenger-2026",
+  "player": "alumni-louisville-natan-rodrigues",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -6704,6 +6710,24 @@
  {
   "tournament": "m-itf-tun-2026-048",
   "player": "alumni-weber-state-kris-van-wyk",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "alumni-wichita-state-murkel-dellien",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "middle-tennessee-santiago-lora",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "player": "miami-fl-salvador-price",
   "section": "Main Draw",
   "match": "draw"
  },

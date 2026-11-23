@@ -1265,17 +1265,6 @@
   "url": "https://www.tennisexplorer.com/ankara-challenger/2026/atp-men/"
  },
  {
-  "id": "te-florianopolis-challenger-2026",
-  "name": "Florianopolis Challenger",
-  "category": "ATP Challenger",
-  "tour": "ATP Challenger",
-  "country": "",
-  "start": "2026-11-23",
-  "end": "2026-11-29",
-  "status": "current",
-  "url": "https://www.tennisexplorer.com/florianopolis-challenger/2026/atp-men/"
- },
- {
   "id": "te-hersonissos-6-challenger-2026",
   "name": "Hersonissos 6 Challenger",
   "category": "ATP Challenger",
@@ -1417,6 +1406,17 @@
   "end": "2026-11-29",
   "status": "current",
   "url": "https://www.tennisexplorer.com/yokohama-challenger/2026/atp-men/"
+ },
+ {
+  "id": "te-florianopolis-challenger-2026",
+  "name": "Florianopolis Challenger",
+  "category": "ATP Challenger",
+  "tour": "ATP Challenger",
+  "country": "",
+  "start": "2026-11-24",
+  "end": "2026-11-30",
+  "status": "upcoming",
+  "url": "https://www.tennisexplorer.com/florianopolis-challenger/2026/atp-men/"
  },
  {
   "id": "m-itf-tur-2026-031",

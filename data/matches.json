@@ -48691,6 +48691,82 @@
   "live": false
  },
  {
+  "tournament": "m-itf-bol-2026-003",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Murkel Dellien",
+   "country": "BOL",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-wichita-state-murkel-dellien"
+   ]
+  },
+  "p2": {
+   "name": "",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Santiago Lora",
+   "country": "BOL",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "middle-tennessee-santiago-lora"
+   ]
+  },
+  "p2": {
+   "name": "Salvador Price",
+   "country": "COL",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "miami-fl-salvador-price"
+   ]
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
   "tournament": "m-itf-ind-2026-008",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -62724,76 +62800,6 @@
   "live": false
  },
  {
-  "tournament": "te-florianopolis-challenger-2026",
-  "draw": "Qualifying",
-  "round": "1st Round",
-  "p1": {
-   "name": "Thiago Cigarran",
-   "country": "Argentina",
-   "seed": "2",
-   "winner": true,
-   "roster": [],
-   "rank": 583
-  },
-  "p2": {
-   "name": "Boris Arias",
-   "country": "Bolivia",
-   "seed": "",
-   "winner": false,
-   "roster": [
-    "alumni-lsu-boris-arias"
-   ],
-   "rank": 1293
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "6",
-    "4"
-   ]
-  ],
-  "live": false
- },
- {
-  "tournament": "te-florianopolis-challenger-2026",
-  "draw": "Qualifying",
-  "round": "1st Round",
-  "p1": {
-   "name": "Joao Victor Couto Loureiro",
-   "country": "Brazil",
-   "seed": "",
-   "winner": true,
-   "roster": [],
-   "rank": 826
-  },
-  "p2": {
-   "name": "Rafael Tosetto",
-   "country": "Brazil",
-   "seed": "12",
-   "winner": false,
-   "roster": [
-    "alumni-tennessee-tech-rafael-tosetto"
-   ],
-   "rank": 771
-  },
-  "winner": 1,
-  "sets": [
-   [
-    "6",
-    "3"
-   ],
-   [
-    "6",
-    "2"
-   ]
-  ],
-  "live": false
- },
- {
   "tournament": "te-hersonissos-6-challenger-2026",
   "draw": "Main Draw",
   "round": "1st Round",
@@ -63003,6 +63009,84 @@
    [
     "6",
     "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-monastir-2-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Gabriel Debru",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-gabriel-debru"
+   ],
+   "rank": 555,
+   "slot": 14
+  },
+  "p2": {
+   "name": "Sandro Kopp",
+   "country": "Austria",
+   "seed": "5",
+   "winner": false,
+   "roster": [],
+   "rank": 303,
+   "slot": 15
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "5",
+    "7"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-monastir-2-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Pedro Vives Marcos",
+   "country": "Spain",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-tcu-pedro-vives-marcos"
+   ],
+   "rank": 523,
+   "slot": 10
+  },
+  "p2": {
+   "name": "Toufik Sahtali",
+   "country": "Algeria",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 553,
+   "slot": 11
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "1"
    ]
   ],
   "live": false
@@ -63892,6 +63976,162 @@
    ],
    [
     "1",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Juan Miguel Bolivar Idarraga",
+   "country": "Colombia",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": null
+  },
+  "p2": {
+   "name": "Elijah Strode",
+   "country": "USA",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-desert-elijah-strode"
+   ],
+   "rank": 1218
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "7",
+    "5"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Ofek Shimanov",
+   "country": "Israel",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "arizona-state-ofek-shimanov"
+   ],
+   "rank": 895
+  },
+  "p2": {
+   "name": "Jeffrey Fradkin",
+   "country": "USA",
+   "seed": "9",
+   "winner": false,
+   "roster": [
+    "alumni-ucla-jeffrey-fradkin"
+   ],
+   "rank": 1724
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Axel Nefve",
+   "country": "USA",
+   "seed": "3",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-florida-axel-nefve"
+   ],
+   "rank": 975
+  },
+  "p2": {
+   "name": "Brandon Perez",
+   "country": "Venezuela",
+   "seed": "10",
+   "winner": false,
+   "roster": [
+    "alumni-old-dominion-brandon-perez"
+   ],
+   "rank": 1779
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Qualifying",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Karl Poling",
+   "country": "USA",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-north-carolina-karl-poling"
+   ],
+   "rank": 455
+  },
+  "p2": {
+   "name": "Ben Weintraub",
+   "country": "Israel",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": null
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "3",
     "6"
    ],
    [
