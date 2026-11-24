@@ -3490,50 +3490,50 @@
  "sekulic-13abc": {
   "raw": "Sekulic Philip",
   "country": "Australia",
-  "rank": 329,
+  "rank": 301,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "ibraimi-bd8e2": {
   "raw": "Ibraimi Ymerali",
   "country": "Australia",
-  "rank": 1365,
+  "rank": 1360,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "sweeny": {
   "raw": "Sweeny Dane",
   "country": "Australia",
-  "rank": 122,
+  "rank": 123,
   "height": 170,
   "weight": 63,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "martin-manzano": {
   "raw": "Martin Manzano Juan Cruz",
   "country": "Italy",
-  "rank": 385,
+  "rank": 395,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "fomin": {
   "raw": "Fomin Sergey",
   "country": "Uzbekistan",
-  "rank": 332,
+  "rank": 380,
   "height": 183,
   "weight": 80,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "latak": {
   "raw": "Latak Marcel",
   "country": "USA",
-  "rank": 2253,
+  "rank": 2265,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "castro-loedel-51b0a": {
   "raw": "Castro Loedel Sergio",
@@ -3546,10 +3546,10 @@
  "aguilar-cardozo-9f958": {
   "raw": "Aguilar Cardozo Federico",
   "country": "Uruguay",
-  "rank": 937,
+  "rank": 1006,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "dhamne": {
   "raw": "Dhamne Manas",
@@ -3557,31 +3557,31 @@
   "rank": 391,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "nesterov-34bdf": {
   "raw": "Nesterov Petr",
   "country": "Bulgaria",
-  "rank": 283,
+  "rank": 284,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "ajdukovic": {
   "raw": "Ajdukovic Duje",
   "country": "Croatia",
-  "rank": 405,
+  "rank": 403,
   "height": 185,
   "weight": 75,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "herbert-fa5ad": {
   "raw": "Herbert Pierre-Hugues",
   "country": "France",
-  "rank": 254,
+  "rank": 243,
   "height": 188,
   "weight": 75,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "bolt-fa7eb": {
   "raw": "Bolt Alex",
@@ -4261,23 +4261,23 @@
   "rank": 279,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "ellis-b4efc": {
   "raw": "Ellis Blake",
   "country": "Australia",
-  "rank": 408,
+  "rank": 424,
   "height": 191,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "moriya": {
   "raw": "Moriya Hiroki",
   "country": "Japan",
-  "rank": 440,
+  "rank": 413,
   "height": 168,
   "weight": 65,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "vales": {
   "raw": "Vales Amit",
@@ -4285,23 +4285,23 @@
   "rank": 479,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "visker": {
   "raw": "Visker Niels",
   "country": "Netherlands",
-  "rank": 418,
+  "rank": 435,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "neumayer": {
   "raw": "Neumayer Lukas",
   "country": "Austria",
-  "rank": 153,
+  "rank": 157,
   "height": null,
   "weight": null,
-  "asof": "2026-11-17"
+  "asof": "2026-11-24"
  },
  "wiskandt": {
   "raw": "Wiskandt Max",
@@ -4878,5 +4878,61 @@
   "height": null,
   "weight": null,
   "asof": "2026-11-23"
+ },
+ "stevens-4391a": {
+  "raw": "Stevens Zane",
+  "country": "Australia",
+  "rank": 1220,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-24"
+ },
+ "cruz-afbff": {
+  "raw": "Cruz César",
+  "country": "El Salvador",
+  "rank": null,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-24"
+ },
+ "chung-403ca": {
+  "raw": "Chung Yunseong",
+  "country": "South Korea",
+  "rank": 610,
+  "height": 178,
+  "weight": 78,
+  "asof": "2026-11-24"
+ },
+ "schenekenberg": {
+  "raw": "Schenekenberg Gabriel",
+  "country": "Brazil",
+  "rank": 1150,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-24"
+ },
+ "zanellato": {
+  "raw": "Zanellato Nicolas",
+  "country": "Brazil",
+  "rank": 691,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-24"
+ },
+ "braga-cdf23": {
+  "raw": "Braga Breno",
+  "country": "Brazil",
+  "rank": 1514,
+  "height": null,
+  "weight": null,
+  "asof": "2026-11-24"
+ },
+ "zormann-45d50": {
+  "raw": "Zormann Marcelo",
+  "country": "Brazil",
+  "rank": 1734,
+  "height": 180,
+  "weight": null,
+  "asof": "2026-11-24"
  }
 }

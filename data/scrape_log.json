@@ -1,15 +1,6 @@
 {
- "updated": "2026-11-23T22:18:13+00:00",
+ "updated": "2026-11-24T12:17:11+00:00",
  "atp": [
-  {
-   "step": "event",
-   "id": "te-taranto-challenger-2026",
-   "name": "Taranto Challenger",
-   "status": "past",
-   "entries": 0,
-   "matches": 13,
-   "data": true
-  },
   {
    "step": "event",
    "id": "te-stockholm-2026",
@@ -220,7 +211,7 @@
    "name": "Ankara Challenger",
    "status": "current",
    "entries": 9,
-   "matches": 8,
+   "matches": 9,
    "data": true
   },
   {
@@ -229,7 +220,7 @@
    "name": "Hersonissos 6 Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 6,
+   "matches": 9,
    "data": true
   },
   {
@@ -247,7 +238,7 @@
    "name": "Playford 2 Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 14,
+   "matches": 21,
    "data": true
   },
   {
@@ -255,8 +246,8 @@
    "id": "te-san-salvador-challenger-2026",
    "name": "San Salvador Challenger",
    "status": "current",
-   "entries": 21,
-   "matches": 8,
+   "entries": 25,
+   "matches": 11,
    "data": true
   },
   {
@@ -265,16 +256,16 @@
    "name": "Yokohama Challenger",
    "status": "current",
    "entries": 5,
-   "matches": 4,
+   "matches": 5,
    "data": true
   },
   {
    "step": "event",
    "id": "te-florianopolis-challenger-2026",
    "name": "Florianopolis Challenger",
-   "status": "upcoming",
-   "entries": 6,
-   "matches": 0,
+   "status": "current",
+   "entries": 7,
+   "matches": 8,
    "data": true
   },
   {
@@ -288,14 +279,14 @@
   },
   {
    "step": "profiles opened",
-   "count": 2
+   "count": 24
   }
  ],
  "ranks": [
   {
    "step": "rank lookup",
-   "searched": 400,
-   "matched": 389
+   "searched": 37,
+   "matched": 36
   }
  ]
 }
