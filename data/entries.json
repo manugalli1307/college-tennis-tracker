@@ -2472,54 +2472,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-egy-2026-034",
-  "player": "california-fryderyk-lechno-wasiutynski",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-034",
-  "player": "alumni-usc-peter-makk",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-034",
-  "player": "alumni-utah-state-stijn-paardekooper",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-034",
-  "player": "alumni-usc-volodymyr-iakubenko",
-  "section": "Main Draw Direct Acceptance",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-034",
-  "player": "illinois-at-chicago-artem-alekseychuk",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-034",
-  "player": "alumni-university-of-oklahoma-aleksandre-bakshi",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-034",
-  "player": "alumni-charlotte-frederic-schlossmann",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-034",
-  "player": "alumni-university-of-illinois-at-urbana-champaign-gabrielius-guzauskas",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
   "tournament": "m-itf-tur-2026-027",
   "player": "alumni-michigan-state-vuk-radjenovic",
   "section": "Main Draw",
@@ -3578,150 +3530,6 @@
  {
   "tournament": "te-villa-maria-challenger-2026",
   "player": "alumni-auburn-lorenzo-rodriguez",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-university-of-georgia-tristan-mccormick",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-university-of-georgia-santiago-giamichelle",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-arizona-state-justin-roberts",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-vcu-charles-bertimon",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "university-of-oklahoma-dragos-cazacu",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-baylor-university-jacob-brumm",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-southern-miss-dakotah-bobo",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "michigan-state-mitchell-sheldon",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-minnesota-felix-corwin",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-usf-davide-tortora",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-ucsb-lucca-liu",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "ucf-fadi-bidan",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-florida-state-corey-craig",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-cornell-evan-bynoe",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "baylor-university-zsombor-velcz",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "lsu-enzo-kohlmann-de-freitas",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-auburn-william-nolan",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-michigan-state-max-sheldon",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-usa-2026-051",
-  "player": "alumni-university-of-georgia-ryan-colby",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-arg-2026-010",
-  "player": "alumni-wichita-state-murkel-dellien",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-arg-2026-010",
-  "player": "alumni-utah-gonzalo-zeitune",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-arg-2026-010",
-  "player": "alumni-gonzaga-giovanni-branchetti",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-cze-2026-005",
-  "player": "alumni-hawaii-pacific-petr-michnev",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-cze-2026-005",
-  "player": "alumni-tennessee-filip-pieczonka",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -5586,6 +5394,138 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-university-of-georgia-tristan-mccormick",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-university-of-georgia-santiago-giamichelle",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-arizona-state-justin-roberts",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-vcu-charles-bertimon",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "university-of-oklahoma-dragos-cazacu",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-baylor-university-jacob-brumm",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-southern-miss-dakotah-bobo",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "michigan-state-mitchell-sheldon",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-minnesota-felix-corwin",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-usf-davide-tortora",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-ucsb-lucca-liu",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "ucf-fadi-bidan",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-florida-state-corey-craig",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-cornell-evan-bynoe",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "baylor-university-zsombor-velcz",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "lsu-enzo-kohlmann-de-freitas",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-auburn-william-nolan",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-michigan-state-max-sheldon",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-usa-2026-051",
+  "player": "alumni-university-of-georgia-ryan-colby",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-arg-2026-010",
+  "player": "alumni-wichita-state-murkel-dellien",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-arg-2026-010",
+  "player": "alumni-utah-gonzalo-zeitune",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-arg-2026-010",
+  "player": "alumni-gonzaga-giovanni-branchetti",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-egy-2026-032",
   "player": "alumni-university-of-oklahoma-aleksandre-bakshi",
   "section": "Main Draw",
@@ -6703,6 +6643,12 @@
  },
  {
   "tournament": "m-itf-gre-2026-018",
+  "player": "alumni-catawba-thomas-kostka",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gre-2026-018",
   "player": "baylor-university-zsombor-velcz",
   "section": "Main Draw",
   "match": "draw"
@@ -6716,6 +6662,12 @@
  {
   "tournament": "m-itf-gre-2026-018",
   "player": "charlotte-massimo-pizzigoni",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-gre-2026-018",
+  "player": "alumni-ucsb-dominique-rolland",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -6787,6 +6739,12 @@
  },
  {
   "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-alabama-matic-dimic",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
   "player": "alumni-arkansas-bozo-barun",
   "section": "Main Draw",
   "match": "draw"
@@ -6800,6 +6758,12 @@
  {
   "tournament": "m-itf-tun-2026-048",
   "player": "alumni-weber-state-kris-van-wyk",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "player": "alumni-texas-a-m-university-damien-salvestre",
   "section": "Main Draw",
   "match": "draw"
  },
@@ -6828,8 +6792,62 @@
   "match": "draw"
  },
  {
+  "tournament": "m-itf-egy-2026-034",
+  "player": "alumni-usc-peter-makk",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-egy-2026-034",
+  "player": "alumni-utah-state-stijn-paardekooper",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-egy-2026-034",
+  "player": "illinois-at-chicago-artem-alekseychuk",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-egy-2026-034",
+  "player": "california-fryderyk-lechno-wasiutynski",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-egy-2026-034",
+  "player": "alumni-university-of-oklahoma-aleksandre-bakshi",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-egy-2026-034",
+  "player": "baylor-university-connor-doig",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-egy-2026-034",
+  "player": "alumni-usc-volodymyr-iakubenko",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
   "tournament": "m-itf-ind-2026-008",
   "player": "alumni-kentucky-parth-aggarwal",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-cze-2026-005",
+  "player": "alumni-hawaii-pacific-petr-michnev",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-cze-2026-005",
+  "player": "alumni-tennessee-filip-pieczonka",
   "section": "Main Draw",
   "match": "draw"
  },
