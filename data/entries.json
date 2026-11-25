@@ -3582,30 +3582,6 @@
   "match": "draw"
  },
  {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-elon-veljko-krstic",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-ucf-yassine-dlimi",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-michigan-state-vuk-radjenovic",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
-  "tournament": "m-itf-tur-2026-028",
-  "player": "alumni-oklahoma-state-alessio-basile",
-  "section": "Main Draw",
-  "match": "draw"
- },
- {
   "tournament": "m-itf-tur-2026-031",
   "player": "alumni-michigan-state-vuk-radjenovic",
   "section": "Main Draw Direct Acceptance",
@@ -5098,6 +5074,30 @@
   "player": "alumni-louisville-natan-rodrigues",
   "section": "Qualifying",
   "match": "full name"
+ },
+ {
+  "tournament": "m-itf-tur-2026-028",
+  "player": "alumni-elon-veljko-krstic",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tur-2026-028",
+  "player": "alumni-ucf-yassine-dlimi",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tur-2026-028",
+  "player": "alumni-michigan-state-vuk-radjenovic",
+  "section": "Main Draw",
+  "match": "draw"
+ },
+ {
+  "tournament": "m-itf-tur-2026-028",
+  "player": "alumni-oklahoma-state-alessio-basile",
+  "section": "Main Draw",
+  "match": "draw"
  },
  {
   "tournament": "m-itf-gre-2026-016",
