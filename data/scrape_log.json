@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:16:04+00:00",
+ "updated": "2026-11-25T12:19:15+00:00",
  "atp": [
   {
    "step": "event",
@@ -211,7 +211,7 @@
    "name": "Ankara Challenger",
    "status": "current",
    "entries": 9,
-   "matches": 12,
+   "matches": 13,
    "data": true
   },
   {
@@ -220,7 +220,7 @@
    "name": "Hersonissos 6 Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 11,
+   "matches": 13,
    "data": true
   },
   {
@@ -229,7 +229,7 @@
    "name": "Monastir 2 Challenger",
    "status": "current",
    "entries": 16,
-   "matches": 18,
+   "matches": 20,
    "data": true
   },
   {
@@ -238,7 +238,7 @@
    "name": "Playford 2 Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 21,
+   "matches": 23,
    "data": true
   },
   {
@@ -247,7 +247,7 @@
    "name": "San Salvador Challenger",
    "status": "current",
    "entries": 25,
-   "matches": 17,
+   "matches": 20,
    "data": true
   },
   {
@@ -256,7 +256,7 @@
    "name": "Yokohama Challenger",
    "status": "current",
    "entries": 5,
-   "matches": 5,
+   "matches": 6,
    "data": true
   },
   {
@@ -279,7 +279,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 7
+   "count": 131
   }
  ],
  "ranks": [
