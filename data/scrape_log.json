@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:14:46+00:00",
+ "updated": "2026-11-26T12:17:37+00:00",
  "atp": [
   {
    "step": "event",
@@ -211,7 +211,7 @@
    "name": "Ankara Challenger",
    "status": "current",
    "entries": 9,
-   "matches": 13,
+   "matches": 14,
    "data": true
   },
   {
@@ -220,7 +220,7 @@
    "name": "Hersonissos 6 Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 13,
+   "matches": 14,
    "data": true
   },
   {
@@ -229,7 +229,7 @@
    "name": "Monastir 2 Challenger",
    "status": "current",
    "entries": 16,
-   "matches": 21,
+   "matches": 22,
    "data": true
   },
   {
@@ -238,7 +238,7 @@
    "name": "Playford 2 Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 23,
+   "matches": 26,
    "data": true
   },
   {
@@ -247,7 +247,7 @@
    "name": "San Salvador Challenger",
    "status": "current",
    "entries": 25,
-   "matches": 22,
+   "matches": 23,
    "data": true
   },
   {
@@ -256,7 +256,7 @@
    "name": "Yokohama Challenger",
    "status": "current",
    "entries": 5,
-   "matches": 6,
+   "matches": 7,
    "data": true
   },
   {
@@ -264,7 +264,7 @@
    "id": "te-florianopolis-challenger-2026",
    "name": "Florianopolis Challenger",
    "status": "current",
-   "entries": 7,
+   "entries": 6,
    "matches": 8,
    "data": true
   },
@@ -279,7 +279,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 0
+   "count": 99
   }
  ],
  "ranks": [

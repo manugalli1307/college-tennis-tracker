@@ -3608,7 +3608,7 @@
  {
   "tournament": "m-itf-ind-2026-009",
   "player": "alumni-kentucky-parth-aggarwal",
-  "section": "Qualifying",
+  "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
  {
@@ -3811,12 +3811,6 @@
  },
  {
   "tournament": "m-itf-esp-2026-051",
-  "player": "alumni-wisconsin-michael-minasyan",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-esp-2026-051",
   "player": "alumni-university-of-georgia-oscar-pinto-sansano",
   "section": "Qualifying",
   "match": "full name"
@@ -3847,12 +3841,6 @@
  },
  {
   "tournament": "m-itf-tun-2026-050",
-  "player": "alumni-usc-wojciech-marek",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-tun-2026-050",
   "player": "alumni-alabama-matic-dimic",
   "section": "Qualifying",
   "match": "full name"
@@ -3872,6 +3860,12 @@
  {
   "tournament": "m-itf-usa-2026-054",
   "player": "lsu-olaf-pieczkowski",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-054",
+  "player": "university-of-oklahoma-tito-chavez",
   "section": "Main Draw Direct Acceptance",
   "match": "full name"
  },
@@ -3937,6 +3931,18 @@
  },
  {
   "tournament": "m-itf-usa-2026-054",
+  "player": "alumni-baylor-university-jacob-brumm",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-054",
+  "player": "alumni-ucsb-lucca-liu",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-054",
   "player": "university-of-san-diego-manvydas-balciunas",
   "section": "Qualifying",
   "match": "full name"
@@ -3991,12 +3997,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-054",
-  "player": "alumni-baylor-university-jacob-brumm",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-054",
   "player": "alumni-north-carolina-joshua-peck",
   "section": "Qualifying",
   "match": "full name"
@@ -4009,12 +4009,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-054",
-  "player": "alumni-ucsb-lucca-liu",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-054",
   "player": "alumni-arizona-state-nathan-ponwith",
   "section": "Qualifying",
   "match": "full name"
@@ -4022,18 +4016,6 @@
  {
   "tournament": "m-itf-usa-2026-054",
   "player": "alumni-north-carolina-henry-lieberman",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-054",
-  "player": "alumni-usc-karl-kazuma-lee",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-054",
-  "player": "alumni-uc-irvine-hiroki-sakagawa",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -4082,12 +4064,6 @@
  {
   "tournament": "m-itf-egy-2026-035",
   "player": "alumni-charlotte-frederic-schlossmann",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-egy-2026-035",
-  "player": "alumni-university-of-illinois-at-urbana-champaign-gabrielius-guzauskas",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -4177,6 +4153,12 @@
  },
  {
   "tournament": "m-itf-usa-2026-052",
+  "player": "alumni-georgetown-jake-fellows",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-052",
   "player": "ohio-state-victor-lilov",
   "section": "Qualifying",
   "match": "full name"
@@ -4231,12 +4213,6 @@
  },
  {
   "tournament": "m-itf-usa-2026-052",
-  "player": "old-dominion-adam-majchrzak",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-052",
   "player": "nebraska-aniss-rafiq",
   "section": "Qualifying",
   "match": "full name"
@@ -4250,12 +4226,6 @@
  {
   "tournament": "m-itf-usa-2026-052",
   "player": "florida-state-gabor-hornung",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-052",
-  "player": "alumni-georgetown-jake-fellows",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -4417,6 +4387,18 @@
  },
  {
   "tournament": "m-itf-usa-2026-053",
+  "player": "alumni-ole-miss-noah-schlagenhauf",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-053",
+  "player": "alumni-smu-liam-krall",
+  "section": "Main Draw Direct Acceptance",
+  "match": "full name"
+ },
+ {
+  "tournament": "m-itf-usa-2026-053",
   "player": "university-of-georgia-james-weber",
   "section": "Qualifying",
   "match": "full name"
@@ -4424,18 +4406,6 @@
  {
   "tournament": "m-itf-usa-2026-053",
   "player": "michigan-state-mitchell-sheldon",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-053",
-  "player": "alumni-ole-miss-noah-schlagenhauf",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-053",
-  "player": "alumni-smu-liam-krall",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -5031,12 +5001,6 @@
   "tournament": "te-yokohama-challenger-2026",
   "player": "alumni-baylor-university-finn-bass",
   "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "te-florianopolis-challenger-2026",
-  "player": "alumni-auburn-conner-huertas-del-pino",
-  "section": "Main Draw",
   "match": "full name"
  },
  {
