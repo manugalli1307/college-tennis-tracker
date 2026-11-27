@@ -48687,10 +48687,47 @@
    "name": "Vuk Radjenovic",
    "country": "SRB",
    "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-michigan-state-vuk-radjenovic"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "7",
+    "5"
+   ],
+   [
+    "5",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tur-2026-030",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "Vuk Radjenovic",
+   "country": "SRB",
+   "seed": "",
    "winner": false,
    "roster": [
     "alumni-michigan-state-vuk-radjenovic"
    ]
+  },
+  "p2": {
+   "name": "Sebastian Gima",
+   "country": "ROU",
+   "seed": "4",
+   "winner": false,
+   "roster": []
   },
   "winner": 0,
   "sets": [
@@ -50183,7 +50220,7 @@
    "name": "Santiago Lora",
    "country": "BOL",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": [
     "middle-tennessee-santiago-lora"
    ]
@@ -50197,19 +50234,19 @@
     "miami-fl-salvador-price"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(3)"
    ],
    [
-    "",
-    ""
+    "7",
+    "6(6)"
    ]
   ],
   "live": false
@@ -50233,6 +50270,43 @@
    "seed": "",
    "winner": false,
    "roster": []
+  },
+  "winner": 0,
+  "sets": [
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "draw": "Main Draw",
+  "round": "2nd Round",
+  "p1": {
+   "name": "Victor Pagotto",
+   "country": "BRA",
+   "seed": "5",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Santiago Lora",
+   "country": "BOL",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "middle-tennessee-santiago-lora"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -50702,7 +50776,7 @@
    "name": "Peter Makk",
    "country": "HUN",
    "seed": "1",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-usc-peter-makk"
    ]
@@ -50716,19 +50790,15 @@
     "alumni-utah-state-stijn-paardekooper"
    ]
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "4"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "7",
+    "6(5)"
    ]
   ],
   "live": false
@@ -50750,6 +50820,72 @@
    "name": "Saba Purtseladze",
    "country": "GEO",
    "seed": "3",
+   "winner": true,
+   "roster": []
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "4",
+    "6"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-034",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Amr Elsayed",
+   "country": "EGY",
+   "seed": "8",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Volodymyr Iakubenko",
+   "country": "UKR",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-usc-volodymyr-iakubenko"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "2",
+    "6"
+   ],
+   [
+    "1",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-egy-2026-034",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "Peter Makk",
+   "country": "HUN",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-usc-peter-makk"
+   ]
+  },
+  "p2": {
+   "name": "Anton Arzhankin",
+   "country": "",
+   "seed": "4",
    "winner": false,
    "roster": []
   },
@@ -50773,11 +50909,11 @@
  {
   "tournament": "m-itf-egy-2026-034",
   "draw": "Main Draw",
-  "round": "Quarter-finals",
+  "round": "Semi-finals",
   "p1": {
-   "name": "Amr Elsayed",
-   "country": "EGY",
-   "seed": "8",
+   "name": "Saba Purtseladze",
+   "country": "GEO",
+   "seed": "3",
    "winner": false,
    "roster": []
   },
@@ -50989,22 +51125,18 @@
    "name": "Karl Friberg",
    "country": "SWE",
    "seed": "7",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "4",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "1",
+    "6"
    ]
   ],
   "live": true
@@ -51017,7 +51149,7 @@
    "name": "Filip Pieczonka",
    "country": "POL",
    "seed": "8",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-tennessee-filip-pieczonka"
    ]
@@ -51028,6 +51160,43 @@
    "seed": "2",
    "winner": false,
    "roster": []
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(4)",
+    "7"
+   ],
+   [
+    "7",
+    "6(4)"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": true
+ },
+ {
+  "tournament": "m-itf-cze-2026-005",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Filip Pieczonka",
+   "country": "POL",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-tennessee-filip-pieczonka"
+   ]
   },
   "winner": 0,
   "sets": [
@@ -51662,7 +51831,7 @@
    "roster": [
     "alumni-texas-tech-olle-wallin"
    ],
-   "rank": 413
+   "rank": 417
   },
   "winner": 1,
   "sets": [
@@ -51896,7 +52065,7 @@
    "seed": "5",
    "winner": false,
    "roster": [],
-   "rank": 174,
+   "rank": 176,
    "slot": 24
   },
   "winner": 1,
@@ -55449,7 +55618,7 @@
    "seed": "5",
    "winner": true,
    "roster": [],
-   "rank": 130,
+   "rank": 131,
    "slot": 15
   },
   "p2": {
@@ -64714,6 +64883,47 @@
  {
   "tournament": "te-hersonissos-6-challenger-2026",
   "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Philip Henning",
+   "country": "RSA",
+   "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-georgia-philip-henning"
+   ],
+   "rank": 236,
+   "slot": 31
+  },
+  "p2": {
+   "name": "Alejo Sanchez Quilez",
+   "country": "Spain",
+   "seed": "7",
+   "winner": false,
+   "roster": [],
+   "rank": 321,
+   "slot": 24
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-hersonissos-6-challenger-2026",
+  "draw": "Main Draw",
   "round": "Round of 16",
   "p1": {
    "name": "Ioannis Xilas",
@@ -66104,6 +66314,84 @@
  {
   "tournament": "te-playford-2-challenger-2026",
   "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Christian Langmo",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-miami-fl-christian-langmo"
+   ],
+   "rank": 379,
+   "slot": 11
+  },
+  "p2": {
+   "name": "Matthew Dellavedova",
+   "country": "Australia",
+   "seed": "5",
+   "winner": false,
+   "roster": [],
+   "rank": 224,
+   "slot": 15
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "7",
+    "6(5)"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-playford-2-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Dane Sweeny",
+   "country": "Australia",
+   "seed": "1",
+   "winner": true,
+   "roster": [],
+   "rank": 123,
+   "slot": 0
+  },
+  "p2": {
+   "name": "Carl Emil Overbeck",
+   "country": "Denmark",
+   "seed": "8",
+   "winner": false,
+   "roster": [
+    "alumni-california-carl-emil-overbeck"
+   ],
+   "rank": 337,
+   "slot": 7
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "4"
+   ],
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-playford-2-challenger-2026",
+  "draw": "Main Draw",
   "round": "Round of 16",
   "p1": {
    "name": "Alex Bolt",
@@ -67089,6 +67377,94 @@
    [
     "6",
     "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Timo Legout",
+   "country": "France",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-timo-legout"
+   ],
+   "rank": 330,
+   "slot": 0
+  },
+  "p2": {
+   "name": "Karl Poling",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-north-carolina-karl-poling"
+   ],
+   "rank": 457,
+   "key": "Q",
+   "slot": 3
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(6)",
+    "7"
+   ],
+   [
+    "7",
+    "6(5)"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Lucas Andrade Da Silva",
+   "country": "Brazil",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-south-carolina-lucas-andrade-da-silva"
+   ],
+   "rank": 574,
+   "slot": 24
+  },
+  "p2": {
+   "name": "Diego Duran",
+   "country": "El Salvador",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "mississippi-state-diego-duran"
+   ],
+   "rank": null,
+   "key": "WC",
+   "slot": 26
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6(2)",
+    "7"
+   ],
+   [
+    "7",
+    "6(2)"
+   ],
+   [
+    "7",
+    "6(5)"
    ]
   ],
   "live": false

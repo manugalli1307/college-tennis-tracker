@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:13:30+00:00",
+ "updated": "2026-11-27T12:14:34+00:00",
  "atp": [
   {
    "step": "event",
@@ -220,7 +220,7 @@
    "name": "Hersonissos 6 Challenger",
    "status": "current",
    "entries": 13,
-   "matches": 15,
+   "matches": 16,
    "data": true
   },
   {
@@ -238,7 +238,7 @@
    "name": "Playford 2 Challenger",
    "status": "current",
    "entries": 22,
-   "matches": 26,
+   "matches": 28,
    "data": true
   },
   {
@@ -247,7 +247,7 @@
    "name": "San Salvador Challenger",
    "status": "current",
    "entries": 25,
-   "matches": 24,
+   "matches": 26,
    "data": true
   },
   {
@@ -270,6 +270,60 @@
   },
   {
    "step": "event",
+   "id": "te-bogota-challenger-2026",
+   "name": "Bogotá Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-chisinau-2-challenger-2026",
+   "name": "Chisinau 2 Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-hersonissos-7-challenger-2026",
+   "name": "Hersonissos 7 Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-soma-bay-2-challenger-2026",
+   "name": "Soma Bay 2 Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-temuco-challenger-2026",
+   "name": "Temuco Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
+   "id": "te-trnava-challenger-2026",
+   "name": "Trnava Challenger",
+   "status": "upcoming",
+   "entries": 0,
+   "matches": 0,
+   "data": false
+  },
+  {
+   "step": "event",
    "id": "te-next-gen-atp-finals-2026",
    "name": "Next Gen ATP Finals ATP",
    "status": "upcoming",
@@ -279,7 +333,7 @@
   },
   {
    "step": "profiles opened",
-   "count": 0
+   "count": 3
   }
  ],
  "ranks": [
