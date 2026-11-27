@@ -49140,6 +49140,43 @@
    "name": "Conor Gannon",
    "country": "IRL",
    "seed": "2",
+   "winner": true,
+   "roster": [
+    "alumni-memphis-conor-gannon"
+   ]
+  },
+  "winner": 2,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "3"
+   ],
+   [
+    "5",
+    "7"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-gre-2026-018",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "Liam Delicata",
+   "country": "MLT",
+   "seed": "",
+   "winner": false,
+   "roster": []
+  },
+  "p2": {
+   "name": "Conor Gannon",
+   "country": "IRL",
+   "seed": "2",
    "winner": false,
    "roster": [
     "alumni-memphis-conor-gannon"
@@ -49698,24 +49735,24 @@
    "name": "John Hallquist Lithen",
    "country": "SWE",
    "seed": "4",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-ole-miss-john-hallquist-lithen"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "4",
+    "6"
    ],
    [
-    "",
-    ""
+    "7",
+    "5"
    ],
    [
-    "",
-    ""
+    "3",
+    "6"
    ]
   ],
   "live": false
@@ -49728,7 +49765,7 @@
    "name": "Carles Hernandez",
    "country": "ESP",
    "seed": "6",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-mississippi-state-carles-hernandez"
    ]
@@ -49740,6 +49777,41 @@
    "winner": false,
    "roster": [
     "alumni-ucsb-diogo-morais"
+   ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "3"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-esp-2026-046",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "John Hallquist Lithen",
+   "country": "SWE",
+   "seed": "4",
+   "winner": false,
+   "roster": [
+    "alumni-ole-miss-john-hallquist-lithen"
+   ]
+  },
+  "p2": {
+   "name": "Carles Hernandez",
+   "country": "ESP",
+   "seed": "6",
+   "winner": false,
+   "roster": [
+    "alumni-mississippi-state-carles-hernandez"
    ]
   },
   "winner": 0,
@@ -50083,24 +50155,20 @@
    "name": "Kris van Wyk",
    "country": "RSA",
    "seed": "3",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-weber-state-kris-van-wyk"
    ]
   },
-  "winner": 0,
+  "winner": 2,
   "sets": [
    [
-    "",
-    ""
+    "2",
+    "6"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "1",
+    "6"
    ]
   ],
   "live": false
@@ -50113,7 +50181,7 @@
    "name": "Sebastiano Cocola",
    "country": "ITA",
    "seed": "",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -50124,6 +50192,39 @@
    "roster": [
     "alumni-texas-a-m-university-damien-salvestre"
    ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "7",
+    "6(0)"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-tun-2026-048",
+  "draw": "Main Draw",
+  "round": "Semi-finals",
+  "p1": {
+   "name": "Kris van Wyk",
+   "country": "RSA",
+   "seed": "3",
+   "winner": false,
+   "roster": [
+    "alumni-weber-state-kris-van-wyk"
+   ]
+  },
+  "p2": {
+   "name": "Sebastiano Cocola",
+   "country": "ITA",
+   "seed": "",
+   "winner": false,
+   "roster": []
   },
   "winner": 0,
   "sets": [
@@ -50259,7 +50360,7 @@
    "name": "Murkel Dellien",
    "country": "BOL",
    "seed": "1",
-   "winner": false,
+   "winner": true,
    "roster": [
     "alumni-wichita-state-murkel-dellien"
    ]
@@ -50271,19 +50372,15 @@
    "winner": false,
    "roster": []
   },
-  "winner": 0,
+  "winner": 1,
   "sets": [
    [
-    "",
-    ""
+    "6",
+    "3"
    ],
    [
-    "",
-    ""
-   ],
-   [
-    "",
-    ""
+    "6",
+    "1"
    ]
   ],
   "live": false
@@ -50296,7 +50393,7 @@
    "name": "Victor Pagotto",
    "country": "BRA",
    "seed": "5",
-   "winner": false,
+   "winner": true,
    "roster": []
   },
   "p2": {
@@ -50307,6 +50404,43 @@
    "roster": [
     "middle-tennessee-santiago-lora"
    ]
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "m-itf-bol-2026-003",
+  "draw": "Main Draw",
+  "round": "Quarter-finals",
+  "p1": {
+   "name": "Murkel Dellien",
+   "country": "BOL",
+   "seed": "1",
+   "winner": false,
+   "roster": [
+    "alumni-wichita-state-murkel-dellien"
+   ]
+  },
+  "p2": {
+   "name": "",
+   "country": "",
+   "seed": "",
+   "winner": false,
+   "roster": []
   },
   "winner": 0,
   "sets": [
@@ -51183,9 +51317,9 @@
   "draw": "Main Draw",
   "round": "Semi-finals",
   "p1": {
-   "name": "",
-   "country": "",
-   "seed": "",
+   "name": "Daniel Siniakov",
+   "country": "CZE",
+   "seed": "3",
    "winner": false,
    "roster": []
   },
@@ -64885,6 +65019,87 @@
   "draw": "Main Draw",
   "round": "Quarterfinals",
   "p1": {
+   "name": "Andres Martin",
+   "country": "USA",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-georgia-tech-andres-martin"
+   ],
+   "rank": 362,
+   "slot": 6
+  },
+  "p2": {
+   "name": "Gabriel Ghetu",
+   "country": "Romania",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 599,
+   "key": "LL",
+   "slot": 2
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "6",
+    "1"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-hersonissos-6-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Gilles Arnaud Bailly",
+   "country": "Belgium",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-gilles-arnaud-bailly"
+   ],
+   "rank": 446,
+   "key": "Q",
+   "slot": 17
+  },
+  "p2": {
+   "name": "Benjamin Pietri",
+   "country": "France",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 684,
+   "key": "Q",
+   "slot": 22
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "3",
+    "6"
+   ],
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-hersonissos-6-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
    "name": "Philip Henning",
    "country": "RSA",
    "seed": "2",
@@ -64917,6 +65132,48 @@
    [
     "6",
     "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-hersonissos-6-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Oleksandr Ovcharenko",
+   "country": "Ukraine",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 626,
+   "key": "Q",
+   "slot": 10
+  },
+  "p2": {
+   "name": "Ioannis Xilas",
+   "country": "Greece",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-wake-forest-ioannis-xilas"
+   ],
+   "rank": 519,
+   "slot": 14
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "4",
+    "6"
+   ],
+   [
+    "6",
+    "4"
+   ],
+   [
+    "6",
+    "4"
    ]
   ],
   "live": false
@@ -65480,6 +65737,45 @@
    [
     "6",
     "0"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-monastir-2-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Gabriel Debru",
+   "country": "France",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "university-of-texas-at-austin-gabriel-debru"
+   ],
+   "rank": 554,
+   "slot": 14
+  },
+  "p2": {
+   "name": "Pedro Vives Marcos",
+   "country": "Spain",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-tcu-pedro-vives-marcos"
+   ],
+   "rank": 523,
+   "slot": 10
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "3"
+   ],
+   [
+    "7",
+    "6(6)"
    ]
   ],
   "live": false
@@ -67384,6 +67680,124 @@
  {
   "tournament": "te-san-salvador-challenger-2026",
   "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Timo Legout",
+   "country": "France",
+   "seed": "1",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-texas-at-austin-timo-legout"
+   ],
+   "rank": 330,
+   "slot": 0
+  },
+  "p2": {
+   "name": "Samuel Heredia",
+   "country": "Colombia",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 630,
+   "slot": 4
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "Mexico",
+   "seed": "",
+   "winner": true,
+   "roster": [],
+   "rank": 562,
+   "slot": 19
+  },
+  "p2": {
+   "name": "Axel Nefve",
+   "country": "USA",
+   "seed": "",
+   "winner": false,
+   "roster": [
+    "alumni-university-of-florida-axel-nefve"
+   ],
+   "rank": 975,
+   "key": "Q",
+   "slot": 20
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "6",
+    "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Quarterfinals",
+  "p1": {
+   "name": "Lucas Andrade Da Silva",
+   "country": "Brazil",
+   "seed": "7",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-south-carolina-lucas-andrade-da-silva"
+   ],
+   "rank": 574,
+   "slot": 24
+  },
+  "p2": {
+   "name": "Luciano Emanuel Ambrogi",
+   "country": "Argentina",
+   "seed": "2",
+   "winner": false,
+   "roster": [
+    "university-of-oklahoma-luciano-ambrogi"
+   ],
+   "rank": 336,
+   "slot": 31
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "0",
+    "6"
+   ],
+   [
+    "6",
+    "2"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Main Draw",
   "round": "Round of 16",
   "p1": {
    "name": "Timo Legout",
@@ -67503,6 +67917,43 @@
    [
     "7",
     "5"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Main Draw",
+  "round": "Round of 16",
+  "p1": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "Mexico",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luis-carlos-alvarez"
+   ],
+   "rank": 562,
+   "slot": 19
+  },
+  "p2": {
+   "name": "Juan Sebastian Gomez",
+   "country": "Colombia",
+   "seed": "8",
+   "winner": false,
+   "roster": [],
+   "rank": 587,
+   "slot": 16
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "1"
+   ],
+   [
+    "6",
+    "3"
    ]
   ],
   "live": false
@@ -67746,6 +68197,43 @@
    [
     "6",
     "4"
+   ]
+  ],
+  "live": false
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "draw": "Main Draw",
+  "round": "1st Round",
+  "p1": {
+   "name": "Luis Carlos Alvarez Valdes",
+   "country": "Mexico",
+   "seed": "",
+   "winner": true,
+   "roster": [
+    "alumni-university-of-oklahoma-luis-carlos-alvarez"
+   ],
+   "rank": 562,
+   "slot": 19
+  },
+  "p2": {
+   "name": "Patricio Alvarado",
+   "country": "Ecuador",
+   "seed": "",
+   "winner": false,
+   "roster": [],
+   "rank": 1685,
+   "slot": 18
+  },
+  "winner": 1,
+  "sets": [
+   [
+    "6",
+    "2"
+   ],
+   [
+    "7",
+    "6(3)"
    ]
   ],
   "live": false
