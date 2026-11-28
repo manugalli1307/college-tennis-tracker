@@ -3649,12 +3649,6 @@
  },
  {
   "tournament": "m-itf-gre-2026-019",
-  "player": "alumni-ucsb-dominique-rolland",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-gre-2026-019",
   "player": "alumni-catawba-thomas-kostka",
   "section": "Qualifying",
   "match": "full name"
@@ -3764,12 +3758,6 @@
  {
   "tournament": "m-itf-esp-2026-051",
   "player": "alumni-charlotte-vasco-leote-prata",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-esp-2026-051",
-  "player": "alumni-delaware-karol-malirz",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -4190,18 +4178,6 @@
  {
   "tournament": "m-itf-usa-2026-052",
   "player": "florida-state-gabor-hornung",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-052",
-  "player": "alumni-tennessee-alejandro-moreno",
-  "section": "Qualifying",
-  "match": "full name"
- },
- {
-  "tournament": "m-itf-usa-2026-052",
-  "player": "alumni-ucla-jeffrey-fradkin",
   "section": "Qualifying",
   "match": "full name"
  },
@@ -4814,6 +4790,12 @@
  {
   "tournament": "te-san-salvador-challenger-2026",
   "player": "alumni-western-michigan-benjamin-thomas-george",
+  "section": "Main Draw",
+  "match": "full name"
+ },
+ {
+  "tournament": "te-san-salvador-challenger-2026",
+  "player": "alumni-university-of-oklahoma-luis-carlos-alvarez",
   "section": "Main Draw",
   "match": "full name"
  },
@@ -7893,12 +7875,6 @@
   "tournament": "te-sydney-challenger-2026",
   "player": "tennessee-daniel-jovanovski",
   "section": "Qualifying",
-  "match": "draw"
- },
- {
-  "tournament": "te-san-salvador-challenger-2026",
-  "player": "alumni-university-of-oklahoma-luis-carlos-alvarez",
-  "section": "Main Draw",
   "match": "draw"
  }
 ]
